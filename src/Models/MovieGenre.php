@@ -11,7 +11,18 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 
 /**
+ * @property int $id
+ * @property string|null $name
+ * @property \Carbon\Carbon|null $created_at
+ * @property \Carbon\Carbon|null $updated_at
+ * @property-read array $translations
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Movie[] $movies
+ *
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder query()
+ * @method static \Astrotomic\Tmdb\Models\MovieGenre newModelInstance(array $attributes = [])
+ * @method static \Astrotomic\Tmdb\Models\MovieGenre|\Illuminate\Database\Eloquent\Collection|null find(int $id, array $columns = ['*'])
+ * @method static \Illuminate\Database\Eloquent\Collection findMany(int[] $ids, array $columns = ['*'])
+ * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder
  */
 class MovieGenre extends Model
 {

@@ -36,9 +36,13 @@ use Illuminate\Database\Eloquent\Relations\BelongsToMany;
  * @property \Carbon\Carbon|null $created_at
  * @property \Carbon\Carbon|null $updated_at
  * @property-read array $translations
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\MovieGenre[] $genres
  *
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder query()
- * @mixin \Illuminate\Database\Eloquent\Builder
+ * @method static \Astrotomic\Tmdb\Models\Movie newModelInstance(array $attributes = [])
+ * @method static \Astrotomic\Tmdb\Models\Movie|\Illuminate\Database\Eloquent\Collection|null find(int|int[]|\Illuminate\Contracts\Support\Arrayable $id, array $columns = ['*'])
+ * @method static \Illuminate\Database\Eloquent\Collection findMany(int[]|\Illuminate\Contracts\Support\Arrayable $ids, array $columns = ['*'])
+ * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder
  */
 class Movie extends Model
 {
