@@ -64,6 +64,24 @@ it('findMany: creates movie from tmdb and finds movie in database', function ():
         ->toHaveCount(2);
 });
 
+it('findMany: finds movies in database', function (): void {
+    Movie::query()->find(335983);
+    Movie::query()->find(575788);
+    $movies = Movie::query()->findMany([335983, 575788]);
+
+    expect($movies)
+        ->toBeInstanceOf(EloquentCollection::class)
+        ->toHaveCount(2);
+});
+
+it('findMany: returns empty collection without ids', function (): void {
+    $movies = Movie::query()->findMany([]);
+
+    expect($movies)
+        ->toBeInstanceOf(EloquentCollection::class)
+        ->toHaveCount(0);
+});
+
 it('findOrFail: creates movie from tmdb', function (): void {
     $movie = Movie::query()->findOrFail(335983);
 
