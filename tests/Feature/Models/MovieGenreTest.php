@@ -1,6 +1,7 @@
 <?php
 
 use Astrotomic\Tmdb\Models\MovieGenre;
+use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use PHPUnit\Framework\Assert;
 
 it('maps data from tmdb', function (): void {
@@ -61,4 +62,12 @@ it('does return fallback for unknown language', function (): void {
         ->id->toBe(35)
         ->translate('name', 'foo', true)->toBe('Comedy')
         ->translate('name', 'en', true)->toBe('Comedy');
+});
+
+it('loads all genres from tmdb', function (): void {
+    $genres = MovieGenre::all();
+
+    expect($genres)
+        ->toBeInstanceOf(EloquentCollection::class)
+        ->toHaveCount(19);
 });

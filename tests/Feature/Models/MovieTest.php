@@ -58,6 +58,12 @@ it('movie provides runtime', function (): void {
         ->totalMinutes->toBe(112);
 });
 
+it('movie has no runtime', function (): void {
+    $movie = new Movie();
+
+    expect($movie->runtime())->toBeNull();
+});
+
 it('translates to undefined language on the fly', function (): void {
     $movie = Movie::query()->find(335983);
 

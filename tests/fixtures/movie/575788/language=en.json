@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/bi5X5qcuiSuhEunkRVVynpbetDI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://whatsyour2040.com/",
+  "id": 575788,
+  "imdb_id": "tt7150512",
+  "original_language": "en",
+  "original_title": "2040",
+  "overview": "A three year self-described labour of love, 2040 takes the form of a visual letter from the filmmaker to his four-year-old daughter Velvet, showing her what the year 2040 could look like “if we simply embraced the best solutions that exist today.”",
+  "popularity": 4.121,
+  "poster_path": "/kW4X9rbF6gROGh5iS4pBDbOI7PU.jpg",
+  "production_companies": [
+    {
+      "id": 113591,
+      "logo_path": "/4USrvUlhniLxDqTRttL76CTxj8Z.png",
+      "name": "Good Thing Productions",
+      "origin_country": "AU"
+    },
+    {
+      "id": 113592,
+      "logo_path": null,
+      "name": "Regen Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 21592,
+      "logo_path": null,
+      "name": "Madman Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2019-05-23",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Join the regeneration",
+  "title": "2040",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 26
+}

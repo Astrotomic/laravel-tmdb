@@ -45,3 +45,11 @@ it('stringifies fallback url', function (): void {
 
     expect((string) $poster)->toBeUrl('https://via.placeholder.com/780x1170/9ca3af/ffffff.jpg?text=Venom');
 });
+
+it('generates HTML img tag', function (): void {
+    $poster = new Poster('/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg', 'Venom');
+
+    expect($poster->toHtml())->toBe(
+        '<img src="https://image.tmdb.org/t/p/w780/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg" alt="Venom" loading="lazy" width="780" height="1170"/>'
+    );
+});
