@@ -45,3 +45,10 @@ it('stringifies fallback url', function (): void {
 
     expect((string) $backdrop)->toBeUrl('https://via.placeholder.com/1280x720/9ca3af/ffffff.jpg?text=Venom');
 });
+
+it('stringifies original size fallback url', function (): void {
+    $backdrop = new Backdrop(null);
+    $backdrop->size(Backdrop::SIZE_ORIGINAL);
+
+    expect((string) $backdrop)->toBeUrl('https://via.placeholder.com/1920x1080/9ca3af/ffffff.jpg?text=');
+});

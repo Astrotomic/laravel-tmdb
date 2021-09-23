@@ -53,3 +53,10 @@ it('generates HTML img tag', function (): void {
         '<img src="https://image.tmdb.org/t/p/w780/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg" alt="Venom" loading="lazy" width="780" height="1170"/>'
     );
 });
+
+it('stringifies original size fallback url', function (): void {
+    $poster = new Poster(null);
+    $poster->size(Poster::SIZE_ORIGINAL);
+
+    expect((string) $poster)->toBeUrl('https://via.placeholder.com/2000x3000/9ca3af/ffffff.jpg?text=');
+});

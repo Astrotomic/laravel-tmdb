@@ -2,6 +2,7 @@
 
 use Astrotomic\Tmdb\Models\Movie;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
+use Illuminate\Support\Fluent;
 
 it('creates multiple movies from tmdb', function ($ids): void {
     $movies = Movie::query()->findMany($ids);
@@ -13,6 +14,7 @@ it('creates multiple movies from tmdb', function ($ids): void {
 })->with([
     [[335983, 575788]],
     collect([335983, 575788]),
+    new Fluent([335983, 575788]),
 ]);
 
 it('creates movie from tmdb and ignores not found', function ($ids): void {
