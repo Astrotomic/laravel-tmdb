@@ -20,3 +20,15 @@ jobs:
         with:
           name: Coverage
           path: ./.coverage
+  infection:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v2
+      - uses: shivammathur/setup-php@v2 #https://github.com/shivammathur/setup-php
+        with:
+          php-version: 8.0
+          extensions: dom, curl, mbstring, zip, pcntl, intl
+          coverage: xdebug
+      - run: composer install --no-interaction --no-scripts
+      - run: vendor/bin/infection
