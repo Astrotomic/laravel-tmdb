@@ -1,0 +1,70 @@
+{
+    "name": "astrotomic/laravel-tmdb",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Witkowski",
+            "email": "gummibeer@astrotomic.info",
+            "homepage": "https://astrotomic.info",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "ext-json": "*",
+        "astrotomic/phpunit-assertions": "^0.6",
+        "guzzlehttp/guzzle": "^6.5.5 || ^7.0.1",
+        "illuminate/database": "^8.0",
+        "illuminate/http": "^8.0",
+        "illuminate/support": "^8.0",
+        "nesbot/carbon": "^2.31",
+        "spatie/laravel-enum": "^2.5",
+        "spatie/laravel-translatable": "^5.0"
+    },
+    "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.8",
+        "friendsofphp/php-cs-fixer": "^3.0",
+        "orchestra/testbench": "^6.0",
+        "pestphp/pest": "^1.19",
+        "pestphp/pest-plugin-laravel": "^1.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "composer-normalize": {
+            "indent-size": 4,
+            "indent-style": "space"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Astrotomic\\Tmdb\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "@composer normalize --ansi --no-interaction --quiet",
+            "@composer validate --strict --ansi --no-interaction",
+            "@composer thanks --ansi --no-interaction --quiet"
+        ],
+        "fix": "@php vendor/bin/php-cs-fixer fix --using-cache=no",
+        "ide": [
+            "@php artisan ide-helper:models --write --dir=src/Models --ansi --no-interaction --quiet",
+            "find ./src/Models/ -type f -exec sed -i -e 's/@mixin \\\\Eloquent/@mixin \\\\Illuminate\\\\Database\\\\Eloquent\\\\Builder/g' {} \\;",
+            "find ./src/Models/ -type f -exec sed -i -e 's/\\\\Illuminate\\\\Support\\\\Carbon/\\\\Carbon\\\\Carbon/g' {} \\;",
+            "@composer fix --quiet"
+        ],
+        "normalize": "echo 'composer global require ergebnis/composer-normalize'",
+        "test": "@php vendor/bin/pest",
+        "thanks": "echo 'composer global require symfony/thanks'"
+    }
+}

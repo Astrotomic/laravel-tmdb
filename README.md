@@ -1,1 +1,1 @@
-# laravel-tmdb
+# Laravel TMDB
