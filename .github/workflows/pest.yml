@@ -31,4 +31,5 @@ jobs:
           extensions: dom, curl, mbstring, zip, pcntl, intl
           coverage: xdebug
       - run: composer install --no-interaction --no-scripts
-      - run: vendor/bin/infection --test-framework=pest
+      - run: git fetch --depth=1 origin $GITHUB_BASE_REF
+      - run: vendor/bin/infection --test-framework=pest -j2 --git-diff-filter=A --git-diff-base=origin/$GITHUB_BASE_REF --logger-github --ignore-msi-with-no-mutations --only-covered
