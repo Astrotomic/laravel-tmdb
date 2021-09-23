@@ -1,0 +1,20 @@
+on:
+  push:
+
+jobs:
+  phpunit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+      - uses: shivammathur/setup-php@v2 #https://github.com/shivammathur/setup-php
+        with:
+          php-version: 8.0
+          extensions: dom, curl, mbstring, zip, pcntl, intl
+          coverage: xdebug
+      - run: composer install --no-interaction --no-scripts
+      - run: vendor/bin/pest --coverage --coverage-html=.coverage
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Coverage
+          path: ./.coverage
