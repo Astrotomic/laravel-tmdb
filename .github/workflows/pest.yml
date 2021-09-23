@@ -4,7 +4,7 @@ on:
 jobs:
   phpunit:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v2
       - uses: shivammathur/setup-php@v2 #https://github.com/shivammathur/setup-php
