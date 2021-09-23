@@ -20,8 +20,7 @@ abstract class Request
     {
         $this->request = Http::baseUrl('https://api.themoviedb.org/3')
             ->acceptJson()
-            ->withToken(config('services.tmdb.token'))
-            ->retry(4, 250);
+            ->withToken(config('services.tmdb.token'));
     }
 
     public function language(?string $language): static

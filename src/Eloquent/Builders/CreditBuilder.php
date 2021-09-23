@@ -3,6 +3,8 @@
 namespace Astrotomic\Tmdb\Eloquent\Builders;
 
 use Astrotomic\Tmdb\Enums\CreditType;
+use Astrotomic\Tmdb\Models\Model;
+use InvalidArgumentException;
 
 /**
  * @method \Astrotomic\Tmdb\Models\Credit newModelInstance(array $attributes = [])
@@ -26,6 +28,10 @@ class CreditBuilder extends Builder
      */
     public function whereMediaType(string $model): static
     {
+        if (! is_subclass_of($model, Model::class)) {
+            throw new InvalidArgumentException();
+        }
+
         return $this->where('media_type', $model::morphType());
     }
 }
