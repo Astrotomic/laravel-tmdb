@@ -1,6 +1,6 @@
-# Laravel TMDB
-
 ![](.github/banner.png)
+
+# Laravel TMDB
 
 [![Latest Version](http://img.shields.io/packagist/v/astrotomic/laravel-tmdb.svg?label=Release&style=for-the-badge)](https://packagist.org/packages/astrotomic/laravel-tmdb)
 [![MIT License](https://img.shields.io/github/license/Astrotomic/laravel-tmdb.svg?label=License&color=blue&style=for-the-badge)](https://github.com/Astrotomic/laravel-tmdb/blob/master/LICENSE)
