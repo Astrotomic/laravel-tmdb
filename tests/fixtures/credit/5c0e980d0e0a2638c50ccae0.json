@@ -1,0 +1,96 @@
+{
+    "credit_type": "crew",
+    "department": "Crew",
+    "job": "Stunts",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c0e980d0e0a2638c50ccae0",
+    "person": {
+        "id": 237920,
+        "gender": 2,
+        "known_for_department": "Crew",
+        "adult": false,
+        "known_for": [
+            {
+                "release_date": "2018-09-28",
+                "popularity": 547.049,
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "id": 335983,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "original_language": "en",
+                "video": false,
+                "vote_average": 6.8,
+                "title": "Venom",
+                "vote_count": 11380
+            },
+            {
+                "release_date": "2012-06-29",
+                "popularity": 48.356,
+                "adult": false,
+                "backdrop_path": "/nEcEy7iVOh04dzZWP2e6AcwpLvI.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 72105,
+                "original_language": "en",
+                "original_title": "Ted",
+                "poster_path": "/2ZetTSYM8ATcrxh4Otge99GJRTz.jpg",
+                "vote_count": 10034,
+                "video": false,
+                "vote_average": 6.4,
+                "title": "Ted",
+                "overview": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori."
+            },
+            {
+                "release_date": "1999-09-15",
+                "popularity": 22.501,
+                "adult": false,
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    18
+                ],
+                "video": false,
+                "id": 14,
+                "original_title": "American Beauty",
+                "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+                "original_language": "en",
+                "title": "American Beauty",
+                "vote_average": 8,
+                "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+                "vote_count": 9629
+            }
+        ],
+        "profile_path": "/3K7QmPR9r1Cc6U9skaxuG3pGZrH.jpg",
+        "name": "Phil Culotta",
+        "popularity": 0.994
+    }
+}

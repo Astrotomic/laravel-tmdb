@@ -1,0 +1,98 @@
+{
+    "credit_type": "crew",
+    "department": "Art",
+    "job": "Art Direction",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5bd0274592514172df028933",
+    "person": {
+        "adult": false,
+        "gender": 0,
+        "name": "Matt Gendron",
+        "id": 2159064,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "poster_path": "/oOvKJgYUIpfswGHAdW6159bPbvM.jpg",
+                "video": false,
+                "vote_average": 5.8,
+                "overview": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \"Punisher Task Force\" hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
+                "id": 13056,
+                "title": "Punisher: War Zone",
+                "adult": false,
+                "backdrop_path": "/zmnSIyqMB9jG0QqTDJbJxUDgROt.jpg",
+                "vote_count": 791,
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "release_date": "2008-12-05",
+                "original_language": "en",
+                "original_title": "Punisher: War Zone",
+                "popularity": 15.714,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qbDPVqbxFDNYfFWDxzLJ2UCbfvg.jpg",
+                "genre_ids": [
+                    27,
+                    28,
+                    878,
+                    53
+                ],
+                "id": 526896,
+                "original_language": "en",
+                "original_title": "Morbius",
+                "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+                "poster_path": "/wjKbFUkniQltWnjPS1nCfAN1Rb3.jpg",
+                "release_date": "2022-01-19",
+                "title": "Morbius",
+                "video": false,
+                "vote_average": 0,
+                "vote_count": 0,
+                "popularity": 25.161,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Art",
+        "profile_path": null
+    }
+}

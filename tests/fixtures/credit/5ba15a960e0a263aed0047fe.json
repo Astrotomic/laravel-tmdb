@@ -1,0 +1,100 @@
+{
+    "credit_type": "crew",
+    "department": "Writing",
+    "job": "Screenstory",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5ba15a960e0a263aed0047fe",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Scott Rosenberg",
+        "id": 3228,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11380,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 547.049,
+                "media_type": "movie"
+            },
+            {
+                "release_date": "2017-12-09",
+                "adult": false,
+                "backdrop_path": "/zJDMuXQDraHjtF53wikmyBQIcYe.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    35,
+                    14
+                ],
+                "vote_count": 11037,
+                "original_language": "en",
+                "original_title": "Jumanji: Welcome to the Jungle",
+                "poster_path": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+                "title": "Jumanji: Welcome to the Jungle",
+                "video": false,
+                "vote_average": 6.8,
+                "id": 353486,
+                "overview": "The tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they'll play as characters from the game.",
+                "popularity": 98.734,
+                "media_type": "movie"
+            },
+            {
+                "genre_ids": [
+                    12,
+                    35,
+                    14
+                ],
+                "release_date": "2019-12-04",
+                "original_language": "en",
+                "original_title": "Jumanji: The Next Level",
+                "poster_path": "/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+                "video": false,
+                "vote_average": 7,
+                "title": "Jumanji: The Next Level",
+                "vote_count": 6202,
+                "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+                "adult": false,
+                "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+                "id": 512200,
+                "popularity": 204.64,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Writing",
+        "profile_path": "/uHqU0H8MSFieo1RTS3Erl6CYaH2.jpg",
+        "popularity": 2.318
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "credit_type": "crew",
+    "department": "Crew",
+    "job": "Armorer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c58670992514157df52656b",
+    "person": {
+        "gender": 0,
+        "known_for_department": "Crew",
+        "adult": false,
+        "name": "Ron Licari",
+        "profile_path": null,
+        "known_for": [
+            {
+                "release_date": "2016-04-27",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "adult": false,
+                "backdrop_path": "/kvRT3GwcnqGHzPjXIVrVPhUix7Z.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.4,
+                "popularity": 106.663,
+                "vote_count": 18605
+            },
+            {
+                "release_date": "2015-07-14",
+                "vote_count": 16049,
+                "adult": false,
+                "backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 102899,
+                "original_language": "en",
+                "original_title": "Ant-Man",
+                "poster_path": "/rS97hUJ1otKTTripGwQ0ujbuIri.jpg",
+                "title": "Ant-Man",
+                "video": false,
+                "vote_average": 7.1,
+                "popularity": 60.513,
+                "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world."
+            },
+            {
+                "release_date": "2014-03-20",
+                "original_language": "en",
+                "adult": false,
+                "backdrop_path": "/xOe8nHr5bpPvq4JbGy4vpttDwg2.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 100402,
+                "title": "Captain America: The Winter Soldier",
+                "original_title": "Captain America: The Winter Soldier",
+                "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+                "vote_count": 15049,
+                "video": false,
+                "vote_average": 7.7,
+                "popularity": 42.224,
+                "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier."
+            }
+        ],
+        "id": 1543230,
+        "popularity": 0.6
+    }
+}

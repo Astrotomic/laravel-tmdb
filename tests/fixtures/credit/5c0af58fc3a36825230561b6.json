@@ -1,0 +1,99 @@
+{
+    "credit_type": "crew",
+    "department": "Crew",
+    "job": "Stunt Coordinator",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c0af58fc3a36825230561b6",
+    "person": {
+        "gender": 2,
+        "known_for_department": "Crew",
+        "adult": false,
+        "name": "Spiro Razatos",
+        "profile_path": "/tkJnvTnKa0t5HLi7dTKcXDrooFU.jpg",
+        "known_for": [
+            {
+                "release_date": "2018-09-28",
+                "original_language": "en",
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 335983,
+                "title": "Venom",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "video": false,
+                "vote_average": 6.8,
+                "popularity": 547.049,
+                "vote_count": 11380
+            },
+            {
+                "release_date": "2017-04-12",
+                "vote_count": 8513,
+                "adult": false,
+                "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 337339,
+                "original_language": "en",
+                "original_title": "The Fate of the Furious",
+                "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+                "title": "The Fate of the Furious",
+                "video": false,
+                "vote_average": 6.9,
+                "popularity": 88.154,
+                "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before."
+            },
+            {
+                "release_date": "2017-03-08",
+                "title": "Kong: Skull Island",
+                "adult": false,
+                "backdrop_path": "/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 293167,
+                "original_language": "en",
+                "original_title": "Kong: Skull Island",
+                "poster_path": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+                "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+                "video": false,
+                "vote_average": 6.5,
+                "popularity": 51.588,
+                "vote_count": 8465
+            }
+        ],
+        "id": 112682,
+        "popularity": 1.4
+    }
+}

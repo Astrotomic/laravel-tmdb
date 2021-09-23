@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Jack"
+    },
+    "media_type": "movie",
+    "id": "5c35c6b8c3a36827291bacc0",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Ron Cephas Jones",
+        "id": 58525,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11380,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 547.049,
+                "media_type": "movie"
+            },
+            {
+                "overview": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+                "first_air_date": "2015-06-24",
+                "backdrop_path": "/1SEVAgbaah9wE5xoLt4qWPMBdpL.jpg",
+                "vote_count": 3058,
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "original_name": "Mr. Robot",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "poster_path": "/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
+                "name": "Mr. Robot",
+                "id": 62560,
+                "vote_average": 8.2,
+                "popularity": 63.661,
+                "media_type": "tv"
+            },
+            {
+                "first_air_date": "2013-09-23",
+                "name": "The Blacklist",
+                "backdrop_path": "/zXpSJLcczUt6EfbdULZanguzy87.jpg",
+                "original_name": "The Blacklist",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "poster_path": "/htJzeRcYI2ewMm4PTrg98UMXShe.jpg",
+                "vote_count": 2107,
+                "genre_ids": [
+                    18,
+                    80,
+                    9648
+                ],
+                "vote_average": 7.5,
+                "id": 46952,
+                "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+                "popularity": 197.87,
+                "media_type": "tv"
+            }
+        ],
+        "known_for_department": "Acting",
+        "profile_path": "/lFsBD2OjBEqTcGdq7bL7yKhNYID.jpg",
+        "popularity": 1.258
+    }
+}

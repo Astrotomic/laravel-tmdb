@@ -1,0 +1,99 @@
+{
+    "credit_type": "crew",
+    "department": "Sound",
+    "job": "Music Supervisor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c0af15bc3a368252805a96d",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Gabe Hilfer",
+        "id": 1529999,
+        "known_for": [
+            {
+                "adult": false,
+                "backdrop_path": "/sMRwI5trKI6qhxYcjPgGghmPBef.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297761,
+                "original_language": "en",
+                "original_title": "Suicide Squad",
+                "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+                "poster_path": "/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
+                "release_date": "2016-08-03",
+                "title": "Suicide Squad",
+                "video": false,
+                "vote_average": 5.9,
+                "vote_count": 17942,
+                "popularity": 77.469,
+                "media_type": "movie"
+            },
+            {
+                "overview": "A journey through the psyche of a young ballerina whose starring role as the duplicitous swan queen turns out to be a part for which she becomes frighteningly perfect.",
+                "release_date": "2010-12-03",
+                "adult": false,
+                "backdrop_path": "/hqh5O4KssfJWI62HGAgrjHXbxhD.jpg",
+                "id": 44214,
+                "genre_ids": [
+                    18,
+                    53,
+                    27
+                ],
+                "vote_count": 11572,
+                "original_language": "en",
+                "original_title": "Black Swan",
+                "poster_path": "/8XYghKF0xkxp5A7QtK2F5vffdpZ.jpg",
+                "title": "Black Swan",
+                "video": false,
+                "vote_average": 7.6,
+                "popularity": 30.819,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Sound",
+        "profile_path": null,
+        "popularity": 0.694
+    }
+}

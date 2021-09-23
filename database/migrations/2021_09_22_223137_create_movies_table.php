@@ -14,10 +14,8 @@ return new class() extends Migration {
             $table->boolean('adult')->default(false);
             $table->boolean('video')->default(false);
             $table->string('backdrop_path')->nullable();
-            $table->string('poster_path')->nullable();
             $table->bigInteger('budget')->nullable();
             $table->bigInteger('revenue')->nullable();
-            $table->string('homepage')->nullable();
             $table->string('imdb_id')->unique()->nullable();
             $table->string('original_language', 2)->nullable();
             $table->string('original_title')->nullable();
@@ -27,11 +25,14 @@ return new class() extends Migration {
             $table->decimal('vote_average')->nullable();
             $table->integer('vote_count')->default(0);
             $table->json('production_countries')->nullable();
+            $table->json('spoken_languages')->nullable();
             $table->string('status')->nullable();
 
             $table->json('title')->nullable();
             $table->json('tagline')->nullable();
             $table->json('overview')->nullable();
+            $table->json('homepage')->nullable();
+            $table->json('poster_path')->nullable();
 
             $table->timestamps();
         });

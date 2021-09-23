@@ -1,0 +1,99 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Eddie's TV Producer"
+    },
+    "media_type": "movie",
+    "id": "5bb63a57c3a3681510013d37",
+    "person": {
+        "gender": 1,
+        "known_for_department": "Acting",
+        "adult": false,
+        "name": "Ariadne Joseph",
+        "profile_path": "/cEyHPtyvTrKzGwqNheKfj8YYzBl.jpg",
+        "known_for": [
+            {
+                "title": "Venom",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "video": false,
+                "vote_average": 6.8,
+                "popularity": 532.923,
+                "id": 335983,
+                "release_date": "2018-09-28",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "vote_count": 11381
+            },
+            {
+                "original_language": "en",
+                "poster_path": "/cb2WD75HjajBmFtPzfU5ukGqfeo.jpg",
+                "first_air_date": "2015-06-30",
+                "vote_average": 6.9,
+                "original_name": "Scream: The TV Series",
+                "origin_country": [
+                    "US"
+                ],
+                "popularity": 43.89,
+                "vote_count": 666,
+                "overview": "What starts as a YouTube video going viral, soon leads to problems for the teenagers of Lakewood and serves as the catalyst for a murder that opens up a window to the town's troubled past. Everyone has secrets. Everyone tells lies. Everyone is fair game.",
+                "id": 62823,
+                "name": "Scream: The TV Series",
+                "media_type": "tv",
+                "genre_ids": [
+                    80,
+                    9648
+                ],
+                "backdrop_path": "/94ReoTWIiMYcdiW9w17CIWeoaYM.jpg"
+            },
+            {
+                "original_language": "en",
+                "poster_path": "/6Fp49zU7FjsJ4xvvZjCZBiBq9KQ.jpg",
+                "name": "Zoo",
+                "vote_average": 6.6,
+                "original_name": "Zoo",
+                "vote_count": 396,
+                "popularity": 33.823,
+                "first_air_date": "2015-06-30",
+                "id": 62517,
+                "overview": "Set amidst a wave of violent animal attacks sweeping across the planet, a young renegade scientist is thrust into a race to unlock the mystery behind this pandemic before time runs out for animals and humans alike.",
+                "backdrop_path": "/rZj50NwfIq9e7p3qktWaamz5qcQ.jpg",
+                "media_type": "tv",
+                "genre_ids": [
+                    18
+                ],
+                "origin_country": [
+                    "US"
+                ]
+            }
+        ],
+        "id": 1642892,
+        "popularity": 0.6
+    }
+}

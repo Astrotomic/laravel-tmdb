@@ -1,0 +1,100 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Executive Producer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5ba15a059251411674003bb1",
+    "person": {
+        "name": "Stan Lee",
+        "profile_path": "/nGjBAc25C3LT23NqeOfY1pCcax8.jpg",
+        "id": 7624,
+        "known_for_department": "Writing",
+        "known_for": [
+            {
+                "release_date": "2012-04-25",
+                "title": "The Avengers",
+                "adult": false,
+                "backdrop_path": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "popularity": 141.843,
+                "original_language": "en",
+                "vote_count": 25404,
+                "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+                "original_title": "The Avengers",
+                "video": false,
+                "vote_average": 7.7,
+                "id": 24428,
+                "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!"
+            },
+            {
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "id": 1726,
+                "backdrop_path": "/8EgxSaVRZwcm3pWChyW4j7yPplq.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "popularity": 111.314,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "adult": false,
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 21328,
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+            },
+            {
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "id": 299534,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "popularity": 236.462,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+                "adult": false,
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 19099,
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
+            }
+        ],
+        "gender": 2,
+        "adult": false,
+        "popularity": 7.093
+    }
+}

@@ -1,6 +1,7 @@
 <?php
 
 use Astrotomic\Tmdb\Models\Movie;
+use Astrotomic\Tmdb\Models\Person;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 
@@ -99,3 +100,44 @@ it('findOrFail: throws when not found', function (): void {
 it('findOrFail: throws when not all found', function (): void {
     Movie::query()->findOrFail([335983, 0]);
 })->throws(ModelNotFoundException::class);
+
+it('with: movie with genres', function (): void {
+    $movie = Movie::query()->with('genres')->find(335983);
+
+    expect($movie)
+        ->toBeInstanceOf(Movie::class)
+        ->exists->toBeTrue()
+        ->wasRecentlyCreated->toBeTrue()
+        ->id->toBe(335983)
+        ->genres->toHaveCount(2);
+});
+
+it('with: movie with cast', function (): void {
+    $movie = Movie::query()->with('cast')->find(335983);
+
+    expect($movie)
+        ->toBeInstanceOf(Movie::class)
+        ->exists->toBeTrue()
+        ->wasRecentlyCreated->toBeTrue()
+        ->id->toBe(335983)
+        ->credits->toHaveCount(121)
+        ->cast->toHaveCount(58)
+        ->crew->toHaveCount(63);
+
+    expect(Person::query()->count())->toBe(114);
+});
+
+it('with: movie with crew', function (): void {
+    $movie = Movie::query()->with('crew')->find(335983);
+
+    expect($movie)
+        ->toBeInstanceOf(Movie::class)
+        ->exists->toBeTrue()
+        ->wasRecentlyCreated->toBeTrue()
+        ->id->toBe(335983)
+        ->credits->toHaveCount(121)
+        ->cast->toHaveCount(58)
+        ->crew->toHaveCount(63);
+
+    expect(Person::query()->count())->toBe(114);
+});

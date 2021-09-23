@@ -1,0 +1,102 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Stoner Dude #2"
+    },
+    "media_type": "movie",
+    "id": "5a30d515c3a3680b88189be6",
+    "person": {
+        "id": 1792173,
+        "gender": 2,
+        "known_for_department": "Acting",
+        "adult": false,
+        "known_for": [
+            {
+                "release_date": "2018-09-28",
+                "popularity": 532.923,
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "id": 335983,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "original_language": "en",
+                "video": false,
+                "vote_average": 6.8,
+                "title": "Venom",
+                "vote_count": 11381
+            },
+            {
+                "popularity": 23.014,
+                "original_name": "Sleepy Hollow",
+                "backdrop_path": "/ugzlpM2b2gjvv2hlhMXfxDFxbZQ.jpg",
+                "media_type": "tv",
+                "genre_ids": [
+                    18,
+                    9648,
+                    10765
+                ],
+                "overview": "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.",
+                "original_language": "en",
+                "name": "Sleepy Hollow",
+                "poster_path": "/ooDWFmGR5foBvLNsX1t30Kv6Dlc.jpg",
+                "origin_country": [
+                    "US"
+                ],
+                "id": 50825,
+                "vote_average": 7.4,
+                "first_air_date": "2013-09-16",
+                "vote_count": 756
+            },
+            {
+                "popularity": 69.438,
+                "first_air_date": "2018-01-16",
+                "backdrop_path": "/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg",
+                "media_type": "tv",
+                "genre_ids": [
+                    10759,
+                    10765,
+                    18
+                ],
+                "overview": "Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.",
+                "original_language": "en",
+                "origin_country": [
+                    "US"
+                ],
+                "poster_path": "/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+                "name": "Black Lightning",
+                "id": 71663,
+                "vote_average": 7.3,
+                "original_name": "Black Lightning",
+                "vote_count": 629
+            }
+        ],
+        "profile_path": "/x7px9KqKfgAuZVLeLEqbGjAjL9C.jpg",
+        "name": "Al-Jaleel Knox",
+        "popularity": 0.982
+    }
+}

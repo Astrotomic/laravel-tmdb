@@ -1,0 +1,99 @@
+{
+    "credit_type": "crew",
+    "department": "Costume & Make-Up",
+    "job": "Costume Design",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5aa1bea00e0a260d51005918",
+    "person": {
+        "adult": false,
+        "gender": 1,
+        "name": "Kelli Jones",
+        "id": 1306225,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "overview": "In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.",
+                "release_date": "2017-12-22",
+                "adult": false,
+                "backdrop_path": "/b09HLFIifMNljI7NI9CJgm2gN1Y.jpg",
+                "id": 400106,
+                "genre_ids": [
+                    14,
+                    28,
+                    53
+                ],
+                "vote_count": 4622,
+                "original_language": "en",
+                "original_title": "Bright",
+                "poster_path": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+                "title": "Bright",
+                "video": false,
+                "vote_average": 6.2,
+                "popularity": 34.518,
+                "media_type": "movie"
+            },
+            {
+                "overview": "Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.",
+                "release_date": "2017-03-23",
+                "adult": false,
+                "backdrop_path": "/5H0Ep2ZbuRomI19jUL2LbDj74w1.jpg",
+                "id": 305470,
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "original_language": "en",
+                "original_title": "Power Rangers",
+                "poster_path": "/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",
+                "vote_count": 3670,
+                "video": false,
+                "vote_average": 6.3,
+                "title": "Power Rangers",
+                "popularity": 51.819,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Costume & Make-Up",
+        "profile_path": "/5nLEHXmmyZHZPwewPzmHLbj18kc.jpg",
+        "popularity": 0.6
+    }
+}

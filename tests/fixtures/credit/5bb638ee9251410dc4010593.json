@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Mrs. Chen"
+    },
+    "media_type": "movie",
+    "id": "5bb638ee9251410dc4010593",
+    "person": {
+        "gender": 1,
+        "known_for_department": "Acting",
+        "id": 2141479,
+        "adult": false,
+        "known_for": [
+            {
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "id": 335983,
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "release_date": "2018-09-28",
+                "popularity": 532.923,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "title": "Venom"
+            },
+            {
+                "original_language": "en",
+                "original_title": "Always Be My Maybe",
+                "poster_path": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+                "id": 513576,
+                "video": false,
+                "vote_average": 6.7,
+                "vote_count": 1017,
+                "release_date": "2019-05-31",
+                "popularity": 13.114,
+                "overview": "Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the old sparks of attraction but struggle to adapt to each other's worlds.",
+                "adult": false,
+                "backdrop_path": "/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "title": "Always Be My Maybe"
+            },
+            {
+                "original_language": "en",
+                "poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
+                "id": 67466,
+                "vote_average": 7.6,
+                "media_type": "tv",
+                "vote_count": 651,
+                "first_air_date": "2017-11-21",
+                "popularity": 39.012,
+                "name": "Marvel's Runaways",
+                "overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
+                "backdrop_path": "/7PYAUaJzzUVxS4xiJHFe338vJd1.jpg",
+                "original_name": "Marvel's Runaways",
+                "origin_country": [
+                    "US"
+                ],
+                "genre_ids": [
+                    10759,
+                    80,
+                    18,
+                    10765
+                ]
+            }
+        ],
+        "profile_path": "/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg",
+        "name": "Peggy Lu",
+        "popularity": 1.315
+    }
+}

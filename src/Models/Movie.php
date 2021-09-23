@@ -3,6 +3,7 @@
 namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder;
+use Astrotomic\Tmdb\Enums\CreditType;
 use Astrotomic\Tmdb\Enums\MovieStatus;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
@@ -10,6 +11,8 @@ use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\GetMovieDetails;
 use Carbon\CarbonInterval;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\MorphMany;
+use Illuminate\Support\Facades\DB;
 
 /**
  * @property int $id
@@ -67,6 +70,7 @@ class Movie extends Model
         'vote_average',
         'vote_count',
         'production_countries',
+        'spoken_languages',
         'tagline',
         'title',
         'status',
@@ -84,6 +88,7 @@ class Movie extends Model
         'vote_average' => 'float',
         'release_date' => 'date',
         'production_countries' => 'array',
+        'spoken_languages' => 'array',
         'status' => MovieStatus::class.':nullable',
     ];
 
@@ -92,6 +97,7 @@ class Movie extends Model
         'tagline',
         'overview',
         'poster_path',
+        'homepage',
     ];
 
     public function genres(): BelongsToMany
@@ -99,9 +105,33 @@ class Movie extends Model
         return $this->belongsToMany(MovieGenre::class, 'movie_movie_genre');
     }
 
+    /**
+     * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
+     */
+    public function credits(): MorphMany
+    {
+        return $this->morphMany(Credit::class, 'media');
+    }
+
+    /**
+     * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
+     */
+    public function cast(): MorphMany
+    {
+        return $this->credits()->whereCreditType(CreditType::CAST());
+    }
+
+    /**
+     * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
+     */
+    public function crew(): MorphMany
+    {
+        return $this->credits()->whereCreditType(CreditType::CREW());
+    }
+
     public function fillFromTmdb(array $data, ?string $locale = null): static
     {
-        $movie = $this->fill([
+        $this->fill([
             'id' => $data['id'],
             'adult' => $data['adult'],
             'backdrop_path' => $data['backdrop_path'] ?: null,
@@ -118,6 +148,7 @@ class Movie extends Model
             'vote_average' => $data['vote_average'] ?: null,
             'vote_count' => $data['vote_count'] ?: 0,
             'production_countries' => array_column($data['production_countries'] ?: [], 'iso_3166_1'),
+            'spoken_languages' => array_column($data['spoken_languages'] ?: [], 'iso_639_1'),
             'status' => $data['status'] ?: null,
         ]);
 
@@ -128,33 +159,60 @@ class Movie extends Model
         $this->setTranslation('title', $locale, trim($data['title']) ?: null);
         $this->setTranslation('poster_path', $locale, trim($data['poster_path']) ?: null);
 
-        return $movie;
+        return $this;
     }
 
-    public function updateFromTmdb(?string $locale = null): bool
+    public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
-        $data = rescue(fn () => GetMovieDetails::request($this->id)->language($locale)->send()->json());
+        $append = collect($with)
+            ->map(fn (string $relation) => match ($relation) {
+                'cast', 'crew' => GetMovieDetails::APPEND_CREDITS,
+                default => null,
+            })
+            ->filter()
+            ->unique()
+            ->values()
+            ->all();
+
+        $data = rescue(
+            fn () => GetMovieDetails::request($this->id)
+                ->language($locale)
+                ->append(...$append)
+                ->send()
+                ->json()
+        );
 
         if ($data === null) {
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
-            return false;
-        }
+        return DB::transaction(function () use ($data, $locale): bool {
+            if (! $this->fillFromTmdb($data, $locale)->save()) {
+                return false;
+            }
 
-        $this->genres()->sync(
-            collect($data['genres'] ?: [])
-                ->map(static function (array $data) use ($locale): MovieGenre {
-                    $genre = MovieGenre::query()->findOrNew($data['id']);
-                    $genre->fillFromTmdb($data, $locale)->save();
+            $this->genres()->sync(
+                collect($data['genres'] ?: [])
+                    ->map(static function (array $data) use ($locale): MovieGenre {
+                        $genre = MovieGenre::query()->findOrNew($data['id']);
+                        $genre->fillFromTmdb($data, $locale)->save();
 
-                    return $genre;
-                })
-                ->pluck('id')
-        );
+                        return $genre;
+                    })
+                    ->pluck('id')
+            );
 
-        return true;
+            if (isset($data['credits'])) {
+                foreach ($data['credits']['cast'] as $cast) {
+                    Credit::query()->find($cast['credit_id']);
+                }
+                foreach ($data['credits']['crew'] as $crew) {
+                    Credit::query()->find($crew['credit_id']);
+                }
+            }
+
+            return true;
+        });
     }
 
     public function newEloquentBuilder($query): MovieBuilder

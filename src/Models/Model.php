@@ -15,6 +15,11 @@ abstract class Model extends \Illuminate\Database\Eloquent\Model
         return (new static())->getTable();
     }
 
+    public static function morphType(): string
+    {
+        return (new static())->getMorphClass();
+    }
+
     public function getConnectionName(): ?string
     {
         $connection = parent::getConnectionName();
@@ -30,7 +35,7 @@ abstract class Model extends \Illuminate\Database\Eloquent\Model
         return null;
     }
 
-    abstract public function updateFromTmdb(?string $locale = null): bool;
+    abstract public function updateFromTmdb(?string $locale = null, array $with = []): bool;
 
     abstract public function fillFromTmdb(array $data, ?string $locale = null): static;
 }

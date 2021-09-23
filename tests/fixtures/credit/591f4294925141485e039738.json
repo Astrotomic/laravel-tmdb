@@ -1,0 +1,98 @@
+{
+    "credit_type": "crew",
+    "department": "Directing",
+    "job": "Director",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "591f4294925141485e039738",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Ruben Fleischer",
+        "id": 91268,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11380,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 547.049,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "original_language": "en",
+                "original_title": "Zombieland",
+                "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+                "video": false,
+                "vote_average": 7.3,
+                "title": "Zombieland",
+                "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
+                "release_date": "2009-10-07",
+                "vote_count": 9738,
+                "id": 19908,
+                "popularity": 55.87,
+                "media_type": "movie"
+            },
+            {
+                "genre_ids": [
+                    27,
+                    28,
+                    35
+                ],
+                "original_language": "en",
+                "original_title": "Zombieland: Double Tap",
+                "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+                "video": false,
+                "vote_average": 7,
+                "vote_count": 3943,
+                "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+                "release_date": "2019-10-09",
+                "title": "Zombieland: Double Tap",
+                "id": 338967,
+                "adult": false,
+                "backdrop_path": "/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+                "popularity": 154.193,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Directing",
+        "profile_path": "/3JLxOPFTLigSy8FjFjDyMwD9GIp.jpg",
+        "popularity": 1.62
+    }
+}

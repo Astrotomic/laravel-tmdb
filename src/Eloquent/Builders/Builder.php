@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\DB;
 abstract class Builder extends EloquentBuilder
 {
     /**
-     * @param int|int[]|\Illuminate\Contracts\Support\Arrayable $id
+     * @param int|int[]|string|string[]|\Illuminate\Contracts\Support\Arrayable $id
      * @param string[] $columns
      *
      * @return \Astrotomic\Tmdb\Models\Model|\Illuminate\Database\Eloquent\Collection|null
@@ -38,7 +38,7 @@ abstract class Builder extends EloquentBuilder
     }
 
     /**
-     * @param int[]|\Illuminate\Contracts\Support\Arrayable $ids
+     * @param int[]|string[]|\Illuminate\Contracts\Support\Arrayable $ids
      * @param string[] $columns
      *
      * @return \Illuminate\Database\Eloquent\Collection
@@ -67,11 +67,11 @@ abstract class Builder extends EloquentBuilder
         });
     }
 
-    public function createFromTmdb(int $id): ?Model
+    protected function createFromTmdb(int|string $id): ?Model
     {
         $model = $this->newModelInstance(['id' => $id]);
 
-        if (! $model->updateFromTmdb()) {
+        if (! $model->updateFromTmdb(with: array_keys($this->getEagerLoads()))) {
             return null;
         }
 

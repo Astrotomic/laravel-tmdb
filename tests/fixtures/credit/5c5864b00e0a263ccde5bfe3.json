@@ -1,0 +1,97 @@
+{
+    "credit_type": "crew",
+    "department": "Art",
+    "job": "Art Direction",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c5864b00e0a263ccde5bfe3",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Christophe Couzon",
+        "id": 1470202,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "overview": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+                "release_date": "2012-09-27",
+                "adult": false,
+                "backdrop_path": "/wiHwmNKPA7J9GgqCKY2z243HE3S.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "vote_count": 5344,
+                "original_language": "en",
+                "original_title": "Taken 2",
+                "poster_path": "/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+                "title": "Taken 2",
+                "video": false,
+                "vote_average": 6.3,
+                "id": 82675,
+                "popularity": 46.795,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
+                "genre_ids": [
+                    53,
+                    28
+                ],
+                "id": 260346,
+                "original_language": "en",
+                "original_title": "Taken 3",
+                "overview": "Ex-government operative Bryan Mills finds his life is shattered when he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.",
+                "poster_path": "/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
+                "release_date": "2014-12-16",
+                "title": "Taken 3",
+                "video": false,
+                "vote_average": 6.2,
+                "vote_count": 4587,
+                "popularity": 80.374,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Art",
+        "profile_path": null
+    }
+}

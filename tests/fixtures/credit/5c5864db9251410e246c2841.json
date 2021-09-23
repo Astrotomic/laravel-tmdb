@@ -1,0 +1,100 @@
+{
+    "credit_type": "crew",
+    "department": "Art",
+    "job": "Art Direction",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c5864db9251410e246c2841",
+    "person": {
+        "adult": false,
+        "gender": 0,
+        "name": "Gregory S. Hooper",
+        "id": 1172441,
+        "known_for": [
+            {
+                "video": false,
+                "vote_average": 7.7,
+                "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                "release_date": "2012-04-25",
+                "vote_count": 25400,
+                "adult": false,
+                "backdrop_path": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+                "title": "The Avengers",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 24428,
+                "original_language": "en",
+                "original_title": "The Avengers",
+                "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+                "popularity": 140.591,
+                "media_type": "movie"
+            },
+            {
+                "vote_average": 7.4,
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "release_date": "2016-04-27",
+                "id": 271110,
+                "adult": false,
+                "backdrop_path": "/kvRT3GwcnqGHzPjXIVrVPhUix7Z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "vote_count": 18605,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "popularity": 106.663,
+                "media_type": "movie"
+            },
+            {
+                "release_date": "2016-03-23",
+                "adult": false,
+                "backdrop_path": "/mX3WOJPBzzl4kj4xU5lL7qfD6C3.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "vote_count": 15105,
+                "id": 209112,
+                "original_title": "Batman v Superman: Dawn of Justice",
+                "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+                "video": false,
+                "title": "Batman v Superman: Dawn of Justice",
+                "vote_average": 5.9,
+                "original_language": "en",
+                "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+                "popularity": 73.428,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Art",
+        "profile_path": null,
+        "popularity": 0.6
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "credit_type": "crew",
+    "department": "Visual Effects",
+    "job": "Visual Effects Supervisor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c0af2050e0a2638d305b115",
+    "person": {
+        "adult": false,
+        "gender": 0,
+        "name": "Sheena Duggal",
+        "id": 1405385,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "vote_count": 10286,
+                "original_language": "en",
+                "original_title": "Spider-Man 3",
+                "poster_path": "/2jLxKF73SAPkyhIWrnv67IH7kJ1.jpg",
+                "title": "Spider-Man 3",
+                "video": false,
+                "vote_average": 6.3,
+                "release_date": "2007-05-01",
+                "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+                "id": 559,
+                "popularity": 150.199,
+                "media_type": "movie"
+            },
+            {
+                "poster_path": "/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
+                "video": false,
+                "vote_average": 6.3,
+                "overview": "Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIB's untarnished mission statement – protecting Earth from the scum of the universe. It's been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions. Now it's a race against the clock as Jay must convince Kay – who not only has absolutely no memory of his time spent with the MIB, but is also the only living person left with the expertise to save the galaxy – to reunite with the MIB before the earth submits to ultimate destruction.",
+                "release_date": "2002-07-03",
+                "id": 608,
+                "adult": false,
+                "backdrop_path": "/k22mrpAzZNRR5ktD5Wb7rMlxemS.jpg",
+                "vote_count": 7914,
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "title": "Men in Black II",
+                "original_language": "en",
+                "original_title": "Men in Black II",
+                "popularity": 24.994,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Visual Effects",
+        "profile_path": null,
+        "popularity": 0.84
+    }
+}

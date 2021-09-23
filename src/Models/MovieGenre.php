@@ -41,6 +41,22 @@ class MovieGenre extends Model
         'name',
     ];
 
+    public static function all($columns = ['*']): EloquentCollection
+    {
+        return DB::transaction(function () use ($columns): EloquentCollection {
+            $data = rescue(fn () => ListMovieGenres::request()->send()->collect('genres'));
+
+            if ($data instanceof Collection) {
+                $data->each(fn (array $genre) => static::query()->updateOrCreate(
+                    ['id' => $genre['id']],
+                    ['name' => $genre['name']],
+                ));
+            }
+
+            return parent::all($columns);
+        });
+    }
+
     public function movies(): BelongsToMany
     {
         return $this->belongsToMany(Movie::class, 'movie_movie_genre');
@@ -59,23 +75,7 @@ class MovieGenre extends Model
         return $genre;
     }
 
-    public static function all($columns = ['*']): EloquentCollection
-    {
-        return DB::transaction(function () use ($columns): EloquentCollection {
-            $data = rescue(fn () => ListMovieGenres::request()->send()->collect('genres'));
-
-            if ($data instanceof Collection) {
-                $data->each(fn (array $genre) => static::query()->updateOrCreate(
-                    ['id' => $genre['id']],
-                    ['name' => $genre['name']],
-                ));
-            }
-
-            return parent::all($columns);
-        });
-    }
-
-    public function updateFromTmdb(?string $locale = null): bool
+    public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
         $data = rescue(fn () => ListMovieGenres::request()->language($locale)->send()->collect('genres'));
 

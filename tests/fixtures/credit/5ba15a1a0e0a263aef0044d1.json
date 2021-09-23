@@ -1,0 +1,100 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Executive Producer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5ba15a1a0e0a263aef0044d1",
+    "person": {
+        "profile_path": "/42vuhQG58hZqZRArKjXJ1GUQnhC.jpg",
+        "known_for_department": "Production",
+        "name": "David B. Householter",
+        "known_for": [
+            {
+                "vote_count": 11381,
+                "release_date": "2018-09-28",
+                "popularity": 532.923,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "title": "Venom",
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "vote_average": 6.8,
+                "video": false,
+                "id": 335983
+            },
+            {
+                "vote_count": 11038,
+                "release_date": "2017-12-09",
+                "popularity": 59.24,
+                "overview": "The tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they'll play as characters from the game.",
+                "adult": false,
+                "backdrop_path": "/zJDMuXQDraHjtF53wikmyBQIcYe.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    12,
+                    28,
+                    35,
+                    14
+                ],
+                "id": 353486,
+                "original_language": "en",
+                "original_title": "Jumanji: Welcome to the Jungle",
+                "poster_path": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+                "title": "Jumanji: Welcome to the Jungle",
+                "video": false,
+                "vote_average": 6.8
+            },
+            {
+                "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+                "release_date": "2016-12-21",
+                "popularity": 32.526,
+                "id": 274870,
+                "adult": false,
+                "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    18,
+                    10749,
+                    878
+                ],
+                "original_title": "Passengers",
+                "original_language": "en",
+                "title": "Passengers",
+                "poster_path": "/8NT7Tnq9s0Z4CRbz3WQR15wHCiQ.jpg",
+                "vote_count": 10793,
+                "video": false,
+                "vote_average": 6.9
+            }
+        ],
+        "adult": false,
+        "gender": 2,
+        "id": 61107,
+        "popularity": 0.6
+    }
+}

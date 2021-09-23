@@ -1,0 +1,101 @@
+{
+    "credit_type": "crew",
+    "department": "Visual Effects",
+    "job": "Visual Effects",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5c721aa0c3a3685a4914333f",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Brian Adler",
+        "id": 1338585,
+        "known_for": [
+            {
+                "video": false,
+                "title": "Joker",
+                "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+                "release_date": "2019-10-02",
+                "id": 475557,
+                "adult": false,
+                "backdrop_path": "/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "vote_count": 18630,
+                "original_language": "en",
+                "original_title": "Joker",
+                "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+                "vote_average": 8.2,
+                "popularity": 306.159,
+                "media_type": "movie"
+            },
+            {
+                "video": false,
+                "vote_average": 7.4,
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "release_date": "2018-02-13",
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "vote_count": 17910,
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "title": "Black Panther",
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "id": 284054,
+                "popularity": 125.103,
+                "media_type": "movie"
+            },
+            {
+                "original_title": "Guardians of the Galaxy Vol. 2",
+                "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                "video": false,
+                "vote_average": 7.6,
+                "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                "release_date": "2017-04-19",
+                "id": 283995,
+                "adult": false,
+                "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                "vote_count": 17143,
+                "genre_ids": [
+                    12,
+                    28,
+                    878,
+                    35
+                ],
+                "title": "Guardians of the Galaxy Vol. 2",
+                "original_language": "en",
+                "popularity": 83.699,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Visual Effects",
+        "profile_path": null,
+        "popularity": 1.124
+    }
+}

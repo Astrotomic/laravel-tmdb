@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Jacob / Blue Host"
+    },
+    "media_type": "movie",
+    "id": "5bb637e39251410dc101003b",
+    "person": {
+        "name": "Martin Bats Bradford",
+        "known_for": [
+            {
+                "media_type": "movie",
+                "adult": false,
+                "id": 335983,
+                "popularity": 547.049,
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "vote_count": 11380,
+                "video": false,
+                "vote_average": 6.8,
+                "title": "Venom",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28"
+            },
+            {
+                "media_type": "movie",
+                "adult": false,
+                "backdrop_path": "/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+                "popularity": 24.696,
+                "genre_ids": [
+                    18,
+                    35,
+                    10402
+                ],
+                "id": 490132,
+                "original_language": "en",
+                "original_title": "Green Book",
+                "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+                "title": "Green Book",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 8226,
+                "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+                "release_date": "2018-11-16"
+            },
+            {
+                "name": "American Horror Story",
+                "backdrop_path": "/rNyOeC4uh0YMjZwtrLPFGyVIvyI.jpg",
+                "media_type": "tv",
+                "genre_ids": [
+                    18,
+                    9648,
+                    10765
+                ],
+                "popularity": 369.882,
+                "first_air_date": "2011-10-05",
+                "vote_count": 4006,
+                "poster_path": "/mckCh2GYSerIqyCyPSLIStLvmZF.jpg",
+                "id": 1413,
+                "original_name": "American Horror Story",
+                "vote_average": 8.1,
+                "origin_country": [
+                    "US"
+                ],
+                "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+                "original_language": "en"
+            }
+        ],
+        "adult": false,
+        "id": 1371236,
+        "profile_path": "/AdvVKzkT8dtNoRPm5i1Q7UvUriN.jpg",
+        "known_for_department": "Acting",
+        "gender": 2,
+        "popularity": 2.156
+    }
+}

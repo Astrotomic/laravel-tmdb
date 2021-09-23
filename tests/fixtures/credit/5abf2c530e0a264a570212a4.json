@@ -1,0 +1,98 @@
+{
+    "credit_type": "crew",
+    "department": "Sound",
+    "job": "Original Music Composer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5abf2c530e0a264a570212a4",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Ludwig Göransson",
+        "id": 928158,
+        "known_for": [
+            {
+                "video": false,
+                "vote_average": 7.4,
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "release_date": "2018-02-13",
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "vote_count": 17915,
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "title": "Black Panther",
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "id": 284054,
+                "popularity": 127.878,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "vote_average": 6.8,
+                "title": "We're the Millers",
+                "overview": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+                "release_date": "2013-08-07",
+                "adult": false,
+                "backdrop_path": "/soxvAxlPTp3ATvvza4jSwzFUUEV.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "vote_count": 7105,
+                "original_language": "en",
+                "original_title": "We're the Millers",
+                "poster_path": "/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+                "id": 138832,
+                "video": false,
+                "popularity": 24.51,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Sound",
+        "profile_path": "/zFXw0Ole0g1DtSHTqAUMFbRQX7i.jpg",
+        "popularity": 1.543
+    }
+}

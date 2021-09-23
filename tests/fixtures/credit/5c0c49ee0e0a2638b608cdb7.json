@@ -1,0 +1,102 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Lewis Donate"
+    },
+    "media_type": "movie",
+    "id": "5c0c49ee0e0a2638b608cdb7",
+    "person": {
+        "gender": 2,
+        "known_for_department": "Acting",
+        "name": "Malcolm C. Murray",
+        "profile_path": "/1TkiBdgPv0AmKFXyB1dINzd4GJ8.jpg",
+        "known_for": [
+            {
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "popularity": 547.049,
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "release_date": "2018-09-28",
+                "video": false,
+                "vote_average": 6.8,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "vote_count": 11380,
+                "title": "Venom",
+                "id": 335983
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qq9Whyz2tmIh5MjGN5or1S6Q9MZ.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    27,
+                    53
+                ],
+                "popularity": 85.931,
+                "original_language": "en",
+                "original_title": "The Purge: Election Year",
+                "poster_path": "/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg",
+                "title": "The Purge: Election Year",
+                "video": false,
+                "vote_average": 6.4,
+                "overview": "Two years after choosing not to kill the man who killed his son, former police sergeant Leo Barnes has become head of security for Senator Charlene Roan, the front runner in the next Presidential election due to her vow to eliminate the Purge. On the night of what should be the final Purge, a betrayal from within the government forces Barnes and Roan out onto the street where they must fight to survive the night.",
+                "vote_count": 4203,
+                "release_date": "2016-06-29",
+                "id": 316727
+            },
+            {
+                "backdrop_path": "/gV2PVqsNBoklmg7h3ftLF1njoGg.jpg",
+                "name": "Marvel's Luke Cage",
+                "genre_ids": [
+                    18,
+                    10765,
+                    10759,
+                    80
+                ],
+                "first_air_date": "2016-09-30",
+                "original_language": "en",
+                "media_type": "tv",
+                "poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
+                "popularity": 34.583,
+                "origin_country": [
+                    "US"
+                ],
+                "vote_average": 7.1,
+                "overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+                "vote_count": 1144,
+                "original_name": "Marvel's Luke Cage",
+                "id": 62126
+            }
+        ],
+        "adult": false,
+        "id": 1765806,
+        "popularity": 0.828
+    }
+}

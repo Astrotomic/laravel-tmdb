@@ -1,0 +1,97 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Ziggy's Girlfriend"
+    },
+    "media_type": "movie",
+    "id": "5c0c5220c3a368252808ff8d",
+    "person": {
+        "adult": false,
+        "gender": 1,
+        "name": "Lauren Richards",
+        "id": 2191402,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "name": "Doom Patrol",
+                "id": 79501,
+                "backdrop_path": "/sAzw6I1G9JUxm86KokIDdQeWtaq.jpg",
+                "genre_ids": [
+                    10765,
+                    35,
+                    18
+                ],
+                "original_name": "Doom Patrol",
+                "origin_country": [
+                    "US"
+                ],
+                "poster_path": "/kOAn06LmRCg4YiSStwrGL6UOQ3a.jpg",
+                "vote_count": 893,
+                "first_air_date": "2019-02-15",
+                "vote_average": 7.7,
+                "original_language": "en",
+                "overview": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+                "popularity": 155.175,
+                "media_type": "tv"
+            },
+            {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [],
+                "id": 796082,
+                "original_language": "en",
+                "original_title": "Magnolia",
+                "overview": "When an oil pipeline/rig worker, Noah, returns home to the shores of Mississippi, he finds himself falling for Ana; a beautiful, edgy mechanic from the gulf coast. But his homecoming has resurrected painful memories, and as he considers his future, he must confront his past. Thematically based on Randy Houser's upcoming album Magnolia, Noah's story takes him on a journey through love, heartache, and the unknown. Magnolia is based on the songs, lyrics, and life stories collected from Randy Houser over his career. Both a narrative film and a visual album Magnolia presents a story as seen and heard through Randy's bluesy southern roots.",
+                "poster_path": null,
+                "release_date": "",
+                "title": "Magnolia",
+                "video": false,
+                "vote_average": 0,
+                "vote_count": 0,
+                "popularity": 0.6,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Acting",
+        "profile_path": "/byOHRkJOzVao18ZugZyB6jZmkTo.jpg",
+        "popularity": 0.6
+    }
+}

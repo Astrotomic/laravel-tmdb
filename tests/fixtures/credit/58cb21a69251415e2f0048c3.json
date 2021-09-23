@@ -1,0 +1,98 @@
+{
+    "credit_type": "crew",
+    "department": "Writing",
+    "job": "Characters",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "58cb21a69251415e2f0048c3",
+    "person": {
+        "gender": 2,
+        "known_for_department": "Acting",
+        "name": "Todd McFarlane",
+        "adult": false,
+        "profile_path": "/fG0NF6gKK0lBwJTtTPXzp4e4yp8.jpg",
+        "known_for": [
+            {
+                "vote_count": 159,
+                "name": "Spawn",
+                "poster_path": "/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg",
+                "backdrop_path": "/vOwzPlX7u7CARvugdio0BaCJvfv.jpg",
+                "media_type": "tv",
+                "genre_ids": [
+                    10759,
+                    16,
+                    18,
+                    10765
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "first_air_date": "1997-05-16",
+                "overview": "Todd McFarlane's Spawn is an animated television series which aired on HBO from 1997 through 1999. It is also released on DVD as a film series. It is based on the Spawn comic series from Image Comics, and was nominated for and won an Emmy in 1999 for Outstanding Animation Program. An unrelated series titled Spawn: The Animation is in production since 2009, with Keith David reprising his role as the titular character. Like the comic book, the series features graphic violence, sexual scenes, and extensive use of profanity. Todd McFarlane's Spawn was ranked 5th on IGN's list of The Greatest Comic Book Cartoons Of All Time.",
+                "origin_country": [
+                    "US"
+                ],
+                "original_name": "Spawn",
+                "vote_average": 7.9,
+                "popularity": 10.947
+            },
+            {
+                "vote_count": 49,
+                "id": 299969,
+                "overview": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
+                "adult": false,
+                "backdrop_path": "/69rb6VKOEqpuJ88MkKXLaSd71Va.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    99
+                ],
+                "title": "Marvel: 75 Years, From Pulp to Pop!",
+                "original_language": "en",
+                "original_title": "Marvel: 75 Years, From Pulp to Pop!",
+                "poster_path": "/qNC8co8LuGBv22Fu9SC71ppAwoA.jpg",
+                "release_date": "2014-11-04",
+                "video": false,
+                "vote_average": 6.9,
+                "popularity": 5.192
+            },
+            {
+                "vote_count": 48,
+                "id": 456348,
+                "poster_path": "/gc1oyq0K8TdtFTXmYV03v536HsI.jpg",
+                "adult": false,
+                "backdrop_path": "/u82RurwuuaHlnv0SWEpSSK8T7a8.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    99
+                ],
+                "title": "Batman & Bill",
+                "original_language": "en",
+                "original_title": "Batman & Bill",
+                "overview": "Everyone thinks that Bob Kane created Batman, but that’s not the whole truth. One author makes it his crusade to make it known that Bill Finger, a struggling writer, actually helped invent the iconic superhero, from concept to costume to the very character we all know and love. Bruce Wayne may be Batman’s secret identity, but his creator was always a true mystery.",
+                "release_date": "2017-05-06",
+                "video": false,
+                "vote_average": 7.5,
+                "popularity": 8.152
+            }
+        ],
+        "id": 64849,
+        "popularity": 2.456
+    }
+}

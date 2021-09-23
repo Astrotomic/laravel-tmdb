@@ -1,0 +1,102 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Bistro Manager"
+    },
+    "media_type": "movie",
+    "id": "5bb63796c3a368150800f9a6",
+    "person": {
+        "gender": 1,
+        "known_for_department": "Acting",
+        "name": "Selena Anduze",
+        "profile_path": "/15m6yIUm9NxFIwkVLR92Thri7nf.jpg",
+        "known_for": [
+            {
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "popularity": 547.049,
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "release_date": "2018-09-28",
+                "video": false,
+                "vote_average": 6.8,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "vote_count": 11380,
+                "title": "Venom",
+                "id": 335983
+            },
+            {
+                "backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+                "name": "WandaVision",
+                "genre_ids": [
+                    10765,
+                    9648,
+                    18
+                ],
+                "first_air_date": "2021-01-15",
+                "original_language": "en",
+                "media_type": "tv",
+                "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+                "popularity": 233.979,
+                "id": 85271,
+                "vote_average": 8.4,
+                "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+                "vote_count": 9179,
+                "original_name": "WandaVision",
+                "origin_country": [
+                    "US"
+                ]
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    27,
+                    18,
+                    14,
+                    53
+                ],
+                "popularity": 28.474,
+                "original_language": "en",
+                "original_title": "Doctor Sleep",
+                "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+                "release_date": "2019-10-30",
+                "video": false,
+                "vote_average": 7.2,
+                "overview": "Still irrevocably scarred by the trauma he endured as a child at the Overlook, Dan Torrance has fought to find some semblance of peace. But that peace is shattered when he encounters Abra, a courageous teenager with her own powerful extrasensory gift, known as the 'shine'. Instinctively recognising that Dan shares her power, Abra has sought him out, desperate for his help against the merciless Rose the Hat and her followers.",
+                "vote_count": 2914,
+                "title": "Doctor Sleep",
+                "id": 501170
+            }
+        ],
+        "adult": false,
+        "id": 1853396,
+        "popularity": 2.177
+    }
+}

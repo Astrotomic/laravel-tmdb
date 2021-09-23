@@ -1,0 +1,100 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Beardo at Bar"
+    },
+    "media_type": "movie",
+    "id": "5bbcfe00925141379f01d8bc",
+    "person": {
+        "gender": 2,
+        "known_for_department": "Acting",
+        "name": "Nick Thune",
+        "profile_path": "/pSFjkhO8jRpoZ2BArqaFf2XD57w.jpg",
+        "known_for": [
+            {
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "popularity": 532.923,
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "release_date": "2018-09-28",
+                "video": false,
+                "vote_average": 6.8,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "vote_count": 11381,
+                "title": "Venom",
+                "id": 335983
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lavWAUXVe7vHlKhZEGmfVLaVd4S.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "popularity": 12.533,
+                "original_language": "en",
+                "original_title": "Knocked Up",
+                "poster_path": "/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
+                "vote_count": 3103,
+                "video": false,
+                "vote_average": 6.2,
+                "overview": "For fun loving party animal Ben Stone, the last thing he ever expected was for his one night stand to show up on his doorstep eight weeks later to tell him she's pregnant.",
+                "release_date": "2007-06-01",
+                "title": "Knocked Up",
+                "id": 4964
+            },
+            {
+                "backdrop_path": "/fWZ1EkDxqE0ArmG2nEfHuVYBh9D.jpg",
+                "name": "American Dad!",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "first_air_date": "2005-02-06",
+                "original_language": "en",
+                "media_type": "tv",
+                "poster_path": "/1aklTBd36LFiFNroOSiherLvLdu.jpg",
+                "popularity": 144.655,
+                "id": 1433,
+                "vote_average": 6.8,
+                "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+                "vote_count": 1373,
+                "original_name": "American Dad!",
+                "origin_country": [
+                    "US"
+                ]
+            }
+        ],
+        "adult": false,
+        "id": 216147,
+        "popularity": 1.22
+    }
+}

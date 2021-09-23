@@ -1,0 +1,96 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Executive Producer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5ba159fcc3a3680c36004d0e",
+    "person": {
+        "adult": false,
+        "gender": 0,
+        "name": "Howard Chen",
+        "id": 2110351,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2FYzxgLNuNVwncilzUeCGbOQzP7.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "original_language": "en",
+                "original_title": "Men in Black: International",
+                "poster_path": "/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+                "video": false,
+                "vote_average": 6,
+                "vote_count": 3580,
+                "overview": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+                "release_date": "2019-06-12",
+                "title": "Men in Black: International",
+                "id": 479455,
+                "popularity": 80.691,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vCw8laYgZJGEE8W1VSfeD1s0z3O.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "original_language": "en",
+                "original_title": "A Beautiful Day in the Neighborhood",
+                "poster_path": "/p9vCAVhDK375XyobVcKqzqzsUHE.jpg",
+                "video": false,
+                "title": "A Beautiful Day in the Neighborhood",
+                "vote_count": 1036,
+                "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+                "release_date": "2019-09-07",
+                "vote_average": 7,
+                "id": 501907,
+                "popularity": 14.303,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Production",
+        "profile_path": null,
+        "popularity": 0.6
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "credit_type": "crew",
+    "department": "Writing",
+    "job": "Characters",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "58cb2194c3a368287d004ba1",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "David Michelinie",
+        "id": 1195200,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "poster_path": "/2BDxrjeCLPXwSp4VOi6vkhUle8t.jpg",
+                "video": false,
+                "vote_average": 5.8,
+                "overview": "French film crew follows around journalist Eddie Brock in the streets of New York.",
+                "release_date": "2013-07-20",
+                "vote_count": 8,
+                "adult": false,
+                "backdrop_path": "/jn2ynODfHvBWC5X358rMf1RareO.jpg",
+                "title": "Truth in Journalism",
+                "id": 211260,
+                "genre_ids": [
+                    80,
+                    35
+                ],
+                "original_language": "en",
+                "original_title": "La vérité en journalisme",
+                "popularity": 1.376,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lNyLSOKMMeUPr1RsL4KcRuIXwHt.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    35
+                ],
+                "original_language": "en",
+                "original_title": "Venom: Let There Be Carnage",
+                "poster_path": "/jNd6tx7FL2h7wtZgLUsLvzD0kFN.jpg",
+                "video": false,
+                "vote_average": 0,
+                "id": 580489,
+                "overview": "Sequel to the box-office hit film \"Venom.\"",
+                "release_date": "2021-09-30",
+                "vote_count": 0,
+                "title": "Venom: Let There Be Carnage",
+                "popularity": 649.818,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Writing",
+        "profile_path": null
+    }
+}

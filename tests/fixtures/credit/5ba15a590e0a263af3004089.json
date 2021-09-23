@@ -1,0 +1,99 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Executive Producer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5ba15a590e0a263af3004089",
+    "person": {
+        "adult": false,
+        "gender": 0,
+        "name": "Edward Cheng",
+        "id": 2130538,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "original_language": "en",
+                "original_title": "Kong: Skull Island",
+                "poster_path": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+                "video": false,
+                "title": "Kong: Skull Island",
+                "vote_count": 8465,
+                "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+                "release_date": "2017-03-08",
+                "vote_average": 6.5,
+                "id": 293167,
+                "popularity": 49.248,
+                "media_type": "movie"
+            },
+            {
+                "video": false,
+                "vote_average": 6.7,
+                "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.",
+                "release_date": "2018-12-15",
+                "vote_count": 4605,
+                "adult": false,
+                "backdrop_path": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+                "title": "Bumblebee",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 424783,
+                "original_language": "en",
+                "original_title": "Bumblebee",
+                "poster_path": "/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
+                "popularity": 78.868,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Production",
+        "profile_path": null,
+        "popularity": 0.6
+    }
+}

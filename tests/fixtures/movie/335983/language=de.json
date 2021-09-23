@@ -1,92 +1,92 @@
 {
-  "adult": false,
-  "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
-  "belongs_to_collection": null,
-  "budget": 116000000,
-  "genres": [
-    {
-      "id": 878,
-      "name": "Science Fiction"
-    },
-    {
-      "id": 28,
-      "name": "Action"
-    }
-  ],
-  "homepage": "http://www.venom.movie/site/",
-  "id": 335983,
-  "imdb_id": "tt1270797",
-  "original_language": "en",
-  "original_title": "Venom",
-  "overview": "Als Dr. Carlton, Chef der mysteriösen Life Foundation, in den Besitz eines Organismus außerirdischen Ursprungs kommt, benutzt er diese sogenannten Symbionten, um mit ihnen Experimente an Menschen durchzuführen. Dank des Tipps einer Konzern-Insiderin bekommt der Reporter Eddie Brock Wind von Drakes fragwürdigen Machenschaften und beschließt – entgegen der Warnung seiner Freundin Anne– der Sache auf den Grund zu gehen. Bei seinen Nachforschungen in den Labors der Life Foundation kommt Eddie jedoch selbst mit einem Symbionten in Kontakt, der mit ihm zu einem neuen Wesen verschmilzt: dem mit übermenschlichen Kräften ausgestatteten Venom.",
-  "popularity": 532.923,
-  "poster_path": "/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg",
-  "production_companies": [
-    {
-      "id": 31828,
-      "logo_path": null,
-      "name": "Avi Arad Productions",
-      "origin_country": "US"
-    },
-    {
-      "id": 53462,
-      "logo_path": null,
-      "name": "Matt Tolmach Productions",
-      "origin_country": "US"
-    },
-    {
-      "id": 84041,
-      "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
-      "name": "Pascal Pictures",
-      "origin_country": "US"
-    },
-    {
-      "id": 7505,
-      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
-      "name": "Marvel Entertainment",
-      "origin_country": "US"
-    },
-    {
-      "id": 81620,
-      "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
-      "name": "Tencent Pictures",
-      "origin_country": "CN"
-    }
-  ],
-  "production_countries": [
-    {
-      "iso_3166_1": "CN",
-      "name": "China"
-    },
-    {
-      "iso_3166_1": "US",
-      "name": "United States of America"
-    }
-  ],
-  "release_date": "2018-09-28",
-  "revenue": 855013954,
-  "runtime": 112,
-  "spoken_languages": [
-    {
-      "english_name": "Mandarin",
-      "iso_639_1": "zh",
-      "name": "普通话"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
-      "english_name": "Malay",
-      "iso_639_1": "ms",
-      "name": "Bahasa melayu"
-    }
-  ],
-  "status": "Released",
-  "tagline": "Die Welt hat genug Superhelden.",
-  "title": "Venom",
-  "video": false,
-  "vote_average": 6.8,
-  "vote_count": 11382
+    "adult": false,
+    "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+    "belongs_to_collection": null,
+    "budget": 116000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.venom.movie/site/",
+    "id": 335983,
+    "imdb_id": "tt1270797",
+    "original_language": "en",
+    "original_title": "Venom",
+    "overview": "Als Dr. Carlton, Chef der mysteriösen Life Foundation, in den Besitz eines Organismus außerirdischen Ursprungs kommt, benutzt er diese sogenannten Symbionten, um mit ihnen Experimente an Menschen durchzuführen. Dank des Tipps einer Konzern-Insiderin bekommt der Reporter Eddie Brock Wind von Drakes fragwürdigen Machenschaften und beschließt – entgegen der Warnung seiner Freundin Anne– der Sache auf den Grund zu gehen. Bei seinen Nachforschungen in den Labors der Life Foundation kommt Eddie jedoch selbst mit einem Symbionten in Kontakt, der mit ihm zu einem neuen Wesen verschmilzt: dem mit übermenschlichen Kräften ausgestatteten Venom.",
+    "popularity": 532.923,
+    "poster_path": "/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg",
+    "production_companies": [
+        {
+            "id": 31828,
+            "logo_path": null,
+            "name": "Avi Arad Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 53462,
+            "logo_path": null,
+            "name": "Matt Tolmach Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 84041,
+            "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
+            "name": "Pascal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 81620,
+            "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+            "name": "Tencent Pictures",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-09-28",
+    "revenue": 855013954,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Malay",
+            "iso_639_1": "ms",
+            "name": "Bahasa melayu"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Welt hat genug Superhelden.",
+    "title": "Venom",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 11382
 }

@@ -26,6 +26,7 @@ it('maps data from tmdb', function (): void {
     Assert::assertSame('en', $movie->original_language);
     Assert::assertSame(532.923, $movie->popularity);
     ArrayAssertions::assertEquals(['US', 'CN'], $movie->production_countries);
+    ArrayAssertions::assertEquals(['zh', 'en', 'ms'], $movie->spoken_languages);
     Assert::assertTrue($movie->release_date?->isSameDay('2018-09-28'));
     Assert::assertSame(112, $movie->runtime);
     EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);

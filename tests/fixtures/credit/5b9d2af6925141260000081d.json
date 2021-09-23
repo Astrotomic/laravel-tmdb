@@ -1,0 +1,99 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Shakedown Thug"
+    },
+    "media_type": "movie",
+    "id": "5b9d2af6925141260000081d",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Sam Medina",
+        "id": 1044954,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11380,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 547.049,
+                "media_type": "movie"
+            },
+            {
+                "original_language": "en",
+                "original_title": "Alita: Battle Angel",
+                "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+                "video": false,
+                "vote_average": 7.2,
+                "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+                "release_date": "2019-01-31",
+                "vote_count": 6893,
+                "adult": false,
+                "backdrop_path": "/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
+                "title": "Alita: Battle Angel",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 399579,
+                "popularity": 98.154,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ZusF7y230mM1NRlg9Ktgrak9Dg.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "vote_count": 5406,
+                "original_language": "en",
+                "original_title": "Olympus Has Fallen",
+                "poster_path": "/gKnx04MxnKcf5uOdhHhAAkqcCg.jpg",
+                "video": false,
+                "title": "Olympus Has Fallen",
+                "vote_average": 6.3,
+                "id": 117263,
+                "overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
+                "release_date": "2013-03-20",
+                "popularity": 32.375,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Acting",
+        "profile_path": "/9xDO3sxBcO3tsDXknlKJuepeFwl.jpg",
+        "popularity": 1.608
+    }
+}

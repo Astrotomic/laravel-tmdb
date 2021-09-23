@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Crowd Control Officer"
+    },
+    "media_type": "movie",
+    "id": "5bb638859251410dd50118f3",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "Brandon Morales",
+        "id": 1388183,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "original_name": "Criminal Minds",
+                "origin_country": [
+                    "US"
+                ],
+                "backdrop_path": "/nWw20ipGipwdOyLTkFfX2Uz4Grp.jpg",
+                "vote_count": 2525,
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "name": "Criminal Minds",
+                "original_language": "en",
+                "id": 4057,
+                "poster_path": "/7TCwgX7oQKxcWYEhSPRmaHe6ULN.jpg",
+                "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+                "first_air_date": "2005-09-22",
+                "vote_average": 8.3,
+                "popularity": 243.154,
+                "media_type": "tv"
+            },
+            {
+                "overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+                "original_name": "Brooklyn Nine-Nine",
+                "origin_country": [
+                    "US"
+                ],
+                "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "vote_count": 1854,
+                "first_air_date": "2013-09-17",
+                "vote_average": 8.2,
+                "poster_path": "/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+                "name": "Brooklyn Nine-Nine",
+                "original_language": "en",
+                "id": 48891,
+                "popularity": 138.564,
+                "media_type": "tv"
+            }
+        ],
+        "known_for_department": "Acting",
+        "profile_path": "/ei98nkcYPPRSQz6hb55aR8nqroh.jpg",
+        "popularity": 1.003
+    }
+}

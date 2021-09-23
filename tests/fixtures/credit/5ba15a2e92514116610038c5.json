@@ -1,0 +1,98 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Executive Producer",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923
+    },
+    "media_type": "movie",
+    "id": "5ba15a2e92514116610038c5",
+    "person": {
+        "adult": false,
+        "gender": 1,
+        "name": "Kelly Marcel",
+        "id": 940376,
+        "known_for": [
+            {
+                "adult": false,
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 11381,
+                "id": 335983,
+                "title": "Venom",
+                "original_language": "en",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "popularity": 532.923,
+                "media_type": "movie"
+            },
+            {
+                "original_language": "en",
+                "original_title": "Fifty Shades of Grey",
+                "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+                "title": "Fifty Shades of Grey",
+                "vote_average": 5.9,
+                "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+                "release_date": "2015-02-11",
+                "id": 216015,
+                "adult": false,
+                "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+                "vote_count": 9766,
+                "genre_ids": [
+                    18,
+                    10749,
+                    53
+                ],
+                "video": false,
+                "popularity": 109.344,
+                "media_type": "movie"
+            },
+            {
+                "poster_path": "/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+                "video": false,
+                "vote_average": 8.3,
+                "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+                "release_date": "2021-05-26",
+                "id": 337404,
+                "adult": false,
+                "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+                "vote_count": 5428,
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "title": "Cruella",
+                "original_language": "en",
+                "original_title": "Cruella",
+                "popularity": 590.366,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Writing",
+        "profile_path": "/thpdVW7O1975GcA3eNs1H8UIlmd.jpg",
+        "popularity": 2.156
+    }
+}

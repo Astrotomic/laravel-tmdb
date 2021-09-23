@@ -14,6 +14,7 @@ abstract class Request
 {
     protected PendingRequest $request;
     protected ?string $language = null;
+    protected array $append = [];
 
     public function __construct()
     {
@@ -26,6 +27,13 @@ abstract class Request
     public function language(?string $language): static
     {
         $this->language = $language;
+
+        return $this;
+    }
+
+    public function append(string ...$append): static
+    {
+        $this->append = $append;
 
         return $this;
     }

@@ -1,0 +1,99 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Lobby Guard Richard"
+    },
+    "media_type": "movie",
+    "id": "5c0c4b520e0a2638b608cfcc",
+    "person": {
+        "known_for_department": "Acting",
+        "id": 53257,
+        "name": "Emilio Rivera",
+        "profile_path": "/brtL6uF2cWCN3LhQYWymHPdTY88.jpg",
+        "known_for": [
+            {
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "title": "Venom",
+                "video": false,
+                "vote_average": 6.8,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "vote_count": 11380,
+                "release_date": "2018-09-28",
+                "popularity": 547.049,
+                "id": 335983,
+                "adult": false
+            },
+            {
+                "backdrop_path": "/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "original_language": "en",
+                "original_title": "Spider-Man 3",
+                "poster_path": "/2jLxKF73SAPkyhIWrnv67IH7kJ1.jpg",
+                "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+                "video": false,
+                "title": "Spider-Man 3",
+                "id": 559,
+                "vote_count": 10283,
+                "release_date": "2007-05-01",
+                "popularity": 163.647,
+                "vote_average": 6.3,
+                "adult": false
+            },
+            {
+                "backdrop_path": "/vZh2ZoBMyAiH8vYGqadyMBX50Gc.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    14,
+                    35
+                ],
+                "original_language": "en",
+                "original_title": "Bruce Almighty",
+                "poster_path": "/nF9hly6Dk2pcQFSnuxugI34RpCC.jpg",
+                "vote_average": 6.7,
+                "video": false,
+                "id": 310,
+                "vote_count": 8645,
+                "overview": "Bruce Nolan toils as a 'human interest' television reporter in Buffalo, N.Y., but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God—and the Almighty responds, endowing Bruce with all of His divine powers.",
+                "release_date": "2003-05-23",
+                "popularity": 33.7,
+                "title": "Bruce Almighty",
+                "adult": false
+            }
+        ],
+        "gender": 2,
+        "adult": false,
+        "popularity": 3.297
+    }
+}

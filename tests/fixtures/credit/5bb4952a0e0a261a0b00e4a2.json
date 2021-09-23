@@ -1,0 +1,99 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "original_title": "Venom",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11381,
+        "id": 335983,
+        "title": "Venom",
+        "original_language": "en",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "popularity": 532.923,
+        "character": "Dr. Collins"
+    },
+    "media_type": "movie",
+    "id": "5bb4952a0e0a261a0b00e4a2",
+    "person": {
+        "profile_path": "/dNfAM8jNgwa1693nuplfjp70Ls4.jpg",
+        "known_for_department": "Acting",
+        "name": "Sope Aluko",
+        "known_for": [
+            {
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "release_date": "2018-02-13",
+                "popularity": 125.103,
+                "id": 284054,
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "original_title": "Black Panther",
+                "original_language": "en",
+                "title": "Black Panther",
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "vote_count": 17910,
+                "video": false,
+                "vote_average": 7.4
+            },
+            {
+                "vote_count": 11380,
+                "release_date": "2018-09-28",
+                "popularity": 547.049,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "title": "Venom",
+                "original_language": "en",
+                "original_title": "Venom",
+                "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "vote_average": 6.8,
+                "video": false,
+                "id": 335983
+            },
+            {
+                "overview": "The Bellas are back, and they are better than ever. After being humiliated in front of none other than the President of the United States of America, the Bellas are taken out of the Aca-Circuit. In order to clear their name, and regain their status, the Bellas take on a seemingly impossible task: winning an international competition no American team has ever won. In order to accomplish this monumental task, they need to strengthen the bonds of friendship and sisterhood and blow away the competition with their amazing aca-magic! With all new friends and old rivals tagging along for the trip, the Bellas can hopefully accomplish their dreams.",
+                "release_date": "2015-05-07",
+                "popularity": 25.093,
+                "title": "Pitch Perfect 2",
+                "adult": false,
+                "backdrop_path": "/bWOfRV1Ubk9SWEDZDDjsmIUCcbZ.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "vote_count": 4623,
+                "original_language": "en",
+                "original_title": "Pitch Perfect 2",
+                "poster_path": "/oFBQUufCV4c8WZoNhtGM17p884H.jpg",
+                "vote_average": 6.9,
+                "video": false,
+                "id": 254470
+            }
+        ],
+        "adult": false,
+        "gender": 1,
+        "id": 1431508,
+        "popularity": 0.6
+    }
+}
