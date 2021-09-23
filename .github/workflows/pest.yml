@@ -31,4 +31,4 @@ jobs:
           extensions: dom, curl, mbstring, zip, pcntl, intl
           coverage: xdebug
       - run: composer install --no-interaction --no-scripts
-      - run: vendor/bin/infection
+      - run: vendor/bin/infection --test-framework=pest
