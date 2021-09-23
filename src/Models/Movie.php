@@ -9,6 +9,7 @@ use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\GetMovieDetails;
 use Carbon\CarbonInterval;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * @property int $id
@@ -89,6 +90,11 @@ class Movie extends Model
         'poster_path',
     ];
 
+    public function genres(): BelongsToMany
+    {
+        return $this->belongsToMany(MovieGenre::class, 'movie_movie_genre');
+    }
+
     public function fillFromTmdb(array $data, ?string $locale = null): static
     {
         $movie = $this->fill([
@@ -129,7 +135,22 @@ class Movie extends Model
             return false;
         }
 
-        return $this->fillFromTmdb($data, $locale)->save();
+        if (! $this->fillFromTmdb($data, $locale)->save()) {
+            return false;
+        }
+
+        $this->genres()->sync(
+            collect($data['genres'] ?: [])
+                ->map(static function (array $data) use ($locale): MovieGenre {
+                    $genre = MovieGenre::query()->findOrNew($data['id']);
+                    $genre->fillFromTmdb($data, $locale)->save();
+
+                    return $genre;
+                })
+                ->pluck('id')
+        );
+
+        return true;
     }
 
     public function newEloquentBuilder($query): MovieBuilder

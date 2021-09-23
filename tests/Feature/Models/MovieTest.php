@@ -5,16 +5,13 @@ use Astrotomic\Tmdb\Enums\MovieStatus;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Movie;
-use Astrotomic\Tmdb\Requests\GetMovieDetails;
 use Carbon\CarbonInterval;
 use PHPUnit\Framework\Assert;
 use Spatie\Enum\Phpunit\EnumAssertions;
 
 it('maps data from tmdb', function (): void {
-    $movie = new Movie();
-    $movie->fillFromTmdb(
-        GetMovieDetails::request(335983)->send()->json()
-    );
+    $movie = new Movie(['id' => 335983]);
+    $movie->updateFromTmdb();
 
     Assert::assertSame(335983, $movie->id);
     Assert::assertSame('Venom', $movie->original_title);
@@ -32,6 +29,9 @@ it('maps data from tmdb', function (): void {
     Assert::assertTrue($movie->release_date?->isSameDay('2018-09-28'));
     Assert::assertSame(112, $movie->runtime);
     EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
+
+    Assert::assertCount(2, $movie->genres);
+    ArrayAssertions::assertEquals([28, 878], $movie->genres->pluck('id')->all());
 });
 
 it('movie provides a poster', function (): void {
