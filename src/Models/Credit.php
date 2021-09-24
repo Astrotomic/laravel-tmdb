@@ -19,6 +19,9 @@ class Credit extends Model
 
     protected $fillable = [
         'id',
+        'person_id',
+        'media_id',
+        'media_type',
         'credit_type',
         'department',
         'job',
