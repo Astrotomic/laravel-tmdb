@@ -3,7 +3,6 @@
 use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Movie;
 use Astrotomic\Tmdb\Models\MovieGenre;
-use Astrotomic\Tmdb\Models\Person;
 
 it('creates movie with genres', function (): void {
     $movie = Movie::query()->with('genres')->find(335983);
@@ -18,11 +17,9 @@ it('creates movie with cast', function (): void {
 
     expect($movie)
         ->toBeCreatedModel(Movie::class, 335983)
-        ->credits->toHaveCount(121)->each->toBeInstanceOf(Credit::class)
+        ->credits->toHaveCount(58)->each->toBeInstanceOf(Credit::class)
         ->cast->toHaveCount(58)->each->toBeInstanceOf(Credit::class)
-        ->crew->toHaveCount(63)->each->toBeInstanceOf(Credit::class);
-
-    expect(Person::query()->count())->toBe(114);
+        ->crew->toBeEmpty();
 });
 
 it('creates movie with crew', function (): void {
@@ -30,9 +27,17 @@ it('creates movie with crew', function (): void {
 
     expect($movie)
         ->toBeCreatedModel(Movie::class, 335983)
+        ->credits->toHaveCount(63)->each->toBeInstanceOf(Credit::class)
+        ->cast->toBeEmpty()
+        ->crew->toHaveCount(63)->each->toBeInstanceOf(Credit::class);
+});
+
+it('creates movie with credits', function (): void {
+    $movie = Movie::query()->with('credits')->find(335983);
+
+    expect($movie)
+        ->toBeCreatedModel(Movie::class, 335983)
         ->credits->toHaveCount(121)->each->toBeInstanceOf(Credit::class)
         ->cast->toHaveCount(58)->each->toBeInstanceOf(Credit::class)
         ->crew->toHaveCount(63)->each->toBeInstanceOf(Credit::class);
-
-    expect(Person::query()->count())->toBe(114);
 });

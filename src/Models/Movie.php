@@ -40,10 +40,14 @@ use Illuminate\Support\Facades\DB;
  * @property \Carbon\Carbon|null $updated_at
  * @property-read array $translations
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\MovieGenre[] $genres
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $credits
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $cast
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $crew
  *
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder query()
  * @method static \Astrotomic\Tmdb\Models\Movie newModelInstance(array $attributes = [])
  * @method static \Astrotomic\Tmdb\Models\Movie|\Illuminate\Database\Eloquent\Collection|null find(int|int[]|\Illuminate\Contracts\Support\Arrayable $id, array $columns = ['*'])
+ * @method static \Astrotomic\Tmdb\Models\Movie|\Illuminate\Database\Eloquent\Collection findOrFail(int|int[]|\Illuminate\Contracts\Support\Arrayable $id, array $columns = ['*'])
  * @method static \Illuminate\Database\Eloquent\Collection findMany(int[]|\Illuminate\Contracts\Support\Arrayable $ids, array $columns = ['*'])
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder
  */
@@ -166,7 +170,7 @@ class Movie extends Model
     {
         $append = collect($with)
             ->map(fn (string $relation) => match ($relation) {
-                'cast', 'crew' => GetMovieDetails::APPEND_CREDITS,
+                'cast', 'crew', 'credits' => GetMovieDetails::APPEND_CREDITS,
                 default => null,
             })
             ->filter()
@@ -186,7 +190,7 @@ class Movie extends Model
             return false;
         }
 
-        return DB::transaction(function () use ($data, $locale): bool {
+        return DB::transaction(function () use ($data, $locale, $with): bool {
             if (! $this->fillFromTmdb($data, $locale)->save()) {
                 return false;
             }
@@ -203,11 +207,16 @@ class Movie extends Model
             );
 
             if (isset($data['credits'])) {
-                foreach ($data['credits']['cast'] as $cast) {
-                    Credit::query()->find($cast['credit_id']);
+                if (in_array('credits', $with) || in_array('cast', $with)) {
+                    foreach ($data['credits']['cast'] as $cast) {
+                        Credit::query()->find($cast['credit_id']);
+                    }
                 }
-                foreach ($data['credits']['crew'] as $crew) {
-                    Credit::query()->find($crew['credit_id']);
+
+                if (in_array('credits', $with) || in_array('crew', $with)) {
+                    foreach ($data['credits']['crew'] as $crew) {
+                        Credit::query()->find($crew['credit_id']);
+                    }
                 }
             }
 
