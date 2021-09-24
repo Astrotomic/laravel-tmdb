@@ -61,9 +61,11 @@ class Credit extends Model
 
     public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
-        $data = GetCreditDetails::request($this->id)
+        $data = rescue(
+            fn () => GetCreditDetails::request($this->id)
                 ->send()
-                ->json();
+                ->json()
+        );
 
         if ($data === null) {
             return false;

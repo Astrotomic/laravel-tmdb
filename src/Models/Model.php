@@ -2,12 +2,8 @@
 
 namespace Astrotomic\Tmdb\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
 abstract class Model extends \Illuminate\Database\Eloquent\Model
 {
-    use HasFactory;
-
     public $incrementing = false;
 
     public static function table(): string

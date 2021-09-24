@@ -60,8 +60,8 @@ abstract class Builder extends EloquentBuilder
 
             return $models->merge(
                 collect($ids)
-                    ->reject(fn (int $id): bool => $models->contains($id))
-                    ->map(fn (int $id): ?Model => $this->createFromTmdb($id))
+                    ->reject(fn (int|string $id): bool => $models->contains($id))
+                    ->map(fn (int|string $id): ?Model => $this->createFromTmdb($id))
                     ->filter()
             );
         });
