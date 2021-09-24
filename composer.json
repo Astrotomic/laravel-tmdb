@@ -1,6 +1,7 @@
 {
     "name": "astrotomic/laravel-tmdb",
-    "description": "",
+    "description": "Interact with TMDB data in your Laravel application.",
+    "homepage": "https://github.com/Astrotomic/laravel-tmdb",
     "license": "MIT",
     "authors": [
         {
@@ -67,5 +68,8 @@
         "normalize": "echo 'composer global require ergebnis/composer-normalize'",
         "test": "vendor/bin/pest",
         "thanks": "echo 'composer global require symfony/thanks'"
+    },
+    "support": {
+        "issues": "https://github.com/Astrotomic/laravel-tmdb/issues"
     }
 }
