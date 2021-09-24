@@ -34,6 +34,19 @@ it('generates original size url', function (): void {
     expect($poster->url())->toBeUrl('https://image.tmdb.org/t/p/original/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg');
 });
 
+it('generates fallback url', function (): void {
+    $poster = new Poster(null, 'Venom');
+
+    expect($poster->fallback())->toBeUrl('https://via.placeholder.com/780x1170/9ca3af/ffffff.jpg?text=Venom');
+});
+
+it('generates original size fallback url', function (): void {
+    $poster = new Poster(null);
+    $poster->size(Poster::SIZE_ORIGINAL);
+
+    expect($poster->fallback())->toBeUrl('https://via.placeholder.com/2000x3000/9ca3af/ffffff.jpg?text=');
+});
+
 it('stringifies default size url', function (): void {
     $poster = new Poster('/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg');
 
@@ -46,17 +59,17 @@ it('stringifies fallback url', function (): void {
     expect((string) $poster)->toBeUrl('https://via.placeholder.com/780x1170/9ca3af/ffffff.jpg?text=Venom');
 });
 
+it('stringifies original size fallback url', function (): void {
+    $poster = new Poster(null);
+    $poster->size(Poster::SIZE_ORIGINAL);
+
+    expect((string) $poster)->toBeUrl('https://via.placeholder.com/2000x3000/9ca3af/ffffff.jpg?text=');
+});
+
 it('generates HTML img tag', function (): void {
     $poster = new Poster('/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg', 'Venom');
 
     expect($poster->toHtml())->toBe(
         '<img src="https://image.tmdb.org/t/p/w780/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg" alt="Venom" loading="lazy" width="780" height="1170"/>'
     );
-});
-
-it('stringifies original size fallback url', function (): void {
-    $poster = new Poster(null);
-    $poster->size(Poster::SIZE_ORIGINAL);
-
-    expect((string) $poster)->toBeUrl('https://via.placeholder.com/2000x3000/9ca3af/ffffff.jpg?text=');
 });

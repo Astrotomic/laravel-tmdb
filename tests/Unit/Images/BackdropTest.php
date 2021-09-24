@@ -34,6 +34,19 @@ it('generates original size url', function (): void {
     expect($backdrop->url())->toBeUrl('https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg');
 });
 
+it('generates fallback url', function (): void {
+    $backdrop = new Backdrop(null, 'Venom');
+
+    expect($backdrop->fallback())->toBeUrl('https://via.placeholder.com/1280x720/9ca3af/ffffff.jpg?text=Venom');
+});
+
+it('generates original size fallback url', function (): void {
+    $backdrop = new Backdrop(null);
+    $backdrop->size(Backdrop::SIZE_ORIGINAL);
+
+    expect($backdrop->fallback())->toBeUrl('https://via.placeholder.com/1920x1080/9ca3af/ffffff.jpg?text=');
+});
+
 it('stringifies default size url', function (): void {
     $backdrop = new Backdrop('/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg');
 
@@ -51,4 +64,12 @@ it('stringifies original size fallback url', function (): void {
     $backdrop->size(Backdrop::SIZE_ORIGINAL);
 
     expect((string) $backdrop)->toBeUrl('https://via.placeholder.com/1920x1080/9ca3af/ffffff.jpg?text=');
+});
+
+it('generates HTML img tag', function (): void {
+    $backdrop = new Backdrop('/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg', 'Venom');
+
+    expect($backdrop->toHtml())->toBe(
+        '<img src="https://image.tmdb.org/t/p/w1280/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg" alt="Venom" loading="lazy" width="1280" height="720"/>'
+    );
 });
