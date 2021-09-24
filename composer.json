@@ -66,7 +66,6 @@
         ],
         "normalize": "echo 'composer global require ergebnis/composer-normalize'",
         "test": "vendor/bin/pest",
-        "test-live": "HTTP_LIVE=1 vendor/bin/pest",
         "thanks": "echo 'composer global require symfony/thanks'"
     }
 }
