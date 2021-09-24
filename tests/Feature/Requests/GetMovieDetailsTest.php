@@ -48,3 +48,7 @@ it('can call pending request methods', function (): void {
 
     expect($foo)->toBeTrue();
 });
+
+it('throws exception for unknown method', function (): void {
+    GetMovieDetails::request(335983)->unknownFooMethodBar();
+})->throws(BadMethodCallException::class);
