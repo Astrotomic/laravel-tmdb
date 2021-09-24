@@ -7,7 +7,9 @@
     },
     "mutators": {
         "@default": true,
-        "@function_signature": false
+        "@function_signature": false,
+        "@removal": false,
+        "@unwrap": false
     },
     "testFramework": "pest"
 }
