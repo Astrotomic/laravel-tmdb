@@ -39,10 +39,12 @@ abstract class Request
 
     abstract public function send(): Response;
 
-    public function __call(string $name, array $arguments)
+    public function __call(string $name, array $arguments): static
     {
         if (method_exists($this->request, $name)) {
-            return call_user_func_array([$this->request, $name], $arguments);
+            call_user_func_array([$this->request, $name], $arguments);
+
+            return $this;
         }
 
         throw new BadMethodCallException();
