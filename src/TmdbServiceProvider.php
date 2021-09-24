@@ -2,7 +2,9 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Movie;
+use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\Person;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Relations\Relation;
@@ -12,12 +14,17 @@ class TmdbServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        Relation::morphMap(collect([Movie::class, Person::class])->keyBy(
+        Relation::morphMap(collect([Movie::class, Person::class, Credit::class, MovieGenre::class])->keyBy(
             fn (string $model): string => Str::of($model)
                 ->classBasename()
                 ->singular()
                 ->snake()
                 ->prepend('tmdb.')
         )->all());
+
+        $this->publishes([
+            __DIR__.'/../database/migrations/' => database_path('migrations'),
+        ], 'tmdb-migrations');
+        $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
     }
 }
