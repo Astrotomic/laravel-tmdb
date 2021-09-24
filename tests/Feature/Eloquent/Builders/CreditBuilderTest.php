@@ -40,3 +40,7 @@ it('retrieves movie credits', function () {
         ->find('5c58670992514157df52656b')->toBeRetrievedModel(Credit::class, '5c58670992514157df52656b')
         ->find('5c0dccfb0e0a2638bc0b4a1e')->toBeRetrievedModel(Credit::class, '5c0dccfb0e0a2638bc0b4a1e');
 });
+
+it('throws exception when media type is not a model', function () {
+    Credit::query()->whereMediaType('movie')->get();
+})->throws(InvalidArgumentException::class);
