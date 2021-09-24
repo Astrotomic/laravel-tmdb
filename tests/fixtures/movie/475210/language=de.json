@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/qFPSiVDvhuL7E30r83R2ZxGQjWe.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80167481",
+    "id": 475210,
+    "imdb_id": "tt5246700",
+    "original_language": "en",
+    "original_title": "How It Ends",
+    "overview": "Mysteriöses Ereignisse lassen die Welt ganz plötzlich im totalen Chaos versinken. Und mittendrin versucht Will um jeden Preis nach Hause zu seiner schwangeren Frau Samantha auf der anderen Seite des Landes zu gelangen. Begleitet wird er dabei von seinem Schwiegervater, dem Ex-Soldaten Tom, der nur wenig begeistert von dem Mann seiner Tochter ist. Doch die darüber hinaus stellt sich auch die Frage, was der Ursprung der seltsamen und das Überleben der Menschheit bedrohenden Vorkommnisse. Sind sie natürlichen Ursprungs oder steckt eine treibende Kraft dahinter?",
+    "popularity": 47.601,
+    "poster_path": "/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg",
+    "production_companies": [
+        {
+            "id": 23596,
+            "logo_path": null,
+            "name": "Paul Schiff Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 24049,
+            "logo_path": "/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png",
+            "name": "Sierra/Affinity",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-07-13",
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "How It Ends",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 1497
+}

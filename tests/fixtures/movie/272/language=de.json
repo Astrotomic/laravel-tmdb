@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/y9AuabF1SXnn3xZ0tAJLLhv33Uj.jpg",
+    "belongs_to_collection": {
+        "id": 263,
+        "name": "The Dark Knight Filmreihe",
+        "poster_path": "/bLLJe1ZxqWKBC8k3roSQXYHydd9.jpg",
+        "backdrop_path": "/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/batman-begins/",
+    "id": 272,
+    "imdb_id": "tt0372784",
+    "original_language": "en",
+    "original_title": "Batman Begins",
+    "overview": "Wie wurde Bruce Wayne zu Batman? Als kleiner Junge musste Bruce Wayne mit ansehen, wie seine Eltern auf grauenhafte Weise umgebracht wurden. Deshalb kümmert sich der Butler Alfred Pennyworth um ihn und zieht ihn groß.Eines Tages macht er sich in aller Welt auf die Suche nach einem Weg, die Ungerechtigkeit zu bekämpfen. Als er nach seiner Reise wieder in seine Heimatstadt Gotham City zurückkehrt, muss er feststellen, dass die Verbrechensrate deutlich angestiegen ist. Dieser Umstand und der Drang nach Rache am Mord seiner Eltern treiben ihn langsam aber sicher dazu, sich Kampftechniken beizubringen und ein Fledermauskostüm zu entwerfen, mit deren Hilfe er Nacht für Nacht die Kriminellen der Stadt zur Strecke bringt - als Batman.",
+    "popularity": 47.094,
+    "poster_path": "/pahCwY59TfbhPsVJ4e7ASLry8a8.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 19231,
+            "logo_path": null,
+            "name": "Patalex III Productions Limited",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-06-10",
+    "revenue": 374218673,
+    "runtime": 140,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Urdu",
+            "iso_639_1": "ur",
+            "name": "اردو"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Böse fürchtet den Ritter.",
+    "title": "Batman Begins",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 16615
+}

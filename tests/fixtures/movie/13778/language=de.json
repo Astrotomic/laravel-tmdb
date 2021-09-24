@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/cyoqTf83PhirrpUosZZ88IQ70qw.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 13778,
+    "imdb_id": "tt0325258",
+    "original_language": "en",
+    "original_title": "Dickie Roberts: Former Child Star",
+    "overview": "Dicky Roberts ist 35 Jahre alt und war in seiner Kindheit ein TV-Star, doch jetzt ist er auf dem Abstellgleis und schafft den Sprung ins Showbiz nicht mehr. Als er dann eine Rolle angeboten bekommt für die er \"normal\" sein müsste, sieht er nur einen Weg endlich \"normal\" zu werden: Er adoptiert eine Familie und wächst nochmals ganz \"normal\" auf.",
+    "popularity": 10.633,
+    "poster_path": "/hYnJlFtqvJF6MpiNxOBfr8UFhaZ.jpg",
+    "production_companies": [
+        {
+            "id": 2608,
+            "logo_path": "/g3YRudXiQzHesQqRXvnhFpMzfkU.png",
+            "name": "Happy Madison Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-09-04",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dickie Roberts - Kinderstar",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 147
+}

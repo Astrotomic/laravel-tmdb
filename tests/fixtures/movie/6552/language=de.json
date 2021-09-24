@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/muY2OBQpv75O4mCTo0EQ2dn4uZ7.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 6552,
+    "imdb_id": "tt0138510",
+    "original_language": "en",
+    "original_title": "Idle Hands",
+    "overview": "Eine böse Macht bemächtigt sich der rechten Hand von Anton, die sonst nur daran gewöhnt ist, Joints zu drehen. Er bringt seine Eltern um und befördert zwei Highschool-Kumpels aufs Gruseligste vom Leben in den Tod. Die beiden kehren - keinen Groll hegend - als Zombies zurück. Größere Probleme hat Anton mit seiner Freundin Molly.",
+    "popularity": 10.447,
+    "poster_path": "/d74iBNt5xvPwP8eNyMWQwKO9an6.jpg",
+    "production_companies": [
+        {
+            "id": 6092,
+            "logo_path": null,
+            "name": "Licht/Mueller Film Corporation",
+            "origin_country": ""
+        },
+        {
+            "id": 598,
+            "logo_path": null,
+            "name": "Team Todd",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 559,
+            "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+            "name": "TriStar Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-04-30",
+    "revenue": 4152230,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Die Killerhand",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 443
+}

@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/iiKTyL7jTw5FzVBlhLCu9I7M86w.jpg",
+    "belongs_to_collection": {
+        "id": 8864,
+        "name": "Final Destination Filmreihe",
+        "poster_path": "/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg",
+        "backdrop_path": "/y3aWOInifbGKXM34KjtcMITrZRZ.jpg"
+    },
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 9286,
+    "imdb_id": "tt0414982",
+    "original_language": "en",
+    "original_title": "Final Destination 3",
+    "overview": "Wendy feiert ihren Highschool-Abschluss mit Freunden im Freizeitpark. Kurz bevor eine Achterbahn-Fahrt beginnen soll, hat sie die Vorahnung eines schrecklichen Unfalls. Während sie und einige Freunde aussteigen, wird der Unfall Realität - alle Fahrgäste finden den Tod. Doch das ist erst der Anfang. Ihr und ihren Freunden war der Tod vorbestimmt. Wendy entdeckt nach der Tragödie, dass Fotos aus dem Freizeitpark Hinweise enthalten, auf welche Art der Tod die Überlebenden heimsuchen wird. Während sie versucht die Hinweise zu deuten, stirbt einer nach dem anderen auf grausame Weise, bis auch ihre Zeit gekommen scheint.",
+    "popularity": 39.715,
+    "poster_path": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 3169,
+            "logo_path": null,
+            "name": "Zide-Perry Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 12067,
+            "logo_path": null,
+            "name": "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 1 KG",
+            "origin_country": ""
+        },
+        {
+            "id": 48772,
+            "logo_path": null,
+            "name": "Hard Eight Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 48785,
+            "logo_path": null,
+            "name": "Matinee Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 48788,
+            "logo_path": null,
+            "name": "Practical Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-02-09",
+    "revenue": 118890272,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Final Destination 3",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 2821
+}

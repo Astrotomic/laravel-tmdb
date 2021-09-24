@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/5HbPMhiLMP11NbLX66pVXnOZNmE.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 4965,
+    "imdb_id": "tt0160399",
+    "original_language": "en",
+    "original_title": "Impostor",
+    "overview": "Irgendwann in einer fernen Zukunft. Außerirdische von 'Alpha Centauri' bedrohen unsere Welt, halten sie mit tödlichem Bombardement in einem permanenten Schockzustand. Die gigantischen Großstädte werden durch riesige Energieschilde geschützt und die Sicherheitsvorkehrungen sind immens. Dr. Spencer Olham, ein genialer Wissenschaftler, arbeitet an der ultimativen Waffe gegen die außerirdische Bedrohung. Auf ihm ruhen die letzten Hoffnungen der Menschheit. Doch Olham gerät plötzlich ins Visier der Sicherheitsbehörden, die ihn verdächtigen in Wahrheit ein genetisch manipuliertes Alien zu sein, das den echten Olham getötet haben soll. Und schlimmer noch: In seiner Brust tickt angeblich eine Bombe. Doch Olham entkommt dem Zugriff der Behörden und flieht aus der Stadt. Außerhalb der Schutzschilde, in den Ruinen der alten Städte, trifft er den Gauner Cale, der ihn zurück in die Stadt schmuggelt, damit er seine Unschuld beweisen kann...",
+    "popularity": 7.083,
+    "poster_path": "/zZtNVPsP0QydKcEsAjYRSLpFn5F.jpg",
+    "production_companies": [
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 12552,
+            "logo_path": null,
+            "name": "Marty Katz Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 21635,
+            "logo_path": null,
+            "name": "Mojo Films",
+            "origin_country": ""
+        },
+        {
+            "id": 21636,
+            "logo_path": null,
+            "name": "PK Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-12-03",
+    "revenue": 8694320,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Irgendwann in einer fernen Zukunft",
+    "title": "Impostor - Der Replikant",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 288
+}

@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/dc9NdundicVzMxtZ5EXepXj2rZX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 4474,
+    "imdb_id": "tt0465624",
+    "original_language": "en",
+    "original_title": "My Super Ex-Girlfriend",
+    "overview": "Der Architekt Matt ist zwar nicht gerade ein Partylöwe, hat aber in der Galleristin Jenny eine tolle Partnerin gefunden. Leider ist Jenny gewaltig eifersüchtig und durch und durch neurotisch - und außerdem das Alter Ego der Superheldin G-Girl. Als dem armen Matt das aufdringliche Verhalten seiner Freundin zu bunt wird, gibt er ihr den Laufpass und tröstet sich mit Kollegin Hannah. Aber da hat er die Rechnung ohne das Temperament und die Superkräfte seiner Ex gemacht, die nun alles tut, um Matt zurück zu gewinnen.",
+    "popularity": 9.194,
+    "poster_path": "/cUcuyJ2bIvSuTy3pSEJk6rDAKRW.jpg",
+    "production_companies": [
+        {
+            "id": 89632,
+            "logo_path": null,
+            "name": "S E Productions Inc.",
+            "origin_country": ""
+        },
+        {
+            "id": 508,
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 11733,
+            "logo_path": null,
+            "name": "Pariah",
+            "origin_country": ""
+        },
+        {
+            "id": 10104,
+            "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+            "name": "New Regency Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-06-20",
+    "revenue": 60896147,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie ist schüchtern, Sie ist sexy, Sie ist G-Girl.",
+    "title": "Die Super-Ex",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1111
+}

@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/1TPGPtvZCPTAYFpxqWbnX70nrV7.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.theworldmadestraightmovie.com/",
+    "id": 289716,
+    "imdb_id": "tt2420166",
+    "original_language": "en",
+    "original_title": "The World Made Straight",
+    "overview": "Rund 100 Jahre nach dem Ende des Amerikanischen Bürgerkriegs hat eine Kleinstadt in den Bergen von North Carolina noch immer mit den Auswirkungen eines damaligen, brutalen Massakers zu kämpfen. Gewalt scheint seit jenen Tagen ein fester Bestandteil des Lebens in der kleinen Gemeinde zu sein. Zu deren Bewohnern gehört auch der Teenager Travis Shelton (Jeremy Irvine), der sich eines Tages endgültig mit seinem Vater überwirft und daraufhin zu dem ehemaligen Lehrer Leonard Shuler (Noah Wyle) zieht, welcher mittlerweile gemeinsam mit der drogensüchtigen Dena (Minka Kelly) in einem heruntergekommenen Wohnwagen lebt und sich mit kleineren Drogendeals über Wasser hält. Der kurzzeitig einkehrende Frieden in Travis' Leben findet jedoch ein jähes Ende, als er und Leonard immer häufiger mit dem örtlichen Marihuana-Farmer Carlton Toomey (Steve Earle) aneinander und in eine Spirale aus Gewalt und Misstrauen geraten...",
+    "popularity": 3.93,
+    "poster_path": "/cqZCGp1SIIZvNVvyXbPVoJ9FgCw.jpg",
+    "production_companies": [
+        {
+            "id": 738,
+            "logo_path": "/huoAAE7VXZvwiIZzOK233Htn7pl.png",
+            "name": "Myriad Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 38284,
+            "logo_path": null,
+            "name": "Bifrost Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 14037,
+            "logo_path": null,
+            "name": "Dreambridge Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-01-09",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Zorniges Land",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 37
+}

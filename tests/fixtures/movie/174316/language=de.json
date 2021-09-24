@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/vyyD2iIEO7EjDhYdV0K4PAokib6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 174316,
+    "imdb_id": "tt1817081",
+    "original_language": "en",
+    "original_title": "A Case of You",
+    "overview": "New York: Der schüchterne Schriftsteller Sam hat sich verliebt. Im Coffee-Shop arbeitet Birdie und Sam hat eine Idee: Er sucht nach dem Facebookprofil seiner Angebeteten, studiert ihre Hobbys und will sie mit ihren scheinbaren Gemeinsamkeiten davon überzeugen, dass sie zusammen gehören. Als sie sich dann im realen Leben wieder treffen, muss er alles daran setzen, um seine Maskerade aufrecht zu erhalten. Denn Judo, Kochen, Gitarrespielen und Tanzen gehören eigentlich nicht unbedingt zu seinen größten Stärken.",
+    "popularity": 7.646,
+    "poster_path": "/aqdjSni091uh7nQdcas8Q0Kad0C.jpg",
+    "production_companies": [
+        {
+            "id": 14637,
+            "logo_path": null,
+            "name": "Lagniappe Films",
+            "origin_country": ""
+        },
+        {
+            "id": 26072,
+            "logo_path": null,
+            "name": "I'm So Sorry Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-11-06",
+    "revenue": 4187,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Er will alles sein, was sie sich wünscht - außer er selbst.",
+    "title": "iLove - geloggt, geliked, geliebt",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 235
+}

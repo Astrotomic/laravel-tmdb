@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 567610,
+    "imdb_id": "tt4786808",
+    "original_language": "en",
+    "original_title": "The Dougherty Gang",
+    "overview": "",
+    "popularity": 3.662,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 115662,
+            "logo_path": null,
+            "name": "Big Cat Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 132254,
+            "logo_path": null,
+            "name": "Charlie Baby Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 23029,
+            "logo_path": null,
+            "name": "Narrator Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "The Dougherty Gang",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

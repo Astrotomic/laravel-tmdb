@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/A96CVXbTNfhqw3jkUlyfFnGe8i3.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 14181,
+    "imdb_id": "tt0181984",
+    "original_language": "en",
+    "original_title": "Boiler Room",
+    "overview": "Erfolg haben heißt, viel Geld zu scheffeln. Auch Seth Davis grübelt, wie er es zum Millionär bringen könnte. Das College hat der clevere Student schon längst geschmissen und das illegale Casino, das er betreibt, ist auch nicht unbedingt ein dauerhaftes Zukunftsmodell.. Als der smarte Börsenmakler Jim ihm die Chance bietet, als Trainee beim Broker J.T. Marlin einzusteigen, scheint alles perfekt. Aber die Welt hinter der glitzernden Fassade des Reichtums ist eine andere, als es bei einem Blick auf die schöne Oberfläche scheint. Denn bei J.T. Marlin geht es nicht immer mit rechten Dingen zu. Schnell wird auch Seth in die Machenschaften des Unternehmens hineingezogen, weil er eine rasante Karriere startet. Aber schon bald muss er sich entscheiden, was mehr zählt: die eigene Integrität oder das große, schnelle Geld...",
+    "popularity": 7.402,
+    "poster_path": "/uYbkko9u3RUbrFO7oDCScxdOlvQ.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-02-18",
+    "revenue": 28780255,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Willkommen zum neuen amerikanischen Traum",
+    "title": "Ri$iko - Der schnellste Weg zum Reichtum",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 472
+}

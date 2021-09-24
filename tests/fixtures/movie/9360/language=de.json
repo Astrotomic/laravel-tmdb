@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/5aj2kU5FN9VIu835cIf8W838vlt.jpg",
+    "belongs_to_collection": {
+        "id": 105995,
+        "name": "Anaconda Filmreihe",
+        "poster_path": "/sENQAlXOhOb2QmfpFl2w34W9ODP.jpg",
+        "backdrop_path": "/uR7j2TEwJVCMz7CDJgNPuhty4J9.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 9360,
+    "imdb_id": "tt0118615",
+    "original_language": "en",
+    "original_title": "Anaconda",
+    "overview": "Ein Filmteam um die attraktive Terri im Dickicht des Amazonas-Dschungels macht sich auf die Suche nach den Spuren eines vermeintlich ausgestorbenen Indianerstamms. Keiner kann ahnen, daß ihnen ein Rendezvous mit einer Riesenschlange bevorsteht, die nur ein Ziel kennt: Ihre Opfer zu Tode zu quetschen. Als sich der Schlangenjäger Sarone Zugang zum Boot verschafft, wird die Expedition zum apokalyptischen Todestrip. Denn der dämonische Sarone hat es auf die Anaconda abgesehen. Um der Bestie endlich ins Auge sehen zu können, schreckt er auch nicht davor zurück, das Kommando skrupellos an sich zu reißen und die Expeditionsteilnehmer als Köder an das Monster zu verfüttern ...",
+    "popularity": 32.804,
+    "poster_path": "/1G3tE98K1dtsVzSgpevzboKEyXK.jpg",
+    "production_companies": [
+        {
+            "id": 55532,
+            "logo_path": null,
+            "name": "St. Tropez Films",
+            "origin_country": ""
+        },
+        {
+            "id": 55533,
+            "logo_path": null,
+            "name": "Cinema Line Film Corporation",
+            "origin_country": ""
+        },
+        {
+            "id": 11134,
+            "logo_path": null,
+            "name": "Iguana Producciones",
+            "origin_country": ""
+        },
+        {
+            "id": 3803,
+            "logo_path": null,
+            "name": "Middle Fork Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 16387,
+            "logo_path": null,
+            "name": "Skylight Cinema Foto Art",
+            "origin_country": "BR"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PE",
+            "name": "Peru"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-04-11",
+    "revenue": 136000000,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie wird dir die Luft nehmen.",
+    "title": "Anaconda",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 1845
+}

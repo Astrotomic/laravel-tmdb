@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/iLN37GdxMT9FXWQRiwlZw9hxgpJ.jpg",
+    "belongs_to_collection": {
+        "id": 8864,
+        "name": "Final Destination Filmreihe",
+        "poster_path": "/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg",
+        "backdrop_path": "/y3aWOInifbGKXM34KjtcMITrZRZ.jpg"
+    },
+    "budget": 26000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 9358,
+    "imdb_id": "tt0309593",
+    "original_language": "en",
+    "original_title": "Final Destination 2",
+    "overview": "Ein Jahr, nachdem eine Gruppe Teenager dem Tod auf ebenso rätselhafte Weise enteilte, wie sie später von jenem wieder eingeholt wurde, droht sich das Geschehen zu wiederholen: nach einer Vorahnung verhindert die junge Kimberly, dass sie selbst, ihre Freunde sowie ein paar weitere Autofahrer auf dem Highway von einem Baumtransport aus dem Leben gerissen werden. Als schon wenige Tage darauf der erste Glückspilz einem seltsamen Unfall erliegt, wird Kimberly mulmig. Sie sucht Hilfe bei der letzten Überlebenden vom Vorjahr.",
+    "popularity": 35.598,
+    "poster_path": "/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 3169,
+            "logo_path": null,
+            "name": "Zide-Perry Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-01-31",
+    "revenue": 90941129,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Du wirst den Tod nicht überholen.",
+    "title": "Final Destination 2",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 2933
+}

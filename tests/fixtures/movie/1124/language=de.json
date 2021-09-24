@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/mfJepkInUbiZ0mFXFhDNz8ko6Zr.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://wwws.warnerbros.de/theprestige/",
+    "id": 1124,
+    "imdb_id": "tt0482571",
+    "original_language": "en",
+    "original_title": "The Prestige",
+    "overview": "Im viktorianischen Zeitalter, zur Zeit der Jahrhundertwende, lernen sich die konkurrierenden Magier Robert Angier und Alfred Borden kennen. Aus freundschaftlicher, jugendlicher Konkurrenz erwächst jedoch bald etwas wesentlich Schlimmeres, denn nicht nur neidet jeder dem Anderen das Talent, Roberts Frau stirbt auch bei einem von Alfreds risikobewehrten Tricks. Über Jahre belauern und bekämpfen sie sich gegenseitig und reißen damit ihr gesamtes Umfeld in die Tiefe, nur um hinter die Tricks des jeweils anderen zu kommen. Dabei schrecken die beiden am Ende nicht einmal vor Mord zurück, denn das \"Prestige\", der unglaubliche letzte Teil eines perfekten Zaubertricks, ist jeden Einsatz wert...",
+    "popularity": 23.038,
+    "poster_path": "/rN2eGbRpbJw8ZFVDiQfDxsknirP.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-10-19",
+    "revenue": 109676311,
+    "runtime": 130,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Freunde, die zu Rivalen werden. Rivalen, die zu Feinden werden.",
+    "title": "Prestige - Die Meister der Magie",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 12142
+}

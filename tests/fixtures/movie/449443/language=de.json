@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg",
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.criminalsquad-film.de/home/",
+    "id": 449443,
+    "imdb_id": "tt1259528",
+    "original_language": "en",
+    "original_title": "Den of Thieves",
+    "overview": "Die Federal Reserve Bank in Downtown L.A. ist eine wahre Festung. Wer auch nur daran denkt, hier einzubrechen, ist entweder komplett verrückt – oder ein knallharter Profi. Genau deshalb plant der Anführer einer Gruppe von Bankräubern dort zuzuschlagen, wo es niemand erwarten würde – und die Federal Reserve vor den Augen der Polizei leerzuräumen. Doch der skrupellose Elite-Cop Nick Flanagan hat bereits die Spur der Gruppe aufgenommen. Auf seiner Mission, die Bande zu unterwandern und zu stoppen, nimmt Flanagan keine Rücksickt auf das Gesetz.",
+    "popularity": 49.205,
+    "poster_path": "/drKgDhN7erqfpr0zfr2BXhgfnta.jpg",
+    "production_companies": [
+        {
+            "id": 2995,
+            "logo_path": null,
+            "name": "Atmosphere Entertainment MM",
+            "origin_country": "US"
+        },
+        {
+            "id": 103330,
+            "logo_path": null,
+            "name": "Diamond Film Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 103331,
+            "logo_path": null,
+            "name": "G-BASE",
+            "origin_country": "US"
+        },
+        {
+            "id": 100033,
+            "logo_path": "/74LDJbOFdya1ijNT11uh0mM5eg0.png",
+            "name": "Tucker Tooley Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-01-18",
+    "revenue": 80509622,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Criminal Squad",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 2111
+}

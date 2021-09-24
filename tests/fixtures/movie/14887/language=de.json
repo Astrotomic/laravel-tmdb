@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 14887,
+    "imdb_id": "tt0125678",
+    "original_language": "en",
+    "original_title": "Bongwater",
+    "overview": "",
+    "popularity": 2.616,
+    "poster_path": "/3gW8VZHOvvS1KnyH3u0svl7yCU8.jpg",
+    "production_companies": [
+        {
+            "id": 13534,
+            "logo_path": null,
+            "name": "First Look Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 152508,
+            "logo_path": null,
+            "name": "Gin Lane Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-04-18",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bongwater",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 25
+}

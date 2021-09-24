@@ -1,0 +1,51 @@
+{
+    "adult": false,
+    "backdrop_path": "/iz8YQQjY5hrIeO1ru8V0F26kt6G.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 266718,
+    "imdb_id": "tt2481554",
+    "original_language": "en",
+    "original_title": "Murder of a Cat",
+    "overview": "",
+    "popularity": 3.84,
+    "poster_path": "/4EvO8g1Mx2qOHkNpW27lSBKujH9.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-04-24",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Murder of a Cat",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 29
+}

@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 165000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.interstellarmovie.net/",
+    "id": 157336,
+    "imdb_id": "tt0816692",
+    "original_language": "en",
+    "original_title": "Interstellar",
+    "overview": "Was Wissenschaftler, Politiker und Aktivisten seit Jahrzehnten prophezeien, ist eingetreten: Die Menschheit steht kurz davor, an einer globalen Nahrungsknappheit zugrunde zu gehen. Die einzige Hoffnung der Weltbevölkerung besteht in einem geheimen Projekt der US-Regierung, das von dem findigen Wissenschaftler Professor Brand geleitet wird. Der Plan sieht vor, eine Expedition in ein anderes Sternensystem zu starten, wo bewohnbare Planeten, Rohstoffe und vor allem Leben vermutet werden. Der Ingenieur und ehemalige NASA-Pilot Cooper und Brands Tochter Amelia führen die Besatzung an, die sich auf eine Reise ins Ungewisse begibt: Wurmlöcher sind so gut wie unerforscht und niemand kann mit Sicherheit sagen, was die Crew auf der anderen Seite erwartet. Ebenso ist unsicher, ob und wann Cooper und Brand wieder auf die Erde zurückkehren. Coopers Kinder, Tochter Murph und Sohn Tom, müssen mit Schwiegervater Donald zurückbleiben und auf seine Wiederkehr hoffen...",
+    "popularity": 73.861,
+    "poster_path": "/mR2OK5aK5kMOdAQYfc5kkOg06Pn.jpg",
+    "production_companies": [
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+        },
+        {
+            "id": 13769,
+            "logo_path": null,
+            "name": "Lynda Obst Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-11-05",
+    "revenue": 701729206,
+    "runtime": 169,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Menschheit wurde auf der Erde geboren. Es war nie gedacht, dass sie hier stirbt.",
+    "title": "Interstellar",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 26692
+}

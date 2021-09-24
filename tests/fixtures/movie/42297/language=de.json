@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/uw4v9I6uug15VE9n8DMN9QsslC.jpg",
+    "belongs_to_collection": null,
+    "budget": 55000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "http://www.burlesquethemovie.com/",
+    "id": 42297,
+    "imdb_id": "tt1126591",
+    "original_language": "en",
+    "original_title": "Burlesque",
+    "overview": "Sie ist jung und hat große Träume, wie so viele Frauen in ihrem Alter. Sängerin Ali ist in Iowa auf dem Land aufgewachsen. Eines Tages kauft sie sich ein Flugticket nach Los Angeles, um dort Karriere zu machen. Sie landet in der etwas heruntergekommenen Burlesque Lounge, einem Revuetheater, das seine besten Tage schon hinter sich hat. Geführt wird die Lounge von Tess, die gleichzeitig der Star der Show ist. Ali wird als Cocktail-Kellnerin eingestellt, doch sie sehnt sich danach, auf der Bühne zu stehen. Eines Tages erhält sie ihre Chance – und versetzt die Zuschauer durch ihre atemberaubende Stimmgewalt in Staunen und Begeisterung.",
+    "popularity": 12.557,
+    "poster_path": "/wEeOBoDemWwptFQq035eTmtR4jB.jpg",
+    "production_companies": [
+        {
+            "id": 3287,
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "origin_country": "US"
+        },
+        {
+            "id": 348,
+            "logo_path": null,
+            "name": "Bedford Falls Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-11-23",
+    "revenue": 89519773,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Nur eine Legende erschafft einen Star",
+    "title": "Burlesque",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 1832
+}

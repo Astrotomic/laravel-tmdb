@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 712602,
+        "original_language": "en",
+        "original_title": "The Dunkirk Spirit: Behind the Making of the Movie",
+        "overview": "Nominated for eight Academy Awards including Best Picture and Best Director, Dunkirk is Christopher Nolan's sweeping, emotional epic. Dunkirk opens as hundreds of thousands of British and Allied troops are surrounded by enemy forces. Trapped on the beach with their backs to the sea and home almost within sight, they face an impossible situation as the enemy closes in. The story unfolds on land, sea and air. RAF Spitfires engage the enemy in the skies above the Channel, trying to protect the defenseless troops below. Meanwhile, hundreds of small boats manned by both civilians and military mount a desperate rescue effort, risking their lives in a race against time to save even a fraction of their army. When 400,000 men couldn't get home, home came for them. - Warner Bros.",
+        "poster_path": null,
+        "release_date": "2018-02-12",
+        "title": "The Dunkirk Spirit: Behind the Making of the Movie",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 4,
+        "popularity": 0.723,
+        "character": "Himself"
+    },
+    "media_type": "movie",
+    "id": "5ed9c5122f3b17001e55ddde",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "John Papsidera",
+        "id": 561,
+        "known_for": [
+            {
+                "poster_path": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+                "video": false,
+                "id": 27205,
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "release_date": "2010-07-15",
+                "vote_count": 29871,
+                "adult": false,
+                "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+                "vote_average": 8.3,
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "title": "Inception",
+                "original_language": "en",
+                "original_title": "Inception",
+                "popularity": 52.036,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 26687,
+                "popularity": 77.698,
+                "media_type": "movie"
+            },
+            {
+                "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+                "release_date": "2008-07-14",
+                "original_title": "The Dark Knight",
+                "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                "adult": false,
+                "backdrop_path": "/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg",
+                "vote_average": 8.5,
+                "genre_ids": [
+                    18,
+                    28,
+                    80,
+                    53
+                ],
+                "vote_count": 25850,
+                "original_language": "en",
+                "video": false,
+                "title": "The Dark Knight",
+                "id": 155,
+                "popularity": 53.064,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Production",
+        "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+        "popularity": 0.921
+    }
+}

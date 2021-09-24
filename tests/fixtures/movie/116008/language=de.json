@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 116008,
+    "imdb_id": "tt0119278",
+    "original_language": "en",
+    "original_title": "Chicago Cab",
+    "overview": "",
+    "popularity": 2.481,
+    "poster_path": "/rOQZwzJTdXZlQGdn4vEghwVyji8.jpg",
+    "production_companies": [
+        {
+            "id": 12886,
+            "logo_path": null,
+            "name": "New Crime Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 40329,
+            "logo_path": null,
+            "name": "Child's Will Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 1069,
+            "logo_path": null,
+            "name": "GFT Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-01-01",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Chicago Cab",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 11
+}

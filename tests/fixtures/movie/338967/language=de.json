@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+    "belongs_to_collection": {
+        "id": 537982,
+        "name": "Zombieland Filmreihe",
+        "poster_path": "/csnEGucfTUi6rj0TgitNucQfAYD.jpg",
+        "backdrop_path": "/n6XNnXTMZVTttt338CrBkfKPuOd.jpg"
+    },
+    "budget": 42000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.zombieland.com/",
+    "id": 338967,
+    "imdb_id": "tt1560220",
+    "original_language": "en",
+    "original_title": "Zombieland: Double Tap",
+    "overview": "Wichita, Little Rock, Columbus  und Tallahassee sind zurück und schlagen sich weiter durch eine Welt, die nach einer Zombieapokalypse brachliegt. Das hat auch so seine Vorteile, kann man es sich nun im verwaisten Weißen Haus gemütlich machen. Doch die bunte Truppe wird auch vor Herausforderungen gestellt, helfen ihre selbst aufgestellten Regeln doch nicht in jeder Situation. Als Little Rock den Kiffer Berkeley trifft und mit ihm durchbrennt, überredet Wichita die beiden Männer sie zu suchen. Dabei treffen sie nicht nur auf Zombies, die sich weiterentwickelt haben, sondern auch auf andere Überlebende. Vor allem aber müssen sie sich den wachsenden Problemen ihrer eigenen, bunt zusammengewürfelten, Zwangsfamilie stellen.",
+    "popularity": 129.378,
+    "poster_path": "/lz0sEOSpELFXDInIazCyp5CDPLb.jpg",
+    "production_companies": [
+        {
+            "id": 11733,
+            "logo_path": null,
+            "name": "Pariah",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-10-09",
+    "revenue": 122801777,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Zeit Eier zu zeigen oder Fresse zu halten.",
+    "title": "Zombieland 2: Doppelt hält besser",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 3949
+}

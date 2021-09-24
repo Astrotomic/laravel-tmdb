@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/fcjOngTcwB2DurqKP2vwMs6qsTl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 500922,
+    "imdb_id": "tt3758162",
+    "original_language": "en",
+    "original_title": "A Score to Settle",
+    "overview": "A former mob enforcer who is released from prison after serving 22 years for a crime he didn't commit sets out on a path for revenge against the people who wronged him.",
+    "popularity": 80.866,
+    "poster_path": "/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg",
+    "production_companies": [
+        {
+            "id": 110756,
+            "logo_path": "/8Ty9kOsNenEJRRmV81kTxPsTIl3.png",
+            "name": "Paragon Media Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 53169,
+            "logo_path": null,
+            "name": "Goldrush Entertainment",
+            "origin_country": "CA"
+        },
+        {
+            "id": 8583,
+            "logo_path": null,
+            "name": "Minds Eye Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 123580,
+            "logo_path": null,
+            "name": "Spartiate Films",
+            "origin_country": ""
+        },
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-08-01",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Revenge Is Coming",
+    "title": "A Score to Settle",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 349
+}

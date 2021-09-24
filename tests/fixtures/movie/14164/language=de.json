@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/oHrrgAPEKpz0S1ofQntiZNrmGrM.jpg",
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 14164,
+    "imdb_id": "tt1098327",
+    "original_language": "en",
+    "original_title": "Dragonball Evolution",
+    "overview": "An seinem 18. Geburtstag bekommt Goku von seinem Großvater Gohan einen Dragonball geschenkt. Die Legende besagt, dass derjenige, der alle sieben Dragonballs zusammenbringt, einen Drachen beschwört, der einen beliebigen Wunsch erfüllt. Doch für solchen mythologischen Krempel hat Goku keine Zeit. Er will bei einer Party die asiatische Schulschönheit Chi Chi beeindrucken, indem er den Attacken zweier arroganter Rowdys in Gandhi-Manier politisch korrekt aus dem Weg geht, weshalb diese dummerweise ihr eigenes Auto verschrotten. Wieder daheim muss sich Goku dann wohl oder übel doch der Dragonball-Problematik annehmen. Sein Haus ist zerstört, der Großvater tot und der magische Orb verschwunden. Dahinter steckt Lord Piccolo, der mit Hilfe der Dragonballs einen alten Monsterkumpel wiedererwecken und so seine private Hölle auf Erden erschaffen will. Doch Goku hat Glück, er muss sich der Herausforderung nicht alleine stellen.",
+    "popularity": 44.947,
+    "poster_path": "/sunS9xhPnFNP5wlOWrvbpBteAB.jpg",
+    "production_companies": [
+        {
+            "id": 81135,
+            "logo_path": null,
+            "name": "World Film Magic",
+            "origin_country": ""
+        },
+        {
+            "id": 444,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3477,
+            "logo_path": null,
+            "name": "Star Overseas",
+            "origin_country": ""
+        },
+        {
+            "id": 10893,
+            "logo_path": null,
+            "name": "Big Screen Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-03-12",
+    "revenue": 58228460,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Legende erwacht zum Leben",
+    "title": "Dragonball Evolution",
+    "video": false,
+    "vote_average": 2.8,
+    "vote_count": 1527
+}

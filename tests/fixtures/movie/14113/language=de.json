@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/pFB8OVY5YMh1gAMGyDaaMZi32Qa.jpg",
+    "belongs_to_collection": null,
+    "budget": 75600000,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 14113,
+    "imdb_id": "tt0383060",
+    "original_language": "en",
+    "original_title": "Zoom",
+    "overview": "Captain Zoom war sein Name als Superheld, aber nun ist Jack Shepard Automechaniker, denn er hat vor Jahren seine Superheldenkollegen, seinen Bruder und seine Superkräfte verloren. Nun bittet ihn die Regierung um Hilfe. Jack soll 4 Kinder mit besonderen Begabungen zu Superhelden ausbilden. Der frustrierte Jack willigt aus Geldgründen ein, macht aber selbst vor den Kindern kein Geheimnis aus seinem Desinteresse an diesem Projekt ...",
+    "popularity": 19.063,
+    "poster_path": "/9OQg83YnIcwjWRF3kfHqbgzSTjm.jpg",
+    "production_companies": [
+        {
+            "id": 497,
+            "logo_path": "/pMyhOBd3sCiLzBlmIopdJkcUFtn.png",
+            "name": "Revolution Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 598,
+            "logo_path": null,
+            "name": "Team Todd",
+            "origin_country": ""
+        },
+        {
+            "id": 12626,
+            "logo_path": null,
+            "name": "Boxing Cat Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-08-11",
+    "revenue": 12506188,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Zoom - Akademie für Superhelden",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 462
+}

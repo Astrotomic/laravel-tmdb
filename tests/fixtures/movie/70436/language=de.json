@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/JXO3RAMyRTtKc1LdarQnB1GCBm.jpg",
+    "belongs_to_collection": null,
+    "budget": 26000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 70436,
+    "imdb_id": "tt1486192",
+    "original_language": "en",
+    "original_title": "The Raven",
+    "overview": "Sein Gedicht „The Raven“ machte ihn berühmt, doch von seinem Ruhm allein kann der Schriftsteller Edgar Allan Poe nicht leben. Einst gefeiert, dann von der Öffentlichkeit geschmäht, muss er sich seinen Lebensunterhalt als Kritiker verdienen. Doch seine Vergangenheit scheint ihn einzuholen, als Detective Emmett Field ihn darauf hinweist, dass die geheimnisvolle Mordserie, die Baltimore im Jahr 1849 heimsucht, erstaunliche Parallelen zu seinem Romanen aufweist. Offensichtlich nutzt ein Serienmörder Poes alte Geschichten als Vorbild für sein Treiben. Um weitere Morde zu verhindern, begeben sich Poe und Detective Field gemeinsam auf die Suche und versuchen dem Mörder beim nächsten Mal einen Schritt voraus zu sein …",
+    "popularity": 13.631,
+    "poster_path": "/80q9Ib8u16dFCLgx5fWf6xdkGvH.jpg",
+    "production_companies": [
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 1224,
+            "logo_path": null,
+            "name": "Intrepid Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7493,
+            "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 8084,
+            "logo_path": null,
+            "name": "Galavis Film",
+            "origin_country": ""
+        },
+        {
+            "id": 9217,
+            "logo_path": null,
+            "name": "Pioneer Pictures",
+            "origin_country": "HU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HU",
+            "name": "Hungary"
+        },
+        {
+            "iso_3166_1": "RS",
+            "name": "Serbia"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-03-09",
+    "revenue": 29657751,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Einzige, der einen Serienkiller aufhalten kann, ist der Mann, der ihn inspiriert.",
+    "title": "The Raven - Prophet des Teufels",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 1000
+}

@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/naHdyGN1Jw6xbyvQEAEBM8xhvuD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 6948,
+    "imdb_id": "tt0380066",
+    "original_language": "en",
+    "original_title": "The Woods",
+    "overview": "Irgendwann in den frühen 60ern haben zwei Eltern genug von ihrer schwer erziehbaren, scheinbar pyromanisch veranlagten Tochter und geben die einfach nur hypersensible, über gesteigerte sinnliche Wahrnehmung verfügende Heather in die wenig vertrauenerweckende Obhut eines äußerlich konservativ anmutenden, neuenglischen Mädcheninternats. Dessen komplett aus schrägen Vögeln rekrutierte Geschäftsleitung hat auf den neuen Backfisch nur gewartet - doch könnte Heather ihnen gewachsen sein...?",
+    "popularity": 10.793,
+    "poster_path": "/j1CLRRVquMsJSXfHw8EYJCxg26w.jpg",
+    "production_companies": [
+        {
+            "id": 24157,
+            "logo_path": null,
+            "name": "SLS Video Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 3135,
+            "logo_path": null,
+            "name": "Furst Films",
+            "origin_country": ""
+        },
+        {
+            "id": 24161,
+            "logo_path": null,
+            "name": "Cinegreen",
+            "origin_country": ""
+        },
+        {
+            "id": 24159,
+            "logo_path": null,
+            "name": "Cinerenta Feature Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-09-25",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Woods",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 182
+}

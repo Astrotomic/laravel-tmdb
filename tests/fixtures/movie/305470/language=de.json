@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/5H0Ep2ZbuRomI19jUL2LbDj74w1.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://www.powerrangers.movie/",
+    "id": 305470,
+    "imdb_id": "tt3717490",
+    "original_language": "en",
+    "original_title": "Power Rangers",
+    "overview": "Die Teenager Jason, Kimberly, Billy, Trini und Zack haben nichts miteinander zu tun, außer zufällig auf dieselbe Schule im Städtchen Angel Grove zu gehen. Doch eines Tages stoßen Jason und Billy auf etwas, das wie uralte Fossilien aussieht und erwecken damit versehentlich eine außerirdische Macht, die alle Menschen ausrotten will: Die Außerirdische Rita Repulsa plant dazu mit ihrer Alien-Armee einen Angriff auf die Erde. Doch unser Planet wird den Invasoren nicht schutzlos ausgeliefert sein, denn die fünf Freunde kommen durch den Zwischenfall mit den Fossilien auf unerklärliche Weise in den Besitz von Superkräften – sie werden Power Ranger! Wenige Tage bleiben, um unter Anleitung von Zordon dem Hologramm des einstigen Red Rangers, zu lernen, wie sie mit ihren neuen Kräften am besten umgehen…",
+    "popularity": 45.033,
+    "poster_path": "/A8bWnKN2LUdHsjDTZ30LK9RfarE.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 11305,
+            "logo_path": null,
+            "name": "Saban Brands",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "2017-03-23",
+    "revenue": 142337240,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Power Rangers",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3670
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
+    "belongs_to_collection": {
+        "id": 135483,
+        "name": "96 Hours Filmreihe",
+        "poster_path": "/5xu0fpu5wZR7NXBWfYH8bCDtAJE.jpg",
+        "backdrop_path": "/hO1R1TI429PjkOjby4dTPBrWFwn.jpg"
+    },
+    "budget": 48000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.taken3movie.com/",
+    "id": 260346,
+    "imdb_id": "tt2446042",
+    "original_language": "en",
+    "original_title": "Taken 3",
+    "overview": "Ex-CIA-Agent und Familienvater Bryan Mills rettete seine Tochter Kim und deren Mutter Lenore bereits zwei Mal aus den bedrohlichsten Situationen. Diesmal muss er sich primär um die eigene Haut kümmern – Mills wird zum Hauptverdächtigen in einem Mordfall, dessen Opfer ihm sehr nahe stand. Der Einzelkämpfer sieht nur eine Möglichkeit, seine Unschuld zu beweisen: Er muss den Killer selbst ausfindig machen und zur Rechenschaft ziehen. Seine in vielen gefährlichen Missionen geschulten, ebenso besonderen wie tödlichen Fähigkeit setzt Mills aber nicht nur für die Jagt ein, sondern auch, um sich die Polizei vom Hals zu halten. Diese fahndet mit allen Mitteln nach dem früheren Spion, angeführt von dem hartnäckigen Polizeiinspektor Franck Dotzler …",
+    "popularity": 74.987,
+    "poster_path": "/gm2U2NqOn6T3AZ48ufNhzDY2Ppn.jpg",
+    "production_companies": [
+        {
+            "id": 6896,
+            "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+            "name": "EuropaCorp",
+            "origin_country": "FR"
+        },
+        {
+            "id": 1115,
+            "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+            "name": "M6 Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 6877,
+            "logo_path": null,
+            "name": "Grive Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 10611,
+            "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+            "name": "Ciné+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11261,
+            "logo_path": "/g7p4vSwqsIo6zYptyN3hoDxFp7y.png",
+            "name": "M6",
+            "origin_country": "FR"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 87854,
+            "logo_path": null,
+            "name": "Taken 3",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-12-16",
+    "revenue": 325771424,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Alles endet hier",
+    "title": "96 Hours - Taken 3",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 4587
+}

@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/diBOwmjmy0RPXs2oRxGsmfMDxsK.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 354861,
+    "imdb_id": "tt1966359",
+    "original_language": "en",
+    "original_title": "Father Figures",
+    "overview": "Das eher ungleiche Zwillingsbruder-Paar Kyle und Peter muss mit großem Schrecken feststellen, dass ihre Mutter sie jahrelang belogen hat, was ihren leiblichen Vater angeht: Eigentlich dachten die beiden, dass dieser schon lange tot sei, doch nun erfahren sie auf einmal, dass ihr Vater noch immer am Leben ist. Es gibt jedoch ein Problem bei der Sache: Weder ihre Mutter noch die Brüder wissen, welcher der zahlreichen verflossenen Liebhaber ihrer Mutter denn nun ihr Vater ist, denn theoretisch kämen dafür eine ganze Menge Männer in Frage. Deshalb begeben sich Kyle und Peter kurzentschlossen auf einen Road-Trip quer durch die Vereinigten Staaten, um die potentiellen Väter abzuklappern und herauszufinden, bei welchem von ihnen es sich um ihren wahren Erzeuger handelt.",
+    "popularity": 13.013,
+    "poster_path": "/fkVSn8CUtyPc5Ll6QZg9eEzkFA4.jpg",
+    "production_companies": [
+        {
+            "id": 1088,
+            "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+            "name": "Alcon Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 2364,
+            "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+            "name": "The Montecito Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 10289,
+            "logo_path": "/4lXJcFjACjb34LF78AUjEz4FtB9.png",
+            "name": "DMG Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-12-21",
+    "revenue": 25601244,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wer ist Daddy?",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 509
+}

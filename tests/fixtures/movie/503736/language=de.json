@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+    "belongs_to_collection": {
+        "id": 809185,
+        "name": "Army of the Dead Filmreihe",
+        "poster_path": "/e4cjn4DcEUORp1fg1c3chk3SBD5.jpg",
+        "backdrop_path": "/kU1h9uMbobOjPc9gE2Fsyw7zDVN.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81046394",
+    "id": 503736,
+    "imdb_id": "tt0993840",
+    "original_language": "en",
+    "original_title": "Army of the Dead",
+    "overview": "Bei einer Zombieplage in Las Vegas stellt sich eine Truppe Söldner der ultimativen Gefahr und wagt sich für den größten Coup aller Zeiten in die Höhle des Löwen.",
+    "popularity": 384.658,
+    "poster_path": "/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
+    "production_companies": [
+        {
+            "id": 114152,
+            "logo_path": null,
+            "name": "The Stone Quarry",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-05-14",
+    "revenue": 780000,
+    "runtime": 138,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Army of the Dead",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 2335
+}

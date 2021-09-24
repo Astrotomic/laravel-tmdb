@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/1HdBV5te8Hjj093JlnX4kmZBOqN.jpg",
+    "belongs_to_collection": null,
+    "budget": 28000000,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.facebook.com/PPZMovie",
+    "id": 58431,
+    "imdb_id": "tt1374989",
+    "original_language": "en",
+    "original_title": "Pride and Prejudice and Zombies",
+    "overview": "Im London Anfang des 18. Jahrhunderts dreht sich in der gehobenen Gesellschaft für die Familie Bennet alles um eine Aufgabe. Die fünf Töchter müssen irgendwie unter die Haube gebracht werden. Elisabeth scheint aber ein schwieriger Fall zu sein, was das Heiraten angeht, denn die Kluft zwischen Liebe und Zweckehe ist schwer zu schließen. Der neue und überaus vermögende Nachbar Charles Bingley scheint ein geeigneter Kandidat. Doch er verliebt sich in Elisabeths Schwester Jane. Sein guter Freund Mr. Darcy dagegen, scheint sich durchaus für das eigensinnige Mädchen erwärmen zu können, obwohl eine Heirat weit unter seinem Stand wäre. Elisabeth, die bald genug von den Anbandlungen und damit verbundenen Intrigen hat, entschließt sich aber, dem Kampf gegen eine sich ausbreitende Zombieseuche anzutreten.",
+    "popularity": 21.038,
+    "poster_path": "/8GNMx4NYJva91ZVT05ggPqylYV2.jpg",
+    "production_companies": [
+        {
+            "id": 3287,
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "origin_country": "US"
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 8873,
+            "logo_path": null,
+            "name": "Handsomecharlie Films",
+            "origin_country": ""
+        },
+        {
+            "id": 10246,
+            "logo_path": "/rREvQNWAxkDfY9CDn2c5YxEMPdP.png",
+            "name": "Cross Creek Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 12622,
+            "logo_path": null,
+            "name": "Darko Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 13395,
+            "logo_path": null,
+            "name": "Panorama Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 72725,
+            "logo_path": null,
+            "name": "QC Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-02-04",
+    "revenue": 16374328,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Stolz und Vorurteil & Zombies",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 1752
+}

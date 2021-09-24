@@ -99,13 +99,11 @@ class Person extends Model
             ->values()
             ->all();
 
-        $data = rescue(
-            fn () => GetPersonDetails::request($this->id)
+        $data = GetPersonDetails::request($this->id)
                 ->language($locale)
                 ->append(...$append)
                 ->send()
-                ->json()
-        );
+                ->json();
 
         if ($data === null) {
             return false;

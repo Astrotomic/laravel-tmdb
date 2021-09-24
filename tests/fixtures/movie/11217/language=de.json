@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/6Mh45I2bE4uEjy19Jk45THEmLd0.jpg",
+    "belongs_to_collection": null,
+    "budget": 8500000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 11217,
+    "imdb_id": "tt0331953",
+    "original_language": "en",
+    "original_title": "Club Dread",
+    "overview": "Coconut Pete's Ferienclub ist ein idyllischer Ferienclub auf einer Insel. Doch ein maskierter Serienmörder treibt dort neuerdings mit seiner Machete sein Unwesen. Die Angestellten suchen nach dem Täter. Handelt es sich um einen der Feriengäste?",
+    "popularity": 9.244,
+    "poster_path": "/qg1FIHLixWz3R6J5IfLYi5nD81X.jpg",
+    "production_companies": [
+        {
+            "id": 52949,
+            "logo_path": null,
+            "name": "Coconut Pete Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 43,
+            "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+            "name": "Fox Searchlight Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2773,
+            "logo_path": "/ubyU2v6XcREGwyeieqdcxvZzvKc.png",
+            "name": "Broken Lizard Industries",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-02-27",
+    "revenue": 5001655,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Club Mad",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 264
+}

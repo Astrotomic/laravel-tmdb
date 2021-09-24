@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/bF9k4L3E93fHESs55zcyvxG5qZH.jpg",
+    "belongs_to_collection": null,
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.godsofegypt.movie/home",
+    "id": 205584,
+    "imdb_id": "tt2404233",
+    "original_language": "en",
+    "original_title": "Gods of Egypt",
+    "overview": "Nachdem sich Set, der Gott der Dunkelheit, des ägyptischen Throns bemächtigt hat, droht das einst friedliche und wohl behütete Reich im Chaos zu versinken. Nur wenige Rebellen leisten noch Widerstand gegen den unbarmherzigen Herrscher und seine brutalen Gefolgsleute. Einer von ihnen ist der Dieb Bek, ein mutiger Held, der sich auf eine ungewöhnliche Allianz einlässt, um nicht zuletzt seine große Liebe Zaya aus dem Totenreich zurückzuholen: Gemeinsam mit dem Gott Horus plant Bek, Sets Schreckensherrschaft ein für alle Mal zu beenden. Ihre abenteuerliche Reise führt sie bis ins Jenseits und hinauf in den Himmel, wo der Sterbliche und der Gott mehrere gefährliche Aufgaben meistern müssen. Schließlich bringt sie jede von ihnen dem alles entscheidenden Aufeinandertreffen mit dem Gott der Dunkelheit ein Stückchen näher...",
+    "popularity": 42.701,
+    "poster_path": "/bjQr863oOcyZZ0EPMoOCJAkseR4.jpg",
+    "production_companies": [
+        {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+        },
+        {
+            "id": 88715,
+            "logo_path": null,
+            "name": "Pyramania",
+            "origin_country": ""
+        },
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 908,
+            "logo_path": null,
+            "name": "Mystery Clock Cinema",
+            "origin_country": "AU"
+        },
+        {
+            "id": 72441,
+            "logo_path": null,
+            "name": "TIK Films",
+            "origin_country": "CN"
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-02-25",
+    "revenue": 150680864,
+    "runtime": 127,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Kampf um die Ewigkeit beginnt.",
+    "title": "Gods of Egypt",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 3280
+}

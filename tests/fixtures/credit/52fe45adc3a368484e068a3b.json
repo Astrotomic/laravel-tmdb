@@ -1,0 +1,102 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Casting",
+    "media": {
+        "adult": false,
+        "backdrop_path": "/gbVjmYtMZLIiq22SWtW7heRBPE4.jpg",
+        "genre_ids": [
+            18,
+            10752,
+            10770
+        ],
+        "id": 28730,
+        "original_language": "en",
+        "original_title": "Live from Baghdad",
+        "overview": "A group of CNN reporters wrestle with journalistic ethics and the life-and-death perils of reporting during the Gulf War.A Directors Guild Award-winning movie for director Mick Jackson, starring Michael Keaton and Helena Bonham Carter. In 1990, CNN was a 24-hour news network in search of a 24-hour story. They were about to find it in Baghdad. Veteran CNN producer Robert Wiener and his longtime producing partner Ingrid Formanek find themselves in Iraq on the eve of war. Up against the big three networks, Weiner and his team are rebels with a cause, willing to take risks to get the biggest stories and - unlike their rivals - take them live at a moment's notice. As Baghdad becomes an inevitable US target, one by one the networks pull out of the city until only the crew from CNN remains. With a full-scale war soon to be launched all around them, and CNN ready to broadcast whatever happens 24 hours a day, Wiener and Formanek are about to risk their lives for the story of a lifetime.",
+        "poster_path": "/dN5KeWVYJBqNJtscttaqHvLWmtZ.jpg",
+        "release_date": "2002-12-07",
+        "title": "Live from Baghdad",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 36,
+        "popularity": 3.688
+    },
+    "media_type": "movie",
+    "id": "52fe45adc3a368484e068a3b",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "John Papsidera",
+        "id": 561,
+        "known_for": [
+            {
+                "poster_path": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+                "video": false,
+                "id": 27205,
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "release_date": "2010-07-15",
+                "vote_count": 29871,
+                "adult": false,
+                "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+                "vote_average": 8.3,
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "title": "Inception",
+                "original_language": "en",
+                "original_title": "Inception",
+                "popularity": 52.036,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 26687,
+                "popularity": 77.698,
+                "media_type": "movie"
+            },
+            {
+                "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+                "release_date": "2008-07-14",
+                "original_title": "The Dark Knight",
+                "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                "adult": false,
+                "backdrop_path": "/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg",
+                "vote_average": 8.5,
+                "genre_ids": [
+                    18,
+                    28,
+                    80,
+                    53
+                ],
+                "vote_count": 25850,
+                "original_language": "en",
+                "video": false,
+                "title": "The Dark Knight",
+                "id": 155,
+                "popularity": 53.064,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Production",
+        "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+        "popularity": 0.921
+    }
+}

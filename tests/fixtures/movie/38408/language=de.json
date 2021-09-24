@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/gfIARgK82GxXnPeBvAXDVBCzw61.jpg",
+    "belongs_to_collection": null,
+    "budget": 38000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 38408,
+    "imdb_id": "tt1055292",
+    "original_language": "en",
+    "original_title": "Life As We Know It",
+    "overview": "In So spielt das Leben lässt Greg Berlanti Holly Berenson, die sich mit einem erfolgreichen Catering-Service profiliert und Eric Messer, der sich als Nachwuchs-Regisseur einen Namen macht, aufeinander treffen.Ihr erstes Date endet in einer Katastrophe – gemeinsam haben die Beiden nur ihre gegenseitige Abneigung und die Vergötterung ihrer Patentochter Sophie. Doch als sie plötzlich die alleinige Verantwortung für Sophie übernehmen müssen, sehen sich Holly und Eric gezwungen, ihre Differenzen zu überwinden.In So spielt das Leben muss ein völlig ungleiches Paar gemeinsam den Alltag meistern. Beruflicher Ehrgeiz und kollidierende Termine in unterschiedlichen Freundeskreisen machen das durchaus nicht einfach. Allerdings wird beiden klar: Wenn man unter einem Dach lebt, muss man sich irgendwie zusammenraufen.",
+    "popularity": 21.142,
+    "poster_path": "/vWWsle9TlbfKXOhLJgIcArvQXqx.jpg",
+    "production_companies": [
+        {
+            "id": 1894,
+            "logo_path": null,
+            "name": "Josephson Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 12026,
+            "logo_path": null,
+            "name": "Gold Circle Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-10-02",
+    "revenue": 105734416,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "So spielt das Leben",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 2592
+}

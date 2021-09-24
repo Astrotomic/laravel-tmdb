@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg",
+    "belongs_to_collection": {
+        "id": 328,
+        "name": "Jurassic Park Filmreihe",
+        "poster_path": "/ugJ6KXdOXq5wAKSypsKBTg0OgWv.jpg",
+        "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.jurassicworld.com/",
+    "id": 135397,
+    "imdb_id": "tt0369610",
+    "original_language": "en",
+    "original_title": "Jurassic World",
+    "overview": "Mehr als 20 Jahre sind vergangen, seitdem die Ereignisse auf Isla Nublar aus dem Ruder liefen. Längst ist der Themenpark wieder eröffnet, grösser und sicherer und mit mehr Dinosauriern denn je, so wie es sich John Hammond ursprünglich vorgestellt hatte. Weil die Besucherzahlen deutlich nach unten gehen, arbeitet Projektleiterin Claire an einer neuen Attraktion: Ein selbst geschaffener Dino-Hybrid, der sich jedoch als so gefährlich und unberechenbar erweist, dass selbst Velociraptoren vor ihm Reissaus nehmen. Doch der erfahrene Dino-Trainer Owen nimmt den Kampf mit dem unberechenbaren Biest in seine Hände!",
+    "popularity": 101.849,
+    "poster_path": "/fryDtXgd6Cf4oqNlNPHas0GWDNM.jpg",
+    "production_companies": [
+        {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "DENTSU",
+            "origin_country": "JP"
+        },
+        {
+            "id": 862,
+            "logo_path": "/udTjbqPmcTbfrihMuLtLcizDEM1.png",
+            "name": "The Kennedy/Marshall Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-06-06",
+    "revenue": 1671713208,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Park ist geöffnet!",
+    "title": "Jurassic World",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 17209
+}

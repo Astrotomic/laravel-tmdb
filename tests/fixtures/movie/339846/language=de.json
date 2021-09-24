@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+    "belongs_to_collection": null,
+    "budget": 69000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.thebaywatchmovie.com/",
+    "id": 339846,
+    "imdb_id": "tt1469304",
+    "original_language": "en",
+    "original_title": "Baywatch",
+    "overview": "Mitch Buchannon hat als charismatischer Anführer eines Teams von Rettungsschwimmern alle Hände voll zu tun. Vor allem ein Neuzugang bereitet ihm Sorgen: Matt Brody war einst olympischer Schwimmer, doch wurde nach einem Aufsehen erregenden Zwischenfall verbannt. Nun muss ihn Mitch als PR-Maßnahme in sein Team aufnehmen. Der Neuzugang stellt gleich mal Mitchs Autorität in Frage. Summer hat dagegen ein Auge auf den Neuankömmling geworfen. Allgemein stehen Liebe und Beziehung dem Team immer im Weg. Mitchs Ex Stephanie ist geschäftlich noch weiter seine Partnerin, doch als er sich neu verliebt, reagiert sie eifersüchtig. Und der trottelige Ronnie versucht verzweifelt, bei Sexbombe C.J. zu landen. All das muss aber bald beiseite gewischt werden, denn als Mitch und Matt einer kriminellen Verschwörung auf die Spur kommen, die ihren Strand bedroht, müssen sie alle zusammenarbeiten...",
+    "popularity": 53.946,
+    "poster_path": "/y27R7u35K3r1FHx7LcqoJlQlLWO.jpg",
+    "production_companies": [
+        {
+            "id": 90835,
+            "logo_path": null,
+            "name": "Uncharted",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 34081,
+            "logo_path": null,
+            "name": "Flynn Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 62029,
+            "logo_path": null,
+            "name": "Fremantle Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 73669,
+            "logo_path": "/7tmSGstK3KwgcDIuBYLTAayjit9.png",
+            "name": "Seven Bucks Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 82819,
+            "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+            "name": "Skydance Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 2364,
+            "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+            "name": "The Montecito Picture Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-05-12",
+    "revenue": 177856751,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Keine Sorge, der Sommer kommt bestimmt",
+    "title": "Baywatch",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 6594
+}

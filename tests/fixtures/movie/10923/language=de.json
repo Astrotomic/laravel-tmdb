@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/rkdVFDVfTMuk8AetzvJ0C4gVE5c.jpg",
+    "belongs_to_collection": {
+        "id": 91427,
+        "name": "Agent Cody Banks Filmreihe",
+        "poster_path": "/nQZ1TuxTEFrZLEU02kTTeKogFbX.jpg",
+        "backdrop_path": "/gh0OZpG16E5LtTAkCRkr5j0v1Fh.jpg"
+    },
+    "budget": 28000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "",
+    "id": 10923,
+    "imdb_id": "tt0313911",
+    "original_language": "en",
+    "original_title": "Agent Cody Banks",
+    "overview": "In seinem Sommerferienlager ist der 15-jährige Cody Banks von der CIA rekrutiert und zum Nachwuchsagenten ausgebildet worden. Während seine Eltern und Freunde davon nicht den blassesten Schimmer haben, erhält der unauffällige Cody seinen ersten Auftrag. Er soll die hübsche Tochter eines Wissenschaftlers und diesen selbst ausspionieren, um zu verhindern, dass dessen neueste, menschheitsbedrohende Entdeckung in die Hände eines skrupellosen Gangsters gerät. Leider ist Cody aber in Bezug auf Mädchen eine totale Niete.",
+    "popularity": 14.311,
+    "poster_path": "/9ojS8KLeGtvTz3yJY3Nv1F1esnB.jpg",
+    "production_companies": [
+        {
+            "id": 12027,
+            "logo_path": null,
+            "name": "Madacy Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 368,
+            "logo_path": null,
+            "name": "Splendid Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 4000,
+            "logo_path": null,
+            "name": "Maverick Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 8807,
+            "logo_path": null,
+            "name": "Dylan Sellers Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-03-14",
+    "revenue": 58795814,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Rette die Welt. Schnapp sie dir.",
+    "title": "Agent Cody Banks",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 860
+}

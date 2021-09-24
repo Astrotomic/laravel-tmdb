@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/q2CtXYjp9IlnfBcPktNkBPsuAEO.jpg",
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.otnemem.com/",
+    "id": 77,
+    "imdb_id": "tt0209144",
+    "original_language": "en",
+    "original_title": "Memento",
+    "overview": "Leonard Shelby hat bei einem Unfall sein Kurzeitgedächtnis verloren. Zwar weiß er, wer er ist, doch er kann sich keine Namen, keine Begegnungen länger als ein paar Minuten merken. Sein Leben besteht aus einem Berg Notizen, Fotos und Tätowierungen, mit denen sein Körper übersät ist. Der Film beginnt mit einem Mord, festgehalten auf einem Polaroid. Der einzige Hinweis, dass Shelby den Mord begangen hat. Ein Mann ohne Gedächtnis kann von seiner Umwelt leicht missbraucht werden. Shelby versucht aus dem Wirrwarr von Notizen und Fotos das Geschehen zu entschlüsseln. Wenn er vor dem Spiegel steht, sieht er die Tätowierung: Finde den Mörder deiner Frau. Töte ihn.",
+    "popularity": 23.404,
+    "poster_path": "/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
+    "production_companies": [
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 506,
+            "logo_path": null,
+            "name": "Newmarket Capital Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 598,
+            "logo_path": null,
+            "name": "Team Todd",
+            "origin_country": ""
+        },
+        {
+            "id": 34446,
+            "logo_path": null,
+            "name": "I Remember Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-10-11",
+    "revenue": 39723096,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Manchmal ist es besser, zu vergessen.",
+    "title": "Memento",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 11419
+}

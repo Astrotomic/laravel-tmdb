@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+    "belongs_to_collection": {
+        "id": 537982,
+        "name": "Zombieland Filmreihe",
+        "poster_path": "/csnEGucfTUi6rj0TgitNucQfAYD.jpg",
+        "backdrop_path": "/n6XNnXTMZVTttt338CrBkfKPuOd.jpg"
+    },
+    "budget": 23600000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/zombieland",
+    "id": 19908,
+    "imdb_id": "tt1156398",
+    "original_language": "en",
+    "original_title": "Zombieland",
+    "overview": "Der junge Computer-Fan Columbus hat als einer der wenigen eine verheerende Zombie-Epidemie überlebt und schlägt sich seit einiger Zeit erfolgreich im Alleingang durch ein postapokalyptisches „Zombieland“. Die Städte und Highways der Vereinigten Staaten sind verwüstet und leer gefegt - inmitten dieser Einöde trifft Columbus auf den wortkargen Zyniker Tallahassee. Dieser moderne Cowboy hat die Kunst der Zombie-Jagd perfektioniert und genießt die gewalttätigen Auseinandersetzungen mit den Untoten sichtlich. Als das ungleiche Duo auf ihrer ziellosen Fahrt die hübsche Wichita und ihre kleine Schwester in einer äußerst verzweifelten Situation kennen lernt, wendet sich das Blatt auf unangenehme Weise…",
+    "popularity": 45.684,
+    "poster_path": "/dJbTZfRRJByAF5YKMJHZCnFH5Fz.jpg",
+    "production_companies": [
+        {
+            "id": 11733,
+            "logo_path": null,
+            "name": "Pariah",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-10-07",
+    "revenue": 102391540,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Eine Komödie, die euch killt.",
+    "title": "Zombieland",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 9744
+}

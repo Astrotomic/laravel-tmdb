@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/3jEuzzKf95v5e4GdTouBpyl6Dc9.jpg",
+    "belongs_to_collection": null,
+    "budget": 9600000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://sonyclassics.com/truth",
+    "id": 300693,
+    "imdb_id": "tt3859076",
+    "original_language": "en",
+    "original_title": "Truth",
+    "overview": "New York, September 2004. Mary Mapes wird als Produzentin von \"60 Minutes\", des erfolgreichsten TV-Nachrichtenmagazins des Landes, allseits respektiert und geschätzt. Während sie im Beruf erfolgreich ist, führt sie privat ein glückliches Leben mit ihrer Familie. Doch als ihrem Team mitten im Präsidentschaftswahlkampf \"Bush vs. Kerry\" brisante Informationen über Dokumente aus den 1970er Jahren zugespielt werden, die belegen sollen, dass George W. Bush sich mit Hilfe seiner Familie vor einem Militäreinsatz im Vietnamkrieg gedrückt hat, gerät ihr Leben aus den Fugen.",
+    "popularity": 6.598,
+    "poster_path": "/ndjYPpOg2pvyKbKUT6dWJoXDeeU.jpg",
+    "production_companies": [
+        {
+            "id": 34982,
+            "logo_path": "/uvTmiRZzNfG88dVXi9hQ7eFNirq.png",
+            "name": "Mythology Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 2607,
+            "logo_path": null,
+            "name": "Dirty Films",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2015-10-16",
+    "revenue": 5383097,
+    "runtime": 126,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Moment der Wahrheit",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 384
+}

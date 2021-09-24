@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/vLCAvc63t4Zf4Hb8IsLcZ9i8t1k.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 16083,
+    "imdb_id": "tt0432289",
+    "original_language": "en",
+    "original_title": "First Snow",
+    "overview": "Während sein Auto nach einer Panne in einer öden Kleinstadt repariert wird, sucht der aalglatte Verkäufer Jimmy Starks nur so zum Zeitvertreib einen Hellseher auf. Deren ominöse Voraussage löst einen Strudel unvorhergesehener Ereignisse aus, als Jimmy erfährt, dass sein Leben bald vorbei ist, ihm jedoch vor dem ersten Schneefall des nächsten Winters nichts passieren wird. Als sein unausweichliches Schicksal immer näher rückt, ist Jimmy davon besessen, die Orte seiner Vergangenheit noch einmal zu besuchen, denn er hofft, sein Schicksal ändern zu können, bevor es zu spät ist.",
+    "popularity": 7.516,
+    "poster_path": "/sGrTik79tQAx2v0w0U0XXUNRVl0.jpg",
+    "production_companies": [
+        {
+            "id": 2448,
+            "logo_path": null,
+            "name": "Yari Film Group",
+            "origin_country": ""
+        },
+        {
+            "id": 3135,
+            "logo_path": null,
+            "name": "Furst Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-05-05",
+    "revenue": 382267,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "First Snow",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 108
+}

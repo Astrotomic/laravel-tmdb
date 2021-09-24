@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/ln9RXKJmDnwbP19IIXVF81HdaH0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 456529,
+    "imdb_id": "tt3016748",
+    "original_language": "en",
+    "original_title": "Jacob's Ladder",
+    "overview": "After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.",
+    "popularity": 5.803,
+    "poster_path": "/wIlmYRxrIVBo90ITVBCCbTqUZE3.jpg",
+    "production_companies": [
+        {
+            "id": 49968,
+            "logo_path": "/d74xevT5HfJN1TODKbtm6vNW1wK.png",
+            "name": "Will Packer Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 77471,
+            "logo_path": null,
+            "name": "Gaeta / Rosenzweig Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 8533,
+            "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+            "name": "LD Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-08-23",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacob's Ladder",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 49
+}

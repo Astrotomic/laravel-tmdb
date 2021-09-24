@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/8yhWlFcJ8zCqjfCvLy3lWFuawR1.jpg",
+    "belongs_to_collection": null,
+    "budget": 68000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.reminiscencemovie.net/",
+    "id": 579047,
+    "imdb_id": "tt3272066",
+    "original_language": "en",
+    "original_title": "Reminiscence",
+    "overview": "Nick Bannister arbeitet in Miami als Privatdetektiv, der mithilfe seiner loyalen Assistentin Watts die verschütteten Erinnerungen seiner Kunden erforscht. Sein Leben wird auf den Kopf gestellt, als eine mysteriöse Frau namens Mae auftaucht. Sie hat ihre Schlüssel verloren. Als Mae wenig später spurlos verschwindet, beginnt Nick Bannister seine Ermittlungen, die ihn zu einer weitreichenden und gefährlichen Verschwörung führen.",
+    "popularity": 164.911,
+    "poster_path": "/ued58yIVek9Ha9jajhTbjcmu2z4.jpg",
+    "production_companies": [
+        {
+            "id": 7493,
+            "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 11370,
+            "logo_path": null,
+            "name": "Michael De Luca Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 103490,
+            "logo_path": null,
+            "name": "Kilter Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-19",
+    "revenue": 18717947,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Schaue nicht mehr zurück!",
+    "title": "Reminiscence: Die Erinnerung stirbt nie",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 641
+}

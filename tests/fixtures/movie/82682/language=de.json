@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/xtt75foG5MxEJHug9PBkSyuYJZa.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://gangstersquad.warnerbros.com/",
+    "id": 82682,
+    "imdb_id": "tt1321870",
+    "original_language": "en",
+    "original_title": "Gangster Squad",
+    "overview": "Los Angeles 1949: Der skrupellose Gangsterboss Mickey Cohen aus Brooklyn beherrscht die Stadt und sahnt bei allen illegalen Geschäften ab: Drogen, Waffenhandel, Prostitution. Wenn es nach ihm ginge, würde er auch bei jeder Pferdewette westlich von Chicago seinen Anteil kassieren. Mickeys Imperium gründet sich nicht nur auf die von ihm bezahlte Schlägertruppe - auch die Polizei und die Politik tanzen nach seiner Pfeife. Das reicht, um selbst die unerschrockensten, mit allen Wassern gewaschenen ehrlichen Cops einzuschüchtern ... außer vielleicht eine kleine geheime Einheit von Außenseitern des LAPD unter der Leitung von Sgt. John O'Mara und Jerry Wooters, die Cohen gemeinsam von seinem Thron stürzen wollen.",
+    "popularity": 13.314,
+    "poster_path": "/4Ai5uFTPE1tUXSc5wMbXyZtXkt8.jpg",
+    "production_companies": [
+        {
+            "id": 79,
+            "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2723,
+            "logo_path": null,
+            "name": "Lin Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 8057,
+            "logo_path": null,
+            "name": "Langley Park Production",
+            "origin_country": ""
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-01-10",
+    "revenue": 105200903,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Keine Namen. Keine Uniform. Keine Gnade.",
+    "title": "Gangster Squad",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3299
+}

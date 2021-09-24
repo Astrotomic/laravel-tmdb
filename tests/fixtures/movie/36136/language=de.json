@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/pteiLtpPy0mxURQ7FhRQpqkEGi3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 36136,
+    "imdb_id": "tt0127722",
+    "original_language": "en",
+    "original_title": "Another Day in Paradise",
+    "overview": "Die Teenager Bobbie und Rosie finanzieren ihre kostspieligen Drogentrips mit Automatenknacken. Als sie dem Profi-Dealer Mel und seiner schönen Gangsterbraut Sid begegnen, schließen sie sich den idealisierten Erwachsenen begeistert an. Ein wildes Leben voller Abenteuer schlägt sie ganz in ihren Bann. Doch der aufregende Trip durch den mittleren Westen der USA wird allmählich zur Höllenfahrt. Rosie stirbt an einer Überdosis Heroin und Mel gerät zwischen die Fronten rivalisierender Gangs. Bobbie wird schlagartig klar, daß es hier nur noch um's nackte Überleben geht!",
+    "popularity": 6.418,
+    "poster_path": "/zlXPEQKFWga2obpgHG2IZVgOZPg.jpg",
+    "production_companies": [
+        {
+            "id": 40336,
+            "logo_path": null,
+            "name": "Chinese Bookie Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-12-30",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie gehen über Leichen - ein neuer Tag im Paradies.",
+    "title": "Ein neuer Tag im Paradies",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 95
+}

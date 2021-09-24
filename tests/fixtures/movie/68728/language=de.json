@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/a4KUVG5P5hBSgAgHHindbnyubTF.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "",
+    "id": 68728,
+    "imdb_id": "tt1623205",
+    "original_language": "en",
+    "original_title": "Oz the Great and Powerful",
+    "overview": "Oscar Diggs  ist ein kleiner Zirkus-Magier mit zweifelhafter Moral, eben ein Scharlatan, der plötzlich aus dem verschlafenen Kansas ins schillernde Land von Oz geschleudert wird. Zunächst ist Oscar begeistert, denn die Bewohner glauben, er sei der große Zauberer von Oz. Ihn erwarten Ruhm und Reichtum - zumindest bis er auf drei Hexen trifft: Theodora, Evanora und Glinda kaufen dem verschlagenen Magier seine große Kunst nicht ab. Bald gerät Diggs in eine schwierige Lage, denn der junge Mann wird zunehmend mit den Problemen des Landes und seiner Einwohner konfrontiert und soll diese lösen.",
+    "popularity": 23.57,
+    "poster_path": "/akjZeW0fqCdNS8Tl35YjRs1SKKl.jpg",
+    "production_companies": [
+        {
+            "id": 16314,
+            "logo_path": null,
+            "name": "Roth Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-03-07",
+    "revenue": 491868548,
+    "runtime": 130,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "In Oz ist nichts wie es scheint",
+    "title": "Die fantastische Welt von Oz",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 5729
+}

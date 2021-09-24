@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/kRnYd4JFcYSpSz6xiFOYGBD24UX.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 14034,
+    "imdb_id": "tt0161083",
+    "original_language": "en",
+    "original_title": "What's the Worst That Could Happen?",
+    "overview": "Profi-Dieb Kevin Caffrey wird von dem reichen Geschäftsmann Max Fairbanks in flagranti bei einem Einbruch in seine Villa erwischt. Das allein ist schon reichlich ärgerlich für Kevin, zumal Fairbanks ihn mit offener Schadenfreude der Polizei übergibt. Aber es kommt noch schlimmer: Fairbanks nimmt Kevin vor den Augen der Beamten den Ring ab, den er gerade erst von seiner Freundin Amber geschenkt bekommen hat, und beansprucht ihn einfach für sich. Das ist dreist, und sobald Kevin sich wieder aus den Fängen der Polizei befreit hat, sinnt er selbstverständlich auf Rache. Er will um jeden Preis seinen Ring zurückhaben, doch wie sich zeigt, ist sein Herausforderer Fairbanks mit der gleichen Sturheit gesegnet wie er selbst. Zwischen den beiden kecken Gegnern entspinnt sich ein immer grotesker werdender Wettstreit der Gemeinheiten.",
+    "popularity": 8.13,
+    "poster_path": "/frTYfloMEzhQG9Lm4hygqQ87MXy.jpg",
+    "production_companies": [
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-05-31",
+    "revenue": 38400000,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Schlimmer geht's immer!",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 210
+}

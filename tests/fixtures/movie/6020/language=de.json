@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/ySYMPpD6eCBRD1YU1HK5ZKEN1gE.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 6020,
+    "imdb_id": "tt0279781",
+    "original_language": "en",
+    "original_title": "Sorority Boys",
+    "overview": "",
+    "popularity": 8.692,
+    "poster_path": "/majCZ2XvTG15h5VqHjbzJ6X0luA.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-03-22",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das sexte Semester",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 161
+}

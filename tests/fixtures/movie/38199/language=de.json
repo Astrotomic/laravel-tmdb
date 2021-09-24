@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/49jYVh3QB35kw8HNYj81Z4LI5QL.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 38199,
+    "imdb_id": "tt0914863",
+    "original_language": "en",
+    "original_title": "Unthinkable",
+    "overview": "Es ist ein Alptraum: Der zum Islam konvertierte Nuklearexperte Steven Arthur Younger hat drei atomare Zeitbomben in amerikanischen Metropolen versteckt. Eine Anti-Terror-Taskforce ergreift den Fanatiker, worauf der Verhörspezialist Henry Humphries ihn zum Reden bringen soll - mit allen Mitteln. Gegen dessen barbarische Methoden läuft die prinzipientreue FBI Agentin Helen Brody Sturm: Ist Folter ein legitimes Mittel, um Leben zu retten?",
+    "popularity": 14.708,
+    "poster_path": "/uclBOUgQXD0PFuwLOoXt5oMm9EF.jpg",
+    "production_companies": [
+        {
+            "id": 3319,
+            "logo_path": null,
+            "name": "Senator Entertainment Co",
+            "origin_country": ""
+        },
+        {
+            "id": 12410,
+            "logo_path": null,
+            "name": "Lleju Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 737,
+            "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+            "name": "Sidney Kimmel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 12411,
+            "logo_path": null,
+            "name": "Kimmel International",
+            "origin_country": ""
+        },
+        {
+            "id": 5683,
+            "logo_path": null,
+            "name": "ChubbCo Film",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-06-14",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Hungarian",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Zeit läuft, wie weit würden Sie gehen, um Ihr Land zu schützen?",
+    "title": "Unthinkable - Der Preis der Wahrheit",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 855
+}

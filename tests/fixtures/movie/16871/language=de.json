@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/3tvwsRSIDgwJuaGdh67XZ942UMy.jpg",
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 16871,
+    "imdb_id": "tt1127180",
+    "original_language": "en",
+    "original_title": "Drag Me to Hell",
+    "overview": "Christine arbeitet in einer Bank und hat dabei nicht immer die leichtesten Aufgaben zu tun. Nicht selten kommt es vor, dass sie mit einer Entscheidung das Leben eines Menschen kompett verändert. Als eine alte Zigeunerfrau darum bittet, das ihr Kredit, den sie nicht bezahlen kann, verlängert wird, lehnt Christine ab. Als sie ihren Arbeitstag beendet und ins Parkhaus zu ihrem Auto geht, lauert ihr die alte Frau auf und belegt sie mit einem Fluch.",
+    "popularity": 30.447,
+    "poster_path": "/fdyejM5Zd6dsa0YyWa02ZAKwQzK.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 768,
+            "logo_path": null,
+            "name": "Ghost House Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 11250,
+            "logo_path": null,
+            "name": "Buckaroo Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 11630,
+            "logo_path": null,
+            "name": "Curse Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 771,
+            "logo_path": null,
+            "name": "Mandate Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-03-15",
+    "revenue": 90810892,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Hungarian",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+        },
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Christine Brown hat einen guten Job, einen netten Freund und eine gute Zukunft. Aber in drei Tagen fährt sie zur Hölle.",
+    "title": "Drag Me to Hell",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 2689
+}

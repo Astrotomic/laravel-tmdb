@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/fXa1d8Jkzx4UXKUmk8hpMrc42cq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 1596,
+    "imdb_id": "tt0462482",
+    "original_language": "en",
+    "original_title": "Population 436",
+    "overview": "Die idyllische kleine Stadt Rockwell Falls scheint der Garten Eden zu sein. Aber als Steve Kady, ein staatlicher Prüfer, ausgesandt wird, um zu untersuchen, warum sich die Einwohnerzahl der Stadt die letzten 100 Jahre nicht verändert hat, lernt er schnell, was wirklich unter der anscheinend perfekten Oberfläche liegt. Gefangen in einem Netz aus religiöser Leidenschaft und puritanischer Tradition, dem keiner je entrinnen konnte, muss Kady jetzt einen Ausweg finden – oder sterben...",
+    "popularity": 7.463,
+    "poster_path": "/xEbq0QEcqw7DyPYPsP2yX9PucpC.jpg",
+    "production_companies": [
+        {
+            "id": 1271,
+            "logo_path": null,
+            "name": "Pariah Entertainment Group",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "2006-07-04",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Willkommen in der perfekten Stadt - die niemand lebend verlässt.",
+    "title": "Population 436",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 190
+}

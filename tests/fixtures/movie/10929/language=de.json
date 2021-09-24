@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/xH9BdS2DzkX20Ly9FG8Iwczi3M.jpg",
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10929,
+    "imdb_id": "tt0310357",
+    "original_language": "en",
+    "original_title": "Willard",
+    "overview": "Der Keller des Hauses, in dem der schüchterne Willard Stiles mit seiner alten Mutter wohnt, ist fest in Hand von Ratten. Der junge Mann muss tägliche Schikane durch seinen Chef und seine Mutter ertragen, wehrt sich aber nicht dagegen. Irgendwann freundet sich Willard mit einer der Ratten aus dem Keller an und nennt sie \"Big Ben\". Die anderen Ratten fassen ebenfalls Vertrauen. Bald folgen sie drei Befehlen: \"rein\", \"raus\" und \"zerreißen\".  Nachdem Willards Mutter gestorben ist und ihm einen Berg an Schulden hinterlassen hat, bricht sich seine Wut Bahn nach außen. Mithilfe der Ratten nimmt er Rache für jahrelange Missachtung...",
+    "popularity": 8.452,
+    "poster_path": "/6FMNo5aBX7tAiNigmFGeopPBBqh.jpg",
+    "production_companies": [
+        {
+            "id": 48772,
+            "logo_path": null,
+            "name": "Hard Eight Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-03-14",
+    "revenue": 8564586,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Willard",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 229
+}

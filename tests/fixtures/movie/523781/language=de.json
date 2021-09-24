@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/q7z2kKGeAfkKQx6cmb4pFcEEkME.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.lionsgate.com/movies/words-on-bathroom-walls",
+    "id": 523781,
+    "imdb_id": "tt8045906",
+    "original_language": "en",
+    "original_title": "Words on Bathroom Walls",
+    "overview": "Bei Adam wird eine Geisteskrankheit diagnostiziert, die er in der Schule geheim hält. Er lebt in ständiger Angst entlarvt zu werden, und findet eine Verbindung in Maya, die ihn dazu inspiriert, sein Herz zu öffnen und sich nicht über seinen Zustand definieren zu lassen. Mit der Liebe und Unterstützung seiner neu gefundenen Romanze und seiner Familie ist Adam zum ersten Mal hoffnungsvoll, dass er über die vor ihm liegenden Herausforderungen triumphieren kann.",
+    "popularity": 11.076,
+    "poster_path": "/AedH7kQttLVgqd260IXevTK0Mek.jpg",
+    "production_companies": [
+        {
+            "id": 8533,
+            "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+            "name": "LD Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-08-21",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wenn du deinem Verstand nicht trauen kannst, vertraue deinem Herzen.",
+    "title": "Words on Bathroom Walls",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 334
+}

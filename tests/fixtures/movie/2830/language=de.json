@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ZSgAF7SfJp96sqyKnBb1R6aAK2.jpg",
+    "belongs_to_collection": null,
+    "budget": 14000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 2830,
+    "imdb_id": "tt0270980",
+    "original_language": "en",
+    "original_title": "My Boss's Daughter",
+    "overview": "Als der schüchterne Tom auf Drängen seines Schwarms Lisa einwilligt, auf die Villa ihres kontrollsüchtigen Vaters Jack - Toms Boss - aufzupassen, begeht er einen großen Fehler. Der Alptraum nimmt seinen Lauf, als Lisas zwielichtiger Bruder nebst Auftragskiller auftauchen und sich Jacks Sekretärin an Tom für vermeintliches Mobbing rächen will. Da fällt es kaum noch auf, dass plötzlich ein Toter im Wohnzimmer liegt und die bis dato erdgebundene Eule O.J. nach ausgiebigem Koks-Genuss spontan mit Flugversuchen beginnt.",
+    "popularity": 7.623,
+    "poster_path": "/wPbK0KJ7PWNRoSLDhG74AgHVZrq.jpg",
+    "production_companies": [
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-08-21",
+    "revenue": 0,
+    "runtime": 83,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Partyalarm - Finger weg von meiner Tochter",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 537
+}

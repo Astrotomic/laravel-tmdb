@@ -1,0 +1,104 @@
+{
+    "credit_type": "crew",
+    "department": "Production",
+    "job": "Casting",
+    "media": {
+        "adult": false,
+        "backdrop_path": "/oHrrgAPEKpz0S1ofQntiZNrmGrM.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            878,
+            53
+        ],
+        "vote_count": 1527,
+        "original_language": "en",
+        "original_title": "Dragonball Evolution",
+        "poster_path": "/sunS9xhPnFNP5wlOWrvbpBteAB.jpg",
+        "title": "Dragonball Evolution",
+        "video": false,
+        "vote_average": 2.8,
+        "release_date": "2009-03-12",
+        "overview": "The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.",
+        "id": 14164,
+        "popularity": 44.947
+    },
+    "media_type": "movie",
+    "id": "5c3468d8c3a36828e3652731",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "John Papsidera",
+        "id": 561,
+        "known_for": [
+            {
+                "poster_path": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+                "video": false,
+                "id": 27205,
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "release_date": "2010-07-15",
+                "vote_count": 29871,
+                "adult": false,
+                "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+                "vote_average": 8.3,
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "title": "Inception",
+                "original_language": "en",
+                "original_title": "Inception",
+                "popularity": 52.036,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 26687,
+                "popularity": 77.698,
+                "media_type": "movie"
+            },
+            {
+                "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+                "release_date": "2008-07-14",
+                "original_title": "The Dark Knight",
+                "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                "adult": false,
+                "backdrop_path": "/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg",
+                "vote_average": 8.5,
+                "genre_ids": [
+                    18,
+                    28,
+                    80,
+                    53
+                ],
+                "vote_count": 25850,
+                "original_language": "en",
+                "video": false,
+                "title": "The Dark Knight",
+                "id": 155,
+                "popularity": 53.064,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Production",
+        "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+        "popularity": 0.921
+    }
+}

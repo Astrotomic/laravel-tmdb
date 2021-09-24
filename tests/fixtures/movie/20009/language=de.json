@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/icto1mgHTPCDkI1atPfFeWnDfbb.jpg",
+    "belongs_to_collection": null,
+    "budget": 14000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 20009,
+    "imdb_id": "tt0240900",
+    "original_language": "en",
+    "original_title": "Slackers",
+    "overview": "Nur noch wenige Wochen, dann haben die Kumpels Dave, Sam und Jeff das College hinter sich. Doch ausgerechnet jetzt kommt der Oberschleimer des Campus, Ethan Dull, angelaufen und behauptet, er habe Beweismaterial, dass sich die drei durch sämtliche Prüfungen mogeln. Damit will er zum Direktor gehen, es sei denn Dave verkuppelt ihn mit der schönen Angela. Dumm nur, dass sich Dave selbst in sie verliebt.",
+    "popularity": 8.417,
+    "poster_path": "/g3xn7tRnGxVwwKc2tge7nPssywQ.jpg",
+    "production_companies": [
+        {
+            "id": 3287,
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-02-01",
+    "revenue": 6413915,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Slackers",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 144
+}

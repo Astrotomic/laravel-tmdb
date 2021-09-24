@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/ypo4aUtxfopcNtx7Y2RuT9B5kzl.jpg",
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.theinformers.com/",
+    "id": 17436,
+    "imdb_id": "tt0865554",
+    "original_language": "en",
+    "original_title": "The Informers",
+    "overview": "Braungebrannte Teenagerstudenten kreuzen mit ihren Porsches durch die Straßen zwischen Bel Air und Malibu Beach, immer auf der Suche nach dem ultimativen Kick, der ihrem kreditkartengesicherten Leben etwas Authentizität verleiht. Ob Drogendealer oder höhere Tochter, alle sind sie Konsumexperten – MTV, In-Restaurants, Drogen und Armani – man trifft sich zum Essen, zur Koksline, zum Sex, und man hat sich doch nichts zu sagen. Ihre Eltern stehen ihnen dabei in nichts nach, frustrierte Ehefrauen aus dem Filmbusiness halten sich Liebhaber im Alter ihrer Söhne, ein Vater nötigt seinen Sohn zum Wochenendtrip nach Hawaii, der sich als Fahrt ins blanke Nichts entpuppt. Ein Rockstar auf Welttournee schändet im Drogenrausch Zimmermädchen und Groupies, um dann von seinem Manager zu verlangen, was der Wunsch all dieser saturierten Upper-Class-Figuren zu sein scheint: “Bring mir meine Träume in Ordnung.”",
+    "popularity": 10.139,
+    "poster_path": "/on2mGrEbsGaZ2LAkBZuwVcyqsLW.jpg",
+    "production_companies": [
+        {
+            "id": 3319,
+            "logo_path": null,
+            "name": "Senator Entertainment Co",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-11-05",
+    "revenue": 382174,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Informers",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 155
+}

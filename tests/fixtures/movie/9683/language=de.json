@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/tFw6sg7nUgP3mmLxcZGZTiLmURB.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 9683,
+    "imdb_id": "tt0258470",
+    "original_language": "en",
+    "original_title": "Bubble Boy",
+    "overview": "Jimmy Livingston, gespielt von Jake Gyllenhall, leidet zeit seines Lebens an einer Immunschwächekrankheit, die ihn zwingt, stets hinter einer Plastikwand zu leben. Doch als seine große Liebe einen anderen heiraten will, baut er sich eine Plastikkugel und rollt zu den Niagarafällen.",
+    "popularity": 17.174,
+    "poster_path": "/tFwvUSc8g0HHvDOBQ2rvC9LWVSj.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-08-24",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bubble Boy - Leben hinter Plastik",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 442
+}

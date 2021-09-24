@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/5n2jz145P1CRdPfA296MmEZF1sQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.honeyboy.movie/",
+    "id": 512263,
+    "imdb_id": "tt8151874",
+    "original_language": "en",
+    "original_title": "Honey Boy",
+    "overview": "Als der 12-jährige Otis als Kinderfernsehstar beginnt in Hollywood Erfolg zu haben , kehrt sein Vater der ehemalige Rodeo-Clown als Vormund zurück. Wenn Otis am Set kein Publikum hat, verbringt er seine Tage mit seinem Vater in einem Motel am Rande der Stadt und muss die Misshandlungen seines überheblichen Vaters ertragen.",
+    "popularity": 9.239,
+    "poster_path": "/bvVXXelQ3mSY3O8eYmrhiqIjqNq.jpg",
+    "production_companies": [
+        {
+            "id": 89141,
+            "logo_path": "/cCd2HpANQZqGvAjKV92SHd5hOnN.png",
+            "name": "Stay Gold Features",
+            "origin_country": "US"
+        },
+        {
+            "id": 21398,
+            "logo_path": null,
+            "name": "Delirio Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 7625,
+            "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+            "name": "Automatik Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 118246,
+            "logo_path": null,
+            "name": "Kindred Spirit",
+            "origin_country": "US"
+        },
+        {
+            "id": 16945,
+            "logo_path": null,
+            "name": "Red Crown Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-11-08",
+    "revenue": 3400977,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Honey Boy",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 415
+}

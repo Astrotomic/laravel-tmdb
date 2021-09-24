@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/2JApfvtgf2snKUtOFn8d1wm5pDU.jpg",
+    "belongs_to_collection": null,
+    "budget": 49000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10796,
+    "imdb_id": "tt0267804",
+    "original_language": "en",
+    "original_title": "The One",
+    "overview": "Das Multiverse Bureau of Investigation sorgt für Einklang zwischen den vielen Paralleluniversen unserer Welt. Agent Yulaw macht sich auf den Weg, alle seine Alter Egos zu töten, um deren Lebensenergie zu bekommen. Bei 123 Parallelexistenzen hat er das bereits geschafft. Nun ist nur noch der LAPD-Polizist Gabe Law übrig, dessen Leben fortan in großer Gefahr ist.Sein Häscher muss sich gleichzeitig dem Zugriff durch die beiden Multiversum-Agenten Roedecker und Funsch entziehen, die ihn in eine der Parallelwelten in eine Strafkolonie verbannen wollen. Alle Beteiligten wechseln die Parallelwelten durch Beamen: sie lösen sich auf, rasen durch kosmische Tunnels, und setzen sich \"auf der anderen Seite\" wieder zusammen. Alles läuft auf das Duell zwischen den zwei verbliebenen Parallelexistenzen hinaus...",
+    "popularity": 16.332,
+    "poster_path": "/dmUl55UCP6qhU4vb8lqSzApSyxy.jpg",
+    "production_companies": [
+        {
+            "id": 497,
+            "logo_path": "/pMyhOBd3sCiLzBlmIopdJkcUFtn.png",
+            "name": "Revolution Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 48772,
+            "logo_path": null,
+            "name": "Hard Eight Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-11-02",
+    "revenue": 72689126,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sein gefährlichster Gegner ist er selbst",
+    "title": "The One",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 1143
+}

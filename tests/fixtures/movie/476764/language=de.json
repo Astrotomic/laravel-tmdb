@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/kQVo5ECXrTcoMtj8hWbdiqpfPms.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "http://thefrontrunner.movie",
+    "id": 476764,
+    "imdb_id": "tt7074886",
+    "original_language": "en",
+    "original_title": "The Front Runner",
+    "overview": "Der Film verfolgt den Aufstieg und Fall von Senator Hart, der ein großer Hoffnungsträger für junge Wähler war und 1988 bereits als Spitzenkandidat der Demokraten bei der Präsidentschaftsvorwahl galt. Doch dann brachte eine außereheliche Affäre mit Donna Rice seine gesamte Kampagne ins Wanken. Zum ersten Mal verschmolzen Boulevardjournalismus und politischer Journalismus miteinander – und Senator Hart war gezwungen, aus dem Rennen um die Präsidentschaft wieder auszusteigen. Dies hatte tiefe und nachhaltige Auswirkungen auf die US-Politik und die gesamte Weltbühne",
+    "popularity": 20.786,
+    "poster_path": "/sQnVDfgaSo3xl36pnUad0EnCGOj.jpg",
+    "production_companies": [
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 32157,
+            "logo_path": "/nBD7uzlUlpivUpOoUTg5UEZJoib.png",
+            "name": "Right of Way Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 53152,
+            "logo_path": "/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png",
+            "name": "Creative Wealth Media Finance",
+            "origin_country": "CA"
+        },
+        {
+            "id": 11341,
+            "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+            "name": "Stage 6 Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-11-06",
+    "revenue": 3242235,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Spitzenkandidat",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 263
+}

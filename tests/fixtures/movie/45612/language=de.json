@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/noHDKhzbwP6DfoaO2xRFLVrpX0N.jpg",
+    "belongs_to_collection": null,
+    "budget": 32000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.enterthesourcecode.com",
+    "id": 45612,
+    "imdb_id": "tt0945513",
+    "original_language": "en",
+    "original_title": "Source Code",
+    "overview": "Gerade war US-Soldat Colter Stevens noch im Kriegseinsatz, plötzlich findet er sich in einem Zug nach Chicago wieder - an der Seite einer jungen Frau, die ihn kennt, er sie aber nicht. Kurz darauf explodiert der Zug, und eine Stimme instruiert Stevens, dass er wieder zurück muss. Dank einer revolutionären Technologie kann er im Körper eines Passagiers die letzten acht Minuten vor der Explosion wiederholt miterleben, damit den Bomber ermitteln und dessen nächsten Terroranschlag noch am gleichen Tag verhindern.",
+    "popularity": 18.569,
+    "poster_path": "/e12PqHwyqlYVOPVkWl54K7ZodJr.jpg",
+    "production_companies": [
+        {
+            "id": 1557,
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 7460,
+            "logo_path": "/yAAbQ6vIYIL84geYYIAraxQGL10.png",
+            "name": "Vendôme Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-03-30",
+    "revenue": 147332697,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ändere die Vergangenheit. Rette die Zukunft.",
+    "title": "Source Code",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 6437
+}

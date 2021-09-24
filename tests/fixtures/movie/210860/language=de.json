@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/zZ0rWhPEGQkY24q6MCgI7HZBNwe.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://mortdecaithemovie.com/",
+    "id": 210860,
+    "imdb_id": "tt3045616",
+    "original_language": "en",
+    "original_title": "Mortdecai",
+    "overview": "Der einfallsreiche Kunsthändler Charlie Mortdecai hat eigentlich alles, was man sich so wünschen kann: Er hat eine wunderschöne Frau, Johanna, an seiner Seite und lebt wie ein König – nur leider ist er auch pleite. Da kommt es ihm nur gelegen, dass ein kostbares Gemälde gestohlen wird und Inspektor Alistair Martland ausgerechnet ihn damit beauftragt, bei der Suche zu helfen. Mit Hilfe seines getreuen Dieners Jock erarbeitet er einen ausgeklügelter Plan, denn die Konkurrenz in Form eines international gesuchten Terroristen und eines habgierigen amerikanischen Milliardärs schläft nich.",
+    "popularity": 15.098,
+    "poster_path": "/g2BgyaV5iwnzlBJd9YQrMogSQEw.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 1757,
+            "logo_path": null,
+            "name": "Mad Chance",
+            "origin_country": "US"
+        },
+        {
+            "id": 2691,
+            "logo_path": "/Uas6Nps2Y58s9eRyoTHXgfEuZj.png",
+            "name": "Infinitum Nihil",
+            "origin_country": "US"
+        },
+        {
+            "id": 3263,
+            "logo_path": "/z0fbODSLBptxVKekL0950Lr71zU.png",
+            "name": "OddLot Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3393,
+            "logo_path": null,
+            "name": "Huayi Brothers Pictures",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-01-21",
+    "revenue": 30418560,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Dekadenz hat einen neuen Namen.",
+    "title": "Mortdecai - Der Teilzeitgauner",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2227
+}

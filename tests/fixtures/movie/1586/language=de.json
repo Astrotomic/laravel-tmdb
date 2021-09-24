@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/dBSYDUZpps3LWru7ofUZAYoFgUj.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 1586,
+    "imdb_id": "tt0363988",
+    "original_language": "en",
+    "original_title": "Secret Window",
+    "overview": "Der Schriftsteller Mort Rainey hatte auch schon einmal bessere Zeiten. Erst erwischt er seine Frau Amy beim Seitensprung, dann taucht der mysteriöse Shooter auf und bezichtigt Mort des Plagiats. Shooter behauptet, dass Mort seinen Roman „Das geheime Fenster“ abgeschrieben hat. Was Mort zunächst für einen Witz hält, den er schnell aufklären kann, wird nach und nach durch unheimliche Ereignisse zur Realität. Denn so sehr Mort auch versucht, eine Kopie seines Buches zu beschaffen, welches seine Unschuld beweisen könnte, es misslingt ihm ständig. Und Shooter hat ihm ein Ultimatum von 3 Tagen gestellt.",
+    "popularity": 15.569,
+    "poster_path": "/qIA0tYUQCH2dQ2Qr59wLN48zlUE.jpg",
+    "production_companies": [
+        {
+            "id": 54502,
+            "logo_path": null,
+            "name": "Mel's Cite du Cinema",
+            "origin_country": ""
+        },
+        {
+            "id": 1271,
+            "logo_path": null,
+            "name": "Pariah Entertainment Group",
+            "origin_country": ""
+        },
+        {
+            "id": 23651,
+            "logo_path": null,
+            "name": "Grand Slam Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-03-12",
+    "revenue": 92913171,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der wichtigste Teil einer Geschichte ist das Ende.",
+    "title": "Das geheime Fenster",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 2781
+}

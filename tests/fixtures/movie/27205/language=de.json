@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+    "belongs_to_collection": null,
+    "budget": 160000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://inceptionmovie.warnerbros.com/",
+    "id": 27205,
+    "imdb_id": "tt1375666",
+    "original_language": "en",
+    "original_title": "Inception",
+    "overview": "Beim Versuch in das Unterbewusstsein des Industriellen Saito einzudringen, stoßen Cobb und seine Mitstreiter auf unerwartete Schwierigkeiten. Saito hatte Verteidigungsstrategien gegen den Gedankendiebstahl trainiert und baut nun einen Abwehrriegel auf, doch erst der Verrat eines Kollegen lässt den Versuch scheitern, dem Schlafenden Geheimnisse zu entlocken. Da seine Auftraggeber unbedingten Erfolg gefordert hatten, muss Cobb, der auf Grund einer drohenden Verurteilung nicht mehr in die USA zurück kann, fliehen, doch Saito kommt ihm zuvor. Allerdings nicht um ihn zu bestrafen, sondern um ihm einen Deal vorzuschlagen.",
+    "popularity": 55.508,
+    "poster_path": "/xymM5aW6MDcH5AR9I3CamSegJd6.jpg",
+    "production_companies": [
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-07-15",
+    "revenue": 825532764,
+    "runtime": 148,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Dein Verstand ist der Ort des Verbrechens.",
+    "title": "Inception",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 29877
+}

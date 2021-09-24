@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/50P0Bl2AxRTrG5GTdkMcfs6INKC.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 10490,
+    "imdb_id": "tt0157503",
+    "original_language": "en",
+    "original_title": "Drop Dead Gorgeous",
+    "overview": "Ein Schönheitswettbewerb der etwas anderen Art in einem Kaff in Minnesota. Eine der Favoritinnen ist Amber die sich erhofft mit dem Sieg endlich ihr Dorf verlassen zu können. Doch da ist auch noch Becky deren Mutter vor Jahren selber gewonnen hat und die auch ihre Tochter als Siegerin sehen will.",
+    "popularity": 6.969,
+    "poster_path": "/rKdvatRr7DeBvurjSDxWftQhut7.jpg",
+    "production_companies": [
+        {
+            "id": 594,
+            "logo_path": null,
+            "name": "Capella International",
+            "origin_country": ""
+        },
+        {
+            "id": 596,
+            "logo_path": null,
+            "name": "KC Medien AG",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-07-23",
+    "revenue": 10571408,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gnadenlos schön",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 237
+}

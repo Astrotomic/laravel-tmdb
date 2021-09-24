@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/nkjlXxfXWSuVOmc6iYPghxF66fQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 4283,
+    "imdb_id": "tt0772193",
+    "original_language": "en",
+    "original_title": "Primeval",
+    "overview": "In den Tiefen des afrikanischen Dschungels lauert ein bestialischer Killer, der die Einwohner eines kleinen, vom Bürgerkrieg zerrütteten, Dorfes zusätzlich in Angst und Schrecken versetzt. Ein amerikanisches Nachrichtenteam will das sagenumwobene Monster nicht einfach nur auf Film bannen, sondern lebendig einfangen und als Attraktion zurück in die USA bringen. Fernsehproduzent Tim, Reporterin Aviva, Kameramann Steven und ihre Crew haben keine Ahnung, worauf sie sich einlassen, als sie sich auf die Suche nach dem blutrünstigen Serienmörder machen …",
+    "popularity": 16.556,
+    "poster_path": "/cGH3CKpD6tqCeKxdCbQlLdTP769.jpg",
+    "production_companies": [
+        {
+            "id": 915,
+            "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+            "name": "Hollywood Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 11733,
+            "logo_path": null,
+            "name": "Pariah",
+            "origin_country": ""
+        },
+        {
+            "id": 1611,
+            "logo_path": null,
+            "name": "Sarah James Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-01-12",
+    "revenue": 10597734,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Swahili",
+            "iso_639_1": "sw",
+            "name": "Kiswahili"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Die Fährte des Grauens",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 234
+}

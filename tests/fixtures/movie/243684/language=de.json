@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/6pnQWGcjGizszK37ohzmaaisjby.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.zeitgeist-derfilm.de/",
+    "id": 243684,
+    "imdb_id": "tt3179568",
+    "original_language": "en",
+    "original_title": "Men, Women & Children",
+    "overview": "Sieben Familien in einer Vorstadt von Austin, Texas. Töchter, Söhne, Mütter, Väter. Alle ganz normal verrückt, alle auf der Suche nach einem kleinen Stück vom großen Glück, das so nah ist und doch so unerreichbar weit weg zu sein scheint. Die Männer suchen nach pornografischer Ablenkung im Internet, die Frauen vermissen Zärtlichkeit und Erfüllung, die Jungs sind besessen von „World of Warcraft“, die Mädchen setzen sich selbst unter Druck, immer noch dünner und hübscher zu werden. Alle sehnen sich nach echtem Kontakt in einer realen Welt, doch alle leben aneinander vorbei. Und die so simplen, vermeintlich unendlichen Möglichkeiten moderner Kommunikation machen alles noch komplizierter – und schaffen ein Dasein, geprägt von digitaler Nähe und analoger Entfremdung.",
+    "popularity": 11.602,
+    "poster_path": "/xtMVw3ZuITMWzosYeJYniRvAjja.jpg",
+    "production_companies": [
+        {
+            "id": 32157,
+            "logo_path": "/nBD7uzlUlpivUpOoUTg5UEZJoib.png",
+            "name": "Right of Way Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-10-17",
+    "revenue": 461162,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Von digitaler Nähe und analoger Entfremdung",
+    "title": "#Zeitgeist",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 718
+}

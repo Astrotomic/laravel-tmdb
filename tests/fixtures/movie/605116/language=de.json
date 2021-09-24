@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/qVygtf2vU15L2yKS4Ke44U4oMdD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.netflix.com/projectpower",
+    "id": 605116,
+    "imdb_id": "tt7550000",
+    "original_language": "en",
+    "original_title": "Project Power",
+    "overview": "Auf den Straßen von New Orleans macht eine geheimnisvolle neue Pille von sich reden, die angeblich Superkräfte verleihen soll, die bei jedem anders ausfallen. Der Haken ist allerdings, dass man erst mehr weiß, wenn man sie genommen hat. Während einige also unverwundbar werden, sich unsichtbar machen können oder extrem stark werden, zeigt sich bei anderen mitunter eine tödliche Wirkung. Als die Pille jedoch zu einem extremen Anstieg der Kriminalitätsrate führt, schließt sich ein Polizist mit einem jungen Dealer und einem ehemaligen Soldaten mit geheimer Vendetta zusammen, um die Gefahr mit ihren eigenen Waffen zu bekämpfen. Das bedeutet aber auch, um die Gruppe zu finden und aufzuhalten, die diese Pille entwickelt hat, müssen sie selbst ebenfalls das gefährliche Produkt schlucken.",
+    "popularity": 21.583,
+    "poster_path": "/9BRO1EkOJu65pGPNOKHwzuSuOBL.jpg",
+    "production_companies": [
+        {
+            "id": 102118,
+            "logo_path": null,
+            "name": "Screen Arcade",
+            "origin_country": "US"
+        },
+        {
+            "id": 71895,
+            "logo_path": null,
+            "name": "Supermarché",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-08-14",
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Was würdest du riskieren für fünf Minuten pure Macht?",
+    "title": "Project Power",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 2104
+}

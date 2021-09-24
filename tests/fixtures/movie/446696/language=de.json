@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/zTMtN7DjyqYuTFwBXw1ywl3JyTO.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.lifeitself.movie",
+    "id": 446696,
+    "imdb_id": "tt5989218",
+    "original_language": "en",
+    "original_title": "Life Itself",
+    "overview": "In einer generationenübergreifenden Liebesgeschichte kreuzen sich die Schicksale verschiedener Menschen über den Verlauf mehrerer Jahrzehnte und an verschiedenen Orten auf der Welt: Darunter ist der New Yorker Drehbuchautor Will Dempsey, der mit Hilfe seiner Therapeutin Dr. Cait Morris versucht, die Trennung von seiner Ehefrau Abby zu verarbeiten, aber die meiste Zeit von Samuel L. Jackson träumt. Auf einer spanischen Farm kümmert sich der Besitzer Vincent Saccione etwas zu sehr um den Sohn und die Frau seines Angestellten Javier Gonzalez. Und Dylan tritt an ihrem 21. Geburtstag mit ihrer Metal-Band auf, legt sich dann aber mit einem Flaschenwerfer aus dem Publikum an und trifft später auf einer Bank am Straßenrand auf ihre große Liebe.",
+    "popularity": 11.174,
+    "poster_path": "/oBKfmCzuz9oK7or5ZFcymnyBkCP.jpg",
+    "production_companies": [
+        {
+            "id": 7493,
+            "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 11068,
+            "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+            "name": "Nostromo Pictures",
+            "origin_country": "ES"
+        },
+        {
+            "id": 12292,
+            "logo_path": "/llGRXF5WYUW2fzXg0ebCoKMXjmT.png",
+            "name": "Temple Hill Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 112031,
+            "logo_path": null,
+            "name": "17-28 Black Production",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-09-21",
+    "revenue": 7997774,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "So ist das Leben - Life Itself",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 368
+}

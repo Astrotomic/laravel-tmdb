@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/rzreKNaeQZsBOjDi7CAUmKJEvNl.jpg",
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 9656,
+    "imdb_id": "tt0454082",
+    "original_language": "en",
+    "original_title": "Black Christmas",
+    "overview": "Billys Kindheit ist trist, die Mutter vernachlässigt ihn. Die Liebe nach der er sich sehnt, verweigert sie ihm. Statt in einem freundlichen Kinderzimmer aufzuwachsen, muss er in einer staubigen Dachkammer hausen. Sein schwacher Vater wird derweilen von der Ehefrau betrogen. Und dann ist der plötzlich verschwunden. Tot, ermordet? Niemand weiß es. Dafür taucht ein neuer Mann auf. Eine kleine Schwester kommt hinzu. Der Sonnenschein der Familie. Was den vernachlässigten Billy die Nerven verlieren lässt. Seine Rache ist furchtbar...Schnitt. Die traurigen Ereignisse liegen Jahre zurück. Kaum einer erinnert sich noch an sie. Lange stand das Haus leer, nun ziehen sechs Studentinnen der gleichen Verbindung ein: Kelli, Dana, Lauren, Megan, Heather und Melissa. Gemeinsam mit ihrer Hausmutter freuen sie sich auf Weihnachten, das Fest der Liebe.",
+    "popularity": 10.614,
+    "poster_path": "/zbcigUrr5Wq78rij2jprfRjLlYp.jpg",
+    "production_companies": [
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-12-15",
+    "revenue": 21510851,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Black Christmas",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 360
+}

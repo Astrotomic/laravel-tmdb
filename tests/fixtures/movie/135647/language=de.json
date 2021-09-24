@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/49VrNua8keSq2FWsPuUyVQVgHZj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 135647,
+    "imdb_id": "tt1433207",
+    "original_language": "en",
+    "original_title": "The Details",
+    "overview": "10 Jahre nach ihrer Hochzeit haben Jeff und Nealy Lang ein hübsches Haus in einem idyllischen Vorort und eine Beziehung auf Sparflamme. Aber als eine Familie hungriger Waschbären ihren perfekten Garten durchwühlt, ist Jeff davon besessen, diese Plagegeister mit jedem Mittel, das nötig ist auszurotten. Bald zwingen ihn die unbarmherzigen Nagetiere zu einem Machtkampf mit der sehr vorwitzigen Nachbarin und ehe er es sich versieht, ist Jeff verstrickt in einem Gewirr aus Untreue, Erpressung, Organspende und anderen ganz ausgewählten Problemen ...",
+    "popularity": 6.964,
+    "poster_path": "/gTY9TRryFXCUaGXUhebtQ3FTCdg.jpg",
+    "production_companies": [
+        {
+            "id": 1557,
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 8533,
+            "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+            "name": "LD Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-01-01",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Liebe und andere Kleinigkeiten",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 128
+}

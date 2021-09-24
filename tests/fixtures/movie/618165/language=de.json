@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": null,
+    "id": 618165,
+    "imdb_id": "tt3701150",
+    "original_language": "en",
+    "original_title": "Sick Girl",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": null,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Sick Girl",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

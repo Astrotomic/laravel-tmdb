@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 57012,
+    "imdb_id": "tt0289652",
+    "original_language": "en",
+    "original_title": "Talking to Heaven",
+    "overview": "Als er acht Jahre alt ist, passiert es zum ersten Mal: Der kleine James van Praagh wird von seltsamen Stimmen und Gestalten heimgesucht. Er sieht Unfälle voraus, wird mit Geisterwesen konfrontiert und hat mystische Einsichten. Während seine Mutter diese Visionen als Gabe erkennt, wird James von seinen Mitschülern und selbst von seinem Vater Allan als Verrückter abgestempelt und gemieden. Deshalb versucht der Junge alles, um den Draht zur Totenwelt zu kappen und seine Gabe zu verdängen, was ihm mit der Zeit tatsächlich gelingt.",
+    "popularity": 3.463,
+    "poster_path": "/xgKD7cJDPQGnxZ9JnJMWuLXOIor.jpg",
+    "production_companies": [
+        {
+            "id": 4062,
+            "logo_path": null,
+            "name": "Once Upon a Time Films",
+            "origin_country": ""
+        },
+        {
+            "id": 41629,
+            "logo_path": "/lCe8XkwpMEzLu5NJe0KSGsmMJSr.png",
+            "name": "Nitelite Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 4898,
+            "logo_path": null,
+            "name": "Columbia Broadcasting System (CBS)",
+            "origin_country": ""
+        },
+        {
+            "id": 93249,
+            "logo_path": null,
+            "name": "Gaslight Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-04-28",
+    "revenue": 0,
+    "runtime": 142,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Talking to Heaven",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 16
+}

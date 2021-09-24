@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/aKJucGMw3GznjtOKd2CHfRCsnGX.jpg",
+    "belongs_to_collection": null,
+    "budget": 11500000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 44289,
+    "imdb_id": "tt0323465",
+    "original_language": "en",
+    "original_title": "Octane",
+    "overview": "Nach einem heftig geführten Streit auf dem nächtlichen Highway und einer unheimlichen Rast in einem scheinbar ausschließlich von schrägen Vögeln bevölkerten Highway Diner entflieht die fünfzehnjährige Natasha der Obhut ihrer überprotektiven Mutter, um sich einer durchreisenden Techno-Hippiekommune und deren charismatischem Leader anzuschließen. Über die Maßen besorgt eilt Mutti hinterher und findet schlimmste Befürchtungen bestätigt: Bei Natashas neuen Freunden handelt es sich um einen mobilen Vampirkult!",
+    "popularity": 4.056,
+    "poster_path": "/n2l3EF76U7WyEPD9cPsCRKZyAFq.jpg",
+    "production_companies": [
+        {
+            "id": 36973,
+            "logo_path": null,
+            "name": "Random Harvest Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 1472,
+            "logo_path": null,
+            "name": "Delux Productions",
+            "origin_country": "LU"
+        },
+        {
+            "id": 109781,
+            "logo_path": null,
+            "name": "Four Horsemen Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "LU",
+            "name": "Luxembourg"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2003-05-16",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Octane - Grausamer Verdacht",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 37
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/zlqMASc3vEtdym2OvXgE7fC6onT.jpg",
+    "belongs_to_collection": {
+        "id": 763760,
+        "name": "Bloodshot Filmreihe",
+        "poster_path": "/pAdwjyKhVvuBYwGQIN5wEk9EFVF.jpg",
+        "backdrop_path": null
+    },
+    "budget": 42000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.bloodshot.movie/",
+    "id": 338762,
+    "imdb_id": "tt1634106",
+    "original_language": "en",
+    "original_title": "Bloodshot",
+    "overview": "Nachdem er und seine Frau ermordet wurden, wird Ray Garrison von einem Team aus Wissenschaftlern wiedererweckt. Mit Nanotechnologie ausgestattet wird er zu einer übermenschlichen Tötungsmaschine – Bloodshot. Während er mit anderen Supersoldaten trainiert, kann er sich zunächst an nichts aus seinem früheren Leben erinnern, aber alsbald kehren seine Erinnerungen zurück. Er bricht aus der Einrichtung aus und sinnt auf Rache, findet jedoch heraus, dass die Verschwörung weit größer ist als er bisher dachte.",
+    "popularity": 186.186,
+    "poster_path": "/y6MmcmyknK19fGnpqUygUPPJA13.jpg",
+    "production_companies": [
+        {
+            "id": 10246,
+            "logo_path": "/rREvQNWAxkDfY9CDn2c5YxEMPdP.png",
+            "name": "Cross Creek Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6573,
+            "logo_path": null,
+            "name": "Mimran Schur Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 103673,
+            "logo_path": null,
+            "name": "The Hideaway Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 124335,
+            "logo_path": "/tnygXlYGY04uGaMoXqbS34FBsTJ.png",
+            "name": "Valiant Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1225,
+            "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+            "name": "One Race",
+            "origin_country": "US"
+        },
+        {
+            "id": 30148,
+            "logo_path": "/zerhOenUD6CkH8SMgZUhrDkOs4w.png",
+            "name": "Bona Film Group",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-03-05",
+    "revenue": 33542457,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ein Superheld zu sein liegt ihm im Blut",
+    "title": "Bloodshot",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 4009
+}

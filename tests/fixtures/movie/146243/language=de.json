@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/21AC1SV8rVwYIA1J4NbWQNLCTJI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 146243,
+    "imdb_id": "tt2386278",
+    "original_language": "en",
+    "original_title": "Haunt",
+    "overview": "Evan zieht mit seiner Familie in ein neues Haus. Vom Nachbarsmädchen Samantha erfährt er, dass das Haus eine düstere Vergangenheit hat und mit einem Fluch belegt ist. Samantha verführt Evan und die beiden kommen sich näher. Dann offenbart sie ihm, dass sie ein ungewöhnliches Gerät besitzt, mit dem man angeblich Kontakt zu den Toten aufnehmen kann. Auf diesem Wege wollen die beiden Teenager herausfinden, was genau vor langer Zeit in dem Haus geschehen ist. Bald sehen sich die beiden allerdings direkt mit der Vergangenheit des Hauses konfrontiert, nachdem sie die Geister der Toten ins Diesseits befördern...",
+    "popularity": 10.058,
+    "poster_path": "/qRfjk61JH2SVeEk7T65FYXW0lsD.jpg",
+    "production_companies": [
+        {
+            "id": 73666,
+            "logo_path": null,
+            "name": "Covert Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 11029,
+            "logo_path": "/aEqqnFZjCW10ODE4TYQ1qkjvokr.png",
+            "name": "QED International",
+            "origin_country": "US"
+        },
+        {
+            "id": 24428,
+            "logo_path": "/zH6o8LH5x3mpaJgshhFrVRnbJpD.png",
+            "name": "Revolver Picture Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-02-19",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Böse erwacht",
+    "title": "Haunt",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 188
+}

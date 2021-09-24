@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/bhClb0sY1rNHrtjfWIhUWTpFCAR.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "https://www.lionsgate.com/movies/nerve",
+    "id": 328387,
+    "imdb_id": "tt3531824",
+    "original_language": "en",
+    "original_title": "Nerve",
+    "overview": "Im Internet macht ein neues, illegales Spiel namens „Nerve“ die Runde, bei dem die Teilnehmer riskante Herausforderungen meistern müssen, während die Welt ihnen dabei zuschaut. Nirgendwo scheint es noch ein anderes Gesprächsthema zu geben und auch die schüchterne Vee bekommt davon Wind. Damit sie endlich mal im Mittelpunkt des Geschehens stehen kann, so wie ihre Freundin Sydney, meldet sie sich als Spielerin an. Ihrer Mutter passt gar nicht, was die Tochter da vorhat – und wie zur Bestätigung der mütterlichen Sorgen hat Vee gleich zu Beginn von Nerve die Aufgabe, einen fremden Typen zu küssen. Spontan drückt sie Ian ihre Lippen auf den Mund. Von da an versuchen die beiden, die immer gefährlicheren Etappen zu meistern und werden dabei zur Internetsensation. Doch als Vee und Ian aus dem Spiel aussteigen wollen, merken sie, dass es dafür längst zu spät ist…",
+    "popularity": 23.429,
+    "poster_path": "/5WqwM1osa8ZUehVEAd8whFI651A.jpg",
+    "production_companies": [
+        {
+            "id": 79963,
+            "logo_path": null,
+            "name": "Keep Your Head",
+            "origin_country": ""
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 47706,
+            "logo_path": null,
+            "name": "Allison Shearmur Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-06-27",
+    "revenue": 85241496,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nerve",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 5916
+}

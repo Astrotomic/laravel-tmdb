@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/yDI3qXoKMGUGGz0E2zrkHw4PRt4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.der-chor-film.de",
+    "id": 286519,
+    "imdb_id": "tt3302706",
+    "original_language": "en",
+    "original_title": "Boychoir",
+    "overview": "Der 12-jährige Stet ist ein rebellischer Einzelgänger. Weder seine überforderte, alleinerziehende Mutter, noch seine Lehrer und Mitschüler schaffen es, zu dem Jungen vorzudringen. Nur seine Schulleiterin Ms. Steel glaubt an ihn, nachdem sie sein einzigartiges musikalisches Talent entdeckt. Sie schafft es, Stet auf der renommiertesten Chorschule der USA anzumelden: Dem „National Boychoir“-Internat. Auf seiner neuen Schule erwartet kaum jemand, dass der wilde Einzelgänger zwischen den elitären Jungen in Anzug und Krawatte bestehen wird – am allerwenigsten der anspruchsvolle Chorleiter der Schule, Carvelle, der sich mit Hingabe und extremer Disziplin darauf konzentriert, nur die Besten zu fördern. Doch Stet hat das absolute Gehör und eine engelsgleiche Stimme – und er ahnt, dass er nur noch diese eine Chance hat, seinem Leben eine Wende zu geben…",
+    "popularity": 7.726,
+    "poster_path": "/lLF9qb273u57ocPGlSnXrcCiBI9.jpg",
+    "production_companies": [
+        {
+            "id": 9325,
+            "logo_path": null,
+            "name": "Informant Media",
+            "origin_country": ""
+        },
+        {
+            "id": 49705,
+            "logo_path": null,
+            "name": "Informant Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-09-04",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Außerordentliche Talente brauchen eine außerordentliche Inspiration",
+    "title": "Der Chor - Stimmen des Herzens",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 209
+}

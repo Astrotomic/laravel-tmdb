@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/20PWlZli3pmygZ0LnPVsA0Ml6Zn.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 513421,
+    "imdb_id": "tt4685940",
+    "original_language": "en",
+    "original_title": "Discarnate",
+    "overview": "Nach dem tragischen Tod seiner Familie, entwickelt der Neurowissenschaftler Dr. Andre Mason ein bewusstseinserweiterndes Serum, das den Kontakt mit dem Totenreich ermöglichen soll. In einer abgelegenen Villa injiziert er sich und seinem Wissenschaftler-Team die Droge. Das Serum beginnt zu wirken und erlaubt ihnen mit übernatürlichen Erscheinungen zu interagieren. Doch mit ihrem Experiment haben sie auch die Aufmerksamkeit von weit dunkleren Wesen auf sich gezogen - sogenannten Formwandlern. Andre muss sich entscheiden: entweder für seine tote Familie oder sein Team, das ohne seine Hilfe diesem Experiment nicht lebend entkommen wird.",
+    "popularity": 23.827,
+    "poster_path": "/haNm93uMEg9fcR1RignuvQ8PSi7.jpg",
+    "production_companies": [
+        {
+            "id": 114884,
+            "logo_path": "/A2igKzojZ4JpxD9R2ZfKxXVONno.png",
+            "name": "Fire Trial Films",
+            "origin_country": ""
+        },
+        {
+            "id": 114885,
+            "logo_path": null,
+            "name": "Street Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-02-20",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wenn es deine Seele sieht, jagt es dein Fleisch.",
+    "title": "Shapeshifter",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 67
+}

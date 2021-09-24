@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/2ddVTlMyATZdvUHE7DPExA2X6xF.jpg",
+    "belongs_to_collection": {
+        "id": 591028,
+        "name": "Bailey Filmreihe",
+        "poster_path": "/mDth3M2i5bgBZu57h7QE6onG2E.jpg",
+        "backdrop_path": "/7QtTnJQDnRnRu2FvCTJoPMPN8hp.jpg"
+    },
+    "budget": 22000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.uphe.com/movies/a-dogs-purpose",
+    "id": 381289,
+    "imdb_id": "tt1753383",
+    "original_language": "en",
+    "original_title": "A Dog's Purpose",
+    "overview": "Bailey wird eines Tages von dem achtjährigen Ethan und dessen Mutter aus dem Tierheim geholt, um fortan bei der Familie zu leben. Einige Jahre später ist Bailey erwachsen und Ethan  ein Teenager geworden und der treue Hund hilft seinem Herrchen dabei, das Herz von Ethans Mitschülerin Hannah zu erobern. Als Bailey eines Tages im hohen Hundealter stirbt, landet er zu seiner eigenen Überraschung jedoch nicht im Hundehimmel, sondern wird als eine deutsche Schäferhündin namens Ellie wiedergeboren, die gemeinsam mit ihrem menschlichen Partner Carlos bei der Chicagoer Polizei arbeitet. Und auch als Ellie eines Tages in Ausübung ihrer Pflicht stirbt, ist Baileys Kreislauf an Wiedergeburten noch nicht beendet...",
+    "popularity": 43.582,
+    "poster_path": "/snB1zT7XZ33yn3gPeTwrhI06D73.jpg",
+    "production_companies": [
+        {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 1271,
+            "logo_path": null,
+            "name": "Pariah Entertainment Group",
+            "origin_country": ""
+        },
+        {
+            "id": 10221,
+            "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+            "name": "Walden Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 7294,
+            "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+            "name": "Reliance Entertainment",
+            "origin_country": "IN"
+        },
+        {
+            "id": 121685,
+            "logo_path": "/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png",
+            "name": "Amblin Partners",
+            "origin_country": "US"
+        },
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-01-19",
+    "revenue": 205035819,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bailey – Ein Freund fürs Leben",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 2548
+}

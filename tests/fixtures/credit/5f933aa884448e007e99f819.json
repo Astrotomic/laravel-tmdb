@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "id": 243238,
+        "video": false,
+        "vote_count": 13,
+        "vote_average": 6.7,
+        "title": "The Fire Rises: The Creation and Impact of The Dark Knight Trilogy",
+        "release_date": "2013-09-24",
+        "original_language": "en",
+        "original_title": "The Fire Rises: The Creation and Impact of The Dark Knight Trilogy",
+        "genre_ids": [
+            99
+        ],
+        "backdrop_path": "/vc4BgDe25zwpdOm9908MAvjb3PU.jpg",
+        "adult": false,
+        "overview": "This feature-length documentary delves into the trilogy, opening with the inspiration and vision for the new Batman films and inching its way toward the Rises finale and the culmination of nearly a decade of creative blood, sweat and tears. Candid, thoughtful and extensive, and comprised of revealing behind-the-scenes footage, countless interviews, audition tapes (with Christian Bale and Cillian Murphy doning the cape and cowl), and a narrative grip and momentum all its own, it leaves no stone unturned.",
+        "poster_path": "/y78UlBU4Y2HnEuvSW4V0A5DzP3C.jpg",
+        "popularity": 3.882,
+        "character": "Himself"
+    },
+    "media_type": "movie",
+    "id": "5f933aa884448e007e99f819",
+    "person": {
+        "adult": false,
+        "gender": 2,
+        "name": "John Papsidera",
+        "id": 561,
+        "known_for": [
+            {
+                "poster_path": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+                "video": false,
+                "id": 27205,
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "release_date": "2010-07-15",
+                "vote_count": 29871,
+                "adult": false,
+                "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+                "vote_average": 8.3,
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "title": "Inception",
+                "original_language": "en",
+                "original_title": "Inception",
+                "popularity": 52.036,
+                "media_type": "movie"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 26687,
+                "popularity": 77.698,
+                "media_type": "movie"
+            },
+            {
+                "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+                "release_date": "2008-07-14",
+                "original_title": "The Dark Knight",
+                "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                "adult": false,
+                "backdrop_path": "/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg",
+                "vote_average": 8.5,
+                "genre_ids": [
+                    18,
+                    28,
+                    80,
+                    53
+                ],
+                "vote_count": 25850,
+                "original_language": "en",
+                "video": false,
+                "title": "The Dark Knight",
+                "id": 155,
+                "popularity": 53.064,
+                "media_type": "movie"
+            }
+        ],
+        "known_for_department": "Production",
+        "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+        "popularity": 0.921
+    }
+}

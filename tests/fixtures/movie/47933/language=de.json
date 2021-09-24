@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/ou70x2658dVnbycIRaC37sEeafS.jpg",
+    "belongs_to_collection": {
+        "id": 304378,
+        "name": "Independence Day Filmreihe",
+        "poster_path": "/bVRYVSLLgKTcUvAK8o8K2LtyJFR.jpg",
+        "backdrop_path": "/ou70x2658dVnbycIRaC37sEeafS.jpg"
+    },
+    "budget": 165000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.warof1996.com",
+    "id": 47933,
+    "imdb_id": "tt1628841",
+    "original_language": "en",
+    "original_title": "Independence Day: Resurgence",
+    "overview": "20 Jahre ist es her, dass Aliens die Erde attackierten und die Hälfte der Bevölkerung auslöschten. Vor allem der mutigen Mission des Piloten Steven Hiller und des Satellitentechnikers David Levinson verdanken wir es, dass die Außerirdischen 1996 besiegt wurden – tragischerweise kam Hiller dann 2007 ums Leben, als er einen Alien-Hybrid-Fighter testete. Und 2016 wird er umso mehr vermisst, als sich die Warnung des Ex-Präsidenten Whitmore bewahrheitet und die Außerirdischen einen neuen, noch verheerenderen Angriff starten! Die Menschheit, die in bis dato nie gekannter Einigkeit ein mit Alien-Technologie erweitertes Verteidigungssystem schuf, steht vor ihrer größten Herausforderung. Die Hoffnungen ruhen auf den jungen Kampfpiloten Jake und Dylan, dem Sohn des verstorbenen Steven Hiller …",
+    "popularity": 43.069,
+    "poster_path": "/6Eg7AvTjGhv4GYQtLpYO9UuqI1G.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 347,
+            "logo_path": null,
+            "name": "Centropolis Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 86561,
+            "logo_path": null,
+            "name": "Stereo D",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-06-22",
+    "revenue": 389681935,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wir hatten 20 Jahre, uns vorzubereiten. Sie auch.",
+    "title": "Independence Day - Wiederkehr",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 4997
+}

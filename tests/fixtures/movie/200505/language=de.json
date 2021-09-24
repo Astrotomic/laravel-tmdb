@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/srYxRedjdG8flhLXRg4bPjbPQOe.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 200505,
+    "imdb_id": "tt2223990",
+    "original_language": "en",
+    "original_title": "Draft Day",
+    "overview": "Sonny Weaver Jr. ist nicht zu beneiden: Der General Manager der Cleveland Browns kämpft Jahr für Jahr nicht nur um die Daseinsberechtigung seines Teams, sondern auch mehr und mehr um seine eigene Existenz.\r Der Eigentümer der Cleveland Browns, Harvey Molina, setzt ihm daher die Pistole auf die Brust: Wenn diese Saison nicht erfolgreich abgeschlossen wird, ist er seinen Job los. Und jeder gibt ihm das Gefühl, dass er seinen Job besser kann als Sonny selbst, über den Trainer Vince Penn bis hin zu seiner Mutter Barb. Allein seine Assistentin Ali bietet ihm Unterstützung und Rat. Am Draft Day, dem Tag, an dem die Football Teams die meisten Spieler für die zukünftige Saison erwerben, kulminieren die Ereignisse, um nicht zuletzt über Sonnys persönliche und professionelle Zukunft zu entscheiden…",
+    "popularity": 10.948,
+    "poster_path": "/tuo46ONWRe5Sy3QSHmBGtXwmkmw.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3263,
+            "logo_path": "/z0fbODSLBptxVKekL0950Lr71zU.png",
+            "name": "OddLot Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-04-11",
+    "revenue": 28831145,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Tag der Entscheidung",
+    "title": "Draft Day",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 706
+}

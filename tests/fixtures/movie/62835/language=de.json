@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.colombiana-film.de/",
+    "id": 62835,
+    "imdb_id": "tt1657507",
+    "original_language": "en",
+    "original_title": "Colombiana",
+    "overview": "Cataleya ist erst neun Jahre alt, als sie die Ermordung ihrer Eltern durch den brutalen kolumbianischen Mafiaboss Don Luis mit ansehen muss. Sie selbst entgeht dem Anschlag nur knapp und es gelingt ihr, zu ihrem Onkel nach Chicago zu fliehen. Getrieben von dem Wunsch nach Rache und fest entschlossen, den Mörder ihrer Eltern aufzuspüren, lässt sie sich zur Profi-Killerin ausbilden. Doch Don Luis genießt inzwischen den Schutz der CIA. Bei dem Versuch, ihren Erzfeind aus der Reserve zu locken, gerät auch Cataleya immer mehr ins Fadenkreuz des FBI sondern auch Danny, der von den dunklen Machenschaften seiner Freundin nichts ahnt...",
+    "popularity": 25.895,
+    "poster_path": "/saKpBNHXZnn3Mi7gPbQq2XgI1vu.jpg",
+    "production_companies": [
+        {
+            "id": 11473,
+            "logo_path": null,
+            "name": "A.J.O.Z. Films",
+            "origin_country": ""
+        },
+        {
+            "id": 6896,
+            "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+            "name": "EuropaCorp",
+            "origin_country": "FR"
+        },
+        {
+            "id": 6877,
+            "logo_path": null,
+            "name": "Grive Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 6301,
+            "logo_path": "/jma8ZaHq1KAzlXW3v0RswVOWSdn.png",
+            "name": "CinéCinéma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 356,
+            "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+            "name": "TF1 Films Production",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2011-07-27",
+    "revenue": 60965854,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Colombiana",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 1961
+}

@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/oGaDyARxXL5uuPm1myeQPWetwpx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 237584,
+    "imdb_id": "tt2322517",
+    "original_language": "en",
+    "original_title": "Mojave",
+    "overview": "Um den Kopf freizubekommen, lässt der erfolgreiche junge Hollywood-Regisseur Thomas Los Angeles hinter sich und fährt in die raue Stille der Mojave-Wüste. Dort trifft er auf den zwielichtigen Herumtreiber Jack und sie kommen ins Gespräch. Die Situation eskaliert, Thomas schlägt den Fremden nieder und flieht. Doch Jack ist ihm schon bald auf den Fersen und folgt Thomas zurück in die Zivilisation. Ein tödliches Katz-und-Maus-Spiel beginnt, bei dem Jack nur ein Ziel verfolgt: Thomas alles zu nehmen, was ihm wichtig ist…",
+    "popularity": 6.851,
+    "poster_path": "/eZLpBNG84wAI5c9XCQBa7w78ElX.jpg",
+    "production_companies": [
+        {
+            "id": 18239,
+            "logo_path": null,
+            "name": "Atlas Independent",
+            "origin_country": ""
+        },
+        {
+            "id": 18240,
+            "logo_path": null,
+            "name": "Henceforth Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 24510,
+            "logo_path": null,
+            "name": "MICA Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 76991,
+            "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+            "name": "Highland Film Group",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-04-18",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mojave - Die Wüste kennt kein Erbarmen",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 91
+}

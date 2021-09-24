@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/cKPfiu9IcCW0fMdKdQBXe3PRtTZ.jpg",
+    "belongs_to_collection": {
+        "id": 263,
+        "name": "The Dark Knight Filmreihe",
+        "poster_path": "/bLLJe1ZxqWKBC8k3roSQXYHydd9.jpg",
+        "backdrop_path": "/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg"
+    },
+    "budget": 250000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.thedarkknightrises.com/",
+    "id": 49026,
+    "imdb_id": "tt1345836",
+    "original_language": "en",
+    "original_title": "The Dark Knight Rises",
+    "overview": "Nach dem Tod des Staatsanwalts Harvey Dent alias Two-Face nahm Batman die Schuld von dessen Verbrechen auf sich, um seinen Ruf zu schützen. Daher wurde er von dem Gotham City Police Department gejagt und verließ die Stadt. Die Handlung des Films setzt acht Jahre nach den Ereignissen von The Dark Knight ein. Nachdem der bemerkbar gealterte Batman nach Gotham zurückkehrt, muss er die Wahrheit der geheimnisvollen Selina Kyle herausfinden und den Schurken Bane davon abhalten, Gotham zu zerstören",
+    "popularity": 45.316,
+    "poster_path": "/8JCu1wi83pirpHEbVpmpfowDolX.jpg",
+    "production_companies": [
+        {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-07-16",
+    "revenue": 1081041287,
+    "runtime": 165,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Legende endet",
+    "title": "The Dark Knight Rises",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 18318
+}

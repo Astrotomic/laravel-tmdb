@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/evSN8IybGaPZrrkgNa1ID3gcch8.jpg",
+    "belongs_to_collection": {
+        "id": 2980,
+        "name": "Ghostbusters Collection",
+        "poster_path": "/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg",
+        "backdrop_path": "/6Jnlhr2ac8OuDJEowsFLzZY3SXd.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://ghostbusters.com/",
+    "id": 425909,
+    "imdb_id": "tt4513678",
+    "original_language": "en",
+    "original_title": "Ghostbusters: Afterlife",
+    "overview": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+    "popularity": 41.493,
+    "poster_path": "/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg",
+    "production_companies": [
+        {
+            "id": 2364,
+            "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+            "name": "The Montecito Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 84042,
+            "logo_path": null,
+            "name": "Ghost Corps",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-11-11",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "Everything happens for a reason.",
+    "title": "Ghostbusters: Afterlife",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

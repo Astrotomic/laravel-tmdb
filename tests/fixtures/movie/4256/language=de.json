@@ -1,0 +1,61 @@
+{
+    "adult": false,
+    "backdrop_path": "/4ml6eXieYnW6qv9qHwUUfDi0ntm.jpg",
+    "belongs_to_collection": {
+        "id": 4246,
+        "name": "Scary Movie Filmreihe",
+        "poster_path": "/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
+        "backdrop_path": "/rpzbedRGnWd5YzZZmgG6H076AzJ.jpg"
+    },
+    "budget": 48000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 4256,
+    "imdb_id": "tt0306047",
+    "original_language": "en",
+    "original_title": "Scary Movie 3",
+    "overview": "Die Fernseh-Moderatorin Cindy Campbell untersucht mysteriöse Zeichen in Kornfeldern, die auf eine Landung von Aliens hindeuten. Ihre Freundin Brenda bekommt derweil ein Videoband in die Hände, das sieben Tage nach dem Ansehen tödliche Nachwirkungen haben soll. Tatsächlich erhält sie nur wenige Augenblicke nach dem Angucken einen Anruf, der ihr ein vorzeitiges Ende prophezeit. Der junge weißen Rapper George möchte sich in einem großen Battle beweisen und zu einem Star des Hip-Hop-Universums aufsteigen, gewinnt aber zunächst die Liebe von Cindy. Gemeinsam versuchen sie, den Geheimnissen der Außerirdischen und des Videobandes auf die Spur zu kommen...",
+    "popularity": 39.062,
+    "poster_path": "/f3nRFgJzSIJiCYurNUy7IsJRCNw.jpg",
+    "production_companies": [
+        {
+            "id": 10958,
+            "logo_path": null,
+            "name": "Brad Grey Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-10-24",
+    "revenue": 220673217,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Aller guten Trilogien sind 3!",
+    "title": "Scary Movie 3",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 3029
+}

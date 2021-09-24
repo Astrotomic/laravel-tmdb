@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/fJyt1NHDYY7UypcdRE4RQfshHGy.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.benhurmovie.com/",
+    "id": 271969,
+    "imdb_id": "tt2638144",
+    "original_language": "en",
+    "original_title": "Ben-Hur",
+    "overview": "Der jüdische Prinz Judah Ben-Hur und der Sohn eines römischen Steuereintreibers Messala wachsen gemeinsam zu jener Zeit auf, zu der auch Jesus Christus lebt.  Sie sind beste Freunde, bis Messala eines Tages nach Rom geht, um sich dort weiterzubilden. Jahre später kommt er als völlig veränderter Mensch zurück, hat nur noch Spott für Judah und vor allem für dessen Religion übrig. Schon bald intrigiert er gegen seinen einstigen Freund und sorgt dafür, dass dessen Familie im Gefängnis landet und Judah auf ein Sklavenschiff gebracht wird. Der dort dem sicheren Tod geweihte Ben-Hur überlebt wie durch ein Wunder und kennt nur noch ein Ziel: Rache. Die bietet sich schließlich bei einem Wagenrennen in Rom, an welchem Ben-Hur im Dienste des ihm wohlgesonnenen Scheichs Ilderim teilnimmt ...",
+    "popularity": 25.672,
+    "poster_path": "/eKDp1MndIye89hAfAq5Fykn2bPC.jpg",
+    "production_companies": [
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 23920,
+            "logo_path": null,
+            "name": "LightWorkers Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 19857,
+            "logo_path": null,
+            "name": "Sean Daniel Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-08-17",
+    "revenue": 94061311,
+    "runtime": 123,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Rom machte ihn zum Sklaven. Seine Rache befreite ihn.",
+    "title": "Ben Hur",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 1380
+}

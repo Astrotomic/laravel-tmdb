@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
+    "belongs_to_collection": {
+        "id": 261307,
+        "name": "Alice im Wunderland Filmreihe",
+        "poster_path": "/2gx63DG6XIaMS8OInVjGxF36LuP.jpg",
+        "backdrop_path": "/hbigSy1RDiSiX2uWj6vEQsO3T7Q.jpg"
+    },
+    "budget": 170000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://movies.disney.com/alice-through-the-looking-glass",
+    "id": 241259,
+    "imdb_id": "tt2567026",
+    "original_language": "en",
+    "original_title": "Alice Through the Looking Glass",
+    "overview": "Alice Kingsleigh hat die letzten Jahre damit zugebracht, in die Fussstapfen ihres Vaters zu treten und über die sieben Weltmeere zu segeln. Wieder zurück in London findet sie einen magischen Spiegel und kehrt in die fantastische Welt von Unterland zurück. Dort trifft sie auf alte Bekannte: das Weisse Kaninchen, Absolem, die Grinsekatze und natürlich den Verrückten Hutmacher, der aber nicht mehr er selbst ist – er hat sein Mehrsein verloren. Um ihn zu retten, schickt die Weisse Königin Alice los, nach der Chronosphäre zu suchen, einer Metallkugel im Inneren der Grossen Uhr, von der alle Zeit ausgeht. Auf ihrer Reise in die Vergangenheit trifft Alice auf Freunde - und Feinde - in verschiedenen Stadien ihres Lebens. Es ist ein gefahrenvoller Wettlauf mit der Zeit, um den Verrückten Hutmacher zu retten, bevor sein letztes Stündlein geschlagen hat… im wahrsten Sinne des Wortes!",
+    "popularity": 39.225,
+    "poster_path": "/efe4tjwxyOgoMEGTL13G6eTaI6R.jpg",
+    "production_companies": [
+        {
+            "id": 37455,
+            "logo_path": null,
+            "name": "Legend3D",
+            "origin_country": ""
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 16314,
+            "logo_path": null,
+            "name": "Roth Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 598,
+            "logo_path": null,
+            "name": "Team Todd",
+            "origin_country": ""
+        },
+        {
+            "id": 8601,
+            "logo_path": null,
+            "name": "Tim Burton Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-05-25",
+    "revenue": 299457024,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Es ist Zeit für ein bisschen Wahnsinn",
+    "title": "Alice im Wunderland: Hinter den Spiegeln",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5270
+}

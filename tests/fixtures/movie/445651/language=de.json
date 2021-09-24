@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/rPBeEi1tU8IhQ9rbdnlLU0d0NR.jpg",
+    "belongs_to_collection": null,
+    "budget": 34000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/the-darkest-minds",
+    "id": 445651,
+    "imdb_id": "tt4073790",
+    "original_language": "en",
+    "original_title": "The Darkest Minds",
+    "overview": "Ein paar Jahre in der Zukunft: In den USA sterben fast alle Kinder und Teenager. Die wenigen Überlebenden haben plötzlich mächtige Kräfte – und keiner weiß, warum. Sie können Menschen manipulieren, Gedanken lesen oder Gegenstände per Gedankenkraft bewegen. Die Regierung reagiert hilflos: Sie erklärt die Mädchen und Jungen zur Bedrohung und lässt sie wegsperren, auf dass sie niemandem gefährlich werden können. Eine der inhaftierten Teenager ist die sechzehnjährige Ruby, ihre Kräfte sind so stark ausgeprägt wie von fast keinem anderen. Sie flieht aus dem Camp und trifft draußen auf andere junge Leute, die durchgebrannt sind und nach einem Ort suchen, an dem sie Schutz haben. Gemeinsam stellen Ruby, Liam, Chubs und Zu bald fest, dass ihre Flucht vergeblich sein wird, solange sie das Grundproblem nicht gelöst haben. Sie wurden von mächtigen Erwachsenen betrogen – und müssen den Kampf gegen sie aufnehmen…",
+    "popularity": 67.205,
+    "poster_path": "/weLIUQIBq2MKpKZSI0IFhA4PerV.jpg",
+    "production_companies": [
+        {
+            "id": 2575,
+            "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+            "name": "21 Laps Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-07-25",
+    "revenue": 41142379,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Diejenigen, die sich veränderten, werden alles verändern!",
+    "title": "The Darkest Minds - Die Überlebenden",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2148
+}

@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/dIsfiYYgDSoux7Mt8vY4LU8HW3j.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 12797,
+    "imdb_id": "tt0995039",
+    "original_language": "en",
+    "original_title": "Ghost Town",
+    "overview": "Menschen erträgt Zahnarzt Dr. Pincus am besten, wenn er sie bei der Behandlung kurzfristig verstummen lassen kann. Nach einer Operation, der er sich unterziehen musste, ist es mit der Ruhe vorbei. Plötzlich sieht er Geister, die Hilfe einfordern. Der lästigste ist Frank, der seine Witwe nicht in eine neue Ehe ziehen lassen will. Pincus willigt ein, diese Beziehung zu sabotieren, sich Gwen selbst als Lover zu offerieren.",
+    "popularity": 7.712,
+    "poster_path": "/dKSBDvxn9rPZDxShbAZ891AmKUF.jpg",
+    "production_companies": [
+        {
+            "id": 158,
+            "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+            "name": "Spyglass Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 11733,
+            "logo_path": null,
+            "name": "Pariah",
+            "origin_country": ""
+        },
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-09-19",
+    "revenue": 27090159,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wen die Geister lieben",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 719
+}

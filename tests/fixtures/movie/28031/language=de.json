@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/AuzHbhkKF9p8fQbuzW2pIkScboP.jpg",
+    "belongs_to_collection": {
+        "id": 164394,
+        "name": "If these walls could talk Filmreihe",
+        "poster_path": "/5wSm1oLALhweqGpOWXjV14dJucP.jpg",
+        "backdrop_path": "/tcX8RszOuTf0QJ34zI2oKXSURwq.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 28031,
+    "imdb_id": "tt0206036",
+    "original_language": "en",
+    "original_title": "If These Walls Could Talk 2",
+    "overview": "Der Film erzählt die Geschichte dreier weiblicher Paare in unterschiedlichen Dekaden.",
+    "popularity": 6.148,
+    "poster_path": "/1bwmJfLJVoxmj96qKVuE9oSmEUS.jpg",
+    "production_companies": [
+        {
+            "id": 598,
+            "logo_path": null,
+            "name": "Team Todd",
+            "origin_country": ""
+        },
+        {
+            "id": 7429,
+            "logo_path": "/6in9uMqxXEHx5XgYgkeRBpZ4rPw.png",
+            "name": "HBO Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-03-05",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Women Love Women",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 72
+}

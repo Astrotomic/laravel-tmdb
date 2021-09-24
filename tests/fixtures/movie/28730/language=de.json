@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/gbVjmYtMZLIiq22SWtW7heRBPE4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        },
+        {
+            "id": 10770,
+            "name": "TV-Film"
+        }
+    ],
+    "homepage": "",
+    "id": 28730,
+    "imdb_id": "tt0319758",
+    "original_language": "en",
+    "original_title": "Live from Baghdad",
+    "overview": "1990 sendete CNN Nachrichten rund um die Uhr und brauchte eine Story, über die sich rund um die Uhr berichten lässt. Diese Chance bot sich in Bagdad. Am Vorabend des Krieges befinden sich der erfahrene CNN-Produzent Robert Wiener und seine langjährige Kollegin Ingrid Formanek im Irak. Sie berichten in Konkurrenz zu den drei großen amerikanischen Networks  Grund genug, um aufmüpfig zu sein und für die größten Storys etwas zu riskieren. Denn im Gegensatz zu ihren Rivalen können sie sofort reagieren und live übertragen. Weil Bagdad ein offensichtliches strategisches Ziel des US-Militärs darstellt, schließen die Networks eins nach dem anderen ihre dortigen Büros, bis nur noch das CNN-Team dort zurückbleibt. Obwohl sie genau wissen, dass sie sich in Kürze mitten in einem großangelegten kriegerischen Konflikt befinden werden, wollen die CNN-Mitarbeiter weiter rund um die Uhr übertragen, was sich dort abspielt: Die beiden sind bereit ihr Leben zu aufs Spiel zu setzen für diese Chance.",
+    "popularity": 3.688,
+    "poster_path": "/dN5KeWVYJBqNJtscttaqHvLWmtZ.jpg",
+    "production_companies": [
+        {
+            "id": 7429,
+            "logo_path": "/6in9uMqxXEHx5XgYgkeRBpZ4rPw.png",
+            "name": "HBO Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 376,
+            "logo_path": null,
+            "name": "Industry Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-12-07",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Live aus Bagdad",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 36
+}

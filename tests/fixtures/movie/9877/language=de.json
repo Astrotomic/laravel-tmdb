@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/kB2RfRIIvQ8l7uMtLKl7cmwEUyu.jpg",
+    "belongs_to_collection": {
+        "id": 52760,
+        "name": "Düstere Legenden Filmreihe",
+        "poster_path": "/s3Hig0DwncXYnuHR8iCr0jmFFKG.jpg",
+        "backdrop_path": "/hSMhHSKOXLe0VGiDSbTwBbX55xv.jpg"
+    },
+    "budget": 14000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 9877,
+    "imdb_id": "tt0146336",
+    "original_language": "en",
+    "original_title": "Urban Legend",
+    "overview": "Pendelton College, New England. Der Jahrestag des brutalen Serienkiller-Massakers in der Stanley Hall der Traditions-Uni soll mit einer makabren Party gefeiert werden. Doch die düstere Legende, die vor 25 Jahren mit der Klinge eines irren Mörders geschaffen wurde, streckt ihre Krallen in die Gegenwart. Ein Psychopath geht um und mordet scheinbar wahllos. Schulleitung und Studenten sind hilflos und entsetzt. Doch Natalie und ihre Freunde Parker, Brenda, Sasha, Damon und Paul wollen nicht wie die Kaninchen vor der Schlange erstarren. Viel können sie gegen das Morden nicht ausrichten. Und sie können sich gegenseitig nicht trauen.",
+    "popularity": 12.04,
+    "poster_path": "/qdwdjN6MYg3ThNdZcaGDGoZYjMg.jpg",
+    "production_companies": [
+        {
+            "id": 559,
+            "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+            "name": "TriStar Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 11317,
+            "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+            "name": "Phoenix Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 53473,
+            "logo_path": null,
+            "name": "Canal+ Droits Audiovisuels",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-09-25",
+    "revenue": 72527595,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Was Du nicht glaubst, kann Dein Tod sein.",
+    "title": "Düstere Legenden",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 910
+}

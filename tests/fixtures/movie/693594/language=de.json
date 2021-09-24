@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/lkgmCVuOSnhh4ytY5yZeSOPsatg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.shorelineentertainment.com/portfolio/breaking-for-whales/",
+    "id": 693594,
+    "imdb_id": "tt2305326",
+    "original_language": "en",
+    "original_title": "Braking for Whales",
+    "overview": "",
+    "popularity": 2.144,
+    "poster_path": "/2l4AjNVoiOQTdHaB3UQoDUtLkQb.jpg",
+    "production_companies": [
+        {
+            "id": 23029,
+            "logo_path": null,
+            "name": "Narrator Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 132254,
+            "logo_path": null,
+            "name": "Charlie Baby Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-09-20",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Braking for Whales",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

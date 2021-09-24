@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/dTFJlBGWSqW6rMiawQidMPxleTd.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.wardogsthemovie.com/",
+    "id": 308266,
+    "imdb_id": "tt2005151",
+    "original_language": "en",
+    "original_title": "War Dogs",
+    "overview": "Efraim Diveroli  und David Packouz sind zwei Freunde aus Miami Beach, die gerne einen Joint durchziehen und ein entspanntes Leben in Florida führen. Da es sich mit etwas mehr Geld auf dem Konto selbstredend noch besser leben lassen würde, beschließen sie, eine wenig bekannte Initiative der US-Regierung auszunutzen, die kleine Firmen für amerikanische Rüstungsaufträge verpflichtet. Allerdings haben sie nicht damit gerechnet, einen 300-Millionen-Dollar-Auftrag an Land zu ziehen...",
+    "popularity": 19.256,
+    "poster_path": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+    "production_companies": [
+        {
+            "id": 1557,
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 3527,
+            "logo_path": null,
+            "name": "Green Hat Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 83036,
+            "logo_path": null,
+            "name": "Joint Effort",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-08-17",
+    "revenue": 86234523,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "Albanian",
+            "iso_639_1": "sq",
+            "name": "shqip"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        },
+        {
+            "english_name": "Romanian",
+            "iso_639_1": "ro",
+            "name": "Română"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Geld, Korruption und der Amerikanische Traum.",
+    "title": "War Dogs",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 3567
+}

@@ -1,0 +1,39 @@
+{
+    "adult": false,
+    "backdrop_path": "/vc4BgDe25zwpdOm9908MAvjb3PU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 243238,
+    "imdb_id": "tt3138282",
+    "original_language": "en",
+    "original_title": "The Fire Rises: The Creation and Impact of The Dark Knight Trilogy",
+    "overview": "",
+    "popularity": 3.882,
+    "poster_path": "/y78UlBU4Y2HnEuvSW4V0A5DzP3C.jpg",
+    "production_companies": [
+        {
+            "id": 2953,
+            "logo_path": "/Af2CjGqFS1gVCezvOlcSw41nwWJ.png",
+            "name": "New Wave Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2013-09-24",
+    "revenue": 0,
+    "runtime": 76,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Fire Rises: The Creation and Impact of The Dark Knight Trilogy",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 13
+}

@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/qGqlWb5izTPtFngBWdbJAEmninR.jpg",
+    "belongs_to_collection": null,
+    "budget": 110000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 80274,
+    "imdb_id": "tt1731141",
+    "original_language": "en",
+    "original_title": "Ender's Game",
+    "overview": "In einer Welt der Zukunft, in der die Erde von Aliens bedroht wird, sucht das internationale Militär verzweifelt nach einem militärischen Genie, dem es gelingen kann, die überlegene Flotte des übermächtigen Gegners zu besiegen. Dazu rekrutiert Commander Mazer Rackham potentielle Kandidaten bereits im Kindesalter, um sie in einer Militärschule im All isoliert auf den Kampf gegen die Außerirdischen vorzubereiten. Trainiert werden die Kinder vom hochdekorierten Colonel Hyrum Graff, der immer auf der Suche nach einem würdigen Nachfolger für den legendären Commander Mazer Rackham ist.",
+    "popularity": 18.374,
+    "poster_path": "/du5RzdWuOmzFZVInxfRHN8aGACS.jpg",
+    "production_companies": [
+        {
+            "id": 31825,
+            "logo_path": null,
+            "name": "Digital Domain",
+            "origin_country": "US"
+        },
+        {
+            "id": 3200,
+            "logo_path": null,
+            "name": "Chartoff Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 31826,
+            "logo_path": null,
+            "name": "Taleswapper",
+            "origin_country": "US"
+        },
+        {
+            "id": 7296,
+            "logo_path": null,
+            "name": "K/O Paper Products",
+            "origin_country": "US"
+        },
+        {
+            "id": 3263,
+            "logo_path": "/z0fbODSLBptxVKekL0950Lr71zU.png",
+            "name": "OddLot Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-10-24",
+    "revenue": 125537191,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das ist kein Spiel.",
+    "title": "Ender's Game - Das große Spiel",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 4672
+}

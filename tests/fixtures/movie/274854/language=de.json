@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/g8DUZrgCfXRJ5CazfZ5X7qCWcvZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 90000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.thelastwitchhunter-film.de/",
+    "id": 274854,
+    "imdb_id": "tt1618442",
+    "original_language": "en",
+    "original_title": "The Last Witch Hunter",
+    "overview": "Einer der letzten überlebenden Hexenjäger der heutigen Welt, Kaulder, zieht durch die Straßen von New York, um die Erde vor einer zerstörerischen Kraft zu schützen – ausgestattet mit hilfreichen Tipps von Father Dolan und dessen Schüler im Kampf unterstützt durch die Hexe Chloe. Der 700-jährige Kaulder und seine magisch begabte Begleiterin versuchen, den zahllosen bösen Hexen und Zauberern, die in New York unter dem Kommando einer niederträchtigen Königin ihr Unwesen treiben, das Handwerk zu legen. Denn die Unholde vermehren sich bedrohlich, nachdem sie bereits einen Großteil der anderen Hexenjäger getötet haben. Bald liegt es allein an dem ungleichen Duo Kaulder und Chloe, die wachsende Gegnerschar endgültig zu stoppen – und deren Anführerin.",
+    "popularity": 34.252,
+    "poster_path": "/pE7RMJBR566S4kf5Cc5G0TZX6JJ.jpg",
+    "production_companies": [
+        {
+            "id": 24097,
+            "logo_path": null,
+            "name": "NeoReel",
+            "origin_country": ""
+        },
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 2995,
+            "logo_path": null,
+            "name": "Atmosphere Entertainment MM",
+            "origin_country": "US"
+        },
+        {
+            "id": 12006,
+            "logo_path": null,
+            "name": "Goldmann Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 33832,
+            "logo_path": "/xql8tFVgctv4JaAvQ886hC7S6iy.png",
+            "name": "Aperture Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 72441,
+            "logo_path": null,
+            "name": "TIK Films",
+            "origin_country": "CN"
+        },
+        {
+            "id": 1225,
+            "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+            "name": "One Race",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-10-21",
+    "revenue": 146936910,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ewig leben. Ewig jagen.",
+    "title": "The Last Witch Hunter",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 2956
+}

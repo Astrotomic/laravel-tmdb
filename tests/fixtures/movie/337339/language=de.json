@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+    "belongs_to_collection": {
+        "id": 9485,
+        "name": "The Fast and the Furious Filmreihe",
+        "poster_path": "/qUAVDDG7dXP4z6NPXbiCgapdpGG.jpg",
+        "backdrop_path": "/gC9BUFiROWtaMsluGYziZ6lR4OJ.jpg"
+    },
+    "budget": 250000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.fastandfurious.com/",
+    "id": 337339,
+    "imdb_id": "tt4630562",
+    "original_language": "en",
+    "original_title": "The Fate of the Furious",
+    "overview": "Jetzt, da Dom und Letty ihre Flitterwochen genießen, Brian und Mia ausgestiegen sind und der Rest der Crew entlastet wurde, hat sich bei allen der Anschein eines normalen Lebens eingestellt. Doch als eine mysteriöse Frau Dom dazu verführt, in die Welt des Verbrechens zurückzukehren, der er einfach nicht entkommen kann, und er die verrät, die ihm am nächsten stehen, müssen sie sich Prüfungen wie noch nie zuvor stellen. Von den Stränden Kubas und den Straßen New York bis zu den eisigen Ebenen der arktischen Barentssee - für die Elitetruppe geht es kreuz und quer über den Globus, um eine Anarchistin daran zu hindern, Chaos auf die Welt loszulassen. Und um den Mann nach Hause zu holen, der aus ihnen eine Familie gemacht hat.",
+    "popularity": 84.981,
+    "poster_path": "/gs6V6VRl4suaUCsSST6x4Y1Ix37.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 7958,
+            "logo_path": null,
+            "name": "Fuji Eight Company Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 40890,
+            "logo_path": null,
+            "name": "China Film Co.",
+            "origin_country": "CN"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "DENTSU",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1225,
+            "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+            "name": "One Race",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-04-12",
+    "revenue": 1238764765,
+    "runtime": 136,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Familie wird zerbrechen.",
+    "title": "Fast & Furious 8",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8516
+}

@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/cdMfn0Jr9RGqKkaX9HyR5l1kiYy.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 510298,
+    "imdb_id": "tt1780967",
+    "original_language": "en",
+    "original_title": "Seberg",
+    "overview": "Die gefeierte Schauspielerin Jean Seberg ist Ende der 60er Jahre bereits zur Stil-Ikone avanciert. Durch ihr politisches Engagement für die Black Panthers und ihre Affäre mit dem schwarzen Bürgerrechtler Hakim Jamal gerät sie jedoch zunehmend ins Visier des FBI. Um die Black-Power-Bewegung zu sabotieren, setzt der US-Überwachungsapparat den Hollywood-Star mit immer brutaleren Methoden unter Druck - Jean wird zum Opfer einer beispiellosen Verschwörungs- und Hetzkampagne. Jack Solomon, ein junger und ehrgeiziger FBI-Agent, wird damit beauftragt, sie rund um die Uhr zu überwachen. Doch je mehr er über die faszinierende Frau in Erfahrung bringt, desto mehr verschwimmen die Grenzen zwischen Freund und Feind ...",
+    "popularity": 10.343,
+    "poster_path": "/rvnOO7j5YdSDJVVGTMX5Txbs5t3.jpg",
+    "production_companies": [
+        {
+            "id": 7625,
+            "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+            "name": "Automatik Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        },
+        {
+            "id": 96571,
+            "logo_path": null,
+            "name": "Bradley Pilz Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2019-12-13",
+    "revenue": 592565,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Against All Enemies",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 140
+}

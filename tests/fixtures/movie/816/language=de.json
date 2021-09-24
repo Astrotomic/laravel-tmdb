@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/3tSCdgdUpXmkpHtAoQJgTt1LSI0.jpg",
+    "belongs_to_collection": {
+        "id": 1006,
+        "name": "Austin Powers Filmreihe",
+        "poster_path": "/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg",
+        "backdrop_path": "/3QJMI8nqQcwU5JBPy26m8TUXtTN.jpg"
+    },
+    "budget": 16500000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 816,
+    "imdb_id": "tt0118655",
+    "original_language": "en",
+    "original_title": "Austin Powers: International Man of Mystery",
+    "overview": "London, 1967: Die Swinging Sixties erleben gerade ihren Höhepunkt. Mittendrin: Austin Powers. Fotograf, Geheimagent und immer am Puls der Zeit. Im Namen ihrer Majestät bekämpft er das Verbrechen, nur der glatzköpfige und bösartige Dr. Evil geht dem schrillen Agenten immer wieder durch die Lappen. Als sich sein Gegenspieler einfrieren lässt, um sein Unwesen auf die 90er Jahre zu vertagen, begibt sich Austin in den Gefrierschrank des Secret Service und lässt sich ebenfalls auf Eis legen. Nach 30 Jahren wird er wieder aufgetaut um Dr. Evil endgültig das Handwerk zu legen. Dieser hat die Welt als Geisel genommen und droht mit ihrer Vernichtung, sollten seine Forderungen nicht erfüllt werden. Gemeinsam mit der Tochter seiner ehemaligen Sekretärin, Miss Kensington, macht sich der britische Geheimagent ans Werk.",
+    "popularity": 21.566,
+    "poster_path": "/qSvfLwdDBLjZaPwA7qdn0yYePq5.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 594,
+            "logo_path": null,
+            "name": "Capella International",
+            "origin_country": ""
+        },
+        {
+            "id": 595,
+            "logo_path": null,
+            "name": "Eric's Boy",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-05-02",
+    "revenue": 67683989,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Groovy Baby!",
+    "title": "Austin Powers - Das Schärfste, was Ihre Majestät zu bieten hat",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 2501
+}
