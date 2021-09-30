@@ -16,6 +16,11 @@ abstract class Model extends \Illuminate\Database\Eloquent\Model
         return (new static())->getMorphClass();
     }
 
+    public static function qualifiedColumn(string $column): string
+    {
+        return (new static())->qualifyColumn($column);
+    }
+
     public function getConnectionName(): ?string
     {
         $connection = parent::getConnectionName();
