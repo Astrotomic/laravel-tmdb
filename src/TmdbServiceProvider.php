@@ -25,6 +25,5 @@ class TmdbServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/../database/migrations/' => database_path('migrations'),
         ], 'tmdb-migrations');
-        $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
     }
 }
