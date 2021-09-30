@@ -24,7 +24,6 @@
     },
     "require-dev": {
         "astrotomic/phpunit-assertions": "^0.6",
-        "barryvdh/laravel-ide-helper": "^2.8",
         "friendsofphp/php-cs-fixer": "^3.0",
         "infection/infection": "^0.25.2",
         "orchestra/testbench": "^6.0",
@@ -64,12 +63,6 @@
             "@composer thanks --ansi --no-interaction --quiet"
         ],
         "fix": "vendor/bin/php-cs-fixer fix --using-cache=no",
-        "ide": [
-            "@php artisan ide-helper:models --write --dir=src/Models --ansi --no-interaction --quiet",
-            "find ./src/Models/ -type f -exec sed -i -e 's/@mixin \\\\Eloquent/@mixin \\\\Illuminate\\\\Database\\\\Eloquent\\\\Builder/g' {} \\;",
-            "find ./src/Models/ -type f -exec sed -i -e 's/\\\\Illuminate\\\\Support\\\\Carbon/\\\\Carbon\\\\Carbon/g' {} \\;",
-            "@composer fix --quiet"
-        ],
         "normalize": "echo 'composer global require ergebnis/composer-normalize'",
         "test": "vendor/bin/pest",
         "thanks": "echo 'composer global require symfony/thanks'"

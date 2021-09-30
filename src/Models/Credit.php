@@ -11,7 +11,24 @@ use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\DB;
 
 /**
+ * @property string $id
+ * @property int $person_id
+ * @property string $media_type
+ * @property int $media_id
+ * @property \Astrotomic\Tmdb\Enums\CreditType $credit_type
+ * @property string|null $department
+ * @property string|null $job
+ * @property string|null $character
+ * @property \Carbon\Carbon|null $created_at
+ * @property \Carbon\Carbon|null $updated_at
+ * @property-read \Astrotomic\Tmdb\Models\Movie|\Astrotomic\Tmdb\Models\Model $media
+ * @property-read \Astrotomic\Tmdb\Models\Person $person
+ *
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder newModelQuery()
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder query()
+ *
+ * @mixin \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
  */
 class Credit extends Model
 {

@@ -3,13 +3,17 @@
 namespace Astrotomic\Tmdb\Eloquent\Builders;
 
 use Astrotomic\Tmdb\Enums\CreditType;
+use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Model;
+use Illuminate\Contracts\Support\Arrayable;
+use Illuminate\Database\Eloquent\Collection;
 use InvalidArgumentException;
 
 /**
- * @method \Astrotomic\Tmdb\Models\Credit newModelInstance(array $attributes = [])
- * @method \Astrotomic\Tmdb\Models\Credit|\Illuminate\Database\Eloquent\Collection|null find(string|string[]|\Illuminate\Contracts\Support\Arrayable $id, array $columns = ['*'])
- * @method \Illuminate\Database\Eloquent\Collection findMany(string[]|\Illuminate\Contracts\Support\Arrayable $ids, array $columns = ['*'])
+ * @method Credit newModelInstance(array $attributes = [])
+ * @method Credit|Collection|null find(string|string[]|Arrayable $id, array $columns = ['*'])
+ * @method Collection findMany(string[]|Arrayable $ids, array $columns = ['*'])
+ * @method Credit|Collection findOrFail(string|string[]|Arrayable $id, array $columns = ['*'])
  */
 class CreditBuilder extends Builder
 {

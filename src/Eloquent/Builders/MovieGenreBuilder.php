@@ -2,10 +2,15 @@
 
 namespace Astrotomic\Tmdb\Eloquent\Builders;
 
+use Astrotomic\Tmdb\Models\MovieGenre;
+use Illuminate\Contracts\Support\Arrayable;
+use Illuminate\Database\Eloquent\Collection;
+
 /**
- * @method \Astrotomic\Tmdb\Models\MovieGenre newModelInstance(array $attributes = [])
- * @method \Astrotomic\Tmdb\Models\MovieGenre|\Illuminate\Database\Eloquent\Collection|null find(int $id, array $columns = ['*'])
- * @method \Illuminate\Database\Eloquent\Collection findMany(int[] $ids, array $columns = ['*'])
+ * @method MovieGenre newModelInstance(array $attributes = [])
+ * @method MovieGenre|Collection|null find(int|int[]|Arrayable $id, array $columns = ['*'])
+ * @method Collection findMany(int[]|Arrayable $ids, array $columns = ['*'])
+ * @method MovieGenre|Collection findOrFail(int|int[]|Arrayable $id, array $columns = ['*'])
  */
 class MovieGenreBuilder extends Builder
 {

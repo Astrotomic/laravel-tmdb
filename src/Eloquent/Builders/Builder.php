@@ -9,8 +9,7 @@ use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Support\Facades\DB;
 
 /**
- * @method \Astrotomic\Tmdb\Models\Model findOrNew(int $id, string[] $columns = ['*'])
- * @method \Astrotomic\Tmdb\Models\Model findOrFail(int|int[]|\Illuminate\Contracts\Support\Arrayable $id, string[] $columns = ['*'])
+ * @method Model|Collection findOrFail(int|int[]|string|string[]|Arrayable $id, string[] $columns = ['*'])
  */
 abstract class Builder extends EloquentBuilder
 {

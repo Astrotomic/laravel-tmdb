@@ -10,7 +10,31 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Facades\DB;
 
 /**
+ * @property int $id
+ * @property string|null $name
+ * @property bool $adult
+ * @property string[]|null $also_known_as
+ * @property \Carbon\Carbon|null $birthday
+ * @property \Carbon\Carbon|null $deathday
+ * @property \Astrotomic\Tmdb\Enums\Gender $gender
+ * @property string|null $homepage
+ * @property string|null $imdb_id
+ * @property string|null $known_for_department
+ * @property string|null $place_of_birth
+ * @property string|null $profile_path
+ * @property float|null $popularity
+ * @property string|null $biography
+ * @property \Carbon\Carbon|null $created_at
+ * @property \Carbon\Carbon|null $updated_at
+ * @property-read array $translations
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $credits
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $movie_credits
+ *
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder newModelQuery()
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder query()
+ *
+ * @mixin \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder
  */
 class Person extends Model
 {

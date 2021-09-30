@@ -32,6 +32,7 @@ use Illuminate\Support\Facades\DB;
  * @property float|null $vote_average
  * @property int $vote_count
  * @property string[]|null $production_countries
+ * @property string[]|null $spoken_languages
  * @property \Astrotomic\Tmdb\Enums\MovieStatus|null $status
  * @property string|null $title
  * @property string|null $tagline
@@ -44,11 +45,10 @@ use Illuminate\Support\Facades\DB;
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $cast
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $crew
  *
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newModelQuery()
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder query()
- * @method static \Astrotomic\Tmdb\Models\Movie newModelInstance(array $attributes = [])
- * @method static \Astrotomic\Tmdb\Models\Movie|\Illuminate\Database\Eloquent\Collection|null find(int|int[]|\Illuminate\Contracts\Support\Arrayable $id, array $columns = ['*'])
- * @method static \Astrotomic\Tmdb\Models\Movie|\Illuminate\Database\Eloquent\Collection findOrFail(int|int[]|\Illuminate\Contracts\Support\Arrayable $id, array $columns = ['*'])
- * @method static \Illuminate\Database\Eloquent\Collection findMany(int[]|\Illuminate\Contracts\Support\Arrayable $ids, array $columns = ['*'])
+ *
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder
  */
 class Movie extends Model

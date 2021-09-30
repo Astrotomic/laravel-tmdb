@@ -18,10 +18,10 @@ use Illuminate\Support\Facades\DB;
  * @property-read array $translations
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Movie[] $movies
  *
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder newModelQuery()
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder query()
- * @method static \Astrotomic\Tmdb\Models\MovieGenre newModelInstance(array $attributes = [])
- * @method static \Astrotomic\Tmdb\Models\MovieGenre|\Illuminate\Database\Eloquent\Collection|null find(int $id, array $columns = ['*'])
- * @method static \Illuminate\Database\Eloquent\Collection findMany(int[] $ids, array $columns = ['*'])
+ *
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder
  */
 class MovieGenre extends Model
