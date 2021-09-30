@@ -1,0 +1,61 @@
+{
+    "adult": false,
+    "backdrop_path": "/7jTgJ24UPkWeb5zzH7ihs554xVy.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.der-grosse-diktator.de/",
+    "id": 914,
+    "imdb_id": "tt0032553",
+    "original_language": "en",
+    "original_title": "The Great Dictator",
+    "overview": "Anton Hynkel ist Der Große Diktator von Tomanien. Gnadenlos und brutal unterdrückt er Juden und strebt nach immer mehr Macht. Doch er weiß nichts von seinem Doppelgänger. Ein jüdischer Friseur, der nach einem Flugzeugabsturz im ersten Weltkrieg sein Gedächtnis verloren hat, gleicht ihm bis ins kleinste Detail. Der Friseur ahnt nichts von der Judenverfolgung, weil er von dem Kommandeur Schultz  dem er einst das Leben rettete, beschützt wird. Gemeinsam und mit dem Glück auf ihrer Seite sagen der Kommandeur und der Friseur dem Diktator den Kampf an.",
+    "popularity": 11.509,
+    "poster_path": "/wN5CyGi4ajxlVNZPH4yhQ60ls2A.jpg",
+    "production_companies": [
+        {
+            "id": 71975,
+            "logo_path": null,
+            "name": "Roy Export Company Establishment",
+            "origin_country": ""
+        },
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1940-10-23",
+    "revenue": 11000000,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Esperanto",
+            "iso_639_1": "eo",
+            "name": "Esperanto"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der große Diktator",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 2392
+}

@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb\Requests;
 
+use Astrotomic\Tmdb\Facades\Tmdb;
 use Illuminate\Http\Client\Response;
 
 class GetMovieDetails extends Request
@@ -9,7 +10,7 @@ class GetMovieDetails extends Request
     public const APPEND_CREDITS = 'credits';
 
     public function __construct(
-        protected int $creditId
+        protected int $movieId
     ) {
         parent::__construct();
     }
@@ -22,9 +23,9 @@ class GetMovieDetails extends Request
     public function send(): Response
     {
         return $this->request->get(
-            sprintf('/movie/%d', $this->creditId),
+            sprintf('/movie/%d', $this->movieId),
             array_filter([
-                'language' => $this->language ?? app()->getLocale(),
+                'language' => $this->language ?? Tmdb::language(),
                 'append_to_response' => implode(',', $this->append),
             ])
         )->throw();

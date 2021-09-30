@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.funimationfilms.com/movie/yourname/",
+    "id": 372058,
+    "imdb_id": "tt5311514",
+    "original_language": "ja",
+    "original_title": "君の名は。",
+    "overview": "Mitsuha lebt gemeinsam mit ihrer kleinen Schwester Yotsuha bei ihrer Großmutter in einer ländlichen Kleinstadt Japans. Insgeheim beklagt sie ihr abgeschiedenes Dasein in der Provinz und wünscht sich ein aufregendes Leben in der Großstadt. Taki würde sich freuen, so beschaulich aufzuwachsen, denn er wohnt in der Millionen-Metropole Tokio, verbringt viel Zeit mit seinen Freunden und jobbt neben der Schule in einem italienischen Restaurant. Eines Tages scheint Mitsuha einen Traum zu haben, in dem sie sich als Junge in Tokio wiederfindet. Parallel macht Taki eine ähnliche Erfahrung: Er findet sich als Mädchen in einer Kleinstadt in den Bergen wieder, wo er noch nie zuvor war. Doch wie kommt es zu dieser schicksalhaften Verstrickung und welches Geheimnis verbirgt sich wirklich hinter den Träumen der beiden Teenager?",
+    "popularity": 122.996,
+    "poster_path": "/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
+    "production_companies": [
+        {
+            "id": 3756,
+            "logo_path": "/t38uPdbKmyBB8brKKeTFWIwojRz.png",
+            "name": "CoMix Wave Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-08-26",
+    "revenue": 357986087,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Your Name. Gestern, heute und für immer",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 7905
+}

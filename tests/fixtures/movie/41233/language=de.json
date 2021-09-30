@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/s9KUIs0vFyzjy1bouVcvN7tNbuw.jpg",
+    "belongs_to_collection": {
+        "id": 86092,
+        "name": "Step Up Filmreihe",
+        "poster_path": "/imVPdj8kvLpMOitQgP8N0w0O5C3.jpg",
+        "backdrop_path": "/3jr0rQcsWyfqBlmzE0h0igjJohS.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "http://stepupmovie.com/",
+    "id": 41233,
+    "imdb_id": "tt1193631",
+    "original_language": "en",
+    "original_title": "Step Up 3D",
+    "overview": "Streetdancer Luke lebt mit zahlreichen, jungen Tänzern verschiedenster Herkunft, die sich zu der Tanztruppe „House of Pirates“ zusammengeschlossen haben, in einem heruntergekommenen New Yorker Lagerhaus. Sie stehen kurz vor dem World Jam-Wettbewerb, einem Tanzwettstreit, bei dem die besten Tanzcrews der Welt gegeneinander antreten. Als Belohnung winkt eine hohe Gewinnsumme. Für die „Piraten“ eine große Herausforderung, denn sie müssen ihre Erzrivalen, das „House of Samurai“, besiegen. Damit die „Piraten“ die World Jam gewinnen können, brauchen sie talentierten Nachwuchs und so macht sich Luke in der Untergrund-Tanzszene der Stadt auf Suche nach neuen Talenten.",
+    "popularity": 25.82,
+    "poster_path": "/bY1519ibfQQswPJdJXsMaV9QLo.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-08-04",
+    "revenue": 159291809,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Make Your Move.",
+    "title": "Step Up 3D",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 1605
+}

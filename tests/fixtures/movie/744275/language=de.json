@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/qD45xHA35HdJDGOaA1AgDwiWEgO.jpg",
+    "belongs_to_collection": {
+        "id": 702624,
+        "name": "After... Filmreihe",
+        "poster_path": "/oIcmMYCVrVUftMiO9tsniNnSNBc.jpg",
+        "backdrop_path": "/zZTy8G3sEVZNv0yGssgc7DvPUQJ.jpg"
+    },
+    "budget": 14000000,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 744275,
+    "imdb_id": "tt13069986",
+    "original_language": "en",
+    "original_title": "After We Fell",
+    "overview": "Gerade als Tessa die größte Entscheidung ihres Lebens trifft, ändert sich alles. Die einzige Person, auf die sie sich verlassen kann, ist Hardin. Enthüllungen über ihre Familien stellen jedoch bald alles, was sie bisher wussten, in Frage und erschweren ihre hart erkämpfte gemeinsame Zukunft.",
+    "popularity": 759.167,
+    "poster_path": "/jkdVZm3H3emQ5tgnNYvjy9XWjA4.jpg",
+    "production_companies": [
+        {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 107108,
+            "logo_path": "/5mxc7uNtFOZm2ly0BxixxGPvPlb.png",
+            "name": "Wattpad",
+            "origin_country": "US"
+        },
+        {
+            "id": 137972,
+            "logo_path": null,
+            "name": "Briarcliff Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 10427,
+            "logo_path": "/3u5sNgPRbba0ND3SUMXPTT7On9h.png",
+            "name": "Open Road Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 2378,
+            "logo_path": "/5xDJwLbyyt8IXuRAsR7kVibLDYF.png",
+            "name": "Offspring Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 140519,
+            "logo_path": null,
+            "name": "Frayed Pages Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 2912,
+            "logo_path": null,
+            "name": "Diamond Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-01",
+    "revenue": 16000000,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "After Love",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 271
+}

@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://disney.de/filme/luca",
+    "id": 508943,
+    "imdb_id": "tt12801262",
+    "original_language": "en",
+    "original_title": "Luca",
+    "overview": "Luca verbringt einen unvergesslichen Sommer in einer kleinen, malerischen Stadt an der italienischen Riviera, zusammen mit seinem neuen Freund Alberto. Ihre Tage voller Eiscreme, Pasta und Träumen von Vespa-Fahrten werden jedoch von einem tief verborgenen Geheimnis überschattet: Luca und Alberto sind Seemonster aus einer anderen Welt, die sich direkt unter der Wasseroberfläche befindet.",
+    "popularity": 885.916,
+    "poster_path": "/zVSIHRDozxYRWFV0o3b4qm8BxzI.jpg",
+    "production_companies": [
+        {
+            "id": 3,
+            "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+            "name": "Pixar",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-06-17",
+    "revenue": 47400000,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Erlebe diesen Sommer in Portorosso.",
+    "title": "Luca",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 4647
+}

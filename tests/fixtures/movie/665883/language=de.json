@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": "/aLCdMBypAMuW9MOoHfefdRxG0hv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.freelandfilm.com",
+    "id": 665883,
+    "imdb_id": "tt5785352",
+    "original_language": "en",
+    "original_title": "Freeland",
+    "overview": "",
+    "popularity": 6.296,
+    "poster_path": "/ths3Io125YyEPlS6QsF8QLlruS4.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Freeland",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

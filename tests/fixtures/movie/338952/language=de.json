@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
+    "belongs_to_collection": {
+        "id": 435259,
+        "name": "Phantastische Tierwesen Filmreihe",
+        "poster_path": "/mqBpOHH4khsOa5awxBMWJOByZDZ.jpg",
+        "backdrop_path": "/2Iripuf9j5vbROHNpkUUiWIIDxE.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.fantasticbeasts.com",
+    "id": 338952,
+    "imdb_id": "tt4123430",
+    "original_language": "en",
+    "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "overview": "Gellert Grindelwald für dessen Verhaftung Newt Scamander gesorgt hatte, ist die Flucht gelungen. Und nicht nur das: Der Schurke hat zwischenzeitlich eine noch größere Anhängerschaft aus Zauberern um sich geschart, um seinen düsteren Plan umzusetzen, der die Vorherrschaft der reinblütigen Magier vorsieht. Einzig Grindelwalds ehemals bester Freund Albus Dumbledore wäre in der Lage, ihn zu stoppen, aber dazu wiederum benötigt dieser die Hilfe seines früheren Schülers Scamander, der so in sein nächstes Abenteuer stürzt – und dieses Mal verschlägt es ihn nach Europa, genauer gesagt nach Paris.",
+    "popularity": 49.172,
+    "poster_path": "/wNGupBYMeUCmXCT3nUUQzIVLmuf.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 437,
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-11-14",
+    "revenue": 653355901,
+    "runtime": 134,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wer wird die Zukunft verändern?",
+    "title": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8401
+}

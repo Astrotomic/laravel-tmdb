@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/bf9shWfUKyEB5oB7awJeKIoCehl.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://movies.disney.com/spirited-away",
+    "id": 129,
+    "imdb_id": "tt0245429",
+    "original_language": "ja",
+    "original_title": "千と千尋の神隠し",
+    "overview": "Als die kleine Chihiro mit ihren Eltern während eines Ausflugs einen dunklen Tunnel durchquert, ahnt sie noch nicht, was sie auf der anderen Seite erwarten wird. Denn dort liegt eine für Menschen normalerweise unsichtbare Stadt der Geister. Zu allem Übel muss Chihiro dann auch noch feststellen, dass sich ihre Eltern in Schweine verwandelt haben und sie selbst plötzlich unsichtbar zu werden scheint...",
+    "popularity": 54.977,
+    "poster_path": "/9tqpaQfIPfnNnu4zDuDFyzlTh3I.jpg",
+    "production_companies": [
+        {
+            "id": 10342,
+            "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+            "name": "Studio Ghibli",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-07-20",
+    "revenue": 274925095,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Chihiros Reise ins Zauberland",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 11860
+}

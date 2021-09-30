@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/wrqUiMXttHE4UBFMhLHlN601MZh.jpg",
+    "belongs_to_collection": null,
+    "budget": 120000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.rampagethemovie.com",
+    "id": 427641,
+    "imdb_id": "tt2231461",
+    "original_language": "en",
+    "original_title": "Rampage",
+    "overview": "Mit seinen Mitmenschen kommt der renommierte Primatenforscher Davis Okoye nicht besonders gut zurecht, mit dem Gorilla George hingegen schon. Okoye hat den außergewöhnlich intelligenten Silberrücken aufgezogen, seit dieser ein kleines Affenbaby war. Die beiden verbindet eine tiefe Freundschaft. Doch dann geht eines Tages ein illegales Genexperiment gehörig schief und der eigentlich so sanftmütige George mutiert zu einem gewaltigen, wildgewordenen, riesigen Monster. Auch andere Tiere wurden in wilde Bestien verwandelt und sorgen ebenso wie George für Tod und Zerstörung. Okoye schließt sich mit der Gentechnikerin Dr. Kate Caldwell zusammen, um ein Gegenmittel zu entwickeln, das die Tiere wieder zurückverwandelt. Das ist bei dem ganzen Chaos ziemlich schwierig, zumal auch noch der gerissene Regierungsagent Russell auf Okoye und Dr. Caldwell angesetzt wurde…",
+    "popularity": 60.057,
+    "poster_path": "/xeXGUcRqZSKhQCmiEGYncFJ7InD.jpg",
+    "production_companies": [
+        {
+            "id": 73118,
+            "logo_path": null,
+            "name": "Wrigley Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 105750,
+            "logo_path": null,
+            "name": "7 Bucks Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 105751,
+            "logo_path": null,
+            "name": "ASAP Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 34081,
+            "logo_path": null,
+            "name": "Flynn Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 101832,
+            "logo_path": "/vO7CKIeogFxphT1CHkUIhjEXf2C.png",
+            "name": "Twisted Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-04-12",
+    "revenue": 426245950,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rampage - Big meets Bigger",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 5514
+}

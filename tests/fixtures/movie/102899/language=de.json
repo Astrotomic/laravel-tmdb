@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+    "belongs_to_collection": {
+        "id": 422834,
+        "name": "Ant-Man Filmreihe",
+        "poster_path": "/rjpJooNO8v3ExYQClw6MpGGPppw.jpg",
+        "backdrop_path": "/2KjtWUBiksmN8LsUouaZnxocu5N.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://marvel.com/movies/movie/180/ant-man",
+    "id": 102899,
+    "imdb_id": "tt0478970",
+    "original_language": "en",
+    "original_title": "Ant-Man",
+    "overview": "Als Hank Pym den smarten Superdieb Scott Lang für einen großen Coup anwirbt, setzt der Knastveteran seine Qualitäten erstmals für das Gute ein. Um zu verhindern, dass Pyms Technologie, mit der Belebtes und Unbelebtes auf Miniaturgröße geschrumpft werden kann, militärisch genutzt wird, soll Lang die Fortschritte von Pyms skrupellosem Kontrahenten Cross sabotieren und dessen Spezialanzug stehlen. Doch dafür muss Lang ein Superheldentraining absolvieren und lernen, ein Heer von Ameisen für seine Mission Impossible zu kontrollieren ...",
+    "popularity": 62.988,
+    "poster_path": "/i19WDSF030UObPPf60qkM0Hl03x.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-07-14",
+    "revenue": 519311965,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Es kommt nicht auf die Größe an.",
+    "title": "Ant-Man",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 16080
+}

@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/aBCn1z1tJGivVhY1nHSrXOQqQwG.jpg",
+    "belongs_to_collection": null,
+    "budget": 120000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.greenhornetmovie.com/",
+    "id": 40805,
+    "imdb_id": "tt0990407",
+    "original_language": "en",
+    "original_title": "The Green Hornet",
+    "overview": "Als der junge Partylöwe und Nichtsnutz Britt Reid in The Green Hornet vom mysteriösen Tod seines Vaters, einem der mächtigsten Medienmagnaten von L.A., erfährt, setzt ein Gesinnungswandel bei ihm ein, denn er will endlich etwas aus seinem Leben machen. Britt erbt das gewaltige Medienimperium seines Vaters und lernt schon bald darauf dessen Mitarbeiter Kato kennen - eine ungewöhnliche Partnerschaft beginnt: Die beiden beschließen, gemeinsam gegen Korruption und Verbrechen zu kämpfen. Kato präsentiert seinem neuen Chef das dazu nötige Rüstzeug: ein beeindruckendes Waffenarsenal, sowie ein unzerstörbares und mit zahlreichen Extras gespicktes Auto: The Black Beauty.",
+    "popularity": 14.452,
+    "poster_path": "/9owIbCFtOOFY3D60dqrgv8ze0eu.jpg",
+    "production_companies": [
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 6733,
+            "logo_path": null,
+            "name": "Reliance Big Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-01-12",
+    "revenue": 227817248,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Brich das Gesetz, um es zu schützen.",
+    "title": "The Green Hornet",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2565
+}

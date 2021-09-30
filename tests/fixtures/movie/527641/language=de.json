@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/27ZkYMWynuK2qiDP6awc3MsCaOs.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.fivefeetapartfilm.com",
+    "id": 527641,
+    "imdb_id": "tt6472976",
+    "original_language": "en",
+    "original_title": "Five Feet Apart",
+    "overview": "Stella ist eine 17-Jährige, wie sie im Buche steht: Ihr Smartphone gibt sie nicht aus der Hand und am liebsten chattet sie mit ihren Freunden. Nur Platz zum Träumen bleibt ihr nicht, denn anders als normale Teenager, verbringt sie die meiste Zeit unter strenger Beobachtung im Krankenhaus. Stella leidet an der unheilbaren Erbkrankheit Mukoviszidose und ihre wichtigste Regel lautet: Komm keinem Mitpatienten näher als 4 Schritte, denn er könnte dich mit seinen Bakterien schwächen und schlimmstenfalls töten.",
+    "popularity": 45.261,
+    "poster_path": "/pJwbWfX67M0kaZ5OG4ksK3MCK1G.jpg",
+    "production_companies": [
+        {
+            "id": 84409,
+            "logo_path": null,
+            "name": "Wayfarer Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 5490,
+            "logo_path": "/xuJSR4dWsvkE194aemIJwflyNF2.png",
+            "name": "CBS Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-03-14",
+    "revenue": 91500000,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Drei Schritte zu dir",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 4397
+}

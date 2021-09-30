@@ -12,6 +12,11 @@ use Illuminate\Support\Str;
 
 class TmdbServiceProvider extends ServiceProvider
 {
+    public function register(): void
+    {
+        $this->app->singleton(Tmdb::class);
+    }
+
     public function boot(): void
     {
         Relation::morphMap(collect([Movie::class, Person::class, Credit::class, MovieGenre::class])->keyBy(

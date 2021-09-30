@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "http://www.netflix.com/Nightbooks",
+    "id": 739990,
+    "imdb_id": "tt10521144",
+    "original_language": "en",
+    "original_title": "Nightbooks",
+    "overview": "Als Alex (Winslow Fegley), ein Junge, der von Gruselgeschichten besessen ist, von einer bösen Hexe (Krysten Ritter) in ihrer magischen Wohnung gefangen wird und jede Nacht eine Gruselgeschichte erzählen muss, um am Leben zu bleiben, tut er sich mit der anderen Gefangenen Yasmin (Lidya Jewett), zusammen, um einen Ausweg aus dieser misslichen Lage zu finden.",
+    "popularity": 728.096,
+    "poster_path": "/ysJte1iqN8pFQ470tumnViB1wHP.jpg",
+    "production_companies": [
+        {
+            "id": 768,
+            "logo_path": null,
+            "name": "Ghost House Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 80970,
+            "logo_path": null,
+            "name": "MXN Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-15",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Schreib um dein Leben.",
+    "title": "Nightbooks",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 121
+}

@@ -1,0 +1,46 @@
+{
+    "adult": false,
+    "backdrop_path": "/AjQgFtfXTmmMVuaH2VfQDdGbeQH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "https://www.narcosubthemovie.com/",
+    "id": 706972,
+    "imdb_id": "tt10342228",
+    "original_language": "en",
+    "original_title": "Narco Sub",
+    "overview": "",
+    "popularity": 606.502,
+    "poster_path": "/7p0O4mKYLIhU2E5Zcq9Z3vOZ4e9.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-01-22",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Narco Sub",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 57
+}

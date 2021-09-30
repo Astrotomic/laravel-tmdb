@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
+    "belongs_to_collection": {
+        "id": 86311,
+        "name": "Marvel's The Avengers Filmreihe",
+        "poster_path": "/5k6WG11oWrXipYD8BAkmMJU4Men.jpg",
+        "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+    },
+    "budget": 250000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://marvel.com/movies/movie/193/avengers_age_of_ultron",
+    "id": 99861,
+    "imdb_id": "tt2395427",
+    "original_language": "en",
+    "original_title": "Avengers: Age of Ultron",
+    "overview": "Milliardär, Lebemann und Genie Tony Stark aka Iron Man will ein inaktives Friedensprogramm in Gang bringen, doch dabei geht etwas schief. So taucht der niederträchtige Roboter-Bösewicht Ultron auf und verfolgt Pläne zur Ausrottung der Menschheit. Nun ist es an den Helden, sich wieder zu sammeln und das schreckliche Schicksal der Welt abzuwenden. Zusammen mit Iron Man treten Thor, Captain America, Hulk, Black Widow und Hawkeye dem fiesen Ultron entgegen und bekommen dabei Unterstützung von den ehemaligen S.H.I.E.L.D.-Agenten Nick Fury und Maria Hill. Außerdem kreuzen die geheimnisvollen und mit besonderen Fähigkeiten ausgestatteten Newcomer Wanda und Pietro Maximoff den Weg der Helden, wie auch ein alter Bekannter in neuer Gestalt: Vision. Die Rächer müssen ihre Kräfte vereinen, unsichere Allianzen schmieden und auf unerwartete Aktionen reagieren, um die Bewohner der Erde einmal mehr vor dem drohenden Untergang zu bewahren.",
+    "popularity": 129.185,
+    "poster_path": "/z3v1HDnF2jqspg4G6q1Lt7zTN8U.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-04-22",
+    "revenue": 1405403694,
+    "runtime": 141,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ein neues Zeitalter beginnt",
+    "title": "Avengers: Age of Ultron",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 18586
+}

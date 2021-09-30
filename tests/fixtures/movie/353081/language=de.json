@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/aw4FOsWr2FY373nKSxbpNi3fz4F.jpg",
+    "belongs_to_collection": {
+        "id": 87359,
+        "name": "Mission: Impossible Filmreihe",
+        "poster_path": "/2v3dCcB5qxArSrty55nby6FMY6P.jpg",
+        "backdrop_path": "/jYl0UuJFcmhymv9ZNO14lPLDY1Z.jpg"
+    },
+    "budget": 178000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.missionimpossible.com/",
+    "id": 353081,
+    "imdb_id": "tt4912910",
+    "original_language": "en",
+    "original_title": "Mission: Impossible - Fallout",
+    "overview": "Mit der Wiederbeschaffung gestohlenen Plutoniums beauftragt, stellt Ethan Hunt das Wohl seines Teams über die Vollendung der Mission, wodurch die Nuklearwaffen in die Hände der Apostel, einem tödlichen Netzwerk hochspezialisierter Terroristen, gelangen. Um den drohenden atomaren Holocaust zu verhindern, sind Ethan und sein IMF-Team zur Zusammenarbeit mit dem draufgängerisch agierenden CIA-Agenten Walker gezwungen. Es beginnt ein tödlicher Wettlauf gegen die Zeit ...",
+    "popularity": 38.405,
+    "poster_path": "/bT6dC9f3ppOHhip9GSenSL3rjK3.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 11461,
+            "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+            "name": "Bad Robot",
+            "origin_country": "US"
+        },
+        {
+            "id": 82819,
+            "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+            "name": "Skydance Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 21777,
+            "logo_path": null,
+            "name": "TC Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 69484,
+            "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+            "name": "Alibaba Pictures Group",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "release_date": "2018-07-13",
+    "revenue": 791017452,
+    "runtime": 148,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Bei manchen Missionen hast du keine Wahl.",
+    "title": "Mission: Impossible - Fallout",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 6138
+}

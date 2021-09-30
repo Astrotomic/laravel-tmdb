@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 346,
+    "imdb_id": "tt0047478",
+    "original_language": "ja",
+    "original_title": "七人の侍",
+    "overview": "Japan im 16. Jahrhundert. Einmal im Jahr fällt eine Räuberbande in abgelegenes Provinznest ein und klaut den dort ansäßigen Bauern alle Vorräte und Wertsachen. Um dem Einhalt zu gebieten, wenden sich diese hilfesuchend an umhervagabundierende Samurai. Sieben Wanderkrieger entschließen sich aus unterschiedlichsten Motiven, den Landwirten beizustehen. Gemeinsam machen sie sich daran, das Dorf in eine Festung und die Agronomen in Hilfssoldaten umzurüsten, und schließlich weicht auch ihre ursprüngliche Söldnermentalität einem aufrichtigen Gefühl der Solidarität.",
+    "popularity": 18.871,
+    "poster_path": "/zhPyobDDr7qT4kQXXDokNINnh9E.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho Co.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1954-04-26",
+    "revenue": 271842,
+    "runtime": 207,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die mächtigen Krieger, die zu den sieben Nationalhelden einer Kleinstadt wurden",
+    "title": "Die sieben Samurai",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2392
+}

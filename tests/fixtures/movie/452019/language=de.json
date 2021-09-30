@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 452019,
+    "imdb_id": "tt7099280",
+    "original_language": "en",
+    "original_title": "Needle in a Timestack",
+    "overview": "",
+    "popularity": 7.73,
+    "poster_path": "/jC2aqSgxaBsZEQwtOc1eEkIufIG.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 159357,
+            "logo_path": null,
+            "name": "Photon Films",
+            "origin_country": ""
+        },
+        {
+            "id": 159358,
+            "logo_path": null,
+            "name": "Ember20",
+            "origin_country": ""
+        },
+        {
+            "id": 53152,
+            "logo_path": "/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png",
+            "name": "Creative Wealth Media Finance",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Needle in a Timestack",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

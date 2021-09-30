@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.warnerbros.com/goodfellas",
+    "id": 769,
+    "imdb_id": "tt0099685",
+    "original_language": "en",
+    "original_title": "GoodFellas",
+    "overview": "Jimmy und Tommy können machen, was sie wollen. Sie sind Mitglieder der New Yorker Quartier-Mafia, brauchen auf niemanden Rücksicht zu nehmen und verdienen eine Menge Geld. Henry Hill ist von diesem Leben fasziniert und arbeitet daran, es ebenfalls führen zu können. Er wird in die Mafia aufgenommen und macht Karriere - schon bald organisiert er selbst Banküberfälle. Wer dabei im Weg steht, wird \"weggeräumt\", umgebracht. Dabei sind Jimmy und vor allem Tommy nicht zimperlich. Sie verstehen ihr Handwerk, einschließlich Mord, und kennen weder Pardon noch Gewissen...",
+    "popularity": 29.245,
+    "poster_path": "/nJjqs7emf9bR2I5H6rBSBJHxDGx.jpg",
+    "production_companies": [
+        {
+            "id": 8880,
+            "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+            "name": "Winkler Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1990-09-12",
+    "revenue": 46835000,
+    "runtime": 146,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Drei Jahrzehnte in der Mafia",
+    "title": "GoodFellas",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 9346
+}

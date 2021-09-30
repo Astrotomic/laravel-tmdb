@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+    "belongs_to_collection": null,
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://disney.de/filme/shang-chi-and-the-legend-of-the-ten-rings",
+    "id": 566525,
+    "imdb_id": "tt9376612",
+    "original_language": "en",
+    "original_title": "Shang-Chi and the Legend of the Ten Rings",
+    "overview": "Shang-Chi wurde von der terroristischen Geheimorganisation der Ten Rings seit frühster Kindheit zum Killer ausgebildet. Trotz dieses intensiven Martial-Arts-Trainings hat der junge Mann aber versucht, sich ein normales Leben in San Francisco aufzubauen.  Doch als er gerade glaubt, sein früheres Leben vielleicht wirklich hinter sich gelassen zu haben, holt die Vergangenheit ihn wieder ein. Zusammen mit seiner alten Kindheitsfreundin Katy wird er von seinem kriminellen Vater Wenwu in eine Welt gezogen, in der niemand irgendjemanden mit Samthandschuhen anfasst. – Nur die zehn Ringe des Mandarin können das Blatt im Kampf gegen das Böse vielleicht noch wenden.",
+    "popularity": 1658.245,
+    "poster_path": "/arLf5iksePcOixtceR7MnAARvab.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 111619,
+            "logo_path": null,
+            "name": "Walt Disney Studios Motion Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-01",
+    "revenue": 363000000,
+    "runtime": 132,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Du kannst deinem Schicksal nicht davonlaufen.",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 1113
+}

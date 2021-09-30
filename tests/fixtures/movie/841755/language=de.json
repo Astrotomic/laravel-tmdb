@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/dssCw0mUmD4EriUmkwB3PnsGu4q.jpg",
+    "belongs_to_collection": {
+        "id": 848690,
+        "name": "Mortal Kombat Legends Collection",
+        "poster_path": "/unNaQGZyuvFWyUGtcL9i0CFxmkV.jpg",
+        "backdrop_path": "/cANyFSat8bE44dK9vOVk5jbEsov.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/mortal-kombat-legends-battle-realms",
+    "id": 841755,
+    "imdb_id": "tt14901058",
+    "original_language": "en",
+    "original_title": "Mortal Kombat Legends: Battle of the Realms",
+    "overview": "Die Earthrealm-Helden müssen in die Außenwelt reisen und um das Überleben ihrer Heimat kämpfen, die von den Mächten des bösen Kriegsherrn Shao Kahn angegriffen wird, um alle Turniere zu beenden: den letzten Mortal Kombat.",
+    "popularity": 395.824,
+    "poster_path": "/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg",
+    "production_companies": [
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-30",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mortal Kombat Legends: Battle of the Realms",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 140
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/6qVF0gnLnbKCgcMfCpCB8GH7B5I.jpg",
+    "belongs_to_collection": {
+        "id": 573436,
+        "name": "Spider-Man: Spider-Verse Filmreihe",
+        "poster_path": "/eD4bGQNfmqExIAzKdvX5gDHhI2.jpg",
+        "backdrop_path": "/14F6gMaRjzgsN6EEpiwH87R1I00.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.intothespiderverse.movie",
+    "id": 324857,
+    "imdb_id": "tt4633694",
+    "original_language": "en",
+    "original_title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Miles Morales wurde von einer genetisch veränderten Spinne gebissen. Das macht ihn schnell zum neuen Spider-Man mit den bekannten Fähigkeiten. Aber Miles ist ein Teenager ohne Ahnung von der verantwortungsvollen Nutzung seiner eigenen Kräfte. Doch Hilfe naht, denn durch eine scheinbar zufällig auftretende Verkettung mehrerer Paralleluniversen trifft Miles auf Spider-Man aka Peter Parker und dieser unterweist ihn in den neuen Superkräften und überträgt ihm Verantwortung. Während beide einen Reifeprozess durchmachen, der eine als Schüler, der andere als Lehrer, treffen immer mehr Superhelden mit ähnlichen Kräften ein - ihre bösen Gegenspieler aber auch ...",
+    "popularity": 121.416,
+    "poster_path": "/vOpV6HrtAkNQxCWAgtU4NmQ1KPe.jpg",
+    "production_companies": [
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 31828,
+            "logo_path": null,
+            "name": "Avi Arad Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 77973,
+            "logo_path": null,
+            "name": "Lord Miller Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 84041,
+            "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
+            "name": "Pascal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2251,
+            "logo_path": "/6l16UFSkZ1oPpyBYaILgffFZlTc.png",
+            "name": "Sony Pictures Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-12-06",
+    "revenue": 375540831,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Spider-Man: A New Universe",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 9965
+}

@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/hSMsQW8Xz5HFkNPWqRePxLyVkDW.jpg",
+    "belongs_to_collection": {
+        "id": 280588,
+        "name": "Kill the Boss Filmreihe",
+        "poster_path": "/fwqEWA0GqfP3ws1w1PPRRyknsLQ.jpg",
+        "backdrop_path": "/kGvdIEuzy0rHnbIJ0qmnIjRGSKW.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://horriblebossesmovie.warnerbros.com/index.html",
+    "id": 51540,
+    "imdb_id": "tt1499658",
+    "original_language": "en",
+    "original_title": "Horrible Bosses",
+    "overview": "Nick, Kurt und Dale erleben ihre tägliche Plackerei inzwischen als derart unerträglich, dass es für sie nur noch eine Option gibt: Weil sie sich eine Kündigung nicht leisten können, müssen sie ihre Bosse loswerden. Zu diesem Zweck trinken sie sich reichlich Mut an und lassen sich von einem aufdringlichen Ex-Knacki zu einem windigen Komplott überreden. Das Ergebnis ist ein komplizierter, angeblich todsicherer Plan, der sie ein für alle Mal von ihren Arbeitgebern befreien soll. Ein kleines Problem bleibt allerdings ungelöst: Selbst die besten Pläne sind nur so narrensicher wie die Köpfe, die sie sich ausgedacht haben.",
+    "popularity": 19.134,
+    "poster_path": "/cObwds3sjNQWpvRUAL7PJVGViVu.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 12007,
+            "logo_path": null,
+            "name": "Rat Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-07-08",
+    "revenue": 209838559,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Hast du dir jemals gewünscht dein Boss wäre tot?",
+    "title": "Kill the Boss",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5151
+}

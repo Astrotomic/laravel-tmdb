@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 872972,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Song for Cesar",
+    "overview": "",
+    "popularity": 2.468,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-14",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Song for Cesar",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

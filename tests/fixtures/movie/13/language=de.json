@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/vdqthGdYhH4WzvmkGOcg0Um2Up7.jpg",
+    "belongs_to_collection": null,
+    "budget": 55000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 13,
+    "imdb_id": "tt0109830",
+    "original_language": "en",
+    "original_title": "Forrest Gump",
+    "overview": "Von seiner Mutter rückhaltlos unterstützt, macht sich der geistig ein wenig zurückgebliebene Forrest Gump in die Welt auf. Er bringt Elvis seinen Tanzstil bei, findet in der jungen Jenny eine echte Freundin, wird aufgrund seines Laufvermögens ein Football-Star, steht im Vietnamkrieg seinen Mann, rettet seinen Vorgesetzten Dan Taylor vor dem sicheren Tod und wird schließlich im Shrimps-Business zum Millionär. Doch all die Zeit kann er seine große Liebe Jenny nicht vergessen.",
+    "popularity": 44.496,
+    "poster_path": "/iCtxSepAgCUzL9WC4CMb3y78c1p.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 21920,
+            "logo_path": null,
+            "name": "The Steve Tisch Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-07-06",
+    "revenue": 677387716,
+    "runtime": 142,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Welt wird nie mehr dieselbe sein, wenn man Sie durch die Augen von Forrest Gump gesehen hat",
+    "title": "Forrest Gump",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 21303
+}

@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/88J6waYVTta8Qz3iX3qUeWNA5d5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 447362,
+    "imdb_id": "tt6598238",
+    "original_language": "en",
+    "original_title": "Life in a Year",
+    "overview": "Der 17-jährige Daryn lernt die sterbenskranke Isabelle kennen und verliebt sich in sie. Da Isabelle nur noch ein Jahr zu leben hat, beschließt Daryn, jeden Tag mit einzigartigen Erinnerungen und besonderen Erlebnissen zu füllen.",
+    "popularity": 47.302,
+    "poster_path": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+    "production_companies": [
+        {
+            "id": 907,
+            "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+            "name": "Overbrook Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-11-27",
+    "revenue": 0,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Life in a Year",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 844
+}

@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+    "belongs_to_collection": {
+        "id": 131296,
+        "name": "Thor Filmreihe",
+        "poster_path": "/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg",
+        "backdrop_path": "/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg"
+    },
+    "budget": 180000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://marvel.com/movies/movie/222/thor_ragnarok",
+    "id": 284053,
+    "imdb_id": "tt3501632",
+    "original_language": "en",
+    "original_title": "Thor: Ragnarok",
+    "overview": "Donnergott Thor wird auf der anderen Seite des Universums gefangengenommen. Ohne seinen nützlichen Hammer Mjölnir scheint eine Flucht nahezu ausgeschlossen. Dabei läuft ihm allmählich die Zeit davon. Denn die ebenso mächtige wie erbarmungslose Hela, die nach jahrtausendlanger Gefangenschaft aus ihrem Gefängnis freigekommen ist, macht sich daran, die Macht auf Thors Heimatwelt Asgard zu übernehmen. Um das zu verhindern, setzt Thor alles daran, nach Hause zurückzukehren. Zwischen ihm und seiner Freiheit stehen jedoch tödliche Gladiatorenkämpfe auf dem Planeten Sakaar, die Mülldeponie des Universums. Bei einem dieser Duelle trifft Thor auf den Ex-Avenger und seinen früheren Mitstreiter Hulk den beliebtesten und erfolgreichsten Kämpfer auf Sakaar…",
+    "popularity": 108.227,
+    "poster_path": "/uxxYhdSIsVOzmvUtDugBwEACbW9.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-10-25",
+    "revenue": 853977126,
+    "runtime": 131,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Hammer weg, Haare weg, alles weg - manchmal kommt selbst für einen Superhelden alles anders als gedacht.",
+    "title": "Thor: Tag der Entscheidung",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 16510
+}

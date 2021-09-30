@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
+    "belongs_to_collection": {
+        "id": 422834,
+        "name": "Ant-Man Filmreihe",
+        "poster_path": "/rjpJooNO8v3ExYQClw6MpGGPppw.jpg",
+        "backdrop_path": "/2KjtWUBiksmN8LsUouaZnxocu5N.jpg"
+    },
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/ant-man-and-the-wasp",
+    "id": 363088,
+    "imdb_id": "tt5095030",
+    "original_language": "en",
+    "original_title": "Ant-Man and the Wasp",
+    "overview": "Scott Lang aka Ant-Man hadert  mit den Konsequenzen seiner Taten als Superheld und Vater. Während er in Ant-Man and the Wasp versucht, sein Leben wieder in geregelte Bahnen zu lenken, steht ihm ein neuer Auftrag bevor. Auf Drängen von Hope van Dyne aka Wasp und Dr. Hank Pym schlüpft er erneut in die Rolle seines Superhelden-Alter Egos, um gemeinsam mit Wasp Licht in die Geheimnisse der Vergangenheit zu bringen.",
+    "popularity": 63.011,
+    "poster_path": "/7XrdIEgmKMSZhRqT3WQ5pQtZNKg.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-07-04",
+    "revenue": 622674139,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Diesmal ist er nicht alleine!",
+    "title": "Ant-Man and the Wasp",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 10277
+}

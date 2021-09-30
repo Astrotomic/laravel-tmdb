@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/yJpGFmoVsDKrVcXSyGf5HTx9i98.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 776506,
+    "imdb_id": "tt11378876",
+    "original_language": "en",
+    "original_title": "The Blazing World",
+    "overview": "",
+    "popularity": 8.656,
+    "poster_path": "/5Knt7uGfnANXVnGeJVRLg4NtMJn.jpg",
+    "production_companies": [
+        {
+            "id": 122217,
+            "logo_path": null,
+            "name": "Greenbelt Films",
+            "origin_country": ""
+        },
+        {
+            "id": 151109,
+            "logo_path": null,
+            "name": "Tealhouse Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 151110,
+            "logo_path": null,
+            "name": "American Stream Wave",
+            "origin_country": ""
+        },
+        {
+            "id": 15181,
+            "logo_path": "/1ok97K76LKqFzEHkhR2OVSsXHpw.png",
+            "name": "Wavelength Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 88606,
+            "logo_path": "/3w49QoRwptUujWxSjcR3iEr1XSU.png",
+            "name": "Vertical Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Blazing World",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/umAoDwLZMBrYeCDfbJYFRMuXWAr.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 681887,
+    "imdb_id": "tt11762434",
+    "original_language": "en",
+    "original_title": "Cosmic Sin",
+    "overview": "Das Jahr 2524. Vor 400 Jahren haben die Menschen begonnen, das All zu erobern und die äußeren Planeten zu besiedeln. Als eine feindliche Alien-Armada jedoch einen abgelegenen Planeten angreift, holt man den ehemaligen Soldaten James Ford zurück in den Dienst, da man einen erfahrenen Haudegen benötigt, denn die Außerirdischen sind in der Lage, menschliche Körper zu infizieren und zu übernehmen. Der Konflikt droht zu einem interstellaren Krieg zu eskalieren, den die Menschheit nur verlieren kann. Ford und General Eron Ryle sowie ein Team aus Elite-Soldaten nehmen den gnadenlosen Wettlauf gegen die Zeit auf und sie versuchen alles, den vernichtenden Angriff zu stoppen, bevor es für immer zu spät ist…",
+    "popularity": 1451.885,
+    "poster_path": "/7MFZYAiJ6CDjSLDRI041Fgkof3y.jpg",
+    "production_companies": [
+        {
+            "id": 68628,
+            "logo_path": null,
+            "name": "308 Enterprises",
+            "origin_country": "CA"
+        },
+        {
+            "id": 121204,
+            "logo_path": null,
+            "name": "BondIt Media Capital",
+            "origin_country": "US"
+        },
+        {
+            "id": 41735,
+            "logo_path": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+            "name": "Buffalo 8",
+            "origin_country": "US"
+        },
+        {
+            "id": 25140,
+            "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+            "name": "The Exchange",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-03-12",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cosmic Sin - Invasion im All",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 292
+}

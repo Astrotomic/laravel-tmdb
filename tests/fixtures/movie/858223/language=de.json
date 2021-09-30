@@ -1,0 +1,41 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "",
+    "id": 858223,
+    "imdb_id": "tt11921114",
+    "original_language": "en",
+    "original_title": "Freedom of NC",
+    "overview": "",
+    "popularity": 6.337,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-10",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Freedom of NC",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

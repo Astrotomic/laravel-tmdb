@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/zsH3iW60T1t2HBTtrSKzzxJ406J.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/movies/the-good-the-bart-and-the-loki/6xwLjCmfTVem",
+    "id": 846214,
+    "imdb_id": "tt14957270",
+    "original_language": "en",
+    "original_title": "The Simpsons: The Good, the Bart, and the Loki",
+    "overview": "Wieder einmal aus Asgard verbannt, muss sich Loki seinen bisher härtesten Gegnern stellen: den Simpsons und Springfields mächtigsten Helden. Im ultimativen Crossover-Event, das dem Marvel Cinematic Universe der Superhelden und Schurken seinen Tribut zollt, verbündet sich der Gott des Unheils mit Bart Simpson.",
+    "popularity": 427.788,
+    "poster_path": "/j2hN9pkYNPeTCoFSXSRLXkiOLfY.jpg",
+    "production_companies": [
+        {
+            "id": 18,
+            "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+            "name": "Gracie Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 21659,
+            "logo_path": "/uJhjhEJEPDoCSSOci44tYoe5BjZ.png",
+            "name": "20th Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 80853,
+            "logo_path": null,
+            "name": "AKOM Production Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-07",
+    "revenue": 0,
+    "runtime": 6,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bart und Loki: Zwei glorreiche Halunken",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 402
+}

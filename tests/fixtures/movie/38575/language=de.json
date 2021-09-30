@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/y2Cl2LBYaabgtSLlOa4VqnOiNin.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://www.karatekid-themovie.com/",
+    "id": 38575,
+    "imdb_id": "tt1155076",
+    "original_language": "en",
+    "original_title": "The Karate Kid",
+    "overview": "Als Dre Parker mit seiner Mutter von Detroit nach Peking umziehen muss, ist für den 12-Jährigen plötzlich nichts mehr so, wie es mal war. Allein ohne Freunde in einem fremden Land, muss sich Dre in der Schule gegen den Klassenrüpel Cheng zur Wehr setzen, der ein geübter Kung-Fu-Kämpfer ist. Da Dre selbst aber nur über ein paar wenige Karate-Kenntnisse verfügt, kann er sich kaum verteidigen und wird von allen als \"Karate Kid\" verspottet. Dre hat niemanden, an den er sich wenden kann, außer dem Hausmeister Mr. Han, der insgeheim ein berühmter Kung-Fu-Meister ist und bald zu Dres Mentor wird. Han weiht Dre in die Kunst des Kung Fu ein und bereitet ihn auf ein Turnier vor, bei dem er auf seinen Rivalen Cheng treffen wird…",
+    "popularity": 101.514,
+    "poster_path": "/lpovkyowpM0KpU56wCMOLtuWmeK.jpg",
+    "production_companies": [
+        {
+            "id": 2596,
+            "logo_path": null,
+            "name": "Jerry Weintraub Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 5635,
+            "logo_path": null,
+            "name": "China Film Group",
+            "origin_country": ""
+        },
+        {
+            "id": 907,
+            "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+            "name": "Overbrook Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-06-10",
+    "revenue": 359126022,
+    "runtime": 140,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Eine unerwartete Herausforderung. Mit einem unerwartetem Lehrer.",
+    "title": "Karate Kid",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4603
+}

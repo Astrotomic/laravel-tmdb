@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/dsdbViTNjLu4DbgkkYmuY4xDQ20.jpg",
+    "belongs_to_collection": {
+        "id": 769423,
+        "name": "Escape Room Collection",
+        "poster_path": "/zdgt4NhbhJqFQOKDRD6L2Jmh7tx.jpg",
+        "backdrop_path": "/jMdEW5QcRZ7WShJo3ZsMgNGdJIJ.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/escaperoomtournamentofchampions",
+    "id": 585216,
+    "imdb_id": "tt9844522",
+    "original_language": "en",
+    "original_title": "Escape Room: Tournament of Champions",
+    "overview": "Sechs Menschen finden sich unwissentlich in einer weiteren Serie von Escape Rooms eingesperrt und entdecken langsam, was sie gemeinsam haben, um zu überleben. Als sie sich mit zwei der ursprünglichen Überlebenden zusammentun, bemerken sie bald, dass sie alle das Spiel schon einmal gespielt haben.",
+    "popularity": 829.631,
+    "poster_path": "/ek8XGUtt04DfBDT7DL1eUrBdIa7.jpg",
+    "production_companies": [
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 41032,
+            "logo_path": "/op8wxWMnyzuh3Aq3lsZnaQv9C5.png",
+            "name": "Shaken, Not Stirred Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-01",
+    "revenue": 44888959,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Gewinnen war erst der Anfang.",
+    "title": "Escape Room 2: No Way Out",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 471
+}

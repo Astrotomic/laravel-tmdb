@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/mtRW6eAwOO27h3zrfU2foQFW7Hg.jpg",
+    "belongs_to_collection": null,
+    "budget": 26000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.pawpatrol.movie",
+    "id": 675445,
+    "imdb_id": "tt11832046",
+    "original_language": "en",
+    "original_title": "PAW Patrol: The Movie",
+    "overview": "Die Paw Patrol hat schon einige knifflige Einsätze in der Abenteuerbucht und den umliegenden Gebieten gehabt, um die Bewohner vor Gefahren zu schützen. Dieses Mal müssen sie eingreifen, um Bürgermeister Besserwisser aufzuhalten. Der will nämlich als frisch gewählter Bürgermeister von Abenteuerstadt eine Maschine nutzen, die das Wetter beeinflussen kann. Sein Vorhaben geht jedoch ganz gehörig schief und verursacht ein riesiges Chaos. Die Truppe muss eingreifen, um Schlimmeres zu verhindern.",
+    "popularity": 1014.206,
+    "poster_path": "/jzSMRe1gyITmI0xe0bxDjZrMJHv.jpg",
+    "production_companies": [
+        {
+            "id": 71738,
+            "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+            "name": "Spin Master",
+            "origin_country": "CA"
+        },
+        {
+            "id": 2348,
+            "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+            "name": "Nickelodeon Movies",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 8649,
+            "logo_path": null,
+            "name": "Mikros Image",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-09",
+    "revenue": 103000000,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Unser Schicksal liegt in ihren Pfoten",
+    "title": "Paw Patrol: Der Kinofilm",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 506
+}

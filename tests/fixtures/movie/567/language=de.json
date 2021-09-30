@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 567,
+    "imdb_id": "tt0047396",
+    "original_language": "en",
+    "original_title": "Rear Window",
+    "overview": "Jeff ist Pressefotograf und durch einen Beinbruch an den Rollstuhl und seine Wohnung gefesselt. Um der drohenden Langeweile zu entkommen, beobachtet er aus seinem Fenster zum Hof die Nachbarschaft und lernt sie so bestens und von allen Seiten kennen. Seine Freundin Lisa ist zunächst wenig begeistert davon, aber schließlich ist die Neugier doch stärker. Als die beiden im Leben ihres Nachbarn von gegenüber, Mr. Thorwald, einige Merkwürdigkeiten beobachten, keimt in ihnen der Verdacht, dass mit dessen Frau etwas nicht stimmt. Jeff wittert Mord und lässt den Hinterhof von nun an nicht eine Sekunde aus den Augen...",
+    "popularity": 15.619,
+    "poster_path": "/kU87Qvn8WJqpiRsoycl40IguDw6.jpg",
+    "production_companies": [
+        {
+            "id": 10715,
+            "logo_path": null,
+            "name": "Alfred J. Hitchcock Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1954-09-01",
+    "revenue": 37034514,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die ungewöhnlichste und intimste Reise in menschliche Emotionen, die je gefilmt wurde!!!",
+    "title": "Das Fenster zum Hof",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 4720
+}

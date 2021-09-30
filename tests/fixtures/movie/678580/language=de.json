@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": "/sjp19s49gm58iKbq64AxJxg9JgN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 678580,
+    "imdb_id": "tt10886670",
+    "original_language": "es",
+    "original_title": "El mesero",
+    "overview": "",
+    "popularity": 463.251,
+    "poster_path": "/zvGC5jX5wQmU1GgPc0VGZz7Mtcs.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "release_date": "2021-07-15",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El mesero",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 249
+}

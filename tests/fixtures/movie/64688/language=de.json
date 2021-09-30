@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/lxCUDgZ54myV7goBrkpFoHRt9Ms.jpg",
+    "belongs_to_collection": {
+        "id": 212562,
+        "name": "Jump Street Filmreihe",
+        "poster_path": "/n2YH0R0TK5g5APvWwBhhdGDR6BM.jpg",
+        "backdrop_path": "/iiAbTNYXpMadPDH4MkjUoJzcGn4.jpg"
+    },
+    "budget": 42000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.21jumpstreet-movie.com/",
+    "id": 64688,
+    "imdb_id": "tt1232829",
+    "original_language": "en",
+    "original_title": "21 Jump Street",
+    "overview": "Die beiden jungen Polizisten Schmidt und Jenko werden aufgrund ihres jugendlichen Aussehens der geheimen Jump-Street-Einheit zugeteilt und treten in der örtlichen Highschool ihren Dienst undercover an. Schmidt und Jenko tauschen ihre Waffen und Dienstmarken gegen Rucksäcke ein und riskieren ihr Leben, um gegen einen gewalttätigen und gefährlichen Drogenring zu ermitteln. Dabei müssen sie bald feststellen, dass die Highschool von heute nicht mehr das ist, was sie mal war, als sie selbst vor einigen Jahren dort noch zur Schule gegangen sind. Außerdem hatten sie nicht damit gerechnet, sich noch einmal mit den Schrecken und Ängsten, ein Teenager zu sein, auseinandersetzen zu müssen oder mit all den anderen Problemen, von denen sie glaubten, sie lägen längst hinter ihnen.",
+    "popularity": 26.714,
+    "poster_path": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-03-14",
+    "revenue": 201585328,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie dachten, auf den Straßen geht es mies zu. Bis sie zurück an die Highschool kamen.",
+    "title": "21 Jump Street",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8449
+}

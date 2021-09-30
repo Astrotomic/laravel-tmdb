@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/bIcidBTNPg5JGAYCyuJQCKnqr9P.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81424320",
+    "id": 541524,
+    "imdb_id": "tt8893974",
+    "original_language": "en",
+    "original_title": "Passing",
+    "overview": "",
+    "popularity": 6.444,
+    "poster_path": "/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+    "production_companies": [
+        {
+            "id": 74770,
+            "logo_path": null,
+            "name": "Picture Films",
+            "origin_country": ""
+        },
+        {
+            "id": 6705,
+            "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+            "name": "Film4 Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 14638,
+            "logo_path": null,
+            "name": "Significant Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 100640,
+            "logo_path": "/2jtYElf5T9r5II8L0Nmbk7TBLwl.png",
+            "name": "Endeavor Content",
+            "origin_country": "US"
+        },
+        {
+            "id": 125279,
+            "logo_path": null,
+            "name": "AUM Creative",
+            "origin_country": ""
+        },
+        {
+            "id": 125064,
+            "logo_path": null,
+            "name": "XRM Media",
+            "origin_country": ""
+        },
+        {
+            "id": 35562,
+            "logo_path": "/cpeGUCuKo2vgaxzru9RvhJYBcdX.png",
+            "name": "Gamechanger Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 125280,
+            "logo_path": null,
+            "name": "TGCK Partners",
+            "origin_country": ""
+        },
+        {
+            "id": 65606,
+            "logo_path": null,
+            "name": "Sweet Tomato Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-27",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seitenwechsel",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

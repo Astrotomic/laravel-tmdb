@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/26LIw3oKGPUEGUpb8AXZ64dZZt8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 843906,
+    "imdb_id": "tt14903892",
+    "original_language": "en",
+    "original_title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+    "overview": "",
+    "popularity": 765.248,
+    "poster_path": "/uIdMpWrQ30SHPINsy7LcPFloyvO.jpg",
+    "production_companies": [
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 7899,
+            "logo_path": "/qnhd98hnBxCMMMod58FJqbCZ5O7.png",
+            "name": "Cartoon Network Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-14",
+    "revenue": 0,
+    "runtime": 72,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 163
+}

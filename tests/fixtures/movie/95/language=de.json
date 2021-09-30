@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/sODk4VuMTt8S56zYFOr1Kx8BFqu.jpg",
+    "belongs_to_collection": null,
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 95,
+    "imdb_id": "tt0120591",
+    "original_language": "en",
+    "original_title": "Armageddon",
+    "overview": "Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+    "popularity": 28.565,
+    "poster_path": "/gIUMPwUAQxDYqCik0HTx8h99Ftz.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130,
+            "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+            "name": "Jerry Bruckheimer Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 11533,
+            "logo_path": "/tWM9pmzVYxok4GbQIttxdcml1yT.png",
+            "name": "Valhalla Motion Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-07-01",
+    "revenue": 553799566,
+    "runtime": 151,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Morgen schon was vor? Vergiss es!",
+    "title": "Armageddon - Das jüngste Gericht",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 6144
+}

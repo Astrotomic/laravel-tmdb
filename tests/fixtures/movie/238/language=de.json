@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+    "belongs_to_collection": {
+        "id": 230,
+        "name": "Der Pate Filmreihe",
+        "poster_path": "/4AeG0bUiQkkb7mU2GeQFX4sjftg.jpg",
+        "backdrop_path": "/pGl7NqNhyncju3Qu8LGA7owciMW.jpg"
+    },
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.thegodfather.com/",
+    "id": 238,
+    "imdb_id": "tt0068646",
+    "original_language": "en",
+    "original_title": "The Godfather",
+    "overview": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte.",
+    "popularity": 50.662,
+    "poster_path": "/5mcfdJiLfHkg7eWROzCSuadHrYb.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 10211,
+            "logo_path": null,
+            "name": "Alfran Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1972-03-14",
+    "revenue": 245066411,
+    "runtime": 175,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ein Angebot, das Du nicht ablehnen kannst.",
+    "title": "Der Pate",
+    "video": false,
+    "vote_average": 8.7,
+    "vote_count": 14842
+}

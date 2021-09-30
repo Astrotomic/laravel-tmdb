@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/80WondpnnRW14urqgt2ptxINvh9.jpg",
+    "belongs_to_collection": null,
+    "budget": 35000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 9651,
+    "imdb_id": "tt0088206",
+    "original_language": "en",
+    "original_title": "Supergirl",
+    "overview": "Weil ihrer Heimatstadt die zum Überleben in der sechsten Dimension notwendige Energiekugel abhanden gekommen ist, kommt Supermans Cousine Kara auf die Erde, wo sich die Kugel nun im Besitz der Hexe Selena befindet. Eigentlich auf der Erde mit übernatürlichen Kräften ausgestattet, begibt sich Supergirl Kara als Schülerin Linda Lee in ein Mädcheninternat. Schon bald gerät sie auch mit Selena aneinander, als diese den attraktiven Gärtner Ethan mit einem Zaubertrank in sich verliebt machen will und aus Versehen Kara/Linda das Objekt seiner Begierde wird.",
+    "popularity": 14.601,
+    "poster_path": "/lqw4b5Fc4UaIcqoQsp6bMq0msyX.jpg",
+    "production_companies": [
+        {
+            "id": 76460,
+            "logo_path": null,
+            "name": "St. Michael Finance Limited",
+            "origin_country": ""
+        },
+        {
+            "id": 76461,
+            "logo_path": null,
+            "name": "Artistry Limited",
+            "origin_country": ""
+        },
+        {
+            "id": 76462,
+            "logo_path": null,
+            "name": "Investors In Industry PLC",
+            "origin_country": ""
+        },
+        {
+            "id": 76463,
+            "logo_path": null,
+            "name": "Robert Fleming Leasing Limited",
+            "origin_country": ""
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1984-07-01",
+    "revenue": 14296438,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Supergirl",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 414
+}

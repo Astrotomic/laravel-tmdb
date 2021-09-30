@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/kcvKEvTWqIGMjpVJdbDVRHdIt4C.jpg",
+    "belongs_to_collection": {
+        "id": 645,
+        "name": "James Bond Filmreihe",
+        "poster_path": "/nVev2bGfTLfesj7Sg3wZM856SY3.jpg",
+        "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
+    },
+    "budget": 242000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.007.com/no-time-to-die/",
+    "id": 370172,
+    "imdb_id": "tt2382320",
+    "original_language": "en",
+    "original_title": "No Time to Die",
+    "overview": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
+    "popularity": 422.948,
+    "poster_path": "/ep4eNdF37uhadB2UzdL8IDU6IxO.jpg",
+    "production_companies": [
+        {
+            "id": 10761,
+            "logo_path": null,
+            "name": "Danjaq",
+            "origin_country": "US"
+        },
+        {
+            "id": 7576,
+            "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
+            "name": "Eon Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 13184,
+            "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+            "name": "Annapurna Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 136984,
+            "logo_path": null,
+            "name": "B25",
+            "origin_country": "GB"
+        },
+        {
+            "id": 136987,
+            "logo_path": null,
+            "name": "Cinesite",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2021-09-29",
+    "revenue": 0,
+    "runtime": 163,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "James Bond 007 - Keine Zeit zu sterben",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 31
+}

@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/byflnwPMumyvrCW9SfO5Miq3647.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80216200",
+    "id": 597891,
+    "imdb_id": "tt7737528",
+    "original_language": "en",
+    "original_title": "Kate",
+    "overview": "Für Auftragskillerin Kate (Mary Elizabeth Winstead) ist kein Job zu gefährlich, keine Mission unlösbar. Ihre akribische Art und ihre Perfektion machen sie zur ultimativen Tötungsmaschine, die nicht aufzuhalten ist. Allerdings gerät ein Auftrag in Tokio außer Kontrolle und führt dazu, dass Kate vergiftet wird. Innerhalb der nächsten maximal 15 Stunden wird sich der schleichende Tod durch ihre Adern bewegen und das Leben von Kate beenden. Für Kate ist die aussichtslose Lage dennoch kein Grund aufzugeben: Um sich an den Tätern und ihren Feinden zu rächen, verbündet sie sich mit der Tochter eines ihrer früheren Opfer und zieht in einen Krieg, der keine Gnade kennt. Bevor sie stirbt, will Kate ihren letzten Auftrag so ausführen, wie man es von ihr gewohnt ist: mit Perfektion, Zielsicherheit und eiskaltem Kalkül.",
+    "popularity": 1163.255,
+    "poster_path": "/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+    "production_companies": [
+        {
+            "id": 101831,
+            "logo_path": "/l6x0SkRVp9ksGgRhboZbkI9w7PM.png",
+            "name": "Clubhouse Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "TH",
+            "name": "Thailand"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-10",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kate",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 535
+}

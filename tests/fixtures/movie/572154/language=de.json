@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/5MgMCnslrxQfOfaq6T5ndkLlcCk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://ao-buta.com/themovie/",
+    "id": 572154,
+    "imdb_id": "tt10472884",
+    "original_language": "ja",
+    "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+    "overview": "Es scheint Ewigkeiten her zu sein, dass Sakuta Azusagawa und Mai Sakurajima zueinander gefunden haben. Doch ihre harmonische Beziehung wird auf eine harte Probe gestellt, als Sakutas erste große Liebe Sh?ko Makinohara auftaucht und kurzerhand bei ihm einzieht! Damit nicht genug, denn es scheinen zwei verschiedene Versionen von ihr zu existieren: Neben der erwachsenen Sh?ko trifft Sakuta auch auf Sh?kos jüngeres Ich, das noch in der Mittelschule ist und anscheinend an einer schweren Krankheit leidet. Sakuta würde ihr gerne helfen, doch dazu muss er erst einmal herausfinden, was die erwachsene Sh?ko vor ihm zu verbergen versucht…",
+    "popularity": 129.309,
+    "poster_path": "/lyx0rfL4g6mfUJfSC17pEYXR3xW.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2019-06-15",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rascal Does Not Dream of a Dreaming Girl",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 305
+}

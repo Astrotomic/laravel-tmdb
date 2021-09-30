@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/khTz78e5ZcN7J8DfWgRWrD7Wu7i.jpg",
+    "belongs_to_collection": {
+        "id": 87014,
+        "name": "Cats & Dogs Filmreihe",
+        "poster_path": "/9HfaVR1d9SEbX980St6EzwXqxRP.jpg",
+        "backdrop_path": "/bYM1XFABSpy0QtAEzr7dks8QRWY.jpg"
+    },
+    "budget": 85000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://catsanddogsmovie.warnerbros.com/",
+    "id": 39691,
+    "imdb_id": "tt1287468",
+    "original_language": "en",
+    "original_title": "Cats & Dogs: The Revenge of Kitty Galore",
+    "overview": "Hunde und Katzen stehen seit jeher auf Kriegsfuß. Das ändert sich schlagartig, als das Kätzchen Kitty Kahlohr, Ex-Spionageagentin der Organisation MEOWS, dem Größenwahnsinn verfällt und sich mit einem teuflischen Vorhaben nicht nur die Hundewelt untertan machen will, sondern auch die eigenen Artgenossen. So schließen sich Katzen und Hunde kurzerhand zu einem Agententeam zusammen, um gegen den gemeinsamen Erzfeind vorzugehen. Schließlich ist ja auch noch das Leben ihrer Herrchen in Gefahr.",
+    "popularity": 21.283,
+    "poster_path": "/nZqd7qHDvydqVLYSKcmgVa8jrCo.jpg",
+    "production_companies": [
+        {
+            "id": 79,
+            "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 102301,
+            "logo_path": null,
+            "name": "Polymorphic Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 1757,
+            "logo_path": null,
+            "name": "Mad Chance",
+            "origin_country": "US"
+        },
+        {
+            "id": 102302,
+            "logo_path": null,
+            "name": "CD2 Films",
+            "origin_country": ""
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 17,
+            "logo_path": "/s1y7CTv6YHe87YUGOq6SRB6DmO7.png",
+            "name": "Warner Bros. Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2010-07-28",
+    "revenue": 112483764,
+    "runtime": 79,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cats & Dogs - Die Rache der Kitty Kahlohr",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 470
+}

@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+    "belongs_to_collection": {
+        "id": 97461,
+        "name": "Lilo & Stitch Filmreihe",
+        "poster_path": "/1KHAlvwRLLqrGLNMIAJSsp6li57.jpg",
+        "backdrop_path": "/oKfkaJLqc1cRURbq8DG2D6TOeAX.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "https://movies.disney.com/lilo-stitch",
+    "id": 11544,
+    "imdb_id": "tt0275847",
+    "original_language": "en",
+    "original_title": "Lilo & Stitch",
+    "overview": "Stitch ist das grauenhafte Ergebnis eines Experiments - ein Außerirdischer im Hundepelz. Er sieht aus wie eine Kreuzung aus einem Koala und einem Piranha ist stark, nahezu unverwüstbar und darauf programmiert, alles zu zerstören, was ihm in den Weg kommt. Aus diesem Grund will ein extraterrestrisches Tribunal dieses Biest auch für immer wegschließen. Stitch gelingt jedoch die Flucht, und er landet ausgerechnet auf der Insel Hawaii, die auf einem Planeten namens Erde liegt. Dort trifft er auf die kleine Mädchen Lilo, die ebenfalls eine Außenseiterin ist, und beide sollen es fortan nicht leicht haben. Lilo, weil Stitch seiner Programmierung alle Ehre macht, und Stitch selbst, weil er verfolgt wird ...",
+    "popularity": 47.974,
+    "poster_path": "/j3PVSMEzUBC0Esbg6TvdmqIpqAo.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6125,
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-06-21",
+    "revenue": 273144151,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lilo & Stitch",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 4668
+}

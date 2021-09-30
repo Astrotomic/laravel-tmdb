@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://disney.go.com/pooh/home/",
+    "id": 51162,
+    "imdb_id": "tt1449283",
+    "original_language": "en",
+    "original_title": "Winnie the Pooh",
+    "overview": "Winnie Puuh, der gutmütige Bär aus dem Hundertmorgenwald wacht wie jeden Morgen mit knurrendem Magen auf. Auf der Suche nach Honig trifft er seinen Freund, den melancholischen Esel I-Aah, der ebenfalls auf der Suche ist – aber, wie so oft, nach seinem Schwanz. „Also, entweder ist ein Schwanz da, oder er ist nicht da\", bemerkt Winnie Puuh, „und deiner ist eben nicht... da.\" Sogleich machen sich Puuh und seine Freunde daran, I-Aah zu helfen und rufen einen Wettbewerb ins Leben, um einen schönen neuen Schwanz für den Esel zu finden.",
+    "popularity": 15.422,
+    "poster_path": "/2vbEWSp4jqqnuiH73LLIuG6QozP.jpg",
+    "production_companies": [
+        {
+            "id": 6125,
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-04-13",
+    "revenue": 14460000,
+    "runtime": 63,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Winnies neuestes Filmabenteuer",
+    "title": "Winnie Puuh",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 627
+}

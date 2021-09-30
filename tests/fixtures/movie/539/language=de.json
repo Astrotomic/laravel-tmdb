@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/5A9dsIpb7876nU9QrWEGziDmj0r.jpg",
+    "belongs_to_collection": {
+        "id": 119674,
+        "name": "Psycho Filmreihe",
+        "poster_path": "/29pDqAgmb4idzWzuZncoT7LZplA.jpg",
+        "backdrop_path": "/fQGEt8pqwXGxaSykjw0eKJkgvvj.jpg"
+    },
+    "budget": 806947,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 539,
+    "imdb_id": "tt0054215",
+    "original_language": "en",
+    "original_title": "Psycho",
+    "overview": "Die Sekretärin Marion Crane unterschlägt 40.000 Dollar und macht auf ihrer Flucht in einem abgelegenen Motel Station, das der eigentümliche Norman Bates leitet, der mit seiner Mutter im Haus neben dem Motel lebt. Als Marion sich frisch machen will, wird sie während des Duschens erstochen. Nachdem ein Privatdetektiv, der ihre Spur gefunden hatte, ebenfalls verschwindet, begeben sich Marions Freund Sam und ihre Schwester Lila auf die Suche. Im Bates Motel machen sie eine grausige Entdeckung.",
+    "popularity": 27.508,
+    "poster_path": "/nXjkXxpsE7ZGRCVd6PKkrf9tgsL.jpg",
+    "production_companies": [
+        {
+            "id": 10717,
+            "logo_path": null,
+            "name": "Shamley Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1960-06-22",
+    "revenue": 32000000,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Psycho",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 7630
+}

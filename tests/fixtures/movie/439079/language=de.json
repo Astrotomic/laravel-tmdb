@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/fgsHxz21B27hOOqQBiw9L6yWcM7.jpg",
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.thenunmovie.com/",
+    "id": 439079,
+    "imdb_id": "tt5814060",
+    "original_language": "en",
+    "original_title": "The Nun",
+    "overview": "Im Mittelpunkt steht der fiese Nonnen-Dämon Valak. In den 50ern wird Father Burke auf dessen Spur angesetzt, als ihm seine Vorgesetzten im Vatikan den Auftrag erteilen, den mysteriösen Tod einer Ordensschwester zu untersuchen. Sie nahm sich in einem abgelegenen rumänischen Kloster das Leben. Burke, durch seine Vergangenheit tief traumatisiert, wird von der Novizin Irene begleitet, die bald ihr Ordensgelübde ablegen soll. Zusammen erforschen sie das schreckliche Geheimnis des Klosters...",
+    "popularity": 63.53,
+    "poster_path": "/nuItlOKVmngMR9fkgQzqItGizBn.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 76907,
+            "logo_path": "/wChlWsVgwSd4ZWxTIm8PTEcaESz.png",
+            "name": "Atomic Monster",
+            "origin_country": "US"
+        },
+        {
+            "id": 11565,
+            "logo_path": null,
+            "name": "The Safran Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-09-05",
+    "revenue": 365550119,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Romanian",
+            "iso_639_1": "ro",
+            "name": "Română"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Bete um Vergebung.",
+    "title": "The Nun",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 4839
+}

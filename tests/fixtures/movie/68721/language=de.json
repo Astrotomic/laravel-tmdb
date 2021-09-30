@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/tKa1gmGKAUVYnflYcadipeL3d9h.jpg",
+    "belongs_to_collection": {
+        "id": 131292,
+        "name": "Iron Man Filmreihe",
+        "poster_path": "/cV84VydSr6m2ZKyvhc9y2SNP1PB.jpg",
+        "backdrop_path": "/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/iron-man-3",
+    "id": 68721,
+    "imdb_id": "tt1300854",
+    "original_language": "en",
+    "original_title": "Iron Man 3",
+    "overview": "Die Dellen, die sich Iron Man im Kampf gegen seine Widersacher Justin Hammer und Ivan Vanko zugezogen hatte, sind kaum ausgebeult, da droht neue Gefahr. Ein streng geheimes Serum, welches Extremis genannt wird und auf Nanotechnologie basiert, ermöglicht es den mit dem Serum injizierten Menschen, ungeahnte Kräfte zu entwickeln, allerdings mit einer Tendenz zu ungezügelter Aggressivität. Aldrichs Kollegin Maya Hansen, baut auf die Hilfe von Visionär Tony Stark. Währendessen bedroht eine dunkle Macht in Gestalt von The Mandarin die Welt und möchte dem Wettrüsten ein Ende zu seinen Gunsten setzen. Dabei verübt er einen Anschlag auf die amerikanische Regierung und dessen Präsidenten, sowie auf die Air Force, bei der Tony Starks Freund Rhodey dient. Als ein Anschlag auf Tony Starks Eigenheim folgt, geraten er und Pepper Potts in große Gefahr…",
+    "popularity": 94.794,
+    "poster_path": "/ka5XosrS20zhVmuHalWZUMkQBfc.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 10289,
+            "logo_path": "/4lXJcFjACjb34LF78AUjEz4FtB9.png",
+            "name": "DMG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 111619,
+            "logo_path": null,
+            "name": "Walt Disney Studios Motion Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-04-18",
+    "revenue": 1214811252,
+    "runtime": 140,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Entfessel die Kraft hinter der Rüstung",
+    "title": "Iron Man 3",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 18355
+}

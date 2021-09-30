@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://movies.disney.com/nausicaa-of-the-valley-of-the-wind",
+    "id": 81,
+    "imdb_id": "tt0087544",
+    "original_language": "ja",
+    "original_title": "風の谷のナウシカ",
+    "overview": "In einer fernen und bizarren, nur zuweilen der unseren noch recht ähnlichen Welt leben die letzten Überlebenden der Menschheit auf mit Sauerstoff versorgten Wüsteninseln, derweil den Rest des Planeten eine fremdartige, in ätzenden Stickstoff eingehüllte Pilzbotanik überwuchert, aus der heraus neue Tierarten zum Siegeszug über die Erde aufbrechen. Prinzessin Nausicaä ist bereit, diese Natur zu respektieren, die meisten ihrer Mitmenschen dagegen wollen die Pilzwälder vernichten. Ein Krieg der Arten ist die unausweichliche Folge.",
+    "popularity": 19.82,
+    "poster_path": "/muhyQAUn8RqMmXPVmBb8uaPtVXx.jpg",
+    "production_companies": [
+        {
+            "id": 29,
+            "logo_path": "/2ZGkaLO1oVR39zxtQca8iDaU7fR.png",
+            "name": "Topcraft",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1984-03-11",
+    "revenue": 3301446,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nausicaä aus dem Tal der Winde",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 2455
+}

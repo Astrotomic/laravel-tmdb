@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.mortalkombatmovie.net",
+    "id": 460465,
+    "imdb_id": "tt0293429",
+    "original_language": "en",
+    "original_title": "Mortal Kombat",
+    "overview": "MMA-Kämpfer Cole Young ist auserwählt und bereitet sich mit den grössten Champions der Welt darauf vor, bei einem legendären Kampfturnier gegen die Bösewichte von Outworld anzutreten. Das Schicksal des Universums steht dabei auf dem Spiel.",
+    "popularity": 539.21,
+    "poster_path": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+    "production_companies": [
+        {
+            "id": 76907,
+            "logo_path": "/wChlWsVgwSd4ZWxTIm8PTEcaESz.png",
+            "name": "Atomic Monster",
+            "origin_country": "US"
+        },
+        {
+            "id": 8000,
+            "logo_path": "/f8NwLg72BByt3eav7lX1lcJfe60.png",
+            "name": "Broken Road Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-04-07",
+    "revenue": 83601013,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mortal Kombat",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 3828
+}

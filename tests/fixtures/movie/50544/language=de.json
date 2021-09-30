@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/4AyQWDINzihdhZRfdO30ZBGvZXc.jpg",
+    "belongs_to_collection": null,
+    "budget": 35000000,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/friendswithbenefits",
+    "id": 50544,
+    "imdb_id": "tt1632708",
+    "original_language": "en",
+    "original_title": "Friends with Benefits",
+    "overview": "Dylan ist neu in New York, doch Jamie, die ihn aus Kalifornien für einen Traumjob nach Manhattan und aus seiner Reserve gelockt hat, sorgt für schnelle Akklimatisation. Der aufstrebende Art Director und die quirlige Headhunterin landen schnell zusammen im Bett, wollen aber trotz gelegentlichem Spaßsex nur beste Freunde bleiben. Beider Bindungsphobien machen sie blind dafür, wie perfekt sie tatsächlich zusammenpassen, und bewirken schließlich, dass auseinanderbricht, was eigentlich zusammengehört.",
+    "popularity": 31.039,
+    "poster_path": "/gQ0ReNKTu5YRv3nTWcsR6GttAph.jpg",
+    "production_companies": [
+        {
+            "id": 97,
+            "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+            "name": "Castle Rock Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3287,
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "origin_country": "US"
+        },
+        {
+            "id": 7291,
+            "logo_path": "/eo8YnSO7wpUHVEprnMDOUcalhFD.png",
+            "name": "Olive Bridge Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-07-21",
+    "revenue": 149542245,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Einige Freunde kommen mit einem Happy End.",
+    "title": "Freunde mit gewissen Vorzügen",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 6464
+}

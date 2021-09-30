@@ -13,6 +13,7 @@
 
 use Astrotomic\PhpunitAssertions\UrlAssertions;
 use Astrotomic\Tmdb\Models\Model;
+use Illuminate\Support\Collection;
 use Pest\Expectation;
 
 uses(\Tests\Feature\TestCase::class)->in('Feature');
@@ -73,3 +74,16 @@ expect()->extend('toBeRetrievedModel', function (?string $model = null, int|stri
 | Functions
 |--------------------------------------------------------------------------
 */
+
+if (! function_exists('requests')) {
+    function requests(?string $pattern = null): Collection
+    {
+        return Http::recorded()
+            ->pluck(0)
+            ->map->url()
+            ->when(
+                $pattern,
+                fn (Collection $urls): Collection => $urls->filter(fn (string $url) => str_contains($url, $pattern))
+            );
+    }
+}

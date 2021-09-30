@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/boJ25eE6F32zddn62Cf9xVdmAjR.jpg",
+    "belongs_to_collection": null,
+    "budget": 65000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.i-frankenstein.de/",
+    "id": 100241,
+    "imdb_id": "tt1418377",
+    "original_language": "en",
+    "original_title": "I, Frankenstein",
+    "overview": "Adam Frankenstein wurde von dem Wissenschaftler Dr. Victor Frankenstein erschaffen und zum Leben erweckt. Das aus Leichenteilen zusammengeflickte Monster findet sich in einer dystopischen Welt wieder, in der sich Menschen und Dämonen im Krieg befinden. Der unsterbliche Adam beschützt die Menschen vor den finsteren Gestalten der Unterwelt, doch er gerät zwischen die Fronten zweier unsterblicher Clans. Das Schicksal der Menschheit liegt in seinen Händen, denn er hat Fähigkeiten, die Menschen nicht haben. Doch die Gargoyles und die Dämonen haben großes Interesse an Adams Geheimnis.",
+    "popularity": 14.809,
+    "poster_path": "/uBfV2uL7iLAGAsEwSu9zuE4Qjcu.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 126,
+            "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+            "name": "Lakeshore Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 737,
+            "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+            "name": "Sidney Kimmel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 21079,
+            "logo_path": "/bno0bKsi549TIpxDqSJndFT79XS.png",
+            "name": "Hopscotch Features",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-01-22",
+    "revenue": 76801179,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "200 Jahre später und er lebt immer noch.",
+    "title": "I, Frankenstein",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 1492
+}

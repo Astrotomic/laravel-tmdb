@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/kjTGuAeMsTTRxiHFSzj2T1zyUwH.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 87818,
+    "imdb_id": "tt1333125",
+    "original_language": "en",
+    "original_title": "Movie 43",
+    "overview": "Wonder Women ist verzweifelt. Sie war mit Batman im Bett und der scheint sich jetzt einfach nicht mehr bei ihr zu melden. Anscheinend hat er auch ganz andere Ziele. Dass Supergirl und Robin an einem Speed-Date teilnehmen und sich offensichtlich kennen lernen wollen, gefällt ihm überhaupt nicht. Am Rande sitzt Superman. Seine besten Tage scheinen gezählt zu sein. Der heruntergekommene, ketterauchende Held beobachtet die Misere seiner Kollegen. Juliet Hulme trifft sich mit einem Date auf einen Kaffee und wird dabei ganz schön von seinem Geburtsfehler überrascht. Währenddessen versucht die karriereorientierte Arlenes einen neuen MP3-Player zu entwickeln und an den Mann zu bringen. Erst völlig von sich überzeugt muss sie bald feststellen, dass ein MP3-Player mit einem Gewicht von 100 Pfund vielleicht doch ein bisschen zu schwer für den täglichen Gebrauch ist.",
+    "popularity": 36.075,
+    "poster_path": "/b6IIdKTN8z8OsUVoUzUaaN449vX.jpg",
+    "production_companies": [
+        {
+            "id": 8891,
+            "logo_path": null,
+            "name": "Witness Protection Films",
+            "origin_country": ""
+        },
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 8852,
+            "logo_path": null,
+            "name": "Virgin Produced",
+            "origin_country": ""
+        },
+        {
+            "id": 2150,
+            "logo_path": null,
+            "name": "GreeneStreet Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 8890,
+            "logo_path": null,
+            "name": "Wessler Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-01-01",
+    "revenue": 32438988,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Movie 43",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 1790
+}

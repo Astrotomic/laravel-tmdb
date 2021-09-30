@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/fZ4hrFacm5yow9gT64rS6YMNyHz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81253859",
+    "id": 729720,
+    "imdb_id": "tt12808182",
+    "original_language": "fr",
+    "original_title": "Le Dernier Mercenaire",
+    "overview": "Richard Brumère (Jean-Claude Van Damme) war einst ein legendärer französischer Geheimagent und Söldner und unter dem Namen „La Brume“, der Nebel, bekannt. Eigentlich hat er sich längst zur Ruhe gesetzt, doch nun muss er wieder aktiv werden, weil die Immunität seines Sohnes Archibald (Samir Decazza) nach 25 Jahren aufgehoben wurde und dieser ins Visier der Mafia gerät. Um Archibald vor den Machenschaften der Mafiose zu beschützen, muss Richard wieder voll ins Geheimdienst-Leben einsteigen und sich mit einer Gruppe Jugendlicher aus einer Sozialbausiedlung sowie einem schrägen Bürokraten zusammenschließen. Und dann muss er Archibald noch irgendwann erzählen, dass er sein Vater ist, wozu ihm bislang der Mut gefehlt hat.",
+    "popularity": 386.829,
+    "poster_path": "/sNfEiOU2QOACkdcUBKRzhFcIYTN.jpg",
+    "production_companies": [
+        {
+            "id": 12686,
+            "logo_path": null,
+            "name": "Forecast Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 120375,
+            "logo_path": null,
+            "name": "Other Angle Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 138095,
+            "logo_path": null,
+            "name": "Mony Films",
+            "origin_country": ""
+        },
+        {
+            "id": 138096,
+            "logo_path": null,
+            "name": "Apple Tree",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-07-30",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Last Mercenary",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 402
+}

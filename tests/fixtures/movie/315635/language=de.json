@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
+    "belongs_to_collection": {
+        "id": 531241,
+        "name": "Spider-Man (Avengers) Filmreihe",
+        "poster_path": "/9yIugFpGBsZJLC634HS7ynFpgAD.jpg",
+        "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+    },
+    "budget": 175000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.spidermanhomecoming.com",
+    "id": 315635,
+    "imdb_id": "tt2250912",
+    "original_language": "en",
+    "original_title": "Spider-Man: Homecoming",
+    "overview": "Nach seinem Aufeinandertreffen mit den Avengers ist Peter Parker alias Spider-Man wieder zurück in New York, wo er bei seiner Tante May wohnt. Seitdem er mit bzw. gegen die anderen Helden kämpfte, fragt er sich, ob er mit seinen herausragenden Fähigkeiten nicht mehr machen sollte, als nur die freundliche Spinne aus der Nachbarschaft zu sein, die den einen oder anderen Einbruch verhindert und Taschendiebe stoppt. Doch daneben muss der von seinem neuen Mentor Tony Stark geförderte Jugendliche auch noch den Alltag auf die Reihe bekommen, den Alltag als Teenager an einer Highschool, wo er sich in Liz verguckt hat. Blöd, dass ausgerechnet in dieser Situation ein Bösewicht für Unruhe sorgt, der technisch bestens ausgestattet ist und von Rachedurst getrieben: der Vogelmann Vulture ...",
+    "popularity": 153.721,
+    "poster_path": "/uPXHsm21SBajNnbrSOGf67l9iFc.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 84041,
+            "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
+            "name": "Pascal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 34034,
+            "logo_path": null,
+            "name": "LStar Capital",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-07-05",
+    "revenue": 880166924,
+    "runtime": 133,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Hausaufgaben können warten... Die Stadt nicht",
+    "title": "Spider-Man: Homecoming",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 16876
+}

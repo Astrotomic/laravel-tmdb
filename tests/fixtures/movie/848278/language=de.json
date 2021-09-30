@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/gzppdxEJ6fofhtLzSVSUJZEVxvq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 848278,
+    "imdb_id": "tt14442328",
+    "original_language": "en",
+    "original_title": "Jurassic Hunt",
+    "overview": "",
+    "popularity": 712.132,
+    "poster_path": "/bZnOioDq1ldaxKfUoj3DenHU7mp.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 3604,
+            "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+            "name": "Grindstone Entertainment Group",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-01",
+    "revenue": 0,
+    "runtime": 83,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jurassic Hunt",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 138
+}

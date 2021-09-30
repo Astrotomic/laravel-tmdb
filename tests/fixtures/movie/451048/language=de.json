@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
+    "belongs_to_collection": {
+        "id": 861429,
+        "name": "Jungle Cruise Filmreihe",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://disney.de/filme/jungle-cruise",
+    "id": 451048,
+    "imdb_id": "tt0870154",
+    "original_language": "en",
+    "original_title": "Jungle Cruise",
+    "overview": "Lily reist von London, England, in den Amazonas-Dschungel und nimmt die fragwürdigen Dienste des Skippers Frank Wolff in Anspruch. Er soll sie auf der La Quila, seinem baufälligen, aber charmanten Boot, flussabwärts bringen. Lily ist entschlossen, dort einen uralten Baum mit beispiellosen Heilkräften zu finden. Über ihn wird gesagt, er könne die Zukunft der Medizin verändern. Bei dieser epischen Suche stößt das ungleiche Duo auf unzählige Gefahren und übernatürliche Kräfte, die in der trügerischen Schönheit des üppigen Regenwaldes lauern. Aber während sie die Geheimnisse des verschollenen Baumes aufdecken, steht für Lily und Frank immer mehr auf dem Spiel, und ihr Schicksal – und das der Menschheit – befindet sich in der Schwebe.",
+    "popularity": 1186.754,
+    "poster_path": "/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 73669,
+            "logo_path": "/7tmSGstK3KwgcDIuBYLTAayjit9.png",
+            "name": "Seven Bucks Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 1302,
+            "logo_path": "/kQZtJdyphCmq292iGDqlUx0yk2D.png",
+            "name": "Davis Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 34081,
+            "logo_path": null,
+            "name": "Flynn Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 47586,
+            "logo_path": null,
+            "name": "Zaftig Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-28",
+    "revenue": 209000000,
+    "runtime": 127,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jungle Cruise",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 2762
+}

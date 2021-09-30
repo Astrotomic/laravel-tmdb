@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/mPz3GfGSLlZmgZYmAvSG28bhn9k.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.courageousthemovie.com",
+    "id": 72213,
+    "imdb_id": "tt1630036",
+    "original_language": "en",
+    "original_title": "Courageous",
+    "overview": "Als Polizeibeamte kennen Adam Mitchell, Nathan Hayes und ihre Partner die Abgründe des Menschen, doch einer Herausforderung scheinen sie nicht recht gewachsen zu sein: der Vaterschaft. Während sie im Beruf ihr Bestes geben, merken sie, wie sich ihre Kinder immer mehr von ihnen entfremden. Eine persönliche Tragödie weckt in diesen Männern den Wunsch, ihren Glauben zu erneuern und ihre Kinder wieder für sich zu gewinnen. Wird es ihnen gelingen, für ihre Liebsten da zu sein und sie zu schützen?",
+    "popularity": 37.16,
+    "poster_path": "/CkwRzUmxvMZvkzzGE45nqLGTm8.jpg",
+    "production_companies": [
+        {
+            "id": 559,
+            "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+            "name": "TriStar Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3291,
+            "logo_path": null,
+            "name": "Provident Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 10156,
+            "logo_path": "/bWjWWQfiyZh9AkGYCkx1NcVdSvn.png",
+            "name": "Affirm Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 41967,
+            "logo_path": null,
+            "name": "Sherwood Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-09-30",
+    "revenue": 34522221,
+    "runtime": 130,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Courageous Ein mutiger Weg",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 241
+}

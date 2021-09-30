@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+    "belongs_to_collection": {
+        "id": 722961,
+        "name": "Space Jam Filmreihe",
+        "poster_path": "/1eq1pEctWy8umAjfIncFk273QOa.jpg",
+        "backdrop_path": "/dGntz0meh8NjiFJHM8OPbbvfa86.jpg"
+    },
+    "budget": 161900000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.spacejam.com",
+    "id": 379686,
+    "imdb_id": "tt3554046",
+    "original_language": "en",
+    "original_title": "Space Jam: A New Legacy",
+    "overview": "Eigentlich führt Basketball-Superstar LeBron James (LeBron James) ein glückliches Leben mit seiner Frau Kamiyah (Sonequa Martin-Green) und den gemeinsamen Kindern Darius (Ceyair Wright), Dom (Cedric Joe) und Xosha (Harper Leigh Alexander). Doch sein Verhältnis zu Dom ist etwas angeknackst, da der sich weniger für den Sport seines Vaters, sondern vielmehr für das Programmieren von Videospielen interessiert. Auf seine technischen Fähigkeiten wird eines Tages auch die Künstliche Intelligenz Al-G Rhythm (Don Cheadle) aufmerksam, die zur Verwirklichung ihrer ganz eigenen Ziele Dom und seinen Vater kurzerhand in eine virtuelle Welt entführt. Nur wenn LeBron das mächtige Team von Al-G Rhythm im Basketball bezwingt, werden er und sein Sohn wieder freigelassen. Bloß gut, dass sich in dieser Welt auch die Looney Tunes um Bugs Bunny (Stimme im Original: Jeff Bergman) und Lola Bunny (Zendaya) tummeln. Die haben ja bereits Erfahrung mit ungewöhnlichen und alles entscheidenden Basketball-Matches...",
+    "popularity": 972.088,
+    "poster_path": "/aGOCfEW1DUsxJyft1A0wjsKy0Gn.jpg",
+    "production_companies": [
+        {
+            "id": 25120,
+            "logo_path": "/lqUpBvDLQYG3QaKNpe2lxfpgh36.png",
+            "name": "Warner Animation Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 81170,
+            "logo_path": "/degJG2ecLMkHndE5mFuWS8lTLBa.png",
+            "name": "SpringHill Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 148495,
+            "logo_path": null,
+            "name": "Proximity Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-08",
+    "revenue": 148810604,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A New Legacy",
+    "title": "Space Jam: A New Legacy",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 2293
+}

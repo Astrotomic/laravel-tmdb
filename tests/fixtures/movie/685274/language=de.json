@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/mI0Qo7VtgW5siCtQQqNPXIk0Ar6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81439253",
+    "id": 685274,
+    "imdb_id": "tt13288678",
+    "original_language": "ja",
+    "original_title": "機動戦士ガンダム 閃光のハサウェイ",
+    "overview": "Nach Chars Rebellion führt Hathaway Noa einen Aufstand gegen die Erdföderation an. Doch die Begegnung mit einem feindlichen Offizier und einer Frau wendet sein Schicksal.",
+    "popularity": 473.675,
+    "poster_path": "/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-06-11",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mobile Suit Gundam Hathaway",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 54
+}

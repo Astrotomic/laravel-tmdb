@@ -3,7 +3,6 @@
 namespace Tests;
 
 use Astrotomic\Tmdb\TmdbServiceProvider;
-use Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 abstract class TestCase extends OrchestraTestCase
@@ -18,7 +17,6 @@ abstract class TestCase extends OrchestraTestCase
     protected function getPackageProviders($app): array
     {
         return [
-            IdeHelperServiceProvider::class,
             TmdbServiceProvider::class,
         ];
     }

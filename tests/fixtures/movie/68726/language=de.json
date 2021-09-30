@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
+    "belongs_to_collection": {
+        "id": 363369,
+        "name": "Pacific Rim Filmreihe",
+        "poster_path": "/mirLNoHhkBKRZMgpCSoQS33PFkm.jpg",
+        "backdrop_path": "/kiIqPO6IlGnwLmg5is5HS3lM62c.jpg"
+    },
+    "budget": 180000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/pacific-rim",
+    "id": 68726,
+    "imdb_id": "tt1663662",
+    "original_language": "en",
+    "original_title": "Pacific Rim",
+    "overview": "Die Kaiju, monströse außerirdische Kreaturen, erheben sich aus dem Meer und ziehen in einen Krieg gegen die Menschheit, der Unzählige das Leben kosten und die Reserven der Erde bis in alle Zeit aufbrauchen könnte. Um die Kaiju zu bekämpfen, wird eine spezielle Waffe hergestellt: Gigantische Roboter namens Jaeger, die durch zwei Piloten gesteuert werden, deren Gehirne durch eine neurale Brücke ebenfalls miteinander verknüpft werden. Jedoch scheinen selbst die ausgeklügeltsten Waffen an den übermächtigen Aliens zu scheitern. In ihrer Ratlosigkeit wenden sich die Streitkräfte der Erde an den abgehalfterten Ex-Piloten Raleigh Antrobus und seine unerfahrene Novizin Mako Mori, die ein scheinbar schlecht ausgerüstetes, älteres Modell der Jaeger gegen die Kaiju in den Kampf führen sollen. Die beiden werden zur letzten Hoffnung gegen die übermächtige apokalyptische Gewalt aus dem All.",
+    "popularity": 100.88,
+    "poster_path": "/kZqPKkNOa1Rb6oltnhWTOzTs9Xs.jpg",
+    "production_companies": [
+        {
+            "id": 101082,
+            "logo_path": null,
+            "name": "Double Dare You Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-07-11",
+    "revenue": 407602906,
+    "runtime": 131,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Um Monster zu bekämpfen, müssen wir welche erschaffen",
+    "title": "Pacific Rim",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 9990
+}

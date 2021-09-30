@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "http://unchainedmovie.com/",
+    "id": 68718,
+    "imdb_id": "tt1853728",
+    "original_language": "en",
+    "original_title": "Django Unchained",
+    "overview": "Als das Sklavenpaar Django und seine Frau Broomhilda bei einer Auktion getrennt werden, hat Django nur noch ein Ziel vor Augen: seine Frau wiederzufinden. Die Gelegenheit ergibt sich für den in Fesseln Geschlagenen schneller als erwartet, als er vom früheren Zahnarzt und jetzigen Kopfgeldjäger Dr. Schultz befreit wird, damit er ihm bei der Identifikation steckbrieflich gesuchter Verbrecher behilflich sei. Zum Dank will Dr. Schultz ihn zum Kopfgeldjäger ausbilden und ihm helfen, seine Frau ausfindig zu machen. Schließlich führt Django und Dr. Schultz die Spur nach Candyland, wo Broomhilda in den Besitz des charismatischen und überaus gefährlichen Calvin Candie übergegangen ist. Sie erschleichen sich erfolgreich das Vertrauen von Candie. Doch der Haussklave Stephen durchschaut ihr Spiel…",
+    "popularity": 47.952,
+    "poster_path": "/yK0qrQhi3BbOXvTNOBWHgpcbckZ.jpg",
+    "production_companies": [
+        {
+            "id": 308,
+            "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+            "name": "The Weinstein Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-12-25",
+    "revenue": 425368238,
+    "runtime": 165,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Leben, Freiheit und die Verfolgung von Rache",
+    "title": "Django Unchained",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 21291
+}

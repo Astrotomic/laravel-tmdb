@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg",
+    "belongs_to_collection": null,
+    "budget": 63000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.foxmovies.com/movies/fight-club",
+    "id": 550,
+    "imdb_id": "tt0137523",
+    "original_language": "en",
+    "original_title": "Fight Club",
+    "overview": "Ein Yuppie findet beim charismatischen Tyler Durden Unterschlupf, nachdem seine Wohnung in die Luft gejagt wird. Ein Gerangel zwischen den beiden entwickelt sich zu einer Schlägerei, die mit der Erkenntnis endet, dass man sich nach einer ordentlichen Portion Prügel einfach besser fühlt. Der \"Fight Club\" ist geboren. Immer mehr Männer versammeln sich, um sich zu schlagen - und gestärkt in den Alltag zu gehen. Wie ein Virus greift das Konzept um sich, doch für Tyler ist der Kampfverein nur die erste Stufe, um die USA in die Knie zu zwingen.",
+    "popularity": 42.254,
+    "poster_path": "/rUPKPWBpr2ZbDXXZpT0qgYqTlG9.jpg",
+    "production_companies": [
+        {
+            "id": 508,
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 711,
+            "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+            "name": "Fox 2000 Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 20555,
+            "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+            "name": "Taurus Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 54051,
+            "logo_path": null,
+            "name": "Atman Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 54052,
+            "logo_path": null,
+            "name": "Knickerbocker Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 4700,
+            "logo_path": "/A32wmjrs9Psf4zw0uaixF0GXfxq.png",
+            "name": "The Linson Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-10-15",
+    "revenue": 100853753,
+    "runtime": 139,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Übermut. Chaos. Seife.",
+    "title": "Fight Club",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 22469
+}

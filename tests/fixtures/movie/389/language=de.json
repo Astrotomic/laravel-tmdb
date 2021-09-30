@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+    "belongs_to_collection": null,
+    "budget": 350000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 389,
+    "imdb_id": "tt0050083",
+    "original_language": "en",
+    "original_title": "12 Angry Men",
+    "overview": "Zwölf Geschworene verhandeln im Juryraum in brütender Hitze über das Schicksal eines Jungen, der angeklagt ist, seinen Vater getötet zu haben. Als das Urteil \"Schuldig\" beinahe feststeht, formuliert der Geschworene Nr. 8 seine Zweifel. Gegen den teils erbitterten Widerstand der Mehrheit entwickelt er nach und nach mit ruhiger Logik seine Argumente. Der Kampf der Meinungen setzt unerwartete Vorurteile und Charakterzüge der zwölf Männer frei, deren Gewissensprüfungen für den Angeklagten ausfallen.",
+    "popularity": 22.047,
+    "poster_path": "/iwTxk2SWQBxCR3tnDnLOqxHn01u.jpg",
+    "production_companies": [
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 10212,
+            "logo_path": null,
+            "name": "Orion-Nova Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1957-04-10",
+    "revenue": 1000000,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Die zwölf Geschworenen",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 5867
+}

@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/1lJjoYzUucQjSI19o7UpSj9bebi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 877669,
+    "imdb_id": "tt14715046",
+    "original_language": "es",
+    "original_title": "Un Mundo Para Julius",
+    "overview": "",
+    "popularity": 2.635,
+    "poster_path": "/oajGi3ZZW8R6iWn6ag7DwsdKqx4.jpg",
+    "production_companies": [
+        {
+            "id": 28912,
+            "logo_path": null,
+            "name": "Machaco Films",
+            "origin_country": ""
+        },
+        {
+            "id": 28910,
+            "logo_path": null,
+            "name": "Tombuktú Films",
+            "origin_country": ""
+        },
+        {
+            "id": 161441,
+            "logo_path": null,
+            "name": "VisionaTV",
+            "origin_country": ""
+        },
+        {
+            "id": 981,
+            "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+            "name": "TVE",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PE",
+            "name": "Peru"
+        }
+    ],
+    "release_date": "2021-10-14",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Un Mundo Para Julius",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

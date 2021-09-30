@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.hulu.com/movie/c5fec97e-4c47-4b46-b19f-c246d461f6d0",
+    "id": 653349,
+    "imdb_id": "tt3626476",
+    "original_language": "en",
+    "original_title": "Vacation Friends",
+    "overview": "Die Spießer Marcus und Emily freunden sich in einem Urlaubsort in Mexiko mit den erlebnishungrigen Partytieren Ron und Kyla an. Sie geben sich dem Moment hin und erleben mit ihren neuen Urlaubsfreunden eine Woche voller Spaß und wilder Ausschweifungen. Monate nach ihrem Ausflug ins wilde Abenteuerland sind Marcus und Emily entsetzt, als Ron und Kyla uneingeladen bei ihrer Hochzeit auftauchen.",
+    "popularity": 365.564,
+    "poster_path": "/2GQuuBDm2BIoTZXPhZTGsZClYxq.jpg",
+    "production_companies": [
+        {
+            "id": 8000,
+            "logo_path": "/f8NwLg72BByt3eav7lX1lcJfe60.png",
+            "name": "Broken Road Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-27",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie kamen mit etwas zusätzlichem Gepäck nach Hause",
+    "title": "Vacation Friends",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 283
+}

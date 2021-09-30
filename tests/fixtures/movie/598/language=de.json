@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/194dso1hBwQEgIU3fgS7mXHtFAj.jpg",
+    "belongs_to_collection": null,
+    "budget": 3300000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://cidadededeus.globo.com/",
+    "id": 598,
+    "imdb_id": "tt0317248",
+    "original_language": "pt",
+    "original_title": "Cidade de Deus",
+    "overview": "Brasilien in den 60ern: Das „Tender Trio“ raubt Motels und Tankwagen aus. Die Jüngeren beobachten und lernen schnell – zu schnell. Etwa zehn Jahre später: Li'l Zé hat sich ausgebreitet, ihm gehört jetzt die ganze Stadt. Rivalisierende Banden werden ohne Gnade niedergemetzelt und vertrieben. Nur sein bester Freund Bene kann ihn einigermaßen zur Vernunft bringen. Buscapé will weder zu Li'l Zé noch zu einer der anderen Banden gehören, die in der „City Of God“ herrschen. Er will sich nur seiner Fotografie widmen. Bis jetzt konnte er sich noch aus dem Wahnsinn heraushalten. Doch in den 80ern eskaliert die Situation zwischen den letzten beiden Gangs ...",
+    "popularity": 25.026,
+    "poster_path": "/ywbOvbl24H5pH4TzhS6HbfKSr2H.jpg",
+    "production_companies": [
+        {
+            "id": 345,
+            "logo_path": "/hj2nqoG2F9COm16fqvM0YpY3jL4.png",
+            "name": "O2 Filmes",
+            "origin_country": "BR"
+        },
+        {
+            "id": 346,
+            "logo_path": "/kzQAFe6cBI0cbHZP3lUiHmeEyAF.png",
+            "name": "Videofilmes",
+            "origin_country": "BR"
+        },
+        {
+            "id": 856,
+            "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+            "name": "Wild Bunch",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11445,
+            "logo_path": null,
+            "name": "Hank Levine Film",
+            "origin_country": ""
+        },
+        {
+            "id": 13969,
+            "logo_path": "/vYbpU7yDkLvx4ehvOxuU5BTsFKi.png",
+            "name": "Globo Filmes",
+            "origin_country": "BR"
+        },
+        {
+            "id": 11793,
+            "logo_path": null,
+            "name": "Lumière",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        }
+    ],
+    "release_date": "2002-02-05",
+    "revenue": 30641770,
+    "runtime": 130,
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wenn du wegrennst bist du tot!",
+    "title": "City of God",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 5331
+}

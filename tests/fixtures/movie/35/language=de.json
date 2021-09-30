@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/o7XHctO2t4fIdzch8v8ApNaJMcX.jpg",
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://www.simpsonsmovie.com/",
+    "id": 35,
+    "imdb_id": "tt0462538",
+    "original_language": "en",
+    "original_title": "The Simpsons Movie",
+    "overview": "Die Simpsons haben ein neues Familienmitglied: Ein Schwein, welches Homer fortan besser behandelt als seinen Sohn Bart. Doch nicht nur deswegen kommt Streit in der gelben Familie auf, denn die Exkremente des Schweins sorgen für eine Umweltkatastrophe, die verheerende Maßnahmen nach sich zieht. Bald schon muss Homer sich entscheiden: Rettet er Springfield oder genießt er weiterhin sein faules Leben?",
+    "popularity": 63.085,
+    "poster_path": "/7Pi8egnTOvXJqCkottfzJsm3j4E.jpg",
+    "production_companies": [
+        {
+            "id": 80853,
+            "logo_path": null,
+            "name": "AKOM Production Company",
+            "origin_country": ""
+        },
+        {
+            "id": 18,
+            "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+            "name": "Gracie Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 96084,
+            "logo_path": null,
+            "name": "Rough Draft Feature Animation",
+            "origin_country": ""
+        },
+        {
+            "id": 19,
+            "logo_path": "/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png",
+            "name": "Film Roman",
+            "origin_country": "US"
+        },
+        {
+            "id": 11749,
+            "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+            "name": "20th Century Fox Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 29500,
+            "logo_path": "/a3ltwX7b1opYeG7MxaxxswDmkeg.png",
+            "name": "The Curiosity Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-07-25",
+    "revenue": 527068851,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Kann Homer Springfield retten und sein Familie zurückgewinnen?",
+    "title": "Die Simpsons - Der Film",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 6375
+}

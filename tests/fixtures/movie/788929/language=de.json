@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/lbU0I0YWSgSm0GuMZbSvHmxO8gy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://a24films.com/films/lamb",
+    "id": 788929,
+    "imdb_id": "tt9812474",
+    "original_language": "is",
+    "original_title": "Dýrið",
+    "overview": "Ein Paar entdeckt auf seiner Farm in Island ein mysteriöses Neugeborenes, halb Lamm, halb Mensch. Die unerwartete Aussicht auf ein Familienleben bereitet ihnen viel Freude, bevor sie es schließlich zerstört.",
+    "popularity": 9.644,
+    "poster_path": "/al0Fd86nYNVdVttwhIQDYA0YRhd.jpg",
+    "production_companies": [
+        {
+            "id": 110059,
+            "logo_path": null,
+            "name": "Black Spark Film & TV",
+            "origin_country": "SE"
+        },
+        {
+            "id": 2801,
+            "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+            "name": "Film i Väst",
+            "origin_country": "SE"
+        },
+        {
+            "id": 157143,
+            "logo_path": null,
+            "name": "Go to Sheep",
+            "origin_country": ""
+        },
+        {
+            "id": 86773,
+            "logo_path": null,
+            "name": "Madants",
+            "origin_country": "PL"
+        },
+        {
+            "id": 850,
+            "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+            "name": "Eurimages",
+            "origin_country": "FR"
+        },
+        {
+            "id": 2302,
+            "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+            "name": "Svenska Filminstitutet",
+            "origin_country": "SE"
+        },
+        {
+            "id": 11240,
+            "logo_path": "/i59ItaKFdxJ7Yi6w2s7CML0LBvI.png",
+            "name": "PISF",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IS",
+            "name": "Iceland"
+        },
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2021-08-12",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "Icelandic",
+            "iso_639_1": "is",
+            "name": "Íslenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lamb",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2
+}

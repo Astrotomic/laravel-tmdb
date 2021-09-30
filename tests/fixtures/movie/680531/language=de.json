@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/h1coWIfm3mQPS5wLo3odWUzx97u.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://amazon.com/dp/B09FYLN28L",
+    "id": 680531,
+    "imdb_id": "tt11681282",
+    "original_language": "fr",
+    "original_title": "Le bal des folles",
+    "overview": "Eugenie (Lou de Laâge) hat eine einzigartige Gabe: Sie hört und sieht die Toten. Als ihre Familie ihr Geheimnis entdeckt, wird sie von ihrem Vater und ihrem Bruder in die neurologische Klinik von La Pitié Salpêtrière gebracht, ohne die Möglichkeit, ihrem Schicksal zu entgehen.",
+    "popularity": 446.315,
+    "poster_path": "/o9xtEAlNb0wWql0EnT2SmaLZ1qa.jpg",
+    "production_companies": [
+        {
+            "id": 22997,
+            "logo_path": null,
+            "name": "Légende Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-09-17",
+    "revenue": 0,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Die Tanzenden",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 74
+}

@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/6r0NIw0ZiQCtFbDlH4xQcYBUKHT.jpg",
+    "belongs_to_collection": {
+        "id": 484312,
+        "name": "Skyline Filmreihe",
+        "poster_path": "/jkEg92giv5EOglbqi6kWT3cxY7J.jpg",
+        "backdrop_path": "/b2JplRt6qfZKkupnoxl57n3r46y.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 42684,
+    "imdb_id": "tt1564585",
+    "original_language": "en",
+    "original_title": "Skyline",
+    "overview": "Eigentlich war es eine Nacht wie viele andere: Jarrod und seine Freunde haben ordentlich gefeiert und liegen inzwischen völlig fertig in ihren Betten. Plötzlich reißt sie ein grelles blaues Licht aus dem Schlaf. Der Anblick, der sich den Freunden dann bietet erinnert eher an einen schlechten Traum. Weltweit werden die Großstädte von einer außerirdischen und technologisch weitüberlegenen Macht angegriffen. Wie Motten vom Licht, werden immer mehr Personen von einem blauen Leuchten der Raumschiffe angezogen und verschwinden scheinbar im Nichts. Innerhalb kürzester Zeit beginnt ein panischer Kampf um das Überleben der Menschheit.",
+    "popularity": 51.635,
+    "poster_path": "/ipLThDG8aX6KyMF92rf0KR5tScc.jpg",
+    "production_companies": [
+        {
+            "id": 12007,
+            "logo_path": null,
+            "name": "Rat Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 134,
+            "logo_path": null,
+            "name": "Rogue Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 10936,
+            "logo_path": null,
+            "name": "Hydraulx",
+            "origin_country": ""
+        },
+        {
+            "id": 12158,
+            "logo_path": null,
+            "name": "Transmission Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-11-11",
+    "revenue": 66984887,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Vor 16 Jahren sendete die NASA eine Nachricht ins All. Jetzt kommt die Antwort!",
+    "title": "Skyline",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 1216
+}

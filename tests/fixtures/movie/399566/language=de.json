@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+    "belongs_to_collection": {
+        "id": 535313,
+        "name": "Godzilla Filmreihe",
+        "poster_path": "/inNN466SKHNjbGmpfhfsaPQNleS.jpg",
+        "backdrop_path": "/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.godzillavskong.net/",
+    "id": 399566,
+    "imdb_id": "tt5034838",
+    "original_language": "en",
+    "original_title": "Godzilla vs. Kong",
+    "overview": "Seit die Erde von riesigen Kreaturen, den sogenannten Titanen, heimgesucht wird, ist nichts mehr wie vorher. Die Menschheit kämpft um ihr Überleben und sorgt im Rahmen dieses Überlebenskampfes dafür, dass Godzilla und King Kong aufeinandertreffen und sich eine wahrlich titanische Schlacht liefern. Unterdessen versucht die Geheimorganisation Monarch die Ursprünge der Titanen herauszufinden und beginnt eine gefährliche Mission. Und eine andere Gruppierung will die riesigen Kreaturen ein für allemal auslöschen, egal ob diese gut oder böse sind.",
+    "popularity": 456.906,
+    "poster_path": "/vNKXuyL30bwFIafvg2ouKK0KDk9.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-03-24",
+    "revenue": 467863133,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Godzilla vs. Kong",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 7001
+}

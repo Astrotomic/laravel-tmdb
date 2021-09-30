@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/c72kDHmXtkP3vdkN4cKvkOVsp11.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 645861,
+    "imdb_id": "tt11284502",
+    "original_language": "en",
+    "original_title": "South of Heaven",
+    "overview": "",
+    "popularity": 7.157,
+    "poster_path": "/pKf4Y75siozbAtAIqcHYB1eJgXt.jpg",
+    "production_companies": [
+        {
+            "id": 128406,
+            "logo_path": null,
+            "name": "Arts District Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 160610,
+            "logo_path": null,
+            "name": "Swiss Avenue Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 117747,
+            "logo_path": null,
+            "name": "Media Finance Capital",
+            "origin_country": "GB"
+        },
+        {
+            "id": 123740,
+            "logo_path": null,
+            "name": "Good Wizard",
+            "origin_country": ""
+        },
+        {
+            "id": 123722,
+            "logo_path": null,
+            "name": "RLJE Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "South of Heaven",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

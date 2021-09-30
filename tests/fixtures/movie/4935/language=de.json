@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/vwBa7djy1oxfxUjc7YtVgGNsjrT.jpg",
+    "belongs_to_collection": null,
+    "budget": 24000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 4935,
+    "imdb_id": "tt0347149",
+    "original_language": "ja",
+    "original_title": "ハウルの動く城",
+    "overview": "Die junge Hutmacherin Sophie lebt in einer Kleinstadt im Lande Ingary, einer Welt voller Magie und Fabelwesen, die aber auch schon erste Flugzeuge und Dampfmaschinen kennt. Eines Tages lernt Sophie durch Zufall den jungen Magier Hauro kennen und verliebt sich in ihn - doch eine eifersüchtige Hexe verwandelt sie in eine alte Frau. Sophie verlässt ihre Heimatstadt, um nach einem Mittel gegen den Fluch zu suchen, und gelangt schließlich zu Hauros wandelndem Schloss. Hier findet sie eine Anstellung als Putzfrau und gewinnt durch ihre freundliche und zuvorkommende Art schnell die Herzen der übrigen Bewohner. Nur Hauro bleibt ihr gegenüber kalt und abweisend. Als der König von Hauro verlangt, für ihn in den Krieg zu ziehen, begreift Sophie allmählich, welche geheimnisvolle Verbindung zwischen dem Magier und Calcifer besteht, dem Dämon, dessen Kraft das wandelnde Schloss antreibt - und dass nur die alles verwandelnde Kraft der Liebe sie, Hauro und die übrigen Bewohner erlösen kann.",
+    "popularity": 46.792,
+    "poster_path": "/5bXYDI5cyHytrxWCID4HGb4FLiJ.jpg",
+    "production_companies": [
+        {
+            "id": 10342,
+            "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+            "name": "Studio Ghibli",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11200,
+            "logo_path": null,
+            "name": "Buena Vista Home Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 2752,
+            "logo_path": null,
+            "name": "DENTSU Music And Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11847,
+            "logo_path": "/rZP0I1p3hZNUMNFPHUSal6rWThQ.png",
+            "name": "Mitsubishi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1779,
+            "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+            "name": "Tokuma Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12518,
+            "logo_path": null,
+            "name": "d-rights",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2004-11-19",
+    "revenue": 236049757,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das wandelnde Schloss",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 6692
+}

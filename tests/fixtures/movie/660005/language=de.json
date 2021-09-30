@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/8cedGfPtqL1nOcHz5roDEvXM0dZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 660005,
+    "imdb_id": "tt11530778",
+    "original_language": "fr",
+    "original_title": "Suzanna Andler",
+    "overview": "",
+    "popularity": 2.006,
+    "poster_path": "/9Aca7ivzsTENNQ3TyXh7KiQnhbV.jpg",
+    "production_companies": [
+        {
+            "id": 1249,
+            "logo_path": null,
+            "name": "Les Films du Lendemain",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-06-02",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Suzanna Andler",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 2
+}

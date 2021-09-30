@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/ps82zgSDimvlYps6otcMYshrVyS.jpg",
+    "belongs_to_collection": null,
+    "budget": 1500000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.charliechaplin.com/en/films/5-City-Lights",
+    "id": 901,
+    "imdb_id": "tt0021749",
+    "original_language": "en",
+    "original_title": "City Lights",
+    "overview": "Mit „Lichter der Großstadt“ erstellte Charlie Chaplin einen Stummfilm, als sich der Tonfilm zu etablieren begann. Der Film um die Liebe eines mittellosen Mannes zu einem Blumenmädchen wurde ein Riesenerfolg und der Film gilt bis heute als Kultfilm.",
+    "popularity": 11.904,
+    "poster_path": "/m7Av5tM0fwPayGpuAucgsJv6gTY.jpg",
+    "production_companies": [
+        {
+            "id": 1315,
+            "logo_path": null,
+            "name": "Charles Chaplin Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1931-02-01",
+    "revenue": 4250000,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lichter der Großstadt",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 1481
+}

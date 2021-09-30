@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+    "id": 791373,
+    "imdb_id": "tt12361974",
+    "original_language": "en",
+    "original_title": "Zack Snyder's Justice League",
+    "overview": "Bruce Wayne alias Batman hat wieder Vertrauen in die Menschheit – auch dank Superman, der im Kampf gegen das Monster Doomsday wahre Selbstlosigkeit bewies und sich opferte. Als sich das mächtige außerweltliche Wesen Steppenwolf mit einer Armee Paradämonen anschickt, die Erde zu überfallen, wendet sich Batman an Diana Prince, besser bekannt unter dem Namen Wonder Woman, die gegen Doomsday eindrucksvoll zeigte, was sie kann. Gemeinsam rekrutieren sie ein Team von Superhelden, bestehend aus den Metamenschen, auf die die beiden bereits aufmerksam geworden sind: Aquaman, Cyborg und The Flash verbünden sich mit Batman und Wonder Woman, aber der Angriff auf die Erde scheint dennoch nicht mehr zu verhindern sein…",
+    "popularity": 319.263,
+    "poster_path": "/iNH5WzMOo2NK2LHrPZl4AoXTtKU.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 114152,
+            "logo_path": null,
+            "name": "The Stone Quarry",
+            "origin_country": "US"
+        },
+        {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 103376,
+            "logo_path": "/zIFWe4fwWURazXSjz9tF60ihgbH.png",
+            "name": "Access Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 444,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-03-18",
+    "revenue": 657926987,
+    "runtime": 242,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Zack Snyder's Justice League",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 6577
+}

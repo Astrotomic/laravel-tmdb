@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
+    "belongs_to_collection": null,
+    "budget": 170000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.foxmovies.com/movies/alita-battle-angel",
+    "id": 399579,
+    "imdb_id": "tt0437086",
+    "original_language": "en",
+    "original_title": "Alita: Battle Angel",
+    "overview": "Auf der Erde sind im 26. Jahrhundert 300 Jahre nach dem großen Krieg die gesellschaftlichen Systeme zerfallen. Bei seiner Suche nach Cyborg-Technologie rettet der mysteriöse Wissenschaftler Dr. Ido aus einem Schrotthaufen eine weibliche Cyborg. Er flickt die künstliche Frau, deren Körper bis auf ihr menschliches Gehirn aus Maschinenteilen besteht, wieder zusammen, und wird zu einer Art Ersatzvater für sie. Doch Alita ist ein gefährliches Wesen. Sie kann sich nicht erinnern, wer sie ist oder woher sie kommt. Dr. Ido jedoch glaubt, dass sie diejenige ist, die den Kreislauf von Tod und Zerstörung, der von Tiphares zurückgelassen wurde, durchbrechen kann. Um ihrer wahren Bestimmung zu folgen, muss Alita kämpfen und töten. Als ein Geschenk des Himmels ist sie doch auch ein Engel des Todes.",
+    "popularity": 50.585,
+    "poster_path": "/qXklVCaR0EGJ9RWIaELhqvu9xTh.jpg",
+    "production_companies": [
+        {
+            "id": 10807,
+            "logo_path": "/j0BcMaJKIiDDYHq9lriTcM0Npka.png",
+            "name": "Troublemaker Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 574,
+            "logo_path": "/iB6GjNVHs5hOqcEYt2rcjBqIjki.png",
+            "name": "Lightstorm Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-01-31",
+    "revenue": 404852543,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ein Engel fällt. Ein Krieger erhebt sich.",
+    "title": "Alita: Battle Angel",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 6915
+}

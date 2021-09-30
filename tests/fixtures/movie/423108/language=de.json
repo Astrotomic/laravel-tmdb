@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+    "belongs_to_collection": {
+        "id": 313086,
+        "name": "Conjuring Filmreihe",
+        "poster_path": "/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
+        "backdrop_path": "/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg"
+    },
+    "budget": 39000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.theconjuringmovie.net",
+    "id": 423108,
+    "imdb_id": "tt7069210",
+    "original_language": "en",
+    "original_title": "The Conjuring: The Devil Made Me Do It",
+    "overview": "Ein erschreckender Mordfall und eine mysteriöse böse Präsenz erschüttern selbst die paranormalen Ermittler Ed und Lorraine Warren bis ins Mark. In ihrem aktuellen Fall geht es um den Schutz der Seele eines kleinen Jungen. Dabei begeben sie sich in eine unbekannte Welt. Es ist das erste Mal in der amerikanischen Geschichte, dass sich ein des Mordes verdächtiger Mann auf dämonische Besessenheit als Verteidigungslinie beruft.",
+    "popularity": 374.776,
+    "poster_path": "/cHnY1O4gxcdCcbBKDHvKzFcOpVp.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 11565,
+            "logo_path": null,
+            "name": "The Safran Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 76907,
+            "logo_path": "/wChlWsVgwSd4ZWxTIm8PTEcaESz.png",
+            "name": "Atomic Monster",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-05-25",
+    "revenue": 199166992,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Conjuring 3 - Im Bann des Teufels",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 3680
+}

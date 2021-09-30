@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 11216,
+    "imdb_id": "tt0095765",
+    "original_language": "it",
+    "original_title": "Nuovo Cinema Paradiso",
+    "overview": "Alfredo ist tot. Das Paradiso ist tot – es lebe das Kino. Cinema Paradiso ist die Geschichte des skurrilen Filmvorführers Alfredo zu dem kleinen Jungen Toto. In Rom wird Toto ein berühmter Regisseur und kehrt erst wieder in seine sizilianische Heimat zurück, als Alfredo stirbt und das schöne, alte Provinzkino abgerissen wird. Alfredos Vermächtnis sind all die zensierten Szenen, die er in vielen Jahren aus so vielen Filmen herausschneiden musste.",
+    "popularity": 16.128,
+    "poster_path": "/pVJAStFPfdLD25DEhv410PZumOM.jpg",
+    "production_companies": [
+        {
+            "id": 7110,
+            "logo_path": null,
+            "name": "Les Films Ariane",
+            "origin_country": "FR"
+        },
+        {
+            "id": 119518,
+            "logo_path": null,
+            "name": "Cristaldifilm",
+            "origin_country": ""
+        },
+        {
+            "id": 1583,
+            "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+            "name": "RAI",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1988-11-17",
+    "revenue": 11990401,
+    "runtime": 155,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cinema Paradiso",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 3050
+}

@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/99OiyEOsFecBiS5XkhQAB98rlP6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 482321,
+    "imdb_id": "tt7504818",
+    "original_language": "en",
+    "original_title": "Ron's Gone Wrong",
+    "overview": "Der beste Freund eines 11-jährigen Jungen ist ein Roboter, der nicht richtig funktioniert.",
+    "popularity": 25.215,
+    "poster_path": "/zc1dnzYeepEyB0aDPaTAGtM066d.jpg",
+    "production_companies": [
+        {
+            "id": 121605,
+            "logo_path": "/4rc0vsJWygNm9ojrxSdPVU9jKyj.png",
+            "name": "Locksmith Animation",
+            "origin_country": "GB"
+        },
+        {
+            "id": 127928,
+            "logo_path": "/qAh0Ofz47KVy0A3118rjHUx3usk.png",
+            "name": "20th Century Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 141821,
+            "logo_path": "/dvIQq8TmQJydp9BzBCVyNZBlOnA.png",
+            "name": "20th Century Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-20",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Ron läuft schief",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

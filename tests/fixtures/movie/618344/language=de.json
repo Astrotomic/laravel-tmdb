@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/sQkRiQo3nLrQYMXZodDjNUJKHZV.jpg",
+    "belongs_to_collection": {
+        "id": 702342,
+        "name": "Justice League Dark Collection",
+        "poster_path": "/hR1aBzl1nzMf8eh8yj8QNzK4Bv7.jpg",
+        "backdrop_path": "/umbb4v3RR63hkJNhuvfI7zuc8Sr.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 618344,
+    "imdb_id": "tt11079148",
+    "original_language": "en",
+    "original_title": "Justice League Dark: Apokolips War",
+    "overview": "",
+    "popularity": 33.286,
+    "poster_path": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+    "production_companies": [
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-05-05",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Justice League Dark: Apokolips War",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 1036
+}

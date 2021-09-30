@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/tehpKMsls621GT9WUQie2Ft6LmP.jpg",
+    "belongs_to_collection": {
+        "id": 256322,
+        "name": "The Purge Filmreihe",
+        "poster_path": "/f6gLl1h1Xi9gMwaAntE8H2iml7k.jpg",
+        "backdrop_path": "/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.theforeverpurge.com",
+    "id": 602223,
+    "imdb_id": "tt10327252",
+    "original_language": "en",
+    "original_title": "The Forever Purge",
+    "overview": "Eine neue Bewegung, die sich nicht mehr mit nur einer jährlichen Nacht der Anarchie und des Mordens zufriedengeben will, beschließt, die Purge zum Dauerzustand zu machen, und so beginnt ein dystopischer Kampf ums Überleben. Eine Flucht nach Mexiko scheint der einzige Ausweg zu sein, doch eine Mauer versperrt den Weg …",
+    "popularity": 445.705,
+    "poster_path": "/9IuvXbh3ls1V1ROwDJQcS4dnICU.jpg",
+    "production_companies": [
+        {
+            "id": 3172,
+            "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 2481,
+            "logo_path": "/nVEP2IHCDOBOldgDL4SSufitN9.png",
+            "name": "Platinum Dunes",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 10338,
+            "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+            "name": "Perfect World Pictures",
+            "origin_country": "CN"
+        },
+        {
+            "id": 138783,
+            "logo_path": "/dCzNhv0G1Gz4u5piPyJy6n3wYWU.png",
+            "name": "Man in A Tree",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-06-30",
+    "revenue": 76981630,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Forever Purge",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 1247
+}

@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "belongs_to_collection": {
+        "id": 86311,
+        "name": "Marvel's The Avengers Filmreihe",
+        "poster_path": "/5k6WG11oWrXipYD8BAkmMJU4Men.jpg",
+        "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+    },
+    "budget": 356000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/avengers-endgame",
+    "id": 299534,
+    "imdb_id": "tt4154796",
+    "original_language": "en",
+    "original_title": "Avengers: Endgame",
+    "overview": "Thanos hat also tatsächlich Wort gehalten, seinen Plan in die Tat umgesetzt und die Hälfte allen Lebens im Universum ausgelöscht. Die Avengers? Machtlos. Iron Man und Nebula sitzen auf dem Planeten Titan fest, während auf der Erde absolutes Chaos herrscht. Doch dann finden Captain America und die anderen überlebenden Helden auf der Erde heraus, dass Nick Fury vor den verheerenden Ereignissen gerade noch ein Notsignal absetzen konnte, um Verstärkung auf den Plan zu rufen. Die Superhelden-Gemeinschaft bekommt mit Captain Marvel kurzerhand tatkräftige Unterstützung im Kampf gegen ihren vermeintlich übermächtigen Widersacher. Und dann ist da auch noch Ant-Man, der wie aus dem Nichts auftaucht und sich der Truppe erneut anschließt, um die ganze Sache womöglich doch noch zu einem guten Ende zu bringen …",
+    "popularity": 178.676,
+    "poster_path": "/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-04-24",
+    "revenue": 2797800564,
+    "runtime": 181,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Xhosa",
+            "iso_639_1": "xh",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Zeit für das letzte Spiel ist gekommen und es müssen Opfer gebracht werden...",
+    "title": "Avengers: Endgame",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 19155
+}

@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/AjfmYvPStX3fRMOYtPWAvWQjVHc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.inspired-pictures.co.uk/solitary",
+    "id": 725273,
+    "imdb_id": "tt11266868",
+    "original_language": "en",
+    "original_title": "Solitary",
+    "overview": "",
+    "popularity": 609.385,
+    "poster_path": "/aSuvkMToQevzJduda2xiqkt8QNE.jpg",
+    "production_companies": [
+        {
+            "id": 139417,
+            "logo_path": null,
+            "name": "Inspired Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2021-09-24",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Solitary",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 16
+}

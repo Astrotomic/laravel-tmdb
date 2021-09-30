@@ -29,7 +29,7 @@ it('loads "Black Panther" from API', function (): void {
     Assert::assertEmpty($movie->cast);
     Assert::assertEmpty($movie->crew);
 
-    dump(Http::recorded()->pluck(0)->map->url());
+    dump(requests());
 });
 
 it('loads "Black Panther" with cast from API', function (): void {
@@ -45,7 +45,7 @@ it('loads "Black Panther" with cast from API', function (): void {
     Assert::assertCount(77, $movie->cast);
     Assert::assertEmpty($movie->crew);
 
-    dump(Http::recorded()->pluck(0)->map->url());
+    dump(requests());
 });
 
 it('loads "Black Panther" with crew from API', function (): void {
@@ -61,7 +61,7 @@ it('loads "Black Panther" with crew from API', function (): void {
     Assert::assertEmpty($movie->cast);
     Assert::assertCount(479, $movie->crew);
 
-    dump(Http::recorded()->pluck(0)->map->url());
+    dump(requests());
 });
 
 it('loads "Black Panther" with credits from API', function (): void {
@@ -77,5 +77,5 @@ it('loads "Black Panther" with credits from API', function (): void {
     Assert::assertCount(77, $movie->cast);
     Assert::assertCount(479, $movie->crew);
 
-    dump(Http::recorded()->pluck(0)->map->url());
+    dump(requests());
 });

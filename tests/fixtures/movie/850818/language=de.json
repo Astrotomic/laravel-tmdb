@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/rnSn1m7na0AkvVelLVR7y9B85jV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "",
+    "id": 850818,
+    "imdb_id": "tt15053428",
+    "original_language": "en",
+    "original_title": "Barbie: Big City, Big Dreams",
+    "overview": "In diesem neuen Musical-Special kehrt Barbie Roberts den vertrauten Stränden von Malibu den Rücken und stürzt sich in ein neues aufregendes Leben in New York! Um ihren Traum vom Rampenlicht zu erfüllen, schreibt sie sich dort für das prestigeträchtige Sommer-Programm der Handler School of Arts ein. Gleich bei ihrer Ankunft trifft sie auf eine Mitstudentin namens – Barbie! Doch die beiden Mädchen haben mehr als nur ihren Namen gemeinsam",
+    "popularity": 568.949,
+    "poster_path": "/8PCeAhmRkiWYLBq0quetaFrHZp3.jpg",
+    "production_companies": [
+        {
+            "id": 137586,
+            "logo_path": null,
+            "name": "Mattel Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2021-08-20",
+    "revenue": 0,
+    "runtime": 62,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bühne frei für große Träume",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 29
+}

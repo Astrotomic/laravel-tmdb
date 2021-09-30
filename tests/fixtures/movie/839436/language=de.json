@@ -1,0 +1,53 @@
+{
+    "adult": false,
+    "backdrop_path": "/5PQhNs4M3RxIqaNAdBI6mXlXyYh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 839436,
+    "imdb_id": "tt13563520",
+    "original_language": "en",
+    "original_title": "Dragon Fury",
+    "overview": "",
+    "popularity": 967.2,
+    "poster_path": "/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg",
+    "production_companies": [
+        {
+            "id": 155744,
+            "logo_path": null,
+            "name": "Jagged Edge Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2021-06-15",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dragon Fury",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 2
+}

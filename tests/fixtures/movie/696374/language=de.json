@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+    "belongs_to_collection": {
+        "id": 729322,
+        "name": "Gabriel's Inferno Collection",
+        "poster_path": "/LdSn17U6ybhtPJT3S6fTNRni5Y.jpg",
+        "backdrop_path": "/hXF55codODfnzTZDExbUbfFmA9y.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://watch.passionflix.com/watch/fc15dc25-cf48-4d4f-aa8e-9afb032233cc",
+    "id": 696374,
+    "imdb_id": "tt11316854",
+    "original_language": "en",
+    "original_title": "Gabriel's Inferno",
+    "overview": "",
+    "popularity": 9.912,
+    "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+    "production_companies": [
+        {
+            "id": 92153,
+            "logo_path": "/psjvYkjjgAPtS8utnFYDM8t8yi7.png",
+            "name": "PassionFlix",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-05-29",
+    "revenue": 0,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gabriel's Inferno",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 2117
+}

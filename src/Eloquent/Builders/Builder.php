@@ -45,7 +45,7 @@ abstract class Builder extends EloquentBuilder
     public function findMany($ids, $columns = ['*']): Collection
     {
         return DB::transaction(function () use ($ids, $columns): Collection {
-            $ids = $ids instanceof Arrayable ? $ids->toArray() : $ids;
+            $ids = array_unique($ids instanceof Arrayable ? $ids->toArray() : $ids);
 
             if (empty($ids)) {
                 return $this->model->newCollection();

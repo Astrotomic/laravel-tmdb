@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 10770,
+            "name": "TV-Film"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.stevenuniversethemovie.com/",
+    "id": 537061,
+    "imdb_id": "tt10515852",
+    "original_language": "en",
+    "original_title": "Steven Universe: The Movie",
+    "overview": "Steven und die Gems wollen all die anstrengenden Abenteuer, die sie überstanden haben, mit einem Musical-Film gebührend feiern! Sie ahnen nicht, dass ihr größter Feind noch auf sie wartet.",
+    "popularity": 27.038,
+    "poster_path": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+    "production_companies": [
+        {
+            "id": 7899,
+            "logo_path": "/qnhd98hnBxCMMMod58FJqbCZ5O7.png",
+            "name": "Cartoon Network Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-09-02",
+    "revenue": 0,
+    "runtime": 82,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Steven Universe: Der Film",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 600
+}

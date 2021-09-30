@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/znpokr30qWVJztgO3t98PVyFLdC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "",
+    "id": 617762,
+    "imdb_id": "tt10687506",
+    "original_language": "en",
+    "original_title": "The Electrical Life of Louis Wain",
+    "overview": "",
+    "popularity": 10.238,
+    "poster_path": "/xfP1vRNKvyOvWNjnd0o7kD6b2RR.jpg",
+    "production_companies": [
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 113521,
+            "logo_path": "/fF4xLqMQ0C6Laql7HpzRnvn8hfi.png",
+            "name": "StudioCanal",
+            "origin_country": "GB"
+        },
+        {
+            "id": 28473,
+            "logo_path": null,
+            "name": "Shoebox Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 6705,
+            "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+            "name": "Film4 Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 92346,
+            "logo_path": "/qyqhyTbYHRmU2QcRomm4AeGiN0g.png",
+            "name": "SunnyMarch",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2021-10-22",
+    "revenue": 0,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Electrical Life of Louis Wain",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

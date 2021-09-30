@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb\Requests;
 
+use Astrotomic\Tmdb\Facades\Tmdb;
 use Illuminate\Http\Client\Response;
 
 class ListMovieGenres extends Request
@@ -16,7 +17,7 @@ class ListMovieGenres extends Request
         return $this->request->get(
             '/genre/movie/list',
             [
-                'language' => $this->language ?? app()->getLocale(),
+                'language' => $this->language ?? Tmdb::language(),
             ]
         )->throw();
     }

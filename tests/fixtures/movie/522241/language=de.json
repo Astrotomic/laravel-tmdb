@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "https://www.thecouriermovie.com",
+    "id": 522241,
+    "imdb_id": "tt8368512",
+    "original_language": "en",
+    "original_title": "The Courier",
+    "overview": "Während des Kalten Kriegs: Oleg Penkowski (Merab Ninidze) ist ehemaliger Geheimdienstoffizier der Sowjetunion und hat noch immer Kontakte in den Kreml, weshalb er nun die westlichen Geheimdienste mit Informationen versorgt. Angesichts der zunehmenden Eskalation des Konflikts mit den USA und der impulsiven Natur von KPdSU-Parteichef Nikita Khrushchev (Vladimir Chuprikov) fürchtet Penkowski einen drohenden Krieg und beschließt zu handeln. Er kontaktiert im Geheimen die amerikanische Botschaft in Moskau. CIA-Agentin Emily Donovan (Rachel Brosnahan) holt schließlich auch den britischen MI6 an Bord, denn sie hat einen Plan: Der unauffällige und harmlose Vertreter Greville Wynne (Benedict Cumberbatch) soll nichtsahnend mit Penkowski Kontakt aufnehmen. Nach und nach freunden sich die beiden Männer bei gegenseitigen Besuchen in Moskau und London an, doch die westlichen Geheimagenten spannen Wynne auch immer mehr in ihre Ränkespiele ein...",
+    "popularity": 639.171,
+    "poster_path": "/boZzebSbOv3csPJqjOJqPfhVuwi.jpg",
+    "production_companies": [
+        {
+            "id": 92346,
+            "logo_path": "/qyqhyTbYHRmU2QcRomm4AeGiN0g.png",
+            "name": "SunnyMarch",
+            "origin_country": "GB"
+        },
+        {
+            "id": 84988,
+            "logo_path": "/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png",
+            "name": "42",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7493,
+            "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 911,
+            "logo_path": null,
+            "name": "Roadside Attractions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-03-18",
+    "revenue": 15775585,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wie aus einem Geschäftsmann ein Spion wurde. Nach einer wahren Geschichte.",
+    "title": "Der Spion",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 393
+}

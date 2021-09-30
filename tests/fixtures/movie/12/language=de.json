@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/dFYguAfeVt19qAbzJ5mArn7DEJw.jpg",
+    "belongs_to_collection": {
+        "id": 137697,
+        "name": "Findet Nemo Filmreihe",
+        "poster_path": "/o5Eitue3cMdTjV0cSvrriFsmBKA.jpg",
+        "backdrop_path": "/2hC8HHRUvwRljYKIcQDMyMbLlxz.jpg"
+    },
+    "budget": 94000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://movies.disney.com/finding-nemo",
+    "id": 12,
+    "imdb_id": "tt0266543",
+    "original_language": "en",
+    "original_title": "Finding Nemo",
+    "overview": "Im Schutze eines großen Riffs lebt die Familie von Clownsfisch Marlin relativ sicher und trotzdem werden seine Frau und nahezu alle seine Kinder Opfer eines gefräßigen Räubers. Das einzige ihm verbleibende Kind ist der kleine Nemo, der von da an besonders behütet wird. Doch die Neugier ist zu groß und prompt wird Nemo gefangen und zu den Menschen als Zierfisch gebracht. Durch ein paar Möwen erfährt Marlin alsbald, wo Nemo gelandet ist: im Aquarium eines Zahnarztes in Sydney. Mutig macht sich der Clownsfish mit seiner Freundin Dory, die allerdings ständig an Gedächtnisverlust leidet auf den Weg dorthin, wobei an Haien, Quallen und anderen Gefahren. Währenddessen ist Nemo nicht untätig und plant mit den anderen Aquariumsfischen einen gewagten Ausbruch aus ihrem Gefängnis...",
+    "popularity": 71.897,
+    "poster_path": "/39h2Zr5j4E6VWlm1enBGba25FFU.jpg",
+    "production_companies": [
+        {
+            "id": 3,
+            "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+            "name": "Pixar",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-05-30",
+    "revenue": 940335536,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Findet Nemo",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 15478
+}

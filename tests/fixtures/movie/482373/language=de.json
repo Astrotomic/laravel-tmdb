@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg",
+    "belongs_to_collection": {
+        "id": 748919,
+        "name": "Don't Breathe Collection",
+        "poster_path": "/b4mJz9qvh4i328aIO0Ciqqy2DGA.jpg",
+        "backdrop_path": null
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "https://www.dontbreathemovie.com/",
+    "id": 482373,
+    "imdb_id": "tt6246322",
+    "original_language": "en",
+    "original_title": "Don't Breathe 2",
+    "overview": "Der Blinde Mann versteckt sich seit Jahren in einer abgelegenen Hütte und hat ein junges Mädchen aufgenommen und aufgezogen, das seine Eltern bei einem Hausbrand verloren hat. Als das Mädchen jedoch von einer Gruppe Entführern mitgenommen wird, ist er gezwungen, seinen sicheren Zufluchtsort zu verlassen, um sie zu retten.",
+    "popularity": 844.883,
+    "poster_path": "/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg",
+    "production_companies": [
+        {
+            "id": 768,
+            "logo_path": null,
+            "name": "Ghost House Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 11341,
+            "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+            "name": "Stage 6 Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 17393,
+            "logo_path": "/k28sCof6kheeOicLqL6EXX2GHov.png",
+            "name": "Good Universe",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 125512,
+            "logo_path": null,
+            "name": "Bad Hombre Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 3287,
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-12",
+    "revenue": 45000000,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Bösen Menschen passieren böse Dinge.",
+    "title": "Don't Breathe 2",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 802
+}

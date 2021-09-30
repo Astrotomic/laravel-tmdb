@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/xzvLxtxJOSP0PI4Tbda3RuHVQjd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.laskfilm.se",
+    "id": 776565,
+    "imdb_id": "tt10928086",
+    "original_language": "sv",
+    "original_title": "Knackningar",
+    "overview": "",
+    "popularity": 4.159,
+    "poster_path": "/blpgrB5znnSSMl1qISj98C3i4Dl.jpg",
+    "production_companies": [
+        {
+            "id": 145674,
+            "logo_path": null,
+            "name": "Läsk",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 78,
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Knackningar",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

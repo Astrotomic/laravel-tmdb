@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/4UvNG6JFaSzMLUXUsq62VcVjNhP.jpg",
+    "belongs_to_collection": {
+        "id": 86066,
+        "name": "Ich - Einfach unverbesserlich Filmreihe",
+        "poster_path": "/v8eaJflkcWmOd9K9IrSCZ1frHDp.jpg",
+        "backdrop_path": "/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+    },
+    "budget": 76000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://www.unverbesserlich2-film.de/",
+    "id": 93456,
+    "imdb_id": "tt1690953",
+    "original_language": "en",
+    "original_title": "Despicable Me 2",
+    "overview": "Nachdem der Superschurke Gru die drei Waisenkinder Margo, Edith und Agnes adoptiert hat, hat sich in seinem Leben viel geändert. Anstatt als Griesgram Verbrechen zu begehen, dreht sich sein Leben nun um Gute-Nacht-Geschichten, Kindergeburtstage und erste Verehrer der Mädchen. Sein neues Leben wird plötzlich gestört, als Lucy, eine Agentin der geheimen Anti-Villain League, Gru gegen seinen Willen zu deren Zentrale führt. Dort bekommt Gru den Auftrag, die Welt vor einem neuen Bösewicht zu retten. Eifrig macht sich Gru ans Werk und bekommt dabei erneut Hilfe von Dr. Nefario  und seinen meist sehr tollpatschigen Minions. Doch seine neue Aufgabe mit der Erziehung seiner Adoptivtöchter in Einklang zu bringen ist nicht leicht und auch mit der Situation, dass Lucy auch außerhalb der Arbeit sehr von Gru angetan ist, überfordert den ehemaligen Einzelgänger.",
+    "popularity": 49.85,
+    "poster_path": "/e9uMneUxEN8vb3lS2wU9Pie597B.jpg",
+    "production_companies": [
+        {
+            "id": 6704,
+            "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+            "name": "Illumination Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-06-26",
+    "revenue": 970761885,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Friede? Freude? Pustekuchen!",
+    "title": "Ich - Einfach unverbesserlich 2",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 9315
+}

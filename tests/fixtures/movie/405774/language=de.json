@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/zzaFYbbn2jRhE1eAoqsS2LWR3EA.jpg",
+    "belongs_to_collection": {
+        "id": 731067,
+        "name": "Bird Box Collection",
+        "poster_path": "/hKFcfZNI1tlQJlZYaO782SZS5p3.jpg",
+        "backdrop_path": null
+    },
+    "budget": 19800000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80196789",
+    "id": 405774,
+    "imdb_id": "tt2737304",
+    "original_language": "en",
+    "original_title": "Bird Box",
+    "overview": "Ein mysteriöser Schrecken hat die Welt heimgesucht. Es handelt sich dabei um eine mysteriöse Macht, die seine Opfer in den Selbstmord treibt. Sobald man sie erblickt erlebt man seine schlimmsten Ängste. Um sich und ihre zwei Kinder vor diesem grausamen Schicksal zu bewahren, muss sich Malorie mit ihnen in dieser in Angst und Schrecken versetzten Welt durchkämpfen. Dies mit verbundenen Augen, um dem unheimlichen Wesen keine Angriffsfläche zu bieten. Malorie erfährt von einem Ort am Fluß, an dem ein Überleben, vielleicht möglich ist. In einem kleinem Boot wagt sie mit ihren Kindern die gefährliche Fahrt …",
+    "popularity": 31.833,
+    "poster_path": "/dKuRb7CP2FEaMEtdXXn6YFU8H2Y.jpg",
+    "production_companies": [
+        {
+            "id": 13778,
+            "logo_path": null,
+            "name": "Bluegrass Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 25998,
+            "logo_path": null,
+            "name": "Chris Morgan Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-12-13",
+    "revenue": 0,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Konzentriere dich aufs Überleben",
+    "title": "Bird Box - Schließe deine Augen",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 7852
+}

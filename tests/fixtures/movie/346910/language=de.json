@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/f4E0ocYeToEuXvczZv6QArrMDJ.jpg",
+    "belongs_to_collection": {
+        "id": 399,
+        "name": "Predator Filmreihe",
+        "poster_path": "/94ODbkAPSudOm58lLSCWIwpuA5.jpg",
+        "backdrop_path": "/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg"
+    },
+    "budget": 88000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.foxmovies.com/movies/the-predator",
+    "id": 346910,
+    "imdb_id": "tt3829266",
+    "original_language": "en",
+    "original_title": "The Predator",
+    "overview": "Eine geheime Militäraktion wird  durch die Bruchlandung eines Predator-Raumschiffes gestört. Während zwei seiner Kameraden getötet werden, kann Quinn McKenna das Alien außer Gefecht setzten und seine Ausrüstung an sich nehmen.  Als er diese jedoch zu sich nach Hause schickt und sein am Asperger-Syndrom leidender Sohn es schafft, sie in Betrieb zu nehmen, lockt er damit die Predators direkt zu sich. Zusammen mit einer chaotische Truppe von Ex-Soldaten und der Biologin Casey Bracket muss er nun um sein Überleben und das seines Sohnes kämpfen.",
+    "popularity": 54.711,
+    "poster_path": "/nwZuSeaEJME9EEOQCLQTf2M98W5.jpg",
+    "production_companies": [
+        {
+            "id": 1302,
+            "logo_path": "/kQZtJdyphCmq292iGDqlUx0yk2D.png",
+            "name": "Davis Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 1786,
+            "logo_path": "/joLFuCWg9e2lweYnFQtRPJKSLlI.png",
+            "name": "Dark Castle Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 111737,
+            "logo_path": null,
+            "name": "Canada Film Capital",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-09-05",
+    "revenue": 160542134,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sei bereit für die ultimative Jagd",
+    "title": "Predator - Upgrade",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 3494
+}

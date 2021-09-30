@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+    "belongs_to_collection": null,
+    "budget": 11363000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://capelight.de/parasite-kino-2",
+    "id": 496243,
+    "imdb_id": "tt6751668",
+    "original_language": "ko",
+    "original_title": "기생충",
+    "overview": "Familie Kim ist ganz unten angekommen: Vater, Mutter, Sohn und Tochter hausen in einem grünlich-schummrigen Keller und sind sich für keinen Aushilfsjob zu schade. Erst als der Jüngste eine Anstellung als Nachhilfelehrer in der todschicken Villa der Familie Park antritt, steigen die Kims ein ins Karussell der Klassenkämpfe. Mit findigen Tricksereien, bemerkenswertem Talent und großem Mannschaftsgeist gelingt es ihnen, die bisherigen Bediensteten der Familie Park nach und nach loszuwerden. Bald schon sind die Kims unverzichtbar für ihre neuen Herrschaften. Doch dann löst ein unerwarteter Zwischenfall eine Kette von Ereignissen aus, die so unvorhersehbar wie unfassbar sind.",
+    "popularity": 95.335,
+    "poster_path": "/hoqe3leVhHBgboB6G1bv1kB8K4p.jpg",
+    "production_companies": [
+        {
+            "id": 4399,
+            "logo_path": "/7bWmbWfxFNSGTCjLHkHn3UjspZS.png",
+            "name": "Barunson E&A",
+            "origin_country": "KR"
+        },
+        {
+            "id": 7036,
+            "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+            "name": "CJ Entertainment",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2019-05-30",
+    "revenue": 257591776,
+    "runtime": 132,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Finde den Eindringling!",
+    "title": "Parasite",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 12201
+}

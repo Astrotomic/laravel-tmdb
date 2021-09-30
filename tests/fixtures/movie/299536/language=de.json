@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+    "belongs_to_collection": {
+        "id": 86311,
+        "name": "Marvel's The Avengers Filmreihe",
+        "poster_path": "/5k6WG11oWrXipYD8BAkmMJU4Men.jpg",
+        "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+    },
+    "budget": 300000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/avengers-infinity-war",
+    "id": 299536,
+    "imdb_id": "tt4154756",
+    "original_language": "en",
+    "original_title": "Avengers: Infinity War",
+    "overview": "Der mächtige Titan Thanos  hat es sich zur Aufgabe gemacht das halbe Universum auszulöschen. Um diesen perfiden Plan Realität werden zu lassen, benötigt er allerdings zuerst alle sechs Infinity-Steine, die ihm in Verbindung mit einem speziell gefertigten Handschuh, gottgleiche Kräfte verleihen. Da sich unglücklicherweise auch auf der Erde zwei dieser Steine befinden, betraut er seine treu ergebene Black Order mit deren Beschaffung. Sowohl die Avengers, als auch die Guardians of the Galaxy und Thor erfahren jedoch von Thanos' Plänen und stellen sich dem Schurken entgegen. Doch mit einen derart mächtigen Gegner hatte es bisher keiner von ihnen zu tun...",
+    "popularity": 259.167,
+    "poster_path": "/9mvgmX2b05SERQWC1IAGIdkfd8n.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-04-25",
+    "revenue": 2046239637,
+    "runtime": 150,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Xhosa",
+            "iso_639_1": "xh",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Superhelden müssen bereit sein, alles zu opfern...",
+    "title": "Avengers: Infinity War",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 22756
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/6aWffkNRWu2SLqb4AtKOnRVL5E4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.ifcfilms.com/films/bergman-island",
+    "id": 477044,
+    "imdb_id": "tt6910282",
+    "original_language": "en",
+    "original_title": "Bergman Island",
+    "overview": "Ein ausländisches Paar mit Kind lässt sich für einen Sommer auf der schwedischen Insel Fårö nieder. Die beiden Filmemacher planen, in dieser Zeit an ihren neuen Drehbüchern zu arbeiten. Sie erhoffen sich Inspiration von dem Ort, an dem der von ihnen hochgeschätzte Ingmar Bergman lebte und begraben liegt. Chris fällt die Arbeit an ihrem Skript aber zunehmend schwerer. Ihr älterer Partner Tony rät ihr, einer anderen Tätigkeit nachzugehen, was sie erzürnt. Auch muss sie feststellen, dass sie im Ferienhaus das Schlafzimmer bewohnen, in dem Bergman zum Teil seinen Film Szenen einer Ehe (1973) drehte, was Chris ebenfalls verunsichert. Im Verlauf der Drehbucharbeit und im Kontakt mit der wilden Landschaft Fårös beginnt für das Paar die Grenze zwischen Fiktion und Realität allmählich zu verschwimmen. Gleichzeitig tauchen Erinnerungen einer ersten Liebe wieder auf.",
+    "popularity": 7.228,
+    "poster_path": "/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+    "production_companies": [
+        {
+            "id": 94,
+            "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+            "name": "ARTE France Cinéma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 122842,
+            "logo_path": null,
+            "name": "Dauphin Films",
+            "origin_country": ""
+        },
+        {
+            "id": 19771,
+            "logo_path": "/anRmhRCSY9fXOIygcjjVHL4bWL1.png",
+            "name": "Piano",
+            "origin_country": "MX"
+        },
+        {
+            "id": 30666,
+            "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+            "name": "RT Features",
+            "origin_country": "BR"
+        },
+        {
+            "id": 11199,
+            "logo_path": "/ursSXLOZaDxiZ84sEgfXbiFnYaa.png",
+            "name": "SCOPE Pictures",
+            "origin_country": "BE"
+        },
+        {
+            "id": 403,
+            "logo_path": null,
+            "name": "Neue Bioskop Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 51696,
+            "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+            "name": "CG Cinéma",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2021-07-14",
+    "revenue": 0,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bergman Island",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 18
+}

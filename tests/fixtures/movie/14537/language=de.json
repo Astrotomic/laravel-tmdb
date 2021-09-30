@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "",
+    "id": 14537,
+    "imdb_id": "tt0056058",
+    "original_language": "ja",
+    "original_title": "切腹",
+    "overview": "Japan zu Beginn des 17. Jahrhunderts: Ein umherziehender Samurai namens Tsugumo bittet darum, im Haus eines feudalen Lords aufgrund bitterer Armut Seppuku begehen zu dürfen.\r Da zu jener Zeit jedoch viele herrenlose Samurai (Ronin genannt) diese vorgebliche Bitte nur an die Fürstenhäuser herantragen, um sie durch Androhung der Schmach des rituellen Selbstmordes in ihren Häusern zu erpressen, erzählt man dem Unbekannten zur Abschreckung wie es dem Ronin Chijiwa erging. An diesem hatte man einige Tage zuvor ein Exempel statuiert, indem man ihn erlaubte, oder besser gesagt nötigte, besagten rituellen Selbstmord vor versammelten Haus durchzuführen. Der Fremde lässt sich davon jedoch nicht abschrecken, sondern besteht auf seinen Wunsch. Nur eine Geschichte möchte er noch erzählen...",
+    "popularity": 8.898,
+    "poster_path": "/nUNORM3gyVdgSq28MDOToxPhbMs.jpg",
+    "production_companies": [
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1962-09-15",
+    "revenue": 0,
+    "runtime": 133,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Harakiri",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 531
+}

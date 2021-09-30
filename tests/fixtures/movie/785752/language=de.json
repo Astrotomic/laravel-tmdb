@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/oM7AstNYo6eSkgAieXvsIxTPPDv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80206420",
+    "id": 785752,
+    "imdb_id": "tt5563324",
+    "original_language": "en",
+    "original_title": "Intrusion",
+    "overview": "Eine Frau, die kürzlich mit ihrem Ehemann in eine Kleinstadt zog, ist nach einem Überfall in ihrem Haus traumatisiert. Sie hat den Verdacht, dass ihre Mitmenschen nicht die sind, die sie zu sein vorgeben",
+    "popularity": 505.162,
+    "poster_path": "/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg",
+    "production_companies": [
+        {
+            "id": 159778,
+            "logo_path": null,
+            "name": "Creator Media Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 65928,
+            "logo_path": null,
+            "name": "Sea Smoke Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 14654,
+            "logo_path": null,
+            "name": "EMJAG Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-22",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Intrusion",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 155
+}

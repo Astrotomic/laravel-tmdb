@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/lQAe1hfWYDdYypRVdzTbdg6JYWP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/movies/black-beauty/5xblDh090q9k",
+    "id": 526702,
+    "imdb_id": "tt8484160",
+    "original_language": "en",
+    "original_title": "Black Beauty",
+    "overview": "Black Beauty wurde im amerikanischen Westen frei geboren und ist ein Pferd, das zusammengetrieben und in den Birtwick Stables gebracht wurde, wo sie den temperamentvollen Teenager Jo Green trifft. Die beiden knüpfen eine Verbindung, die die Schönheit durch die verschiedenen Kapitel, Herausforderungen und Abenteuer führt.",
+    "popularity": 11.761,
+    "poster_path": "/kTI0CsvC4hJtmfpulf4ojdEyier.jpg",
+    "production_companies": [
+        {
+            "id": 47,
+            "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+            "name": "Constantin Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 124233,
+            "logo_path": null,
+            "name": "JB Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2020-11-27",
+    "revenue": 0,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Black Beauty",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 220
+}

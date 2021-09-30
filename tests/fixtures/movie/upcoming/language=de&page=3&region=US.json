@@ -1,0 +1,326 @@
+{
+    "dates": {
+        "maximum": "2021-10-27",
+        "minimum": "2021-10-06"
+    },
+    "page": 3,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/xzvLxtxJOSP0PI4Tbda3RuHVQjd.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 776565,
+            "original_language": "sv",
+            "original_title": "Knackningar",
+            "overview": "",
+            "popularity": 4.159,
+            "poster_path": "/blpgrB5znnSSMl1qISj98C3i4Dl.jpg",
+            "release_date": "2021-10-08",
+            "title": "Knackningar",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 680058,
+            "original_language": "en",
+            "original_title": "The Rescue",
+            "overview": "",
+            "popularity": 3.842,
+            "poster_path": "/7amhhrJWgrGGZFALNevZrEFqiU8.jpg",
+            "release_date": "2021-10-08",
+            "title": "The Rescue",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 770464,
+            "original_language": "en",
+            "original_title": "Concessions",
+            "overview": "",
+            "popularity": 3.183,
+            "poster_path": "/laVrSN9XARQ4OrfgPqMnzZYAa3y.jpg",
+            "release_date": "2021-10-23",
+            "title": "Concessions",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 878207,
+            "original_language": "en",
+            "original_title": "The Mustangs: America's Wild Horses",
+            "overview": "",
+            "popularity": 3.123,
+            "poster_path": null,
+            "release_date": "2021-10-15",
+            "title": "The Mustangs: America's Wild Horses",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXdsBOwGfNteKWzY05hYl7wnQGF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 743433,
+            "original_language": "en",
+            "original_title": "Rubber Gun Club",
+            "overview": "",
+            "popularity": 3.014,
+            "poster_path": "/KyHvqnw1Xb8I5l3URcZIWNAUtY.jpg",
+            "release_date": "2021-10-21",
+            "title": "Rubber Gun Club",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 870350,
+            "original_language": "en",
+            "original_title": "The Last Frankenstein",
+            "overview": "",
+            "popularity": 2.984,
+            "poster_path": "/ebnYnT4ZtOGA1UcHZG6O4zy9tV4.jpg",
+            "release_date": "2021-10-23",
+            "title": "The Last Frankenstein",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 878195,
+            "original_language": "en",
+            "original_title": "Youngstown",
+            "overview": "",
+            "popularity": 2.744,
+            "poster_path": "/166wiD54JUdfRGxcsmOg7kPoXH8.jpg",
+            "release_date": "2021-10-15",
+            "title": "Youngstown",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 872510,
+            "original_language": "en",
+            "original_title": "Ojibwa Warrior: The Legacy Of Dennis Banks",
+            "overview": "",
+            "popularity": 2.723,
+            "poster_path": "/wWEDQlYfyR7fYlsyQ5xtGtvqER6.jpg",
+            "release_date": "2021-10-12",
+            "title": "Ojibwa Warrior: The Legacy Of Dennis Banks",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1lJjoYzUucQjSI19o7UpSj9bebi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 877669,
+            "original_language": "es",
+            "original_title": "Un Mundo Para Julius",
+            "overview": "",
+            "popularity": 2.635,
+            "poster_path": "/oajGi3ZZW8R6iWn6ag7DwsdKqx4.jpg",
+            "release_date": "2021-10-14",
+            "title": "Un Mundo Para Julius",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 872972,
+            "original_language": "en",
+            "original_title": "Song for Cesar",
+            "overview": "",
+            "popularity": 2.468,
+            "poster_path": null,
+            "release_date": "2021-10-14",
+            "title": "Song for Cesar",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 877907,
+            "original_language": "en",
+            "original_title": "Bug Bites!",
+            "overview": "",
+            "popularity": 2.197,
+            "poster_path": null,
+            "release_date": "2021-10-20",
+            "title": "Bug Bites!",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 872792,
+            "original_language": "en",
+            "original_title": "Around Japan With a Movie Camera",
+            "overview": "",
+            "popularity": 2.183,
+            "poster_path": null,
+            "release_date": "2021-10-22",
+            "title": "Around Japan With a Movie Camera",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cedGfPtqL1nOcHz5roDEvXM0dZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 660005,
+            "original_language": "fr",
+            "original_title": "Suzanna Andler",
+            "overview": "",
+            "popularity": 2.006,
+            "poster_path": "/9Aca7ivzsTENNQ3TyXh7KiQnhbV.jpg",
+            "release_date": "2021-10-08",
+            "title": "Suzanna Andler",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 877916,
+            "original_language": "en",
+            "original_title": "Mindeaze",
+            "overview": "",
+            "popularity": 1.972,
+            "poster_path": null,
+            "release_date": "2021-10-20",
+            "title": "Mindeaze",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                27
+            ],
+            "id": 878958,
+            "original_language": "en",
+            "original_title": "Ouija Japan",
+            "overview": "",
+            "popularity": 1.96,
+            "poster_path": "/dfFb24F8mqSAbsYVWEka8xuqQkG.jpg",
+            "release_date": "2021-10-19",
+            "title": "Ouija Japan",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 869592,
+            "original_language": "en",
+            "original_title": "Recursive Lattice",
+            "overview": "",
+            "popularity": 1.776,
+            "poster_path": "/9AagHVynwzvewmhXNb1m44QvGMC.jpg",
+            "release_date": "2021-10-16",
+            "title": "Recursive Lattice",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 878306,
+            "original_language": "be",
+            "original_title": "Маланка",
+            "overview": "",
+            "popularity": 1.742,
+            "poster_path": "/ucPhNHHpISLy6hgsmLoED0oCXcK.jpg",
+            "release_date": "2021-10-14",
+            "title": "Маланка",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRe8THVApYoyz80eyCQFsJaUrMJ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 776544,
+            "original_language": "mt",
+            "original_title": "Luzzu",
+            "overview": "",
+            "popularity": 0.84,
+            "poster_path": "/rAEsiRka8td2BA0X2IiZV99TrDK.jpg",
+            "release_date": "2021-01-29",
+            "title": "Luzzu",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 58
+}

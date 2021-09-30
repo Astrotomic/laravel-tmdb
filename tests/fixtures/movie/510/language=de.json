@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/3KwAmIKMaDcBMonF5wmyNTL0SR6.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 510,
+    "imdb_id": "tt0073486",
+    "original_language": "en",
+    "original_title": "One Flew Over the Cuckoo's Nest",
+    "overview": "McMurphy ist ein krimineller gesellschaftlicher Außenseiter. Mitte dreißig, ehemaliger Korea-Kämpfer, wegen Ungehorsam aus der Armee entlassen, wird er wegen Schlägereien, Notzucht und Trunksucht in eine Strafanstalt eingeliefert. Von dort aus lässt er sich mit einem Trick zur Beobachtung in eine psychiatrische Anstalt überweisen. In die graue Welt einer anonymen Heilanstalt wird McMurphy eines Tages eingeliefert. Er findet dort ein unmenschliches System vor, das seine hilf- und willenlosen Patienten in „Chronische“ (schwere Fälle) und „Akute“ (leichte Fälle) aufteilt. Eine despotische Oberschwester unterdrückt mit einer Schar brutaler Wärter jede individualistische Regung. Der Zustand der Kranken wird mit pharmazeutischen Mitteln oder Elektroschock-Therapie „behandelt“ und dadurch noch weiter verschlechtert. In diesem System muss McMurphy wie ein Katalysator wirken … er stellt das System der Irrenanstalt in Frage und wiegelt die Insassen auf.",
+    "popularity": 17.039,
+    "poster_path": "/8ifFMKq21P0A2xV4q7K5VfuR4Cp.jpg",
+    "production_companies": [
+        {
+            "id": 286,
+            "logo_path": null,
+            "name": "Fantasy Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1975-11-18",
+    "revenue": 108981275,
+    "runtime": 133,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wenn er verrückt ist, was bist du dann?",
+    "title": "Einer flog über das Kuckucksnest",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 8052
+}

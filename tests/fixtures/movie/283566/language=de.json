@@ -1,0 +1,67 @@
+{
+    "adult": false,
+    "backdrop_path": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+    "belongs_to_collection": {
+        "id": 210303,
+        "name": "Rebuild of Evangelion",
+        "poster_path": "/c78THgplRisxr6N47D5MHkYKx0U.jpg",
+        "backdrop_path": "/las0P4Dua54XrZ73VQmGUaH1z0U.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.evangelion.co.jp/final.html",
+    "id": 283566,
+    "imdb_id": "tt2458948",
+    "original_language": "ja",
+    "original_title": "シン・エヴァンゲリオン劇場版:||",
+    "overview": "Der Versuch, den Auswirkungen des Third Impact entgegenzuwirken, verlief alles andere als geplant, denn um ein Haar wäre wegen Einheit 13 der Fourth Impact eingeleitet und womöglich die Menschheit als solche tatsächlich ausgelöscht worden; nur dank Kaworus heldenhaften Einsatzes konnte Shinji gerettet und das Schlimmste verhindert werden. Niedergeschlagen durch ihr Versagen streifen Asuka, Shinji und Rei nun durch die weiterhin verwüstete Landschaft.\r Bald finden sie Zuflucht in einer Siedlung mit Überlebenden, in der Asuka und ein paar Bewohner den noch immer traumatisierten Shinji aufpäppeln, doch nach einer Weile holt sie die Realität wieder ein: Die Organisation WILLE arbeitet weiterhin daran, Teile der Erdoberfläche wiederherstellen, und muss sich mit wiederholten Angriffen durch NERV herumschlagen. Schon bald kehrt Asuka auf das Schiff Wunder zurück und wird dabei von Shinji begleitet.",
+    "popularity": 183.046,
+    "poster_path": "/eadcE25WY7XlnlhPnE9HuDWeLLj.jpg",
+    "production_companies": [
+        {
+            "id": 4145,
+            "logo_path": "/suAlQoj04ozLC0WbfI5qEMahVwv.png",
+            "name": "khara",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-03-08",
+    "revenue": 78334943,
+    "runtime": 155,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Evangelion: 3.0+1.01 Thrice Upon A Time",
+    "video": false,
+    "vote_average": 8.7,
+    "vote_count": 322
+}

@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 872510,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Ojibwa Warrior: The Legacy Of Dennis Banks",
+    "overview": "",
+    "popularity": 2.723,
+    "poster_path": "/wWEDQlYfyR7fYlsyQ5xtGtvqER6.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-12",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Ojibwa Warrior: The Legacy Of Dennis Banks",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

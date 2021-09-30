@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/8xcm94SLAxvNmJYuGh42ziydu70.jpg",
+    "belongs_to_collection": {
+        "id": 14740,
+        "name": "Madagascar Filmreihe",
+        "poster_path": "/cN6syTTt7a9X7idY9xa612lo3WO.jpg",
+        "backdrop_path": "/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.madagascar-themovie.com",
+    "id": 10527,
+    "imdb_id": "tt0479952",
+    "original_language": "en",
+    "original_title": "Madagascar: Escape 2 Africa",
+    "overview": "In ihrem neuen Abenteuer möchten Alex, Marty, Melman und Gloria die Insel Madagaskar, wo sie nach einer längeren Odyssee gestrandet waren, verlassen, und wieder zurück \"nach Hause\" in den Zoo im New Yorker Central Park. Die Pinguine machen ein altes Flugzeugwrack wieder flott und die Heimreise kann beginnen. Auch mit an Bord gehen die Schimpansen Mason und Phil sowie King Julien und sein Privatsekretär Maurice. Es glückt zwar der Start des mit Klebeband geflickten Flugzeugs, aber weiter als bis nach Afrika schaffen sie es nicht und landen mit einem harten Aufprall mitten in der Steppe. Alex und seine Freunde treffen diesmal nicht nur auf Artgenossen, sondern sogar auf die eigene Familie und geraten mitten in ein neues turbulent-witziges Abenteuer.",
+    "popularity": 40.715,
+    "poster_path": "/iIgt1IlXacoBJDrfze5DlvV7szf.jpg",
+    "production_companies": [
+        {
+            "id": 521,
+            "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+            "name": "DreamWorks Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 520,
+            "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+            "name": "Pacific Data Images",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-10-30",
+    "revenue": 603900354,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Immer noch zusammen. Immer noch verschollen.",
+    "title": "Madagascar 2",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5396
+}

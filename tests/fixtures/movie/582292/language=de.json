@@ -1,0 +1,45 @@
+{
+    "adult": false,
+    "backdrop_path": "/vBR1IVCsRLVrW33OwfjoeYNdk5w.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 582292,
+    "imdb_id": "tt9077876",
+    "original_language": "en",
+    "original_title": "13 Fanboy",
+    "overview": "",
+    "popularity": 4.895,
+    "poster_path": "/ev1FUheirWVD2BwEaVjjLymRdhC.jpg",
+    "production_companies": [
+        {
+            "id": 39706,
+            "logo_path": null,
+            "name": "Be Your Own Hollywood",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2021-10-22",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "13 Fanboy",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

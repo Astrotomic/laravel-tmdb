@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/dIibeeq4QMay5bTJ2vjr72IFFRo.jpg",
+    "belongs_to_collection": {
+        "id": 589755,
+        "name": "Последний богатырь (Коллекция)",
+        "poster_path": "/rEPhPb8mDomtmn6tHr3vE9QutkB.jpg",
+        "backdrop_path": null
+    },
+    "budget": 8400000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 589754,
+    "imdb_id": "tt13606158",
+    "original_language": "ru",
+    "original_title": "Последний богатырь: Корень зла",
+    "overview": "",
+    "popularity": 2188.977,
+    "poster_path": "/14l5EFPdqZ8Pzpp3yXO3BnTnpQh.jpg",
+    "production_companies": [
+        {
+            "id": 42877,
+            "logo_path": "/15THT1W3NROsbDXPbrcmWFVkrSv.png",
+            "name": "Yellow, Black & White",
+            "origin_country": "RU"
+        },
+        {
+            "id": 101999,
+            "logo_path": null,
+            "name": "The Walt Disney Company CIS",
+            "origin_country": "RU"
+        },
+        {
+            "id": 76049,
+            "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+            "name": "Cinema Fund",
+            "origin_country": "RU"
+        },
+        {
+            "id": 69587,
+            "logo_path": "/u0Jy8wJ05m3MZCNiba1EXgf0zoK.png",
+            "name": "Russia-1",
+            "origin_country": "RU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+        }
+    ],
+    "release_date": "2021-01-01",
+    "revenue": 27658331,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Последний богатырь: Корень зла",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 31
+}

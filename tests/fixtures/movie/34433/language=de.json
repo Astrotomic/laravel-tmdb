@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/eN1TMy5hT72G2v92x5cNM5trdFv.jpg",
+    "belongs_to_collection": {
+        "id": 425164,
+        "name": "Dragonball Z Filmreihe",
+        "poster_path": "/7gksLHQSrsyuQQKh9EHPUYfINtR.jpg",
+        "backdrop_path": "/7PcbijxTfwi9vjWEfXdS0ReAw8q.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 34433,
+    "imdb_id": "tt0142242",
+    "original_language": "ja",
+    "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦",
+    "overview": "Ein Super-Saiyajin hat die Süd-Galaxie angegriffen. Meister Kaio bittet Son-Goku um Hilfe, der sich sofort auf den Weg macht. Inzwischen ist Paragus, ebenfalls ein Saiyajin, auf der Erde gelandet und bittet Vegeta mitzukommen. Angeblich möchte er ihn zum König auf dem neuen Planeten Vegeta krönen. Vegeta lässt sich locken, Trunks, Krelin, Son-Gohan, Oolong und Muten Roshi fliegen ebenfalls mit nach Neu-Vegeta wo die Z-Kämpfer auch Broly, den Sohn von Paragus, kennenlernen. Paragus behauptet, dass der legendäre Super-Saiyajin irgendwo sein Unwesen treibt und nur Vegeta ihn besiegen könne. Als Son-Goku auch auf Neu-Vegeta eintrifft stellt sich bald heraus, dass die Z-Kämpfer in eine Falle getappt sind. Welche finsteren Pläne verfolgen Paragus und sein Sohn Broly?",
+    "popularity": 84.226,
+    "poster_path": "/yY4qSfV13zdV4UKy8sUkchTCRfl.jpg",
+    "production_companies": [
+        {
+            "id": 5822,
+            "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+            "name": "Toei Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 24051,
+            "logo_path": null,
+            "name": "Bird Studios",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1993-03-06",
+    "revenue": 658982,
+    "runtime": 71,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dragonball Z: Der Legendäre Super-Saiyajin",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 594
+}

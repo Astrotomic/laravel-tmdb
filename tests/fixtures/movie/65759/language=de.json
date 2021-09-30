@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/jiY7dnAtkvM1UykifM0RJAhZLY6.jpg",
+    "belongs_to_collection": {
+        "id": 92012,
+        "name": "Happy Feet Filmreihe",
+        "poster_path": "/pYbF2FAi2MEVshl8jCDNTRNdTF0.jpg",
+        "backdrop_path": "/b9CLLxKsh63AHEkGE9nz9bupQqh.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://www.warnerbros.com/happy-feet-two",
+    "id": 65759,
+    "imdb_id": "tt1402488",
+    "original_language": "en",
+    "original_title": "Happy Feet Two",
+    "overview": "Mumble, der begnadetste Stepptänzer unter den Pinguinen, macht sich Sorgen um seinen Sohn Eric: Dieser kann mit tänzerischen Choreografien so gar nichts anfangen. Als er wieder einmal vor dem Tanzdrang seines Vaters flüchtet, begegnet er dem Pinguin The Mighty Seven, der zu Erics Staunen fliegen kann. Damit kann Eric nicht mithalten, was ihn ganz missmutig stimmt. Doch sein Vater bringt ihm letztlich bei, dass es vor allem darauf ankommt, an sich selber zu glauben.",
+    "popularity": 28.637,
+    "poster_path": "/tUTgqZfDX2Wz8hyw4uJZ0u4GAYY.jpg",
+    "production_companies": [
+        {
+            "id": 28381,
+            "logo_path": null,
+            "name": "Dr D Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 28382,
+            "logo_path": null,
+            "name": "Kennedy Miller Mitchell",
+            "origin_country": "AU"
+        },
+        {
+            "id": 17,
+            "logo_path": "/s1y7CTv6YHe87YUGOq6SRB6DmO7.png",
+            "name": "Warner Bros. Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 13675,
+            "logo_path": null,
+            "name": "Village Roadshow Entertainment",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-11-18",
+    "revenue": 150406466,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Jeder Schritt zählt.",
+    "title": "Happy Feet 2",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 1153
+}

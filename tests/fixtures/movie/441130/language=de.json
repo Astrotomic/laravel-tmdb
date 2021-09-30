@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/yHtB4KHNigx3ZoxDvQbW2SOXGfq.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x",
+    "id": 441130,
+    "imdb_id": "tt5198068",
+    "original_language": "en",
+    "original_title": "Wolfwalkers",
+    "overview": "In einer Zeit des Aberglaubens und der Magie, in der Wölfe als dämonisch und Natur als böse angesehen werden, kommt eine junge Jägerlehrling, Robyn, mit ihrem Vater nach Irland, um das letzte Rudel auszulöschen. Aber als Robyn ein wildes einheimisches Mädchen, Mebh, rettet, führt ihre Freundschaft sie dazu, die Welt der Wolfwalkers zu entdecken und sie in genau das zu verwandeln, was ihr Vater zerstören soll.",
+    "popularity": 25.5,
+    "poster_path": "/ehAKuE48okTuonq6TpsNQj8vFTC.jpg",
+    "production_companies": [
+        {
+            "id": 23948,
+            "logo_path": "/uneZYGxTZcwAzmPTTaefmDNWPzN.png",
+            "name": "Cartoon Saloon",
+            "origin_country": "IE"
+        },
+        {
+            "id": 13351,
+            "logo_path": "/6Aaqf7OANtiTuRrIadVdzTkYQzi.png",
+            "name": "Melusine Productions",
+            "origin_country": "LU"
+        },
+        {
+            "id": 142984,
+            "logo_path": null,
+            "name": "Value&Power Culture Communications",
+            "origin_country": "CN"
+        },
+        {
+            "id": 11776,
+            "logo_path": "/33JMuTtwY5UhPwkmCEyH1YaCD23.png",
+            "name": "Film Fund Luxembourg",
+            "origin_country": "LU"
+        },
+        {
+            "id": 1898,
+            "logo_path": "/a2gst8022qi5g3sFxJIWeKVd2aK.png",
+            "name": "Screen Ireland",
+            "origin_country": "IE"
+        },
+        {
+            "id": 30280,
+            "logo_path": null,
+            "name": "Broadcasting Authority of Ireland",
+            "origin_country": ""
+        },
+        {
+            "id": 726,
+            "logo_path": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+            "name": "Haut et Court",
+            "origin_country": "FR"
+        },
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 1923,
+            "logo_path": "/ilgktofJY7OsURHfccJrug4GKdQ.png",
+            "name": "RTÉ",
+            "origin_country": "IE"
+        },
+        {
+            "id": 11620,
+            "logo_path": "/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png",
+            "name": "OCS",
+            "origin_country": "FR"
+        },
+        {
+            "id": 142985,
+            "logo_path": "/A7x8YrUJNm4S8btV1thTBvtOwvC.png",
+            "name": "Pôle Image Magelis",
+            "origin_country": "FR"
+        },
+        {
+            "id": 89705,
+            "logo_path": "/9lUhHbMr32wzkDgaOMNrzIu66YC.png",
+            "name": "Folivari",
+            "origin_country": "FR"
+        },
+        {
+            "id": 32853,
+            "logo_path": null,
+            "name": "GKIDS",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        },
+        {
+            "iso_3166_1": "LU",
+            "name": "Luxembourg"
+        }
+    ],
+    "release_date": "2020-10-26",
+    "revenue": 229041,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wolfwalkers",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 568
+}

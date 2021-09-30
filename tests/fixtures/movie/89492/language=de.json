@@ -1,0 +1,61 @@
+{
+    "adult": false,
+    "backdrop_path": "/botG6F4zvVD6WnDxQCWTU7U5cTD.jpg",
+    "belongs_to_collection": {
+        "id": 779062,
+        "name": "Knocked Up Filmreihe",
+        "poster_path": "/ivembWTQGGPL4YbymkV1qHkquZ4.jpg",
+        "backdrop_path": null
+    },
+    "budget": 35000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.thisis40movie.com/",
+    "id": 89492,
+    "imdb_id": "tt1758830",
+    "original_language": "en",
+    "original_title": "This Is 40",
+    "overview": "Pete und Debbie werden 40 und müssen sich mit ihren Kindern, der achtjährigen Charlotte und der 13-jährigen Sadie, Ehe und dem Älterwerden herumschlagen. Dabei schreckt das Ehepaar auch nicht vor exzessivem Sport, gefälschten Geburtstagsdaten beim Arzt und körperlichen Auseinandersetzungen mit zickigen Müttern auf dem Schulhof zurück. Pete wird klar, dass er in einem vollkommen weiblichen Haushalt lebt. Als er versucht sein Record Label über Wasser zu halten, müssen er und Debbie lernen, einander zu vergeben, zu vergessen und den Rest ihres Lebens zu genießen... bevor sie sich gegenseitig umbringen.",
+    "popularity": 15.912,
+    "poster_path": "/y6KfYyyFhVjPs2SVcukybzuQnGb.jpg",
+    "production_companies": [
+        {
+            "id": 10105,
+            "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+            "name": "Apatow Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 116208,
+            "logo_path": null,
+            "name": "Forty Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-12-20",
+    "revenue": 88058786,
+    "runtime": 134,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Immer Ärger mit 40",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 1731
+}

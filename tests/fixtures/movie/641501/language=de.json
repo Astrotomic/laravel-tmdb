@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/kDQdFs5XL6G8TuXvd0NnJfQ59GP.jpg",
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81453003",
+    "id": 641501,
+    "imdb_id": "tt10345590",
+    "original_language": "fr",
+    "original_title": "Comment je suis devenu super-héros",
+    "overview": "Lieutenant Gary Moreau (Pio Marmai) und seine Kollegin Cécile Schaltzmann (Vimala Pons) arbeiten für die Polizei im Paris des Jahres 2021, in dem Superhelden und Superheldinnen perfekt in die Gesellschaft integriert sind. Doch das ändert sich, als eine neue Droge auf den Markt kommt. Diese verleiht denen, die sie nehmen, temporär übermenschliche Kräfte – dumm nur, wenn diese in die falschen Hände geraten. Moreau und Schaltzmann werden damit beauftragt, dem Fall auf den Grund zu gehen. Hilfe erhalten sie dabei von Henri Monté Carlo (Benoît Poelvoorde) und Callista (Leïla Bekhti), einem Held und einer Heldin der alten Schule. Doch dann wird Moreau von seiner eigenen Vergangenheit eingeholt und der Fall erweist sich als ausgesprochen kompliziert.",
+    "popularity": 596.378,
+    "poster_path": "/5UDe6oVAIv6PC7eJ046o6oCyQc3.jpg",
+    "production_companies": [
+        {
+            "id": 120768,
+            "logo_path": "/Ahlr3VFUn3H44bmgovam0hyglds.png",
+            "name": "Trésor Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11773,
+            "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+            "name": "Artémis Productions",
+            "origin_country": "BE"
+        },
+        {
+            "id": 95061,
+            "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+            "name": "Shelter Prod",
+            "origin_country": "BE"
+        },
+        {
+            "id": 12001,
+            "logo_path": "/aTaT8zDTec2FNLkIaVVRlUUPYSH.png",
+            "name": "Warner Bros. Entertainment France",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2020-11-19",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wie ich ein Superheld wurde",
+    "title": "Wie ich ein Superheld wurde",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 258
+}

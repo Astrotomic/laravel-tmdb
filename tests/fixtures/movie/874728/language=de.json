@@ -1,0 +1,38 @@
+{
+    "adult": false,
+    "backdrop_path": "/4IHty8ygl8XSkGeD5F0lAx1sycc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 874728,
+    "imdb_id": "tt11123012",
+    "original_language": "en",
+    "original_title": "The Secret of Sinchanee",
+    "overview": "",
+    "popularity": 5.545,
+    "poster_path": "/6LiH1h8m7m6N9upszp35ipWc7Mr.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "The Secret of Sinchanee",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

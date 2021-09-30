@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/8ren47PIOlg8bVtl2D0xeav4Bj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 749505,
+    "imdb_id": "tt10740928",
+    "original_language": "en",
+    "original_title": "The Estate",
+    "overview": "",
+    "popularity": 7.534,
+    "poster_path": "/mmU8J8KiK2rmNTLOyhTTDdskpiN.jpg",
+    "production_companies": [
+        {
+            "id": 141255,
+            "logo_path": null,
+            "name": "Stone Lane Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 141256,
+            "logo_path": null,
+            "name": "Runners",
+            "origin_country": ""
+        },
+        {
+            "id": 88606,
+            "logo_path": "/3w49QoRwptUujWxSjcR3iEr1XSU.png",
+            "name": "Vertical Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-22",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Estate",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+    "belongs_to_collection": null,
+    "budget": 3300000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "http://sonyclassics.com/whiplash/",
+    "id": 244786,
+    "imdb_id": "tt2582802",
+    "original_language": "en",
+    "original_title": "Whiplash",
+    "overview": "Der 19-jährige Andrew Neiman ist ein begnadeter Schlagzeuger. In einer der renommiertesten Musikschulen des Landes wird er vom Dirigenten Terence Fletcher unter die Fittiche genommen. Der bekannte Bandleader fördert den jungen Drummer, aber er fordert ihn noch mehr: Mit rabiaten Unterrichtsmethoden, die immer mehr zu Gewaltexzessen ausarten, will er Andrew zu Höchstleistungen treiben und führt ihn an seine physischen und emotionalen Grenzen. Der Nachwuchsmusiker stellt sich der Tortur, denn es ist sein sehnlichster Wunsch, einer der größten Schlagzeuger der Welt zu werden. Während sein besorgter Vater Jim immer mehr an den Methoden und den Absichten des Lehrers zweifelt, hält Andrew hartnäckig durch. Doch wieviel mehr kann der Teenager noch ertragen?",
+    "popularity": 36.252,
+    "poster_path": "/3AnMe3LChblP1wmWudLpuhyfwOc.jpg",
+    "production_companies": [
+        {
+            "id": 2266,
+            "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
+            "name": "Bold Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 3172,
+            "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 32157,
+            "logo_path": "/nBD7uzlUlpivUpOoUTg5UEZJoib.png",
+            "name": "Right of Way Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-10-10",
+    "revenue": 13092000,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Weg zur Großartigkeit kann Dich an Deine Grenzen bringen.",
+    "title": "Whiplash",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 11429
+}

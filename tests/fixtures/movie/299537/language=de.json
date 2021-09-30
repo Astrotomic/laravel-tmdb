@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+    "belongs_to_collection": {
+        "id": 623911,
+        "name": "Captain Marvel Filmreihe",
+        "poster_path": "/4diELSzXT1FbN782cOogEWeKN2w.jpg",
+        "backdrop_path": "/ubZUKycnQldt2umj0bPD2VwXDJM.jpg"
+    },
+    "budget": 152000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/captain-marvel",
+    "id": 299537,
+    "imdb_id": "tt4154664",
+    "original_language": "en",
+    "original_title": "Captain Marvel",
+    "overview": "Bei einem Einsatz wird die Kree-Soldatin Vers von den Skrull gefangengenommen. Als die Gestaltenwandler auf Anweisung ihres Kapitäns Talos versuchen, mit einer Maschine Informationen aus dem Gehirn ihrer Geisel herauszuziehen, kann Vers mit einer Fluchtkapsel entkommen, woraufhin sie anschließend in den USA der 1990er Jahre durch das Dach einer Videothek kracht. Während die S.H.I.E.L.D.-Agenten Nick Fury und Phil Coulson erst einmal alles daransetzen, die vermeintliche Außerirdische zu fangen, findet Vers schon bald heraus, dass sie offenbar schon einmal auf diesem Planeten war und unter dem Namen Carol Danvers als Kampfpilotin für das US-Militär gearbeitet hat ...",
+    "popularity": 84.833,
+    "poster_path": "/rswtOkjZw3VhwPuTlOao3AiBRmz.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-03-06",
+    "revenue": 1128276090,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Schneller, Höher, Weiter!",
+    "title": "Captain Marvel",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 11992
+}

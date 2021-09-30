@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 680058,
+    "imdb_id": "tt9098872",
+    "original_language": "en",
+    "original_title": "The Rescue",
+    "overview": "",
+    "popularity": 3.842,
+    "poster_path": "/7amhhrJWgrGGZFALNevZrEFqiU8.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130016,
+            "logo_path": null,
+            "name": "Cavalry Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "The Rescue",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

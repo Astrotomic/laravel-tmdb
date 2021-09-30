@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/mjf3c6oWvsaEOipue79mAA31Ic1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.69ic79cvvy80epfhz5efdgjjd",
+    "id": 543836,
+    "imdb_id": "tt7230750",
+    "original_language": "en",
+    "original_title": "The Velvet Underground",
+    "overview": "",
+    "popularity": 10.738,
+    "poster_path": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+    "production_companies": [
+        {
+            "id": 10978,
+            "logo_path": null,
+            "name": "Motto Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 127499,
+            "logo_path": "/zTchoLvjEs5MvY8fEd8rSiAIhYh.png",
+            "name": "Polygram Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 155975,
+            "logo_path": null,
+            "name": "Verve Label Group",
+            "origin_country": ""
+        },
+        {
+            "id": 1422,
+            "logo_path": "/aG7LGucYWmsrsEwnDN1HnUGfVmK.png",
+            "name": "Killer Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 119226,
+            "logo_path": "/owO85kQ0pQXzk9SPd3NxtMeKldl.png",
+            "name": "Federal Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Velvet Underground",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

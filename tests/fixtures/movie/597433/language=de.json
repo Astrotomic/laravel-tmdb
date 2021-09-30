@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/lzLzKXq2C0kL5Pu7VW5sNl5KV6L.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80994937",
+    "id": 597433,
+    "imdb_id": "tt10230994",
+    "original_language": "en",
+    "original_title": "Beckett",
+    "overview": "Eigentlich sollte es romantischer Urlaub für den Amerikaner Beckett und seine Frau April werden. Doch die entspannten Tage in Griechenland werden für das Paar zum Alptraum, als Beckett nach einem dramatischen Unfall in den Mittelpunkt einer weitreichenden Verschwörung rückt. Ihm bleibt nur eine Möglichkeit, um sein Leben vor den unbekannten Drahtziehern zu schützen. Er muss die amerikanische Botschaft erreichen und seinen Namen rein-waschen. Doch der Weg in die Botschaft ist gefährlich und das Vertrauen in Fremde hat Beckett schon lange verloren. Als die griechischen Behörden ihm dicht auf den Fersen sind, die politischen Spannungen zunehmen und Beckett immer weiter in die gefährliche Verschwörung verwickelt wird, eskaliert die Situation.",
+    "popularity": 435.935,
+    "poster_path": "/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg",
+    "production_companies": [
+        {
+            "id": 46344,
+            "logo_path": "/uWNb5rg5RuZwcjJ7XTItXj44Gzm.png",
+            "name": "Frenesy Film Company",
+            "origin_country": "IT"
+        },
+        {
+            "id": 64061,
+            "logo_path": null,
+            "name": "MeMo Films",
+            "origin_country": "IT"
+        },
+        {
+            "id": 30666,
+            "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+            "name": "RT Features",
+            "origin_country": "BR"
+        },
+        {
+            "id": 1583,
+            "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+            "name": "RAI",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "2021-08-04",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Beckett",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 335
+}

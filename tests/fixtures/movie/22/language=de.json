@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/jOh79POQu4hyVIseUxdQxTW7vOf.jpg",
+    "belongs_to_collection": {
+        "id": 295,
+        "name": "Fluch der Karibik Filmreihe",
+        "poster_path": "/6Zd7WdYkbWazynJrwscfE6VBEw8.jpg",
+        "backdrop_path": "/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg"
+    },
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "id": 22,
+    "imdb_id": "tt0325980",
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "overview": "Im 17.Jahrhundert sucht der Pirat Jack Sparrow nach einem sagenumwobenen Schatz in der Karibik, als ihn das Schicksal mit dem jungen Will Turner zusammenführt, der aus anderen Gründen auf derselben Fährte ist: nämlich den berüchtigten Captain Barbossa und seine Crew abzufangen, die Wills große Liebe Elizabeth, die Tochter des britischen Gouverneurs entführt haben. Doch Barbossa umhüllt selbst ein düsteres Geheimnis: er und seine Männer sind verflucht und das Licht des Mondes bringt ihre Existenz zum Vorschein: sie sind wie lebende Skelette, monströs und tödlich. Um den Fluch zu brechen, brauchen sie Elizabeth als Opfer. Ein Wettrennen zur Insel des Todes beginnt...",
+    "popularity": 69.799,
+    "poster_path": "/vkhtjKufYHp2OHpnbGJLOLtbkK1.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130,
+            "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+            "name": "Jerry Bruckheimer Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-07-09",
+    "revenue": 655011224,
+    "runtime": 143,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "3000 Inseln im Paradies. Für einige ein Segen, für andere... ein Fluch.",
+    "title": "Fluch der Karibik",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 16451
+}

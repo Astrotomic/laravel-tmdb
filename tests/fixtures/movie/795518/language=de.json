@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/xVHu86MkmtfsgKzLOaG7nCbeZpP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 795518,
+    "imdb_id": "tt11151336",
+    "original_language": "en",
+    "original_title": "Broadcast Signal Intrusion",
+    "overview": "",
+    "popularity": 8.65,
+    "poster_path": "/472jgGaEB02ZQSWKqtl5DUqBJP7.jpg",
+    "production_companies": [
+        {
+            "id": 124511,
+            "logo_path": null,
+            "name": "Queensbury Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 4592,
+            "logo_path": null,
+            "name": "Dark Sky Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-22",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Broadcast Signal Intrusion",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

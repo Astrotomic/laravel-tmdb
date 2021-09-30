@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+    "belongs_to_collection": {
+        "id": 328,
+        "name": "Jurassic Park Filmreihe",
+        "poster_path": "/ugJ6KXdOXq5wAKSypsKBTg0OgWv.jpg",
+        "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+    },
+    "budget": 170000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://upig.de/micro/jurassic-world-das-gefallene-koenigreich",
+    "id": 351286,
+    "imdb_id": "tt4881806",
+    "original_language": "en",
+    "original_title": "Jurassic World: Fallen Kingdom",
+    "overview": "Vier Jahre nachdem der Freizeitpark Jurassic World geschlossen wurde, haben die Dinosaurier sich auf der kompletten Isla Nublar ausgebreitet. Zwar leben sie mittlerweile vom Menschen ungestört, doch ein bevorstehender Vulkanausbruch auf der Insel droht die Urzeittiere auszulöschen. Die ehemalige Parkmanagerin Claire will dies auf keinen Fall zulassen und bittet daher ihren Ex-Freund Owen Grady um Hilfe. Gemeinsam kehren sie auf die Insel zurück, um das erneute Aussterben der Dinosaurier zu verhindern. Während sich Owen auf die Suche nach seinen ehemaligen Raptoren-Schützlingen macht, stoßen die restlichen Expeditionsmitglieder während ihrer Rettungsmission auf eine Verschwörung.",
+    "popularity": 95.871,
+    "poster_path": "/gIbpCh7nMvLOMxBmkWC6MeQgVr1.jpg",
+    "production_companies": [
+        {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 10338,
+            "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+            "name": "Perfect World Pictures",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-06-06",
+    "revenue": 1303459585,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Leben findet einen Weg",
+    "title": "Jurassic World - Das gefallene Königreich",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 9212
+}

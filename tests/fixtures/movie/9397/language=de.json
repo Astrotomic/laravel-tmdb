@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/iuNzPZ8O68ThChJy1Kqr9dweYip.jpg",
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 9397,
+    "imdb_id": "tt0251075",
+    "original_language": "en",
+    "original_title": "Evolution",
+    "overview": "Mitten in der Wüste Arizonas landet ein Meteorit, der es in sich hat. Auf ihm tummeln sich außerirdische Einzeller, die ihren Entdeckern Ira Kane und Harry Block - zwei Kleinstadt-Lehrer - den Nobelpreis einbringen sollen. Doch da mutieren die extraterrestrischen Lebewesen in atemberaubender Geschwindigkeit zu menschenmordenden Ungeheuern. Nun müssen Ira und Harry die Bedrohung schnellstens stoppen. Unterstützt werden sie dabei von einer ungeschickten Alienforscherin und einem tölpelhaften Feuerwehr-Anwärter.",
+    "popularity": 17.627,
+    "poster_path": "/h8CBygeqQdsbTfw4PV12TvFEPOJ.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2364,
+            "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+            "name": "The Montecito Picture Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-06-08",
+    "revenue": 98376292,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wir wünschen einen angenehmen Weltuntergang",
+    "title": "Evolution",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1654
+}

@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/bDWWwPsL6IL3IWbskOIxO0eELyM.jpg",
+    "belongs_to_collection": null,
+    "budget": 35000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://disney.go.com/disneypictures/skyhigh/",
+    "id": 11459,
+    "imdb_id": "tt0405325",
+    "original_language": "en",
+    "original_title": "Sky High",
+    "overview": "Will Stronghold ist ein Teenager wie viele andere auch. Doch er hat ein besonderes Problem: Er ist zwar der Sohn der legendären Superhelden Captain Stronghold und Josie Jetstream, doch an sich selbst hat er noch keine außergewöhnlichen Fähigkeiten entdeckt. Also wird er in die Eliteanstalt Sky High gesteckt. Dennoch folgt nach erfolgreich absolvierter Ausbildung nur die Einstufung als \"Sidekick\", nicht als \"Hero\". Überaus schmerzlich - bis die Familie bedroht wird und er sein wahres Können unter Beweis stellen darf.",
+    "popularity": 24.033,
+    "poster_path": "/oK54M9VKOCLR1u0j26ttRix0G18.jpg",
+    "production_companies": [
+        {
+            "id": 56980,
+            "logo_path": null,
+            "name": "Max Stronghold Productions Inc.",
+            "origin_country": ""
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3538,
+            "logo_path": null,
+            "name": "Gunn Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-07-29",
+    "revenue": 86369815,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sky High - Diese Highschool hebt ab!",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 1803
+}

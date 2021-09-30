@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/vkIJ2QgcKMJRvi6pBW4Tr2kgLdy.jpg",
+    "belongs_to_collection": null,
+    "budget": 14479740,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 637534,
+    "imdb_id": "tt10404944",
+    "original_language": "fr",
+    "original_title": "BAC Nord",
+    "overview": "2012. Die nördlichen Stadtteile von Marseille halten einen traurigen Rekord: das Gebiet mit der höchsten Kriminalitätsrate in Frankreich. Angetrieben von ihrer Hierarchie ist die BAC Nord, eine Feldbrigade, ständig darum bemüht, ihre Ergebnisse zu verbessern. In einem Hochrisikosektor passen die Polizisten ihre Methoden an und überschreiten dabei manchmal die Grenzen. Bis zu dem Tag, an dem sich die Justiz gegen sie wendet.",
+    "popularity": 3870.111,
+    "poster_path": "/Ao1sxO43OIViBWJYxFSLykquE8l.jpg",
+    "production_companies": [
+        {
+            "id": 694,
+            "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+            "name": "StudioCanal",
+            "origin_country": "FR"
+        },
+        {
+            "id": 83,
+            "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+            "name": "France 2 Cinéma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 34780,
+            "logo_path": null,
+            "name": "Chi-Fou-Mi Productions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-08-18",
+    "revenue": 0,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "BAC Nord - Bollwerk gegen das Verbrechen",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 330
+}

@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
+    "belongs_to_collection": {
+        "id": 230532,
+        "name": "Marley & Ich Filmreihe",
+        "poster_path": "/qJIggHPX3uil110CjO8ITPpYroH.jpg",
+        "backdrop_path": "/gRoCEiWVcTsV0HxWIezuhVoDiAa.jpg"
+    },
+    "budget": 60000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://marleyandmemovie.com/",
+    "id": 14306,
+    "imdb_id": "tt0822832",
+    "original_language": "en",
+    "original_title": "Marley & Me",
+    "overview": "Wenn man verheiratet ist, stellt sich zwangsläufig auch bald die Frage nach Kindern, doch für John und Jenny bleiben da noch Zweifel, ob sie dem schon gewachsen sind. Weil aber der Kinderwunsch sich regt, will John lieber erst noch etwas üben und schenkt seiner Frau einen Hundewelpen, den Labrador-Retriever Marley. Das knuddelige Etwas erfüllt die Anforderung mehr als gut, denn es richtet im Haushalt der Grogans bald ein heilloses Chaos an und zeigt sich auch sonst von seiner unkontrollierbaren und verfressenen Seite. Schon bald ist er zu einem noch schwerer zu bändigenden Koloss herangewachsen, den John zum Thema einer Zeitungskolumne macht und auch wenn das Chaos weiterhin regiert, stellen sich John und Jenny bald der Herausforderung eigener Kinder...",
+    "popularity": 22.481,
+    "poster_path": "/sCKsDiF2oSVaUAc6ixdOJ0b2Xzm.jpg",
+    "production_companies": [
+        {
+            "id": 5219,
+            "logo_path": null,
+            "name": "Sunswept Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 6332,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment III",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-12-25",
+    "revenue": 242717113,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Marley & Ich",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 3737
+}

@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/q8wkjgeFCGcwgiPt1JYQ7G78AHX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 21484,
+    "imdb_id": "tt0082933",
+    "original_language": "fr",
+    "original_title": "Possession",
+    "overview": "Als Mark von einer langen Geschäftsreise nach Berlin zurückkehrt ist seine Ehe ein Scherbenhaufen. Bereits bei seiner Ankunft ist Anna zurückweisend, seinen Fragen nach dem Grund für ihr Verhalten weicht sie aus. Gekränkt und rasend vor Eifersucht drängt er darauf, von ihr zu erfahren, warum sie sich so verändert hat. Anna gibt schließlich nach und erzählt ihm von einer Affäre ‚mit einem anderen Mann’, wie sie es nennt. Als er einen Liebesbrief von einem Mann namens Heinrich findet, glaubt Mark, den vermeintlichen Rivalen ausfindig gemacht zu haben. Allerdings lässt dieser ihn wissen, dass sich Anna mittlerweile auch ihm gegenüber sehr seltsam verhält. Offensichtlich gibt es da noch einen dritten Mann in ihrem Leben. Um der Sache nachzugehen, beauftragt Mark einen Detektiv, der ihr in ein heruntergekommenes Wohnhaus folgt. Was er dort vorfindet, ist monströs… und es lebt!",
+    "popularity": 20.182,
+    "poster_path": "/pnhC5V0rD9kl58stPtJXKJ7iIqF.jpg",
+    "production_companies": [
+        {
+            "id": 9,
+            "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+            "name": "Gaumont",
+            "origin_country": "FR"
+        },
+        {
+            "id": 1060,
+            "logo_path": null,
+            "name": "Oliane Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 1497,
+            "logo_path": null,
+            "name": "Marianne Productions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1981-05-27",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Possession",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 599
+}

@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/fJ5eT1ARwNUvsjmZKVbp6Qt3f7W.jpg",
+    "belongs_to_collection": null,
+    "budget": 85000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 11970,
+    "imdb_id": "tt0119282",
+    "original_language": "en",
+    "original_title": "Hercules",
+    "overview": "Hades lässt den kleinen Hercules von seinen gehilfen Pech und Schwefel entführen. Sie beiden sollen ihn mit einem Gift zu einem Normalsterblichen machen, doch der Kleine überlebt. Da Hades das aber auf keinen Fall herausbekommen darf, wird Hercules zu einem Bauernpaar gebracht. Erst Jahre später erfährt Hercules von seiner wahren Herkunft.",
+    "popularity": 58.464,
+    "poster_path": "/5Eyr8k0A7vyvOdlQsHWX3Ti6a03.jpg",
+    "production_companies": [
+        {
+            "id": 6125,
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-06-20",
+    "revenue": 252712101,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hercules",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 5824
+}

@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/9Xw0I5RV2ZqNLpul6lXKoviYg55.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 278,
+    "imdb_id": "tt0111161",
+    "original_language": "en",
+    "original_title": "The Shawshank Redemption",
+    "overview": "Das Shawshank Gefängnis in den 30ern: der wegen Mordes an seiner Frau verurteilte Andy Dufresne kommt als Neuling lebenslänglich hinter Gittern. Zurückhaltend wie er ist, ist er ständig das Ziel sexueller Angriffe, doch als er als Banker durchblicken läßt, daß er finanziell für den Direktor und die Wärter eine Menge tun kann, ist für seine Sicherheit gesorgt. Langsam aber sicher freundet er sich mit dem Langzeitinsassen Red an, baut die Gefängnisbibliothek auf und rückt nie von seiner Überzeugung ab, unschuldig zu sein. Viele Jahre vergehen, bis etwas geschieht, was sogar Reds Leben für immer verändern wird...",
+    "popularity": 70.811,
+    "poster_path": "/ltLIbF304D8FQvTPhzZSTnumZdR.jpg",
+    "production_companies": [
+        {
+            "id": 97,
+            "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+            "name": "Castle Rock Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-09-23",
+    "revenue": 28341469,
+    "runtime": 142,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Entscheide Dich, ob Du leben oder sterben willst ... nur darum geht es.",
+    "title": "Die Verurteilten",
+    "video": false,
+    "vote_average": 8.7,
+    "vote_count": 19784
+}

@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/aO9Nnv9GdwiPdkNO79TISlQ5bbG.jpg",
+    "belongs_to_collection": {
+        "id": 135468,
+        "name": "G.I. Joe Filmreihe",
+        "poster_path": "/8ykKDU3FisEFtCpPZloB1jqcAIn.jpg",
+        "backdrop_path": "/st6ukSdJrKfwYVwxGRHWqXJGrQc.jpg"
+    },
+    "budget": 88000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.snakeeyesmovie.com/",
+    "id": 568620,
+    "imdb_id": "tt8404256",
+    "original_language": "en",
+    "original_title": "Snake Eyes: G.I. Joe Origins",
+    "overview": "Snake Eyes (Henry Golding) ist ein Einzelgänger, der dem Thronfolger eines alten japanischen Clans das Leben gerettet hat, woraufhin er in den Arashikage Clan aufgenommen wird. Doch vorher muss er sich beweisen: Die Killer des Arashikage Clans übernehmen Aufträge, an die sich sonst keiner rantraut, und nur besonders gute Kämpfer werden dafür ausgewählt. Snake Eyes trainiert entschlossen bei seinem Lehrer Hard Master (Iko Uwais), um sein Ziel zu erreichen. Während dieser Lehrzeit bietet die Gruppe ihm etwas, wonach er sich schon lange sehnt: ein Zuhause und Sicherheit. Doch als dunkle Geheimnisse aus seiner Vergangenheit aufgedeckt werden, werden Snake Eyes' Ehre und Loyalität auf die Probe gestellt. Er muss eine Entschiedung treffen und in einen unerbittlichen Kampf ziehen - selbst wenn das bedeutet, das Vertrauen derer zu verlieren, die ihm am nächsten stehen.",
+    "popularity": 4141.939,
+    "poster_path": "/zz8RZW7Dbs35EANTtyRydqvFhOA.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 8147,
+            "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+            "name": "Entertainment One",
+            "origin_country": "CA"
+        },
+        {
+            "id": 82819,
+            "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+            "name": "Skydance Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 2598,
+            "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+            "name": "Hasbro",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-22",
+    "revenue": 36964325,
+    "runtime": 126,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Jeder Krieger hat einen Anfang.",
+    "title": "Snake Eyes: G.I. Joe Origins",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 511
+}

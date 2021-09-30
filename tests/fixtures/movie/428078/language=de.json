@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/rm2oMykm5nX6SzXFr7TGHkO6r8Z.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.mortalengines.com",
+    "id": 428078,
+    "imdb_id": "tt1571234",
+    "original_language": "en",
+    "original_title": "Mortal Engines",
+    "overview": "Vor Tausenden von Jahren verwüstete eine gewaltige Katastrophe die Erde, doch die Menschheit hat sich ihrer neuen Umgebung längst angepasst. Gigantische Metropolen auf Rädern erhoben sich aus den Trümmern der untergegangenen Zivilisation. Auf der Suche nach den letzten Ressourcen fahren sie über die verdörrte Steppe und verschlingen gnadenlos die kleineren Städte. Zu den großen Metropolen gehört auch London als einer der gewaltigsten rollenden Kolosse. In diesem unerbittlichen Kampf trifft der unscheinbare Tom Natsworthy in einer schicksalshaften Begegnung auf die gefährliche Flüchtige Hester Shaw – zwei Gegensätze prallen aufeinander, zwei Menschen, deren Wege einander nie hätten kreuzen sollen. Sie schmieden eine überraschende Allianz, die über den Fortgang der Menschheitsgeschichte bestimmen könnte.",
+    "popularity": 28.262,
+    "poster_path": "/ln4NUbzXkKQHaeWOCBctz9PzciQ.jpg",
+    "production_companies": [
+        {
+            "id": 1938,
+            "logo_path": null,
+            "name": "Scholastic Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 105645,
+            "logo_path": null,
+            "name": "Silvertongue Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 11,
+            "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+            "name": "WingNut Films",
+            "origin_country": "NZ"
+        },
+        {
+            "id": 2531,
+            "logo_path": "/pC2iDCDCvV85vOBP7a5Ukxuc0Du.png",
+            "name": "MRC",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-11-27",
+    "revenue": 83672673,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mortal Engines - Krieg der Städte",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 3526
+}

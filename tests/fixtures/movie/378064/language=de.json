@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://asilentvoice.com.au/",
+    "id": 378064,
+    "imdb_id": "tt5323662",
+    "original_language": "ja",
+    "original_title": "映画 聲の形",
+    "overview": "Shouya Ishida ist ein sehr aktives Kind. Mit seinen Freunden veranstaltet er regelmäßig Mutproben, um sich zu beweisen. Das Schulleben findet er langweilig und kann nicht verstehen, warum seine Freunde immer öfter von ihm verlangen, erwachsen zu werden. Als eines Tages das hörgeschädigte Mädchen Shouko Nishimiya in seine Klasse kommt, macht es ihm erst Spaß, sie zu ärgern; doch da ist scheinbar mehr...",
+    "popularity": 86.674,
+    "poster_path": "/9qWFYDfiVo3UpVxMjoo2jeTJltg.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86839,
+            "logo_path": "/4gMnTQACykjt0KSRV1N8vSKpkVt.png",
+            "name": "ABC Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/3KwKCviJ67dCm7m740cdaLt1VS8.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 22715,
+            "logo_path": "/c4d6GLfUXbp44dbWWJqWCh7YrnO.png",
+            "name": "Quaras",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-09-17",
+    "revenue": 30156463,
+    "runtime": 129,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Silent Voice",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 2561
+}

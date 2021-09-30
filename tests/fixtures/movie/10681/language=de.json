@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+    "belongs_to_collection": null,
+    "budget": 180000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://disney.go.com/disneypictures/wall-e/",
+    "id": 10681,
+    "imdb_id": "tt0910970",
+    "original_language": "en",
+    "original_title": "WALL·E",
+    "overview": "Wall·E ist ein kleiner Haushaltsroboter, der klaglos seinen Dienst verrichtet und Müll zusammenpresst, um ihn zu Wolkenkratzern aufzustapeln. Denn der kleine rostige Kasten macht seinen Job seit nunmehr 700 Jahren! Damals verließen alle Menschen die völlig zugemüllte Erde. Nun ist Wall·E der letzte seiner Art auf einem toten Planeten. Bis Androidin Eve als Lichtgestalt vom Himmel herunterschwebt.",
+    "popularity": 38.637,
+    "poster_path": "/7DC3ggzkSTCYUk2FvPEvvhSjNbG.jpg",
+    "production_companies": [
+        {
+            "id": 3,
+            "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+            "name": "Pixar",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-06-22",
+    "revenue": 521311860,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ein Abenteuer eines Roboters",
+    "title": "WALL·E - Der Letzte räumt die Erde auf",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 14809
+}

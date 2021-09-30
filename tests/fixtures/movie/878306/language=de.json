@@ -1,0 +1,38 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 878306,
+    "imdb_id": "tt15498330",
+    "original_language": "be",
+    "original_title": "Маланка",
+    "overview": "",
+    "popularity": 1.742,
+    "poster_path": "/ucPhNHHpISLy6hgsmLoED0oCXcK.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "BY",
+            "name": "Belarus"
+        }
+    ],
+    "release_date": "2021-10-14",
+    "revenue": 0,
+    "runtime": 15,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Маланка",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

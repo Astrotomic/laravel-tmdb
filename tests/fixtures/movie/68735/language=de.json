@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/pKTvhJel1HfuR2IZC3Qd5N8IM8h.jpg",
+    "belongs_to_collection": null,
+    "budget": 160000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.warcraft-themovie.com/",
+    "id": 68735,
+    "imdb_id": "tt0803096",
+    "original_language": "en",
+    "original_title": "Warcraft",
+    "overview": "In Azeroth, dem Reich der Menschen, herrscht seit vielen Jahren Frieden. Doch urplötzlich sieht sich seine Zivilisation von einer furchteinflößenden Rasse bedroht. Ork-Krieger haben ihre, dem Untergang geweihte, Heimat Draenor verlassen, um sich andernorts eine neue aufzubauen. Als sich ein Portal öffnet, um die beiden Welten miteinander zu verbinden, bricht ein unbarmherziger und erbitterter Krieg um die Vorherrschaft in Azeroth los, der auf beiden Seiten große Opfer fordert. Die vermeintlichen Gegner ahnen jedoch nicht, dass bald schon eine weitere Bedrohung auftaucht, die beide Völker vernichten könnte. Statt sich zu bekämpfen, müssen sie nun zusammenhalten. Ein Bündnis wird geschlossen und zwei Helden, ein Mensch, Anduin Lothar, und ein Ork, Durotan machen sich gemeinsam auf den Weg, dem Bösen im Kampf entgegenzutreten - für ihre Familien, ihre Völker und ihre Heimat.",
+    "popularity": 45.251,
+    "poster_path": "/6xzwgdanFWKZNCYO5s1GN4Fapnj.jpg",
+    "production_companies": [
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 16028,
+            "logo_path": "/6hZcvVaJlKpDLy0iMKXuvC0K2A5.png",
+            "name": "Blizzard Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 81620,
+            "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+            "name": "Tencent Pictures",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-05-25",
+    "revenue": 433677183,
+    "runtime": 123,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Zwei Welten. Ein Schicksal.",
+    "title": "Warcraft: The Beginning",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 5466
+}

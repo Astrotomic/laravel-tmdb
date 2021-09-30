@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/8zfRLCgKrLAc5SSnACz8ZqmeKAP.jpg",
+    "belongs_to_collection": {
+        "id": 295,
+        "name": "Fluch der Karibik Filmreihe",
+        "poster_path": "/6Zd7WdYkbWazynJrwscfE6VBEw8.jpg",
+        "backdrop_path": "/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://disney.go.com/disneypictures/pirates/",
+    "id": 58,
+    "imdb_id": "tt0383574",
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+    "overview": "Diesmal sieht sich Captain Jack Sparrow, gerade erst dem Fluch der Black Pearl entkommen, mit einem neuen lebensbedrohenden Abenteuer konfrontiert: Denn Jack steht in lebenslanger Schuld bei Davy Jones, dem legendären Kapitän des Flying Dutchman und Herrscher über die Tiefen des Ozeans. Wenn er keinen Weg findet, den Bann zu brechen, ist er zu einem höllischen Leben nach dem Tode in ewiger Finsternis verdammt. Doch damit nicht genug: Jacks ausgesprochen existenzielle Probleme erweisen sich obendrein als Hindernis für die bevorstehende Hochzeit seiner Freunde Will Turner und Elizabeth Swann, die wider Willen in die andauernden Eskapaden des Kapitäns verwickelt werden. Das Abenteuer kann beginnen ...",
+    "popularity": 67.169,
+    "poster_path": "/2VE3fkPsUCR41ZuHdD37Eggpcn3.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130,
+            "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+            "name": "Jerry Bruckheimer Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 19936,
+            "logo_path": null,
+            "name": "Second Mate Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-07-06",
+    "revenue": 1065659812,
+    "runtime": 151,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        },
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Captain Jack Sparrow ist zurück.",
+    "title": "Pirates of the Caribbean - Fluch der Karibik 2",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 12625
+}

@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        }
+    ],
+    "homepage": "http://www.schindlerslist.com/",
+    "id": 424,
+    "imdb_id": "tt0108052",
+    "original_language": "en",
+    "original_title": "Schindler's List",
+    "overview": "Von einer wahren Begebenheit inspiriert, erzählt Schindlers Liste die Geschichte des Industriellen Oskar Schindler, der während des Zweiten Weltkriegs versucht, sich in Krakau eine Existenz aufzubauen. Aus finanziellen Gründen beschäftigt er nur Juden und leiht sich Geld von ihnen um eine Emaillefabrik zu gründen, die ihm letztlich großen Reichtum beschert. Als die Brutalität des Holocaust Krakau erreicht, riskiert er nicht nur sein Vermögen, sondern auch sein Leben um seine Arbeiter vor der Deportation zu bewahren.",
+    "popularity": 29.342,
+    "poster_path": "/6lzgetyAEL6rKzeac7r9X7lRVkA.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1993-11-30",
+    "revenue": 321365567,
+    "runtime": 195,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        },
+        {
+            "english_name": "Hebrew",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wer ein Leben rettet, rettet die ganze Welt.",
+    "title": "Schindlers Liste",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 11854
+}

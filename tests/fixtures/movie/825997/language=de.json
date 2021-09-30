@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 825997,
+    "imdb_id": "tt13067292",
+    "original_language": "en",
+    "original_title": "Rogue Hostage",
+    "overview": "Der alleinerziehende Vater und ehemalige Marine Kyle Snowden, kämpft damit, sich an das Leben mit PTBS (Posttraumatische Belastungsstörung) anzupassen. Bei einem Routine-Stopp für seinen Job beim Jugendamt findet Kyle sich und eine Gruppe unschuldiger Kunden im Laden seines Stiefvaters während einer feindlichen Übernahme durch den militanten Irren Eagan Raize gefangen. Beunruhigende Details über Eagans gewalttätigen Rachefeldzug gegen Kyles Stiefvater, den Kongressabgeordneten Sam Nelson, kommen ans Licht und bedrohen das Leben aller im Laden, einschließlich des Kongressabgeordneten und Kyles kleiner Tochter. In einem Wettlauf gegen die Zeit muss Kyle sowohl gegen die Terroristen als auch gegen seine persönlichen Dämonen kämpfen, um den Laden zu sichern und alle zu retten",
+    "popularity": 983.055,
+    "poster_path": "/ePYagdzUwKpzTP73n9CD3D1MFn.jpg",
+    "production_companies": [
+        {
+            "id": 75355,
+            "logo_path": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+            "name": "Yale Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 121204,
+            "logo_path": null,
+            "name": "BondIt Media Capital",
+            "origin_country": "US"
+        },
+        {
+            "id": 130900,
+            "logo_path": null,
+            "name": "Buffalo 8 Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 65649,
+            "logo_path": "/2xZVvFYyVtIHSo4vG5R0IIak0EL.png",
+            "name": "SSS Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 153774,
+            "logo_path": null,
+            "name": "Voltron Filmz",
+            "origin_country": ""
+        },
+        {
+            "id": 121063,
+            "logo_path": null,
+            "name": "Red Sea Media",
+            "origin_country": ""
+        },
+        {
+            "id": 153775,
+            "logo_path": null,
+            "name": "Red Wire Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 2762,
+            "logo_path": "/leWVtGmp0pyr9pGOAz7WgZj2FjA.png",
+            "name": "Highland Myst Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 88606,
+            "logo_path": "/3w49QoRwptUujWxSjcR3iEr1XSU.png",
+            "name": "Vertical Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-06-11",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rogue Hostage",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 81
+}

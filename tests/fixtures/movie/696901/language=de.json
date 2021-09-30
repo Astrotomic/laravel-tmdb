@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/8kuz3UMNzF4epv2wzXIanTxfOh0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 696901,
+    "imdb_id": "tt11514252",
+    "original_language": "en",
+    "original_title": "Jacinta",
+    "overview": "",
+    "popularity": 10.894,
+    "poster_path": "/Gxj1qNIjzkq8Gk8DeLbQajw9h8.jpg",
+    "production_companies": [
+        {
+            "id": 14909,
+            "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+            "name": "Impact Partners",
+            "origin_country": "US"
+        },
+        {
+            "id": 66478,
+            "logo_path": "/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png",
+            "name": "Artemis Rising",
+            "origin_country": "US"
+        },
+        {
+            "id": 24488,
+            "logo_path": "/qR7gDm9nMYdrqnVpksmNMhwI1ZI.png",
+            "name": "Women Make Movies",
+            "origin_country": "US"
+        },
+        {
+            "id": 110842,
+            "logo_path": "/dzFVNsYm8hihgjv9tZrQRPIn9Mf.png",
+            "name": "Tribeca Film Institute",
+            "origin_country": "US"
+        },
+        {
+            "id": 153886,
+            "logo_path": null,
+            "name": "Foothill Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacinta",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

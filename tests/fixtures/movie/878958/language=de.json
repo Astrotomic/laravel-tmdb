@@ -1,0 +1,36 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 878958,
+    "imdb_id": "tt11162178",
+    "original_language": "en",
+    "original_title": "Ouija Japan",
+    "overview": "",
+    "popularity": 1.96,
+    "poster_path": "/dfFb24F8mqSAbsYVWEka8xuqQkG.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-19",
+    "revenue": 0,
+    "runtime": 78,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Ouija Japan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

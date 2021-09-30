@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/mars-attacks/",
+    "id": 75,
+    "imdb_id": "tt0116996",
+    "original_language": "en",
+    "original_title": "Mars Attacks!",
+    "overview": "Die Marsianer kommen! Sie wollen die Erde übernehmen und ihren Spaß haben. Doch bis die Erdbevölkerung das kapiert hat, ist es schon beinahe zu spät. US-Präsident Dale möchte eh nur, daß alle Freunde sind, General Decker möchte bomben, was das Zeug hält, Dr. Kessler hält sie für Freunde, bis sie ihm den Kopf aboperieren und die Reporter Stone und Lake sind karrieregeil. Zum Glück gibt es noch Leute wie den Ex-Schwergewichtsboxer Byron Williams, den Teenager Richie und den Sänger Tom Jones. Und da die Rettung ausgerechnet aus dem Altersheim von Oma Florence kommen könnte, kann die Welt vor den totenköpfigen, riesengehirnigen, grünen Ekelpaketen vielleicht doch noch gerettet werden...",
+    "popularity": 20.968,
+    "poster_path": "/mSopOJvXwd8li84H57cf57JA3rm.jpg",
+    "production_companies": [
+        {
+            "id": 8601,
+            "logo_path": null,
+            "name": "Tim Burton Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1996-12-12",
+    "revenue": 101371017,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mars Attacks!",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 4199
+}

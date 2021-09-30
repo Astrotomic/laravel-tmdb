@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/oRe8THVApYoyz80eyCQFsJaUrMJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 776544,
+    "imdb_id": "tt11379584",
+    "original_language": "mt",
+    "original_title": "Luzzu",
+    "overview": "",
+    "popularity": 0.84,
+    "poster_path": "/rAEsiRka8td2BA0X2IiZV99TrDK.jpg",
+    "production_companies": [
+        {
+            "id": 159002,
+            "logo_path": null,
+            "name": "Luzzu",
+            "origin_country": "MT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MT",
+            "name": "Malta"
+        }
+    ],
+    "release_date": "2021-01-29",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Maltese",
+            "iso_639_1": "mt",
+            "name": "Malti"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Luzzu",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1
+}

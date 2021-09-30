@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+    "belongs_to_collection": null,
+    "budget": 130000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.megamindinternational.com/intl/de/",
+    "id": 38055,
+    "imdb_id": "tt1001526",
+    "original_language": "en",
+    "original_title": "Megamind",
+    "overview": "Den beiden Gegenspielern Megamind und Megaman wurde der Kampfgeist schon in die Wiege gelegt. Von unterschiedlichen Planeten stammend, wurden beide von ihren Eltern ins All gefeuert, als es dort für die Kleinen zu gefährlich wurde.Viele Jahre später treibt Megamind als legendärer Superbösewicht auf der Erde sein Unwesen und der einzige Grund, weshalb sein Plan, die Stadt Metro City zu erobern, bislang noch nicht aufgegangen ist, ist eben sein Erzrivale Megaman, denn der maskierte Superheld konnte Megaminds Vorhaben stets vereiteln. Doch eines Tages tappt Metroman doch in eine heimtückische Falle von Megamind und kommt dabei ums Leben.",
+    "popularity": 45.754,
+    "poster_path": "/xz1sZLG2LA3wVFltPXEYek9jp8y.jpg",
+    "production_companies": [
+        {
+            "id": 521,
+            "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+            "name": "DreamWorks Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 520,
+            "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+            "name": "Pacific Data Images",
+            "origin_country": "US"
+        },
+        {
+            "id": 2932,
+            "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+            "name": "Red Hour",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-10-28",
+    "revenue": 321885765,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Megamind",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 5220
+}

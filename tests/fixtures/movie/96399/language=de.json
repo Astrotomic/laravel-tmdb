@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/9J2jlqDWcoYi2vSsSsXvSi30gDW.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.cristiadafilm.com/",
+    "id": 96399,
+    "imdb_id": "tt1566501",
+    "original_language": "en",
+    "original_title": "For Greater Glory: The True Story of Cristiada",
+    "overview": "Im Jahr 1926 führt der mexikanische Präsident Plutarco Elias Calles (Rubén Blades) einen erbitterten Krieg gegen die katholischen Menschen in seinem Land. Der Glaube ist ihm ein Dorn im Auge, den er mit aller Macht bekämpft. All jene, die sich zu Gott bekennen, müssen mit harten Strafen bis hin zum Tode rechnen. Selbst die ranghöchsten Heiligen im Land sind vor den Häschern von Calles nicht sicher. Einige der gläubigen Katholiken haben jedoch beschlossen, unter der Leitung von Enrique Gorostieta (Andy Garcia) für ihren Glauben zu kämpfen und so führen sie einen bewaffneten Guerilla-Kampf gegen die Regierungstruppen. Da sich der Konflikt immer weiter zuspitzt, bahnt sich für Gorostieta und seine kleine Glaubensarmee bald eine entscheidende Schlacht an, die entweder den Sieg der Freiheit oder aber den Tod aller Beteiligten zur Folge haben wird.",
+    "popularity": 14.937,
+    "poster_path": "/sph0O4ICLhOR310WlHjiKfkhLTz.jpg",
+    "production_companies": [
+        {
+            "id": 41537,
+            "logo_path": null,
+            "name": "Dos Corazones",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "release_date": "2012-06-01",
+    "revenue": 9622846,
+    "runtime": 145,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gottes General - Schlacht um die Freiheit",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 108
+}

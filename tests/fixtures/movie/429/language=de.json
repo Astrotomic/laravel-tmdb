@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/xnFmcq40R0umHHLXTpvOW5GTdMh.jpg",
+    "belongs_to_collection": null,
+    "budget": 1200000,
+    "genres": [
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "http://www.mgm.com/goodbadugly/",
+    "id": 429,
+    "imdb_id": "tt0060196",
+    "original_language": "it",
+    "original_title": "Il buono, il brutto, il cattivo",
+    "overview": "Ein mysteriöser Fremder, der mexikanische Revolverschütze Tuco und Sentenza, ein sadistischer Krimineller, sind auf der Jagd nach einer Geldkassette. Inhalt: 200.000 Dollar. Die drei Desperados haben untereinander nichts gemeinsam - werden aber zu Komplizen, wenn es die Situation erfordert. Doch jeder verfolgt nur ein Ziel: die Geldkassette. Und keiner von ihnen ist bereit, zu teilen...",
+    "popularity": 31.402,
+    "poster_path": "/Avf6g0qgAqHiVVd53eQzR0cLlWB.jpg",
+    "production_companies": [
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 5755,
+            "logo_path": null,
+            "name": "Constantin Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 7508,
+            "logo_path": null,
+            "name": "PEA",
+            "origin_country": "IT"
+        },
+        {
+            "id": 42498,
+            "logo_path": null,
+            "name": "Arturo González Producciones Cinematográficas S.A.",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "1966-12-23",
+    "revenue": 25118063,
+    "runtime": 161,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Zwei glorreiche Halunken",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 6143
+}

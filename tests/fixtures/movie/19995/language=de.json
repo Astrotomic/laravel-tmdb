@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/AmHOQ7rpHwiaUMRjKXztnauSJb7.jpg",
+    "belongs_to_collection": {
+        "id": 87096,
+        "name": "Avatar Filmreihe",
+        "poster_path": "/7NgQdgKi2cMkMy2zLDCswkQRwkf.jpg",
+        "backdrop_path": "/syGPZuzcHBBHMLiNDN0x0Tms4Fk.jpg"
+    },
+    "budget": 237000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.avatarmovie.com/",
+    "id": 19995,
+    "imdb_id": "tt0499549",
+    "original_language": "en",
+    "original_title": "Avatar",
+    "overview": "Ex-Marine Jake Sully nimmt auf dem Planeten Pandora an einem Experiment unter der Leitung der Wissenschaftlerin Dr. Grace Augustine teil. Als er sich im genetisch manipulierten Körper der Ureinwohner in die schöne Neytiri verliebt, gerät er zwischen die Fronten eines skrupellosen Konzerns und dem naturverbundenen Volk der Na'vi. Jake muss sich entscheiden, auf welcher Seite er steht - in einem ungleichen Kampf, in dem es um das Schicksal einer einzigartigen Welt geht ...",
+    "popularity": 361.497,
+    "poster_path": "/8x4TSGxaIIzTgQXyplBn1Y8mjlX.jpg",
+    "production_companies": [
+        {
+            "id": 444,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 574,
+            "logo_path": "/iB6GjNVHs5hOqcEYt2rcjBqIjki.png",
+            "name": "Lightstorm Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2009-12-10",
+    "revenue": 2847246203,
+    "runtime": 162,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Betritt die Welt von Pandora",
+    "title": "Avatar - Aufbruch nach Pandora",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 24053
+}

@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/yZrnSL2mpFwGwIJ0uvMTdbuAi6p.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 614017,
+    "imdb_id": "tt10805432",
+    "original_language": "zh",
+    "original_title": "返校",
+    "overview": "",
+    "popularity": 5.778,
+    "poster_path": "/uMgiuUqDN6VDOUV0vYJTkpz4kmm.jpg",
+    "production_companies": [
+        {
+            "id": 73451,
+            "logo_path": null,
+            "name": "1 Production Film",
+            "origin_country": "TW"
+        },
+        {
+            "id": 126740,
+            "logo_path": null,
+            "name": "Lots Home Entertainment",
+            "origin_country": "TW"
+        },
+        {
+            "id": 125525,
+            "logo_path": null,
+            "name": "Filmagic Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 161791,
+            "logo_path": null,
+            "name": "Gamania Digital Entertainment",
+            "origin_country": "TW"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "TW",
+            "name": "Taiwan"
+        }
+    ],
+    "release_date": "2019-09-20",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Detention",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 54
+}

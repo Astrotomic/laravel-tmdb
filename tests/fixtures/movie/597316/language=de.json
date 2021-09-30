@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 597316,
+    "imdb_id": "tt10101702",
+    "original_language": "en",
+    "original_title": "My Little Pony: A New Generation",
+    "overview": "Die Magie ist weg und deswegen leben Erdponys, Einhörner und Pegasoi nun getrennt voneinander. Befreundet sind sie nicht mehr. Zum Glück will das engagierte Erdpony Sunny (Stimme im Original: Vanessa Hudgens) diesen traurigen neuen Zustand nicht hinnehmen. Sie ist fest entschlossen, einen Weg zu finden, damit die Magie und der Frieden ins Land Equestria zurückkehren. Sunny und das offenherzige Einhorn Izzy (Kimiko Glenn) reisen weit und treffen unterwegs Pipp (Sofia Carson), Zipp (Liza Koshy) und Hitch (James Marsden). Jeder und jede von ihnen hat einzigartige Fähigkeiten, sodass es den neuen Freunden gemeinsam bestimmt gelingen wird, die Magie nach Equestria zurückzuholen.",
+    "popularity": 671.77,
+    "poster_path": "/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg",
+    "production_companies": [
+        {
+            "id": 57031,
+            "logo_path": null,
+            "name": "Allspark Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7225,
+            "logo_path": "/qcGIZjdRc1YOJPyWhBj9L2Rf3q9.png",
+            "name": "DHX Media",
+            "origin_country": "CA"
+        },
+        {
+            "id": 65013,
+            "logo_path": null,
+            "name": "Boulder Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-23",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Chechen",
+            "iso_639_1": "ce",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My little Pony - Eine neue Generation",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 58
+}

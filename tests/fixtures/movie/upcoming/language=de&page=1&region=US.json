@@ -1,0 +1,400 @@
+{
+    "dates": {
+        "maximum": "2021-10-27",
+        "minimum": "2021-10-06"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/kcvKEvTWqIGMjpVJdbDVRHdIt4C.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 370172,
+            "original_language": "en",
+            "original_title": "No Time to Die",
+            "overview": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
+            "popularity": 422.948,
+            "poster_path": "/ep4eNdF37uhadB2UzdL8IDU6IxO.jpg",
+            "release_date": "2021-10-08",
+            "title": "James Bond 007 - Keine Zeit zu sterben",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aknvFyJUQQoZFtmFnYzKi4vGv4J.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                18
+            ],
+            "id": 438631,
+            "original_language": "en",
+            "original_title": "Dune",
+            "overview": "Die Neuverfilmung des gleichnamigen, populären Sci-Fi-Romans von Frank Herbert.  Aus der Vorlage erzählt Dune die komplexe Geschichte einer gefallenen Adelsfamilie und ihres Versuchs, die Kontrolle über den Wüstenplaneten Arrakis zu erlangen. Und über dessen kostbarste Exportware, das Spice, eine seltene bewusstseinserweiternde Droge. Doch sie wird von einem galaktischen Imperator betrogen, und Paul Atreides, der junge Sohn des Herrschers dieser Familie, muss sich ins Ödland flüchten und mit den dort heimischen Nomadenstämmen verbünden, um schließlich zurückzuschlagen.",
+            "popularity": 294.923,
+            "poster_path": "/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg",
+            "release_date": "2021-10-22",
+            "title": "Dune",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIG81E0H4CxuYIRgyNyD0z3KSlM.jpg",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "id": 610253,
+            "original_language": "en",
+            "original_title": "Halloween Kills",
+            "overview": "",
+            "popularity": 85.337,
+            "poster_path": "/1hT1HXhSgLHW3XEAcsgsZNfhbiY.jpg",
+            "release_date": "2021-10-15",
+            "title": "Halloween Kills",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mPz3GfGSLlZmgZYmAvSG28bhn9k.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 72213,
+            "original_language": "en",
+            "original_title": "Courageous",
+            "overview": "Als Polizeibeamte kennen Adam Mitchell, Nathan Hayes und ihre Partner die Abgründe des Menschen, doch einer Herausforderung scheinen sie nicht recht gewachsen zu sein: der Vaterschaft. Während sie im Beruf ihr Bestes geben, merken sie, wie sich ihre Kinder immer mehr von ihnen entfremden. Eine persönliche Tragödie weckt in diesen Männern den Wunsch, ihren Glauben zu erneuern und ihre Kinder wieder für sich zu gewinnen. Wird es ihnen gelingen, für ihre Liebsten da zu sein und sie zu schützen?",
+            "popularity": 37.16,
+            "poster_path": "/CkwRzUmxvMZvkzzGE45nqLGTm8.jpg",
+            "release_date": "2011-09-30",
+            "title": "Courageous Ein mutiger Weg",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gBdXk7j1HSfQbkFQcR2A0MN5CRs.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 617653,
+            "original_language": "en",
+            "original_title": "The Last Duel",
+            "overview": "",
+            "popularity": 36.147,
+            "poster_path": "/fUxEIIhlR72FUmBuic29rfqy5z.jpg",
+            "release_date": "2021-10-15",
+            "title": "The Last Duel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/99OiyEOsFecBiS5XkhQAB98rlP6.jpg",
+            "genre_ids": [
+                16,
+                878,
+                10751,
+                35
+            ],
+            "id": 482321,
+            "original_language": "en",
+            "original_title": "Ron's Gone Wrong",
+            "overview": "Der beste Freund eines 11-jährigen Jungen ist ein Roboter, der nicht richtig funktioniert.",
+            "popularity": 25.215,
+            "poster_path": "/zc1dnzYeepEyB0aDPaTAGtM066d.jpg",
+            "release_date": "2021-10-22",
+            "title": "Ron läuft schief",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q8wkjgeFCGcwgiPt1JYQ7G78AHX.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 21484,
+            "original_language": "fr",
+            "original_title": "Possession",
+            "overview": "Als Mark von einer langen Geschäftsreise nach Berlin zurückkehrt ist seine Ehe ein Scherbenhaufen. Bereits bei seiner Ankunft ist Anna zurückweisend, seinen Fragen nach dem Grund für ihr Verhalten weicht sie aus. Gekränkt und rasend vor Eifersucht drängt er darauf, von ihr zu erfahren, warum sie sich so verändert hat. Anna gibt schließlich nach und erzählt ihm von einer Affäre ‚mit einem anderen Mann’, wie sie es nennt. Als er einen Liebesbrief von einem Mann namens Heinrich findet, glaubt Mark, den vermeintlichen Rivalen ausfindig gemacht zu haben. Allerdings lässt dieser ihn wissen, dass sich Anna mittlerweile auch ihm gegenüber sehr seltsam verhält. Offensichtlich gibt es da noch einen dritten Mann in ihrem Leben. Um der Sache nachzugehen, beauftragt Mark einen Detektiv, der ihr in ein heruntergekommenes Wohnhaus folgt. Was er dort vorfindet, ist monströs… und es lebt!",
+            "popularity": 20.182,
+            "poster_path": "/pnhC5V0rD9kl58stPtJXKJ7iIqF.jpg",
+            "release_date": "2021-10-01",
+            "title": "Possession",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zsmTFn1Y2ulNd2njTjDbIhYwmkx.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 542178,
+            "original_language": "en",
+            "original_title": "The French Dispatch",
+            "overview": "Die Mitarbeiter einer europäischen Zeitung beschließen, eine Jubiläumsausgabe herauszugeben, in der die drei besten Storys des letzten Jahrzehnts herausgehoben werden: Die Story über eine zu lebenslanger Haft verurteilte Künstlerin, eine über Studentenunruhen und über eine von einem Koch aufgeklärte Entführung.",
+            "popularity": 17.216,
+            "poster_path": "/u0PhyuslumkTuqwFNfN3CQ2cuQw.jpg",
+            "release_date": "2021-10-22",
+            "title": "The French Dispatch",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/noyl6uzmHZQz6WggaTYZFo4YtW6.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 618162,
+            "original_language": "en",
+            "original_title": "The Harder They Fall",
+            "overview": "",
+            "popularity": 12.722,
+            "poster_path": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+            "release_date": "2021-10-22",
+            "title": "The Harder They Fall",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8kuz3UMNzF4epv2wzXIanTxfOh0.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 696901,
+            "original_language": "en",
+            "original_title": "Jacinta",
+            "overview": "",
+            "popularity": 10.894,
+            "poster_path": "/Gxj1qNIjzkq8Gk8DeLbQajw9h8.jpg",
+            "release_date": "2021-10-08",
+            "title": "Jacinta",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mjf3c6oWvsaEOipue79mAA31Ic1.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 543836,
+            "original_language": "en",
+            "original_title": "The Velvet Underground",
+            "overview": "",
+            "popularity": 10.738,
+            "poster_path": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+            "release_date": "2021-10-15",
+            "title": "The Velvet Underground",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/znpokr30qWVJztgO3t98PVyFLdC.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 617762,
+            "original_language": "en",
+            "original_title": "The Electrical Life of Louis Wain",
+            "overview": "",
+            "popularity": 10.238,
+            "poster_path": "/xfP1vRNKvyOvWNjnd0o7kD6b2RR.jpg",
+            "release_date": "2021-10-22",
+            "title": "The Electrical Life of Louis Wain",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                53,
+                10402,
+                10749
+            ],
+            "id": 536208,
+            "original_language": "en",
+            "original_title": "Hard Luck Love Song",
+            "overview": "",
+            "popularity": 9.88,
+            "poster_path": "/fWUbYGT0zTJoEZVyc2SvsenoHPF.jpg",
+            "release_date": "2021-10-15",
+            "title": "Hard Luck Love Song",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mTp1gydo0qYzGaTRTv2LEyF2Stp.jpg",
+            "genre_ids": [
+                12,
+                35,
+                18
+            ],
+            "id": 623962,
+            "original_language": "en",
+            "original_title": "The Obscure Life of the Grand Duke of Corsica",
+            "overview": "",
+            "popularity": 9.827,
+            "poster_path": "/gs2c3CdJeeL1qqixIyhQkvxpxHm.jpg",
+            "release_date": "2021-10-15",
+            "title": "The Obscure Life of the Grand Duke of Corsica",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cv6Nn8Yt9mgFoUSievEdW9JK82A.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 423333,
+            "original_language": "en",
+            "original_title": "Mass",
+            "overview": "",
+            "popularity": 9.742,
+            "poster_path": "/h5NjOofdHeb6VX8U4xJHq8dfNOI.jpg",
+            "release_date": "2021-10-08",
+            "title": "Mass",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lbU0I0YWSgSm0GuMZbSvHmxO8gy.jpg",
+            "genre_ids": [
+                27,
+                18,
+                9648
+            ],
+            "id": 788929,
+            "original_language": "is",
+            "original_title": "Dýrið",
+            "overview": "Ein Paar entdeckt auf seiner Farm in Island ein mysteriöses Neugeborenes, halb Lamm, halb Mensch. Die unerwartete Aussicht auf ein Familienleben bereitet ihnen viel Freude, bevor sie es schließlich zerstört.",
+            "popularity": 9.644,
+            "poster_path": "/al0Fd86nYNVdVttwhIQDYA0YRhd.jpg",
+            "release_date": "2021-10-08",
+            "title": "Lamb",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pEOiICcNiygzgFxP6nKDTMox8VZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 595280,
+            "original_language": "es",
+            "original_title": "Distancia de rescate",
+            "overview": "Eine Frau namens Amanda liegt weit weg von zu Hause im Sterben. Neben ihr sitzt der Junge David. Sie ist weder seine Mutter, noch ist er ihr Kind. Während ihre Zeit abläuft, hilft er ihr, eine kraftvolle und eindringliche Geschichte über zwanghafte Eifersucht, eine unsichtbare Bedrohung und die Macht der Mutterliebe zu entwirren.",
+            "popularity": 8.984,
+            "poster_path": "/pnJ6quEU8Wmb7BuDBFvRsUiS8k0.jpg",
+            "release_date": "2021-10-06",
+            "title": "Das Gift",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zPCWnlk5d0XAwgurFfw4BKdVXeQ.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 787310,
+            "original_language": "en",
+            "original_title": "Survive the Game",
+            "overview": "",
+            "popularity": 8.969,
+            "poster_path": "/xF1uc2pEf34X2G41wvZaF5H0V7C.jpg",
+            "release_date": "2021-10-08",
+            "title": "Survive the Game",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yJpGFmoVsDKrVcXSyGf5HTx9i98.jpg",
+            "genre_ids": [
+                27,
+                14,
+                12
+            ],
+            "id": 776506,
+            "original_language": "en",
+            "original_title": "The Blazing World",
+            "overview": "",
+            "popularity": 8.656,
+            "poster_path": "/5Knt7uGfnANXVnGeJVRLg4NtMJn.jpg",
+            "release_date": "2021-10-15",
+            "title": "The Blazing World",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xVHu86MkmtfsgKzLOaG7nCbeZpP.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                27,
+                80
+            ],
+            "id": 795518,
+            "original_language": "en",
+            "original_title": "Broadcast Signal Intrusion",
+            "overview": "",
+            "popularity": 8.65,
+            "poster_path": "/472jgGaEB02ZQSWKqtl5DUqBJP7.jpg",
+            "release_date": "2021-10-22",
+            "title": "Broadcast Signal Intrusion",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 58
+}

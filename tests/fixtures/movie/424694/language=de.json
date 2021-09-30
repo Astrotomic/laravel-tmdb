@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/jNUpYq2jRSwQM89vST9yQZelMSu.jpg",
+    "belongs_to_collection": null,
+    "budget": 52000000,
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "http://www.fox.de/bohemian-rhapsody",
+    "id": 424694,
+    "imdb_id": "tt1727824",
+    "original_language": "en",
+    "original_title": "Bohemian Rhapsody",
+    "overview": "„Bohemian Rhapsody“ erzählt die Geschichte, wie Freddie Mercury, Brian May, Roger Taylor und John Deacon die Band Queen gründeten – eine der legendärsten Rockgruppen aller Zeiten. Durch so grundverschiedene Songs wie „Killer Queen“, „Bohemian Rhapsody“, „We Are The Champions“ und „We Will Rock You“ sowie unzähligen weiteren Songs gelang der Band ein beispielloser Erfolg, der Freddie zu einem der beliebtesten Entertainer weltweit machte. Doch hinter der Fassade von Erfolg kämpft Freddie mit seiner inneren Zerrissenheit. Der aus Sansibar stammende Parse sucht unablässig nach seinem Platz in der Welt, während er gleichzeitig versucht, sich in einer Gesellschaft, die in Stereotypen und Erwartungen gefangen ist, mit einer Sexualität zu arrangieren, die er selbst kaum definieren kann. Freddie wagt es, sich zu widersetzen, aber zahlt auch den Preis dafür …",
+    "popularity": 50.017,
+    "poster_path": "/26SVZzhZJiVgz7qvoEDVrkKWrsZ.jpg",
+    "production_companies": [
+        {
+            "id": 3281,
+            "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+            "name": "GK Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 508,
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 90995,
+            "logo_path": null,
+            "name": "Queen Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 11391,
+            "logo_path": null,
+            "name": "Tribeca Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 10104,
+            "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+            "name": "New Regency Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-10-24",
+    "revenue": 894027543,
+    "runtime": 135,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Nur seine Geschichte war noch außergewöhnlicher als ihre Musik.",
+    "title": "Bohemian Rhapsody",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 13705
+}

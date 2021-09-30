@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/9AdRUGOCia8XUqGFvVaENsSfvrX.jpg",
+    "belongs_to_collection": {
+        "id": 647077,
+        "name": "Der Prinz aus Zamunda Filmreihe",
+        "poster_path": "/5YL607Cx18FjHOc57jcc7crQL2y.jpg",
+        "backdrop_path": "/cn4LBeGuxe54m7rm1viad1NiqEU.jpg"
+    },
+    "budget": 39000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 9602,
+    "imdb_id": "tt0094898",
+    "original_language": "en",
+    "original_title": "Coming to America",
+    "overview": "Prinz Akeem flieht auf der Suche nach der Traumfrau vom heimischen Zamunda in den New Yorker Stadtteil Queens. Mit seinem Vetter Semmi gibt er sich als armer Student aus und beginnt die Brautschau in Bars und Dicotheken. Schließlich verliebt er sich in die Tochter eines Hamburger-Braters, deretwegen er einen Job im Schnellimbiß annimmt. Mitten ins Liebeswerben des Prinzen stoßen urplötzlich dessen Eltern, die sich auf den Weg gemacht haben, um herauszufinden, wofür der Sprößling plötzlich Unmengen von Geld ausgibt.",
+    "popularity": 24.516,
+    "poster_path": "/qwz7ogOJAqEzqWo1mdWhuFSyo04.jpg",
+    "production_companies": [
+        {
+            "id": 30,
+            "logo_path": null,
+            "name": "Eddie Murphy Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1988-06-29",
+    "revenue": 288752301,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die vier lustigsten Männer Americas sind Eddie Murphy.",
+    "title": "Der Prinz aus Zamunda",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 3234
+}

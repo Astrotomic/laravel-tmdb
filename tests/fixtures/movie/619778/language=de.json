@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/xDnFlNrNUoSKPq4uptnhYmUZNpm.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.malignantmovie.net/",
+    "id": 619778,
+    "imdb_id": "tt3811906",
+    "original_language": "en",
+    "original_title": "Malignant",
+    "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.",
+    "popularity": 744.281,
+    "poster_path": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 5233,
+            "logo_path": null,
+            "name": "Starlight International Media",
+            "origin_country": ""
+        },
+        {
+            "id": 121439,
+            "logo_path": null,
+            "name": "Midas Innovation",
+            "origin_country": ""
+        },
+        {
+            "id": 76907,
+            "logo_path": "/wChlWsVgwSd4ZWxTIm8PTEcaESz.png",
+            "name": "Atomic Monster",
+            "origin_country": "US"
+        },
+        {
+            "id": 122178,
+            "logo_path": null,
+            "name": "BOOM! Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-09-01",
+    "revenue": 24640084,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A new vision of terror.",
+    "title": "Malignant",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 641
+}

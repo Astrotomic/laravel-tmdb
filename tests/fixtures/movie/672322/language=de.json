@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/heMC3jAjQPNSlr1n9mZKUQ58EOE.jpg",
+    "belongs_to_collection": {
+        "id": 247028,
+        "name": "Rurouni Kenshin Filmreihe",
+        "poster_path": "/yBYLuwZ1zbRBEKaZmwiThsEqUbC.jpg",
+        "backdrop_path": "/jqmQLcdn3aEyc30nesZn7qixfoP.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 672322,
+    "imdb_id": "tt11991748",
+    "original_language": "ja",
+    "original_title": "るろうに剣心 最終章 The Beginning",
+    "overview": "Der legendäre Schwertkämpfer Kenshin Himura (Takeru Satoh) muss weiter dem mysteriösen chinesischen Waffenhändler Enishi Yukishiro (Mackenyu Arata), seinem ehemaligen Schwager, entgegentreten...",
+    "popularity": 484.023,
+    "poster_path": "/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg",
+    "production_companies": [
+        {
+            "id": 3627,
+            "logo_path": "/i1eW4O13B28b4JHpIL5C9rRiiur.png",
+            "name": "Warner Bros. Japan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-06-04",
+    "revenue": 0,
+    "runtime": 138,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rurouni Kenshin: The Beginning",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 179
+}

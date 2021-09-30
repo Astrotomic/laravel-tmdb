@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/movies/hamilton/3uPmBHWlO6HJ",
+    "id": 556574,
+    "imdb_id": "tt8503618",
+    "original_language": "en",
+    "original_title": "Hamilton",
+    "overview": "Die Verfilmung der Broadway-Sensation „Hamilton“ vereint das Beste aus Live-Show, Spielfilm und Streaming in einem mitreißenden Mix aus Hip-Hop, Jazz, R&B und Musical. Das Musical erzählt vom Leben des amerikanischen Gründervaters Alexander Hamilton und gilt dank seiner modernen Darstellung der amerikanischen Geschichte als revolutionärer Moment im Theater.",
+    "popularity": 14.095,
+    "poster_path": "/2bVmhu9FBx8AIoTUEQKZQIEEUjf.jpg",
+    "production_companies": [
+        {
+            "id": 89394,
+            "logo_path": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+            "name": "RadicalMedia",
+            "origin_country": "US"
+        },
+        {
+            "id": 122645,
+            "logo_path": null,
+            "name": "5000 Broadway Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 150839,
+            "logo_path": null,
+            "name": "Nevis Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 122647,
+            "logo_path": null,
+            "name": "Old 320 Sycamore",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-07-03",
+    "revenue": 0,
+    "runtime": 160,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hamilton",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 808
+}

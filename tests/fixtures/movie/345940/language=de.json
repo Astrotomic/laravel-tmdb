@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/rH79sB6Nkx4cMW3JzsUy7wK0rhX.jpg",
+    "belongs_to_collection": {
+        "id": 742536,
+        "name": "The Meg Filmreihe",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "http://www.themeg.movie",
+    "id": 345940,
+    "imdb_id": "tt4779682",
+    "original_language": "en",
+    "original_title": "The Meg",
+    "overview": "Nachdem ein Tiefsee-U-Boot von einem ausgestorben geglaubten Riesenhai angegriffen wird, sinkt das Fahrzeug in den tiefsten Graben des Pazifik und liegt dort manövrierunfähig am Meeresgrund. Der Crew an Bord läuft allmählich die Zeit davon und daher engagiert der Meeresforscher Dr. Minway Zhang den erfahrenen Taucher Jonas Taylor. Taylor ist zwar Experte für Bergungen in der Tiefsee, allerdings ist er vor Jahren schon einmal mit dem urzeitlichen Riesenhai, einem mehr als 20 Meter langen Megalodon, aneinandergeraten. Doch gemeinsam mit Dr. Zhangs Tochter Suyin muss er nun seine Ängste überwinden und schwere Geschütze auffahren, um den eingeschlossenen Menschen zur Hilfe eilen zu können und die Weltmeere von der Schreckensherrschaft des Urzeitmonsters zu befreien…",
+    "popularity": 63.4,
+    "poster_path": "/emn6QmTTqsxmibjfJkxROL4Il7M.jpg",
+    "production_companies": [
+        {
+            "id": 56242,
+            "logo_path": "/1YORRYmg7hgYIgoJek8jU3cykuQ.png",
+            "name": "Apelles Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 48778,
+            "logo_path": "/tto2UKph873Xh1ytxfNBgCxT8NO.png",
+            "name": "Gravity Pictures",
+            "origin_country": "CN"
+        },
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 107790,
+            "logo_path": null,
+            "name": "Flagship Entertainment Group",
+            "origin_country": "CN"
+        },
+        {
+            "id": 56241,
+            "logo_path": null,
+            "name": "Maeday Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-08-09",
+    "revenue": 530243742,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Thai",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Meg",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 5474
+}

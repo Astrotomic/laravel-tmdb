@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 35000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 770464,
+    "imdb_id": "tt13972450",
+    "original_language": "en",
+    "original_title": "Concessions",
+    "overview": "",
+    "popularity": 3.183,
+    "poster_path": "/laVrSN9XARQ4OrfgPqMnzZYAa3y.jpg",
+    "production_companies": [
+        {
+            "id": 144789,
+            "logo_path": null,
+            "name": "Sentenza Films",
+            "origin_country": ""
+        },
+        {
+            "id": 144790,
+            "logo_path": null,
+            "name": "Headless Duckie Media Group",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-23",
+    "revenue": 0,
+    "runtime": 24,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Concessions",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

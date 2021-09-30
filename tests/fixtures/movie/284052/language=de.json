@@ -1,0 +1,67 @@
+{
+    "adult": false,
+    "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+    "belongs_to_collection": {
+        "id": 618529,
+        "name": "Doctor Strange Filmreihe",
+        "poster_path": "/vIxHQxusmCGOLf3dHnCbVppBV56.jpg",
+        "backdrop_path": "/5ZuctJh5uX5L2dz1CjA7WsTJwZk.jpg"
+    },
+    "budget": 165000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://marvel.com/doctorstrange",
+    "id": 284052,
+    "imdb_id": "tt1211837",
+    "original_language": "en",
+    "original_title": "Doctor Strange",
+    "overview": "Doctor Stephen Strange ist ein arroganter, aber auch unglaublich talentierter Neurochirurg. Nach einem schweren Autounfall kann er seiner Tätigkeit trotz mehrerer Operationen und Therapien nicht mehr nachgehen. In seiner Verzweiflung wendet er sich schließlich von der Schulmedizin ab und reist nach Tibet, wo er bei der Einsiedlerin The Ancient One und ihrer Glaubensgemeinschaft lernt, sein verletztes Ego hinten anzustellen und in die Geheimnisse einer verborgenen mystischen Welt voller alternativer Dimensionen eingeführt wird. So entwickelt sich Doctor Strange nach und nach zu einem der mächtigsten Magier der Welt. Doch schon bald muss er seine neu gewonnenen mystischen Kräfte nutzen, um die Welt vor einer Bedrohung aus einer anderen Dimension zu beschützen.",
+    "popularity": 93.788,
+    "poster_path": "/mzPnP190YLV4KFL3ZgsP7AsPEd2.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-10-25",
+    "revenue": 677700000,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Öffne deinen Geist. Ändere deine Realität.",
+    "title": "Doctor Strange",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 17542
+}

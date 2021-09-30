@@ -1,0 +1,33 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "https://cargocollective.com/lucidcine/Recursive-Lattice",
+    "id": 869592,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Recursive Lattice",
+    "overview": "",
+    "popularity": 1.776,
+    "poster_path": "/9AagHVynwzvewmhXNb1m44QvGMC.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-16",
+    "revenue": 0,
+    "runtime": 4,
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Recursive Lattice",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/9guoVF7zayiiUq5ulKQpt375VIy.jpg",
+    "belongs_to_collection": {
+        "id": 662002,
+        "name": "My Hero Academia Filmreihe",
+        "poster_path": "/o1HPwiDPWRlm9LnHWqqCLrnGpoY.jpg",
+        "backdrop_path": "/45ugfrqKgSIrTSdJIw6kwABztq8.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://heroaca-movie.com/2019/",
+    "id": 592350,
+    "imdb_id": "tt11107074",
+    "original_language": "ja",
+    "original_title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+    "overview": "Endlich richtige Superheldenarbeit – und das ganz ohne Lehrer! Im Rahmen eines Vermittlungsprojekts sollen die Schüler der Klasse 1a der Yuei-Oberschule auf der abseits gelegenen Insel Nabu den in die Jahre gekommenen örtlichen Superhelden vertreten und übergangsweise die Bevölkerung unterstützen. Was zunächst ganz harmlos beginnt, entwickelt sich jedoch schnell zu einem gefährlichen Einsatz: Schurken haben es auf den kleinen Katsuma und dessen Spezialität abgesehen und fallen auf der Insel ein. Abgeschnitten von der Außenwelt muss die ganze Klasse zusammenhalten und zeigen, was sie bisher gelernt hat. Vor allem Izuku und Katsuki wachsen gemeinsam über sich hinaus, um Katsuma und die anderen Einwohner zu beschützen. Doch wird das gegen den superstarken Nine, der genau wie All for One mehrere Spezialitäten besitzt, wirklich ausreichen?",
+    "popularity": 298.319,
+    "poster_path": "/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "DENTSU",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/xS2KwwAuvLe9zhfoYxyZ6JudKiA.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho Co.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 138773,
+            "logo_path": null,
+            "name": "Yomiuri-TV Enterprise",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2019-12-20",
+    "revenue": 29900850,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My Hero Academia - The Movie: Heroes Rising",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 802
+}

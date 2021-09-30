@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/qr5yCpKidwRpuAcsFoRtmw1yanH.jpg",
+    "belongs_to_collection": {
+        "id": 479888,
+        "name": "Das Ding Filmreihe",
+        "poster_path": "/vnfxRM89Qav5d0fMluIwx1hKadc.jpg",
+        "backdrop_path": "/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.uphe.com/movies/the-thing-2011",
+    "id": 60935,
+    "imdb_id": "tt0905372",
+    "original_language": "en",
+    "original_title": "The Thing",
+    "overview": "Als eine norwegische Forschungsgruppe bei einer ihrer Expeditionen in der Antarktis auf ein außerirdisches Raumschiff stößt und eine scheinbar leblose Kreatur darin entdeckt, lässt die Paläontologin Kate Lloyd nicht lange auf sich warten. Zusammen mit ihren Assistenten Davida Morris und Adam Goodman möchte Kate die außerirdische Lebensform näher unter die Lupe nehmen. Bei einem Experiment, in dem das Wesen aus seiner Eishülle befreit wird, kommt es zum unerwarteten Erwachen, das zahlreiche Opfer zur Folge hat. Die junge Forscherin und ihre Assistenten schließen sich dem Hubschrauberpiloten Sam Carter an, um dem Parasiten, der jede Lebensform nachahmen kann, die er berührt, zu entfliehen. Gemeinsam müssen sie einen Plan entwickeln, wie sie die zerstörungswütige Kreatur stoppen können, bevor es die Zivilisation erreicht. Doch können sie einander noch trauen?",
+    "popularity": 17.613,
+    "poster_path": "/1FD8Euelfh5sXohTbDDWHgjOKwp.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 10210,
+            "logo_path": null,
+            "name": "Morgan Creek Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 655,
+            "logo_path": null,
+            "name": "Strike Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "2011-10-12",
+    "revenue": 31505287,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        },
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Es ist kein Mensch... Noch nicht",
+    "title": "The Thing",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 2120
+}

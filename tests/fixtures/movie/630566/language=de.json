@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/bx326cwBtDsfDcnTgFlK5dXkyaC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 630566,
+    "imdb_id": "tt6473066",
+    "original_language": "en",
+    "original_title": "Clouds",
+    "overview": "Diese inspirierende, wahre Geschichte handelt vom jungen Musiker Zach Sobiech, der erfährt, dass sein Krebs gestreut hat und er nur noch ein paar Monate zu leben hat. In der Zeit, die ihm noch bleibt, verfolgt er seinen Traum und nimmt ein Album auf, völlig ahnungslos, dass es schon bald zu einem viralen Musikphänomen werden soll. Die Musik gibt Zachs Leben einen neuen Sinn und hilft ihm, den perfekten Weg zu finden, sich zu verabschieden… mit einem Song, der um die Welt gehen wird.",
+    "popularity": 15.87,
+    "poster_path": "/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg",
+    "production_companies": [
+        {
+            "id": 57408,
+            "logo_path": null,
+            "name": "Mad Chance Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-10-09",
+    "revenue": 0,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Clouds",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 739
+}

@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+    "belongs_to_collection": null,
+    "budget": 125000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.skyscrapermovie.com",
+    "id": 447200,
+    "imdb_id": "tt5758778",
+    "original_language": "en",
+    "original_title": "Skyscraper",
+    "overview": "Eine neue berufliche Herausforderung in Hongkong wird zum Albtraum für den Kriegsveteranen und ehemaligen FBI-Einsatzchef Will Sawyer, der im The Pearl, dem mit 240 Stockwerken höchsten Wolkenkratzer der Welt, für Sicherheit sorgen soll. Kaum hat Will sein Amt angetreten, kommt es zur Katastrophe: Die 96. Etage steht plötzlich in Flammen. In den Stockwerken darüber ist seine Familie eingeschlossen, ohne eine realistische Chance auf Rettung. Zu seinem Entsetzen wird er auch noch beschuldigt, die Feuersbrunst selbst entfacht zu haben! Verzweifelt versucht Sawyer, die Brandstifter zu finden, seine Familie aus dem flammenden Inferno zu retten und seine Unschuld zu beweisen.",
+    "popularity": 30.203,
+    "poster_path": "/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+    "production_companies": [
+        {
+            "id": 34081,
+            "logo_path": null,
+            "name": "Flynn Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 73669,
+            "logo_path": "/7tmSGstK3KwgcDIuBYLTAayjit9.png",
+            "name": "Seven Bucks Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 122652,
+            "logo_path": null,
+            "name": "The Third Floor",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-07-11",
+    "revenue": 292351275,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Skyscraper",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3854
+}

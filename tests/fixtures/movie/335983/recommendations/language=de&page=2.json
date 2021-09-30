@@ -1,0 +1,427 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/jNUpYq2jRSwQM89vST9yQZelMSu.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                36
+            ],
+            "id": 424694,
+            "media_type": "movie",
+            "title": "Bohemian Rhapsody",
+            "original_language": "en",
+            "original_title": "Bohemian Rhapsody",
+            "overview": "„Bohemian Rhapsody“ erzählt die Geschichte, wie Freddie Mercury, Brian May, Roger Taylor und John Deacon die Band Queen gründeten – eine der legendärsten Rockgruppen aller Zeiten. Durch so grundverschiedene Songs wie „Killer Queen“, „Bohemian Rhapsody“, „We Are The Champions“ und „We Will Rock You“ sowie unzähligen weiteren Songs gelang der Band ein beispielloser Erfolg, der Freddie zu einem der beliebtesten Entertainer weltweit machte. Doch hinter der Fassade von Erfolg kämpft Freddie mit seiner inneren Zerrissenheit. Der aus Sansibar stammende Parse sucht unablässig nach seinem Platz in der Welt, während er gleichzeitig versucht, sich in einer Gesellschaft, die in Stereotypen und Erwartungen gefangen ist, mit einer Sexualität zu arrangieren, die er selbst kaum definieren kann. Freddie wagt es, sich zu widersetzen, aber zahlt auch den Preis dafür …",
+            "popularity": 50.017,
+            "poster_path": "/26SVZzhZJiVgz7qvoEDVrkKWrsZ.jpg",
+            "release_date": "2018-10-24",
+            "video": false,
+            "vote_average": 8.033,
+            "vote_count": 13705
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 429617,
+            "media_type": "movie",
+            "title": "Spider-Man: Far From Home",
+            "original_language": "en",
+            "original_title": "Spider-Man: Far From Home",
+            "overview": "Nach der epischen Schlacht gegen Thanos und den schicksalshaften Ereignissen um die Avengers ist Peter zurück an seiner alten Schule. Um vom Superheldendasein etwas auszuruhen, kommt ihm eine Klassenfahrt nach Europa gerade recht, auch um seiner heimlichen Liebe \"MJ\" endlich seine Gefühle gestehen zu können. Die erste Station ist Venedig in Italien. Nach einer entspannten Gondelfahrt mit der Reisegruppe bricht aber plötzlich das Chaos los: Ein riesiges Monster kommt aus dem Wasser und greift die Stadt an. Dem stellt sich ein bisher unbekannter Superheld namens Mysterio entgegen. Und als wäre das nicht genug, taucht dann noch Nick Fury auf, um Spider-Man für eine Mission zu rekrutieren...",
+            "popularity": 176.24,
+            "poster_path": "/4dgAnH5LSiQZkon2OhyjflatEU.jpg",
+            "release_date": "2019-06-28",
+            "video": false,
+            "vote_average": 7.508,
+            "vote_count": 10680
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fgsHxz21B27hOOqQBiw9L6yWcM7.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 439079,
+            "media_type": "movie",
+            "title": "The Nun",
+            "original_language": "en",
+            "original_title": "The Nun",
+            "overview": "Im Mittelpunkt steht der fiese Nonnen-Dämon Valak. In den 50ern wird Father Burke auf dessen Spur angesetzt, als ihm seine Vorgesetzten im Vatikan den Auftrag erteilen, den mysteriösen Tod einer Ordensschwester zu untersuchen. Sie nahm sich in einem abgelegenen rumänischen Kloster das Leben. Burke, durch seine Vergangenheit tief traumatisiert, wird von der Novizin Irene begleitet, die bald ihr Ordensgelübde ablegen soll. Zusammen erforschen sie das schreckliche Geheimnis des Klosters...",
+            "popularity": 63.53,
+            "poster_path": "/nuItlOKVmngMR9fkgQzqItGizBn.jpg",
+            "release_date": "2018-09-05",
+            "video": false,
+            "vote_average": 5.834,
+            "vote_count": 4839
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "id": 299534,
+            "media_type": "movie",
+            "title": "Avengers: Endgame",
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "overview": "Thanos hat also tatsächlich Wort gehalten, seinen Plan in die Tat umgesetzt und die Hälfte allen Lebens im Universum ausgelöscht. Die Avengers? Machtlos. Iron Man und Nebula sitzen auf dem Planeten Titan fest, während auf der Erde absolutes Chaos herrscht. Doch dann finden Captain America und die anderen überlebenden Helden auf der Erde heraus, dass Nick Fury vor den verheerenden Ereignissen gerade noch ein Notsignal absetzen konnte, um Verstärkung auf den Plan zu rufen. Die Superhelden-Gemeinschaft bekommt mit Captain Marvel kurzerhand tatkräftige Unterstützung im Kampf gegen ihren vermeintlich übermächtigen Widersacher. Und dann ist da auch noch Ant-Man, der wie aus dem Nichts auftaucht und sich der Truppe erneut anschließt, um die ganze Sache womöglich doch noch zu einem guten Ende zu bringen …",
+            "popularity": 178.676,
+            "poster_path": "/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg",
+            "release_date": "2019-04-24",
+            "video": false,
+            "vote_average": 8.279,
+            "vote_count": 19155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                35,
+                12
+            ],
+            "id": 404368,
+            "media_type": "movie",
+            "title": "Chaos im Netz",
+            "original_language": "en",
+            "original_title": "Ralph Breaks the Internet",
+            "overview": "Nach einem unglücklichen Unfall stürzen sich Ralph und seine quirlige Freundin Vanellope ins Internet, um dort nach einem wichtigen Ersatzteil für Vanellopes Videospiel zu suchen. Dabei schauen sie nicht nur hinter die Kulissen des World Wide Webs, sondern begegnen auch allerhand schrägen Figuren, die es nicht immer gut mit unseren liebenswerten Helden meinen. Und wo sollen sie überhaupt in dieser unübersichtlichen und sich ständig verändernden Welt mit ihrer Suche anfangen? Gänzlich unerfahren im Umgang mit dem Surfen im Netz richten die beiden innerhalb kürzester Zeit im Internet völliges Chaos an…",
+            "popularity": 62.544,
+            "poster_path": "/1nSlMZ2dsVWT4VZt5vEqpZEXLDQ.jpg",
+            "release_date": "2018-11-20",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 5804
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 141052,
+            "media_type": "movie",
+            "title": "Justice League",
+            "original_language": "en",
+            "original_title": "Justice League",
+            "overview": "Bruce Wayne alias Batman hat wieder Vertrauen in die Menschheit – auch dank Superman, der im Kampf gegen das Monster Doomsday wahre Selbstlosigkeit bewies und sich opferte. Als sich das mächtige außerweltliche Wesen Steppenwolf mit einer Armee Paradämonen anschickt, die Erde zu überfallen, wendet sich Batman an Diana Prince, besser bekannt unter dem Namen Wonder Woman, die gegen Doomsday eindrucksvoll zeigte, was sie kann. Gemeinsam rekrutieren sie ein Team von Superhelden, bestehend aus den Metamenschen, auf die die beiden bereits aufmerksam geworden sind: Aquaman, Cyborg und The Flash verbünden sich mit Batman und Wonder Woman, aber der Angriff auf die Erde scheint dennoch nicht mehr zu verhindern sein…",
+            "popularity": 48.645,
+            "poster_path": "/zQXxr55F8QrAZWvi0szzl3haZGh.jpg",
+            "release_date": "2017-11-15",
+            "video": false,
+            "vote_average": 6.172,
+            "vote_count": 10804
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mnDvPokXpvsdPcWSjNRPhiiLOKu.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10402
+            ],
+            "id": 332562,
+            "media_type": "movie",
+            "title": "A Star Is Born",
+            "original_language": "en",
+            "original_title": "A Star Is Born",
+            "overview": "Jackson Maines Country-Karriere befindet sich am Tiefpunkt, als er eine begabte Unbekannte namens Ally entdeckt. Die beiden beginnen eine leidenschaftliche Liebesbeziehung, und Jack drängt Ally ins Rampenlicht, wo sie über Nacht zum Star aufsteigt. Als Allys Karriere Jack bald in den Schatten stellt, fällt es ihm zunehmend schwerer, sich mit seinem verblassenden Ruhm abzufinden.",
+            "popularity": 32.618,
+            "poster_path": "/rjUYbUsyyuEEjOc7kgDDmSd1Y4B.jpg",
+            "release_date": "2018-10-03",
+            "video": false,
+            "vote_average": 7.524,
+            "vote_count": 9677
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xh4SKML3kQPnJfEcgML2pFpalQe.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 463272,
+            "media_type": "movie",
+            "title": "Johnny English - Man lebt nur dreimal",
+            "original_language": "en",
+            "original_title": "Johnny English Strikes Again",
+            "overview": "Johnny English arbeitet mittlerweile nicht mehr als Geheimagent, sondern als Lehrer. Doch als ein mysteriöser Hacker sämtliche britischen Spione enttarnt, bleibt dem Geheimdienst nichts anderes übrig, als English zu reaktivieren und auf eine gefährliche Mission zu schicken, obwohl dieser bisher jeden seiner Aufträge verbockte. Denn er ist der einzige Undercover-Agent, der kein Opfer des Hackangriffs geworden ist - einfach weil English keinen Plan von der Digitalisierung und damit auch nicht von Smartphones oder Computern hat. Nun stolpert der Spion also mit seinen gnadenlos veralten Methoden und seiner trotteligen Art von einer Pleite zur nächsten, bleibt dennoch die letzte Hoffnung der britischen Premierministerin und trifft die verführerische Ophelia.",
+            "popularity": 18.366,
+            "poster_path": "/tpaM9bgn5rJq2Tet7LEqju0MUbC.jpg",
+            "release_date": "2018-09-13",
+            "video": false,
+            "vote_average": 6.272,
+            "vote_count": 1852
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 447200,
+            "media_type": "movie",
+            "title": "Skyscraper",
+            "original_language": "en",
+            "original_title": "Skyscraper",
+            "overview": "Eine neue berufliche Herausforderung in Hongkong wird zum Albtraum für den Kriegsveteranen und ehemaligen FBI-Einsatzchef Will Sawyer, der im The Pearl, dem mit 240 Stockwerken höchsten Wolkenkratzer der Welt, für Sicherheit sorgen soll. Kaum hat Will sein Amt angetreten, kommt es zur Katastrophe: Die 96. Etage steht plötzlich in Flammen. In den Stockwerken darüber ist seine Familie eingeschlossen, ohne eine realistische Chance auf Rettung. Zu seinem Entsetzen wird er auch noch beschuldigt, die Feuersbrunst selbst entfacht zu haben! Verzweifelt versucht Sawyer, die Brandstifter zu finden, seine Familie aus dem flammenden Inferno zu retten und seine Unschuld zu beweisen.",
+            "popularity": 30.203,
+            "poster_path": "/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+            "release_date": "2018-07-11",
+            "video": false,
+            "vote_average": 6.334,
+            "vote_count": 3854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wrqUiMXttHE4UBFMhLHlN601MZh.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 427641,
+            "media_type": "movie",
+            "title": "Rampage - Big meets Bigger",
+            "original_language": "en",
+            "original_title": "Rampage",
+            "overview": "Mit seinen Mitmenschen kommt der renommierte Primatenforscher Davis Okoye nicht besonders gut zurecht, mit dem Gorilla George hingegen schon. Okoye hat den außergewöhnlich intelligenten Silberrücken aufgezogen, seit dieser ein kleines Affenbaby war. Die beiden verbindet eine tiefe Freundschaft. Doch dann geht eines Tages ein illegales Genexperiment gehörig schief und der eigentlich so sanftmütige George mutiert zu einem gewaltigen, wildgewordenen, riesigen Monster. Auch andere Tiere wurden in wilde Bestien verwandelt und sorgen ebenso wie George für Tod und Zerstörung. Okoye schließt sich mit der Gentechnikerin Dr. Kate Caldwell zusammen, um ein Gegenmittel zu entwickeln, das die Tiere wieder zurückverwandelt. Das ist bei dem ganzen Chaos ziemlich schwierig, zumal auch noch der gerissene Regierungsagent Russell auf Okoye und Dr. Caldwell angesetzt wurde…",
+            "popularity": 60.057,
+            "poster_path": "/xeXGUcRqZSKhQCmiEGYncFJ7InD.jpg",
+            "release_date": "2018-04-12",
+            "video": false,
+            "vote_average": 6.463,
+            "vote_count": 5514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rm2oMykm5nX6SzXFr7TGHkO6r8Z.jpg",
+            "genre_ids": [
+                12,
+                878
+            ],
+            "id": 428078,
+            "media_type": "movie",
+            "title": "Mortal Engines - Krieg der Städte",
+            "original_language": "en",
+            "original_title": "Mortal Engines",
+            "overview": "Vor Tausenden von Jahren verwüstete eine gewaltige Katastrophe die Erde, doch die Menschheit hat sich ihrer neuen Umgebung längst angepasst. Gigantische Metropolen auf Rädern erhoben sich aus den Trümmern der untergegangenen Zivilisation. Auf der Suche nach den letzten Ressourcen fahren sie über die verdörrte Steppe und verschlingen gnadenlos die kleineren Städte. Zu den großen Metropolen gehört auch London als einer der gewaltigsten rollenden Kolosse. In diesem unerbittlichen Kampf trifft der unscheinbare Tom Natsworthy in einer schicksalshaften Begegnung auf die gefährliche Flüchtige Hester Shaw – zwei Gegensätze prallen aufeinander, zwei Menschen, deren Wege einander nie hätten kreuzen sollen. Sie schmieden eine überraschende Allianz, die über den Fortgang der Menschheitsgeschichte bestimmen könnte.",
+            "popularity": 28.262,
+            "poster_path": "/ln4NUbzXkKQHaeWOCBctz9PzciQ.jpg",
+            "release_date": "2018-11-27",
+            "video": false,
+            "vote_average": 6.154,
+            "vote_count": 3526
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 284052,
+            "media_type": "movie",
+            "title": "Doctor Strange",
+            "original_language": "en",
+            "original_title": "Doctor Strange",
+            "overview": "Doctor Stephen Strange ist ein arroganter, aber auch unglaublich talentierter Neurochirurg. Nach einem schweren Autounfall kann er seiner Tätigkeit trotz mehrerer Operationen und Therapien nicht mehr nachgehen. In seiner Verzweiflung wendet er sich schließlich von der Schulmedizin ab und reist nach Tibet, wo er bei der Einsiedlerin The Ancient One und ihrer Glaubensgemeinschaft lernt, sein verletztes Ego hinten anzustellen und in die Geheimnisse einer verborgenen mystischen Welt voller alternativer Dimensionen eingeführt wird. So entwickelt sich Doctor Strange nach und nach zu einem der mächtigsten Magier der Welt. Doch schon bald muss er seine neu gewonnenen mystischen Kräfte nutzen, um die Welt vor einer Bedrohung aus einer anderen Dimension zu beschützen.",
+            "popularity": 93.788,
+            "poster_path": "/mzPnP190YLV4KFL3ZgsP7AsPEd2.jpg",
+            "release_date": "2016-10-25",
+            "video": false,
+            "vote_average": 7.402,
+            "vote_count": 17542
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/LC9g7oNJc3jZNXUU8CkwSzVK2w.jpg",
+            "genre_ids": [
+                14,
+                10751,
+                35
+            ],
+            "id": 463821,
+            "media_type": "movie",
+            "title": "Das Haus der geheimnisvollen Uhren",
+            "original_language": "en",
+            "original_title": "The House with a Clock in Its Walls",
+            "overview": "Nach dem Verlust seiner Eltern kommt der Waisenjunge Lewis Barnavelt bei seinem Onkel Jonathan unter, der sich als Hexenmeister entpuppt und die Hexe Mrs. Zimmerman zur Nachbarin hat. Gemeinsam begeben sie sich auf die Suche nach einer Uhr, welche vom Vorbesitzer des Hauses in den Wänden versteckt worden ist und die Kraft besitzt, die ganze Welt zu vernichten.",
+            "popularity": 15.059,
+            "poster_path": "/o8KVJOZR1bOP4gCkuEBmYpd9xOf.jpg",
+            "release_date": "2018-09-15",
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 1671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zzaFYbbn2jRhE1eAoqsS2LWR3EA.jpg",
+            "genre_ids": [
+                53,
+                18,
+                878
+            ],
+            "id": 405774,
+            "media_type": "movie",
+            "title": "Bird Box - Schließe deine Augen",
+            "original_language": "en",
+            "original_title": "Bird Box",
+            "overview": "Ein mysteriöser Schrecken hat die Welt heimgesucht. Es handelt sich dabei um eine mysteriöse Macht, die seine Opfer in den Selbstmord treibt. Sobald man sie erblickt erlebt man seine schlimmsten Ängste. Um sich und ihre zwei Kinder vor diesem grausamen Schicksal zu bewahren, muss sich Malorie mit ihnen in dieser in Angst und Schrecken versetzten Welt durchkämpfen. Dies mit verbundenen Augen, um dem unheimlichen Wesen keine Angriffsfläche zu bieten. Malorie erfährt von einem Ort am Fluß, an dem ein Überleben, vielleicht möglich ist. In einem kleinem Boot wagt sie mit ihren Kindern die gefährliche Fahrt …",
+            "popularity": 31.833,
+            "poster_path": "/dKuRb7CP2FEaMEtdXXn6YFU8H2Y.jpg",
+            "release_date": "2018-12-13",
+            "video": false,
+            "vote_average": 6.897,
+            "vote_count": 7852
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878,
+                35
+            ],
+            "id": 283995,
+            "media_type": "movie",
+            "title": "Guardians of the Galaxy Vol. 2",
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 2",
+            "overview": "Gerade erst sind in Guardians of the Galaxy aus Feinden Freunde geworden und schon machen die fünf Verbündeten gemeinsam das All unsicher. Peter Quill, Gamora, Rocket Raccoon, Groot und Drax the Destroyer bereisen als Weltraum-Abenteurer diesmal nicht nur bereits bekannte Orte, sondern stoßen auch in neue Winkel der Galaxie vor.  Nachdem die vergangenen Erlebnisse ihnen einige Rätsel aufgegeben haben, machen sie sich nun daran, diese zu lösen. ‘Star-Lord’ Peter Quill hat beispielsweise gerade entdeckt, dass er nicht rein menschlicher Herkunft ist, und - auch wenn er es noch nicht weiß - rückt ein Zusammentreffen mit seinem Vater nun in greifbare Nähe.",
+            "popularity": 70.082,
+            "poster_path": "/eS8QdTazpsaYbldW9KqyZlsOcEO.jpg",
+            "release_date": "2017-04-19",
+            "video": false,
+            "vote_average": 7.637,
+            "vote_count": 17181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 99861,
+            "media_type": "movie",
+            "title": "Avengers: Age of Ultron",
+            "original_language": "en",
+            "original_title": "Avengers: Age of Ultron",
+            "overview": "Milliardär, Lebemann und Genie Tony Stark aka Iron Man will ein inaktives Friedensprogramm in Gang bringen, doch dabei geht etwas schief. So taucht der niederträchtige Roboter-Bösewicht Ultron auf und verfolgt Pläne zur Ausrottung der Menschheit. Nun ist es an den Helden, sich wieder zu sammeln und das schreckliche Schicksal der Welt abzuwenden. Zusammen mit Iron Man treten Thor, Captain America, Hulk, Black Widow und Hawkeye dem fiesen Ultron entgegen und bekommen dabei Unterstützung von den ehemaligen S.H.I.E.L.D.-Agenten Nick Fury und Maria Hill. Außerdem kreuzen die geheimnisvollen und mit besonderen Fähigkeiten ausgestatteten Newcomer Wanda und Pietro Maximoff den Weg der Helden, wie auch ein alter Bekannter in neuer Gestalt: Vision. Die Rächer müssen ihre Kräfte vereinen, unsichere Allianzen schmieden und auf unerwartete Aktionen reagieren, um die Bewohner der Erde einmal mehr vor dem drohenden Untergang zu bewahren.",
+            "popularity": 129.185,
+            "poster_path": "/z3v1HDnF2jqspg4G6q1Lt7zTN8U.jpg",
+            "release_date": "2015-04-22",
+            "video": false,
+            "vote_average": 7.301,
+            "vote_count": 18586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6H0CfLRcgq0Pcq34wNypC2V3W41.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 320288,
+            "media_type": "movie",
+            "title": "X-Men: Dark Phoenix",
+            "original_language": "en",
+            "original_title": "Dark Phoenix",
+            "overview": "Etwa zehn Jahre nachdem sie es mit dem mächtigen Mutanten Apocalypse aufgenommen haben, sind die X-Men rund um Charles Xavier zu Helden geworden. Doch der damit einhergehende Ruhm steigt dem an den Rollstuhl gefesselten Telepathen zu Kopf, so dass er seine Schützlinge auf immer gefährlichere Missionen schickt. Für ihren jüngsten Auftrag schickt er die X-Men ins Weltall, wo sie verunglückte Astronauten retten sollen. Doch dabei wird ihr Raumschiff von einer Sonneneruption getroffen, die Jean Grey zwar absorbieren und umlenken kann, doch durch die enorme Energie erwacht eine mysteriöse Macht in ihr: die Phoenix Force. Jeans neue Kräfte lassen sich nur schwer kontrollieren und rufen schließlich auch eine außerirdische Gestaltwandlerin auf den Plan, die Jagd auf sie macht…",
+            "popularity": 43.871,
+            "poster_path": "/6NbUEHvqnYljIR8dicOubDMJrEs.jpg",
+            "release_date": "2019-06-05",
+            "video": false,
+            "vote_average": 6.044,
+            "vote_count": 4806
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 102899,
+            "media_type": "movie",
+            "title": "Ant-Man",
+            "original_language": "en",
+            "original_title": "Ant-Man",
+            "overview": "Als Hank Pym den smarten Superdieb Scott Lang für einen großen Coup anwirbt, setzt der Knastveteran seine Qualitäten erstmals für das Gute ein. Um zu verhindern, dass Pyms Technologie, mit der Belebtes und Unbelebtes auf Miniaturgröße geschrumpft werden kann, militärisch genutzt wird, soll Lang die Fortschritte von Pyms skrupellosem Kontrahenten Cross sabotieren und dessen Spezialanzug stehlen. Doch dafür muss Lang ein Superheldentraining absolvieren und lernen, ein Heer von Ameisen für seine Mission Impossible zu kontrollieren ...",
+            "popularity": 62.988,
+            "poster_path": "/i19WDSF030UObPPf60qkM0Hl03x.jpg",
+            "release_date": "2015-07-14",
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 16080
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 399579,
+            "media_type": "movie",
+            "title": "Alita: Battle Angel",
+            "original_language": "en",
+            "original_title": "Alita: Battle Angel",
+            "overview": "Auf der Erde sind im 26. Jahrhundert 300 Jahre nach dem großen Krieg die gesellschaftlichen Systeme zerfallen. Bei seiner Suche nach Cyborg-Technologie rettet der mysteriöse Wissenschaftler Dr. Ido aus einem Schrotthaufen eine weibliche Cyborg. Er flickt die künstliche Frau, deren Körper bis auf ihr menschliches Gehirn aus Maschinenteilen besteht, wieder zusammen, und wird zu einer Art Ersatzvater für sie. Doch Alita ist ein gefährliches Wesen. Sie kann sich nicht erinnern, wer sie ist oder woher sie kommt. Dr. Ido jedoch glaubt, dass sie diejenige ist, die den Kreislauf von Tod und Zerstörung, der von Tiphares zurückgelassen wurde, durchbrechen kann. Um ihrer wahren Bestimmung zu folgen, muss Alita kämpfen und töten. Als ein Geschenk des Himmels ist sie doch auch ein Engel des Todes.",
+            "popularity": 50.585,
+            "poster_path": "/qXklVCaR0EGJ9RWIaELhqvu9xTh.jpg",
+            "release_date": "2019-01-31",
+            "video": false,
+            "vote_average": 7.185,
+            "vote_count": 6915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+            "genre_ids": [
+                53,
+                18,
+                878
+            ],
+            "id": 450465,
+            "media_type": "movie",
+            "title": "Glass",
+            "original_language": "en",
+            "original_title": "Glass",
+            "overview": "Kevin Wendell Crumb ist noch immer auf freiem Fuß und hochgefährlich. Der junge Mann, der mehrere Persönlichkeiten in sich vereint, hat schon einige Menschenleben auf dem Gewissen und die Gefahr besteht, dass es schon sehr bald mehr werden, denn in ihm schlummert die Bestie, die gefährlichste seiner Persönlichkeiten. Der unverwundbare David Dunn, der seit dem Krebstod seiner Frau gemeinsam mit Sohn Joseph eine Sicherheitsfirma betreibt, heftet sich deshalb an seine Fersen, um ihm das Handwerk zu legen. In einem Lagerhaus kommt es zum Showdown zwischen Crumb und Dunn, der jedoch von einer Spezialeinheit der Polizei unterbrochen wird. Nun müssen die beiden Männer die Psychiaterin Dr. Ellie Staple davon überzeugen, dass sie keine Superkräfte haben – ansonsten werden sie für immer weggesperrt. Mit ihnen im Raum sitzt ein weiterer Patient mit einem vermeintlichen Superheldenkomplex: Elijah Price alias Mr. Glass …",
+            "popularity": 53.635,
+            "poster_path": "/gMVOafKfIDV2heaeBzH67x4HPAi.jpg",
+            "release_date": "2019-01-16",
+            "video": false,
+            "vote_average": 6.68,
+            "vote_count": 6514
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+}

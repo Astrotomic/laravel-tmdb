@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/mr1Oqt7l32JEtfsd6MEJ17pI400.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 9352,
+    "imdb_id": "tt0356150",
+    "original_language": "en",
+    "original_title": "EuroTrip",
+    "overview": "Scott hielt Mieke, seine Briefbekanntschaft aus Berlin, immer für einen Kerl. Doch kurz nachdem er “ihn” übelst beleidigt hat, muss er feststellen, dass Mieke die Frau seiner Träume ist. Dumm nur, daß sie jetzt auf keine E-mail mehr antworten will. Also macht sich Scott kurzerhand mit seinem Kumpel Cooper und den Zwillingen Jenny und Jamie auf nach Europa.",
+    "popularity": 16.218,
+    "poster_path": "/sQaTcyKN52bwS4YiYrhCUljfimq.jpg",
+    "production_companies": [
+        {
+            "id": 2364,
+            "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+            "name": "The Montecito Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 53012,
+            "logo_path": null,
+            "name": "Blue Sea Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CZ",
+            "name": "Czech Republic"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-02-20",
+    "revenue": 20796847,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eurotrip",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 1853
+}

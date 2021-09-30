@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": "/xXdsBOwGfNteKWzY05hYl7wnQGF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 743433,
+    "imdb_id": "tt13086644",
+    "original_language": "en",
+    "original_title": "Rubber Gun Club",
+    "overview": "",
+    "popularity": 3.014,
+    "poster_path": "/KyHvqnw1Xb8I5l3URcZIWNAUtY.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-21",
+    "revenue": 0,
+    "runtime": 10,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Rubber Gun Club",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

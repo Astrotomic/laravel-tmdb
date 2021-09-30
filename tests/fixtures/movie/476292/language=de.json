@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/pSsHFCwM5KMoRCc8X8wjpUDrlvr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://sayoasa.jp",
+    "id": 476292,
+    "imdb_id": "tt7339826",
+    "original_language": "ja",
+    "original_title": "さよならの朝に約束の花をかざろう",
+    "overview": "Maquia wurde in eine außergewöhnliche Familie hineingeboren, deren Mitglieder allesamt im Jugendalter aufhören zu altern. Ihr friedlicher Alltag wird eines Tages jedoch gewaltsam zerschlagen, als der Klan von einer Armee angegriffen wird, die auf das Geheimnis hinter jener Unsterblichkeit aus ist. Ein Mädchen namens Leilia wird entführt und auch Maquias heimlicher Schwarm verschwindet spurlos, doch ihr gelingt die Flucht. Während sie allein durch den Wald streift, stößt Maquia plötzlich auf einen kleinen Jungen, den sie Erial nennt und aufzieht. Je älter das Findelkind aber wird, umso bewusster wird sich Maquia ihrer Unsterblichkeit …",
+    "popularity": 55.327,
+    "poster_path": "/uQv2nvzw1oBbwSl2u3pr0Qq7rzm.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2018-02-24",
+    "revenue": 4300000,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Maquia - Eine unsterbliche Liebesgeschichte",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 385
+}

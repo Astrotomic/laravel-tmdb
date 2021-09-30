@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "belongs_to_collection": {
+        "id": 448150,
+        "name": "Deadpool Filmreihe",
+        "poster_path": "/ccC5pr4s8BtDPt5VtIEUKKn5z3u.jpg",
+        "backdrop_path": "/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg"
+    },
+    "budget": 110000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.foxmovies.com/movies/deadpool-2",
+    "id": 383498,
+    "imdb_id": "tt5463162",
+    "original_language": "en",
+    "original_title": "Deadpool 2",
+    "overview": "Nach einem weiteren herben Schicksalsschlag ist Deadpool des Lebens überdrüssig und versucht sich mithilfe von Benzinkanistern und einer Zigarette umzubringen. Doch der unkaputtbare Antiheld wird von seinem X-Men-Kumpanen Colossus gerettet und mit auf das abgeschiedene Anwesen der Mutanten genommen. Durch einen Zwischenfall mit dem Teenager-Mutanten Russell lernt Deadpool den Superschurken Cable kennen, der es auf den wütenden Halbstarken abgesehen hat. Zunächst kann Deadpool die Situation entschärfen – doch dann landen Russell und er plötzlich im Knast. Nun stellt er sich seine eigene Superheldencrew zusammen und rekrutiert unter anderem Domino und Zeitgeist um es mit Cable aufzunehmen…",
+    "popularity": 78.341,
+    "poster_path": "/uC7YwWcXusYgpWHSxl6njJDiFfk.jpg",
+    "production_companies": [
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 104228,
+            "logo_path": null,
+            "name": "Maximum Effort",
+            "origin_country": "US"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 28788,
+            "logo_path": null,
+            "name": "Genre Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-05-10",
+    "revenue": 786365638,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Er kommt nicht allein",
+    "title": "Deadpool 2",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 13741
+}

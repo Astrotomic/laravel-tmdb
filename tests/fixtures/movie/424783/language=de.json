@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+    "belongs_to_collection": null,
+    "budget": 135000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://bumblebeemovie.com",
+    "id": 424783,
+    "imdb_id": "tt4701182",
+    "original_language": "en",
+    "original_title": "Bumblebee",
+    "overview": "Im Jahr 1987 versteckt sich das mysteriöse Maschinenwesen Bumblebee in der Gestalt eines alten VW Käfers auf dem Schrottplatz einer kleinen kalifornischen Küstenstadt. Kurz vor ihrem achtzehnten Geburtstag und auf der Suche nach ihrem Platz im Leben, findet die rebellische Charlie den kaputten und kampfgeschwächten Bumblebee. Mit mechanischem Geschick beginnt sie ihn zu reparieren und lernt schnell, dass es sich keineswegs nur um eine alte Schrottmühle handelt …",
+    "popularity": 41.419,
+    "poster_path": "/rkPJYNGc1lwcFhYhjGlY15vQQP4.jpg",
+    "production_companies": [
+        {
+            "id": 2598,
+            "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+            "name": "Hasbro",
+            "origin_country": ""
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 57031,
+            "logo_path": null,
+            "name": "Allspark Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6734,
+            "logo_path": null,
+            "name": "Bay Films",
+            "origin_country": ""
+        },
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 81620,
+            "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+            "name": "Tencent Pictures",
+            "origin_country": "CN"
+        },
+        {
+            "id": 38831,
+            "logo_path": null,
+            "name": "Tom DeSanto/Don Murphy Production",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-12-15",
+    "revenue": 467989645,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Jedes Abenteuer hat einen Anfang.",
+    "title": "Bumblebee",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 4614
+}

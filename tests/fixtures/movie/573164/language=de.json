@@ -1,0 +1,47 @@
+{
+    "adult": false,
+    "backdrop_path": "/uHmvk8FnoxpgujDU0RIXLkv2fNt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 573164,
+    "imdb_id": "tt8049994",
+    "original_language": "es",
+    "original_title": "Un rescate de huevitos",
+    "overview": "",
+    "popularity": 493.14,
+    "poster_path": "/wrlQnKHLCBheXMNWotyr5cVDqNM.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "release_date": "2021-08-12",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Un rescate de huevitos",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 236
+}

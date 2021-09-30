@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/z0d353vPcrRIzcDePKOndyz9sWs.jpg",
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://warnervideo.com/greenlanternemeraldknights/",
+    "id": 65291,
+    "imdb_id": "tt1683043",
+    "original_language": "en",
+    "original_title": "Green Lantern: Emerald Knights",
+    "overview": "Mit den Storys berühmter Autoren wie Geoff Johns, Alan Burnett und Dave Gibbons entführt uns dieser animierte Originalfilm aus dem DC Universe mit Hilfe von sechs miteinander verbundenen Kapiteln in die detailreiche Mythologie des Green Lantern-Universums. Die von der Erde stammenden Green Lantern Hal Jordan, Kilowog, Sinestro und andere Mitglieder des Green Lantern Corps müssen sich in Kürze Krona - einem alten Feind der Wächter des Universums - zum Kampf stellen. Bis es soweit ist, erzählen sie der neuen Rekrutin Arisia ihre größten Abenteuer - vom ersten Lantern bis zu den unheilvollen Ereignissen, die dem Corps seine schlimmste Nacht bescherte!",
+    "popularity": 37.73,
+    "poster_path": "/tk7jyiMubRqe56goFgTtWczn2oS.jpg",
+    "production_companies": [
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        },
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 4811,
+            "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+            "name": "Warner Premiere",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-04-09",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Green Lantern - Emerald Knights",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 374
+}

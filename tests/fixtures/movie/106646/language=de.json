@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/cWUOv3H7YFwvKeaQhoAQTLLpo9Z.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://upig.de/micro/the-wolf-of-wall-street.html",
+    "id": 106646,
+    "imdb_id": "tt0993846",
+    "original_language": "en",
+    "original_title": "The Wolf of Wall Street",
+    "overview": "New York in den frühen 1990er Jahren. Der aufstrebende Aktienhändler Jordan Belfort gründet mit Anfang 20 die Maklerfirma \"Stratton Oakmont\", mit der er schnell zum Multimillionär aufsteigt und zum Shootingstar der New Yorker Börse wird. Schon bald ist er hauptsächlich unter seinem neuen Spitznamen \"Wolf of Wall Street\" bekannt. Mit seinem Reichtum finanziert er einen ausschweifenden Lebensstil, der von Alkohol, Drogen, Sex und Dekadenz geprägt ist. Jordans Siegeszug scheint nicht zu stoppen zu sein, doch dies lässt ihn übermütig werden. Von unstillbarer Gier getrieben und mit dem Gefühl der Unbesiegbarkeit im Rücken lassen er und seine \"Wolfsbande\", darunter sein Kumpel Donnie Azoff, sich auf illegale Geschäfte ein. Das zieht schon bald die Aufmerksamkeit der Justiz auf sich, besonders der FBI-Agent Patrick Denham schaut aufmerksam hinter die Fassade von Belforts Firmengeflecht. Als die Gesetzeshüter Jordan langsam auf die Schliche kommen, droht sein gesamtes Kartenhaus einzustürzen.",
+    "popularity": 106.835,
+    "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+    "production_companies": [
+        {
+            "id": 14654,
+            "logo_path": null,
+            "name": "EMJAG Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 19177,
+            "logo_path": null,
+            "name": "Red Granite Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 562,
+            "logo_path": "/k3NsSdV854UX4zEReX1dl1Psxbb.png",
+            "name": "Appian Way",
+            "origin_country": "US"
+        },
+        {
+            "id": 23243,
+            "logo_path": null,
+            "name": "Sikelia Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 6548,
+            "logo_path": "/rlm70Ypcfis5L6Q7MlWxhW7IbCy.png",
+            "name": "Paramount Home Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-12-25",
+    "revenue": 392000000,
+    "runtime": 165,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Verdienen, Ausgeben, Party!",
+    "title": "The Wolf of Wall Street",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 18349
+}

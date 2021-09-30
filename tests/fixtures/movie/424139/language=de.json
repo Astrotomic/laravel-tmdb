@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/czRXzKy5YcvoVhRUb8RQsFHUDi1.jpg",
+    "belongs_to_collection": {
+        "id": 91361,
+        "name": "Halloween Filmreihe",
+        "poster_path": "/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg",
+        "backdrop_path": "/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.halloweenmovie.com",
+    "id": 424139,
+    "imdb_id": "tt1502407",
+    "original_language": "en",
+    "original_title": "Halloween",
+    "overview": "Der Film knüpft an die Geschehnisse des Films \"Halloween - Die Nacht des Grauens\" an, jedoch wird Michael Myers nach dem Beschuss von Psychiater Dr. Loomis in Laurie Strodes Haus in Haddonfield verhaftet, statt wie im ursprünglichen zweiten Teil die Flucht zu ergreifen, um weiter morden zu können. So wird Michael erneut in einer Psychiatrie inhaftiert, bis es ihm 40 Jahre später zu Halloween gelingt, aus der Anstalt zu entkommen und sich wieder nach Haddonfield zu begeben. Laurie Strode, die erneut Myers Ziel darstellt, hat sich allerdings während der letzten vier Jahrzehnte auf seinen Ausbruch vorbereitet.",
+    "popularity": 54.304,
+    "poster_path": "/57WcsHTRulO6Kh3zXZoDcVqbwad.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3172,
+            "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 15822,
+            "logo_path": "/Aodu1OPI0LHTWYr7Jlm4R2XY2og.png",
+            "name": "Trancas International Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 20848,
+            "logo_path": "/htPfdm3yNRVsDz8CyyMozALKOO0.png",
+            "name": "Rough House Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-10-18",
+    "revenue": 253688035,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Halloween - Stelle dich deinem Schicksal",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 3419
+}

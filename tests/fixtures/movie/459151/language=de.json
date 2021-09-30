@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/akwg1s7hV5ljeSYFfkw7hTHjVqk.jpg",
+    "belongs_to_collection": {
+        "id": 519457,
+        "name": "The Boss Baby Filmreihe",
+        "poster_path": "/jsywd2Ie8K7LRZU1PZCaQBCCLv8.jpg",
+        "backdrop_path": "/n2opkcFxIGc0plZJs45CAH8IjiF.jpg"
+    },
+    "budget": 82000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "https://www.dreamworks.com/movies/the-boss-baby-2",
+    "id": 459151,
+    "imdb_id": "tt6932874",
+    "original_language": "en",
+    "original_title": "The Boss Baby: Family Business",
+    "overview": "",
+    "popularity": 884.127,
+    "poster_path": "/w6yaiuIFPKTCx93LHeRAMXK72jh.jpg",
+    "production_companies": [
+        {
+            "id": 521,
+            "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+            "name": "DreamWorks Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-01",
+    "revenue": 112000000,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Boss Baby: Family Business",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 1437
+}

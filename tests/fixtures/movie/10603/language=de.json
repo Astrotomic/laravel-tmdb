@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/laIWt6mbozwAzJWkyuiPF3MVsV.jpg",
+    "belongs_to_collection": {
+        "id": 126221,
+        "name": "George of the Jungle Collection",
+        "poster_path": "/4zBbsGW3QXmZcNyKNAvth9gYW9e.jpg",
+        "backdrop_path": "/s8l8StTGraJRWniG6cUK3DDEvH7.jpg"
+    },
+    "budget": 55000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 10603,
+    "imdb_id": "tt0119190",
+    "original_language": "en",
+    "original_title": "George of the Jungle",
+    "overview": "Society-Girl Ursula ist sich nicht sicher: Heiratet sie nun den reichen Lyle oder heiratet sie ihn nicht? Ein Urlaub im afrikanischen Dschungel soll ihr Klarheit verschaffen. Doch genau dort begegnet ihr der in der Wildnis aufgewachsene, fabelhaft aussehende George, der zusammen mit seinem sprechenden Affen Ape in einem komfortablen Baumhaus lebt. Ehe sich Lyle versieht, funkt es zwischen Ursula und George. Und als Großstadtpflanze Ursula kurzerhand ihre neue Liebe mit in ihre Heimatstadt San Francisco nimmt, ist es für Lyle schon mal an der Zeit, etwas zu unternehmen. Gemeinsam mit den beiden Gaunern Max und Thor versucht er, das junge Glück zu stören. Doch das ist nicht das einzige Problem, das der geübte Lianenfliger George hat...",
+    "popularity": 17.676,
+    "poster_path": "/lWp8hUqE4oLPxsYgilXoYoVThfU.jpg",
+    "production_companies": [
+        {
+            "id": 10227,
+            "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+            "name": "Mandeville Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-07-15",
+    "revenue": 174463257,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Er kam, sah und... rutschte ab!",
+    "title": "George - Der aus dem Dschungel kam",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 1566
+}

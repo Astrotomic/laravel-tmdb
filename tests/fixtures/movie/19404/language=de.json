@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/5hNcsnMkwU2LknLoru73c76el3z.jpg",
+    "belongs_to_collection": null,
+    "budget": 13200000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 19404,
+    "imdb_id": "tt0112870",
+    "original_language": "hi",
+    "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+    "overview": "Eine Europareise mit romantischen Folgen: Auf seiner Interrailtour begegnet Raj Simran, einem Mädchen aus gutem Hause. Seinen Annäherungsversuchen geht sie zunächst erfolgreich aus dem Weg, denn immerhin ist Simran bereits einem Anderen versprochen. Doch in der Schweiz, auf fahrenden Zügen und duftenden Almwiesen, erliegt sie seinem Charme, und bald ist klar: Sie gehören zusammen. Nur Simrans Familie stellt sich ihrem Glück entgegen. \"Dilwale Dulhania Le Jayenge\" markiert die Geburtsstunde des Leinwandtraumpaars Shah Rukh Khan und Kajol und gilt unumstritten als Meilenstein indischer Film- und Kulturgeschichte. Neben des ausgeprägt zelebrierten Schweiz-Mythos kommen hier alle wichtigen Grundzutaten soliden Bollywoodkinos zusammen und machen den Film zu einer der erfolgreichsten indischen Produktionen aller Zeiten, die selbst heute noch in den Kinos Indiens zu sehen ist.",
+    "popularity": 25.065,
+    "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "production_companies": [
+        {
+            "id": 1569,
+            "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+            "name": "Yash Raj Films",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "1995-10-20",
+    "revenue": 100000000,
+    "runtime": 189,
+    "spoken_languages": [
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dilwale Dulhania Le Jayenge - Wer zuerst kommt, kriegt die Braut",
+    "video": false,
+    "vote_average": 8.8,
+    "vote_count": 3149
+}

@@ -1,0 +1,412 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/akwg1s7hV5ljeSYFfkw7hTHjVqk.jpg",
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "id": 459151,
+            "original_language": "en",
+            "original_title": "The Boss Baby: Family Business",
+            "overview": "",
+            "popularity": 884.127,
+            "poster_path": "/w6yaiuIFPKTCx93LHeRAMXK72jh.jpg",
+            "release_date": "2021-07-01",
+            "title": "The Boss Baby: Family Business",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                878
+            ],
+            "id": 497698,
+            "original_language": "en",
+            "original_title": "Black Widow",
+            "overview": "Nachdem sie das Sokovia-Abkommen abgelehnt und Steve Rogers zur Flucht verholfen hat, befindet sich Natasha Romanoff auf der Flucht. Von der Regierung gejagt, führt sie ihr Weg nach Russland, wo sie auf alte Verbündete und neue Feinde trifft.",
+            "popularity": 872.686,
+            "poster_path": "/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+            "release_date": "2021-07-07",
+            "title": "Black Widow",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 5207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 482373,
+            "original_language": "en",
+            "original_title": "Don't Breathe 2",
+            "overview": "Der Blinde Mann versteckt sich seit Jahren in einer abgelegenen Hütte und hat ein junges Mädchen aufgenommen und aufgezogen, das seine Eltern bei einem Hausbrand verloren hat. Als das Mädchen jedoch von einer Gruppe Entführern mitgenommen wird, ist er gezwungen, seinen sicheren Zufluchtsort zu verlassen, um sie zu retten.",
+            "popularity": 844.883,
+            "poster_path": "/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg",
+            "release_date": "2021-08-12",
+            "title": "Don't Breathe 2",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 792
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dsdbViTNjLu4DbgkkYmuY4xDQ20.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 585216,
+            "original_language": "en",
+            "original_title": "Escape Room: Tournament of Champions",
+            "overview": "Sechs Menschen finden sich unwissentlich in einer weiteren Serie von Escape Rooms eingesperrt und entdecken langsam, was sie gemeinsam haben, um zu überleben. Als sie sich mit zwei der ursprünglichen Überlebenden zusammentun, bemerken sie bald, dass sie alle das Spiel schon einmal gespielt haben.",
+            "popularity": 829.631,
+            "poster_path": "/ek8XGUtt04DfBDT7DL1eUrBdIa7.jpg",
+            "release_date": "2021-07-01",
+            "title": "Escape Room 2: No Way Out",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 464
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nprqOIEfiMMQx16lgKeLf3rmPrR.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 619297,
+            "original_language": "en",
+            "original_title": "Sweet Girl",
+            "overview": "Die Liebe seines Lebens fiel der Gier eines Pharmakonzerns zum Opfer. Die Tragödie nahm seiner Tochter die Mutter und ihm den Glauben an Gerechtigkeit - bis jetzt.",
+            "popularity": 767.813,
+            "poster_path": "/htUb3Yadin47J42P5ePqzRMKpXZ.jpg",
+            "release_date": "2021-08-18",
+            "title": "Sweet Girl",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 607
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/26LIw3oKGPUEGUpb8AXZ64dZZt8.jpg",
+            "genre_ids": [
+                16,
+                35,
+                9648,
+                10751,
+                14
+            ],
+            "id": 843906,
+            "original_language": "en",
+            "original_title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+            "overview": "",
+            "popularity": 765.248,
+            "poster_path": "/uIdMpWrQ30SHPINsy7LcPFloyvO.jpg",
+            "release_date": "2021-09-14",
+            "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qD45xHA35HdJDGOaA1AgDwiWEgO.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744275,
+            "original_language": "en",
+            "original_title": "After We Fell",
+            "overview": "Gerade als Tessa die größte Entscheidung ihres Lebens trifft, ändert sich alles. Die einzige Person, auf die sie sich verlassen kann, ist Hardin. Enthüllungen über ihre Familien stellen jedoch bald alles, was sie bisher wussten, in Frage und erschweren ihre hart erkämpfte gemeinsame Zukunft.",
+            "popularity": 759.167,
+            "poster_path": "/jkdVZm3H3emQ5tgnNYvjy9XWjA4.jpg",
+            "release_date": "2021-09-01",
+            "title": "After Love",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14
+            ],
+            "id": 635302,
+            "original_language": "ja",
+            "original_title": "劇場版「鬼滅の刃」無限列車編",
+            "overview": "Tanjirō und seine Gefährten haben ihr Rehabilitationstraining im Schmetterlingsanwesen abgeschlossen und erreichen den Ort ihrer nächsten Mission. Im »Mugen-Zug« sind über 40 Leute innerhalb kürzester Zeit verschwunden. Tanjirō, Nezuko, Zenitsu und Inosuke schließen sich einem der mächtigsten Schwertkämpfer unter den Dämonenjägern an: der Säule der Flammen Kyōjurō Rengoku. Zusammen wollen sie sich dem Dämon stellen, der im »Mugen-Zug« lauert und begeben sich auf eine Fahrt in die Dunkelheit.",
+            "popularity": 758.997,
+            "poster_path": "/mMpXLt798qiFrTMdaFPzOBi7h6I.jpg",
+            "release_date": "2020-10-16",
+            "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 1682
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDnFlNrNUoSKPq4uptnhYmUZNpm.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648,
+                80
+            ],
+            "id": 619778,
+            "original_language": "en",
+            "original_title": "Malignant",
+            "overview": "Madison wurde einst als traumatisiertes Mächen von einer liebevollen Pflegefamilie adoptiert. Als erwachsene Frau wird sie nun von ihrer tragischen Vergangenheit eingeholt, denn Gabriel, ihr vermeintlich imaginärer bester Freund aus Kindheitstagen, scheint sehr wohl zu existieren. Allerdings verfolgt ihr einstiger Wegbegleiter keineswegs gute Absichten, sondern reißt Madison vielmehr mit in einen dunklen Strudel hinab: Gabriel begeht nämlich eine Reihe brutaler Morde, die Madison aufgrund ihrer besonderen Verbindung zu ihm mitansieht, als wäre sie live selbst mit dabei. Aber geschehen die Taten wirklich oder existieren die blutigen Vorfälle nur in ihren Gedanken? Die Grenze zwischen Wahrheit und Einbildung sind längst verschwommen.",
+            "popularity": 744.281,
+            "poster_path": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+            "release_date": "2021-09-01",
+            "title": "Malignant",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 635
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg",
+            "genre_ids": [
+                14,
+                10751,
+                27
+            ],
+            "id": 739990,
+            "original_language": "en",
+            "original_title": "Nightbooks",
+            "overview": "Als Alex (Winslow Fegley), ein Junge, der von Gruselgeschichten besessen ist, von einer bösen Hexe (Krysten Ritter) in ihrer magischen Wohnung gefangen wird und jede Nacht eine Gruselgeschichte erzählen muss, um am Leben zu bleiben, tut er sich mit der anderen Gefangenen Yasmin (Lidya Jewett), zusammen, um einen Ausweg aus dieser misslichen Lage zu finden.",
+            "popularity": 728.096,
+            "poster_path": "/ysJte1iqN8pFQ470tumnViB1wHP.jpg",
+            "release_date": "2021-09-15",
+            "title": "Nightbooks",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gzppdxEJ6fofhtLzSVSUJZEVxvq.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "id": 848278,
+            "original_language": "en",
+            "original_title": "Jurassic Hunt",
+            "overview": "",
+            "popularity": 712.132,
+            "poster_path": "/bZnOioDq1ldaxKfUoj3DenHU7mp.jpg",
+            "release_date": "2021-09-01",
+            "title": "Jurassic Hunt",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3GgkzCDq6KYpcmJmcOKh27hYRyj.jpg",
+            "genre_ids": [
+                12,
+                16,
+                10751,
+                14
+            ],
+            "id": 588921,
+            "original_language": "en",
+            "original_title": "Ainbo: Spirit of the Amazon",
+            "overview": "Im tiefsten Dschungel des Amazonas, in Colonia, ist ein Mädchen geboren und aufgewachsen, das auf dem Rücken des mächtigsten Muttergeistes des Amazonas ruht. Eines Tages entdeckt sie, dass ihre Heimat bedroht ist und stellt fest, dass es neben ihrem Volk noch andere Menschen auf der Welt gibt. Sie kämpft für die Rettung ihres Paradieses gegen die Gier und Ausbeutung der Kinder, die Abholzung und den illegalen Bergbau. Sie beginnt zu kämpfen, um diese Zerstörung und das drohende Übel rückgängig zu machen. Geleitet vom Geist ihrer Mutter, ist Ainbo entschlossen, ihr Land und ihr Volk zu retten, bevor es zu spät ist.",
+            "popularity": 688.373,
+            "poster_path": "/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg",
+            "release_date": "2021-02-09",
+            "title": "Ainbo - Hüterin des Amazonas",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35,
+                10402,
+                12
+            ],
+            "id": 597316,
+            "original_language": "en",
+            "original_title": "My Little Pony: A New Generation",
+            "overview": "Die Magie ist weg und deswegen leben Erdponys, Einhörner und Pegasoi nun getrennt voneinander. Befreundet sind sie nicht mehr. Zum Glück will das engagierte Erdpony Sunny (Stimme im Original: Vanessa Hudgens) diesen traurigen neuen Zustand nicht hinnehmen. Sie ist fest entschlossen, einen Weg zu finden, damit die Magie und der Frieden ins Land Equestria zurückkehren. Sunny und das offenherzige Einhorn Izzy (Kimiko Glenn) reisen weit und treffen unterwegs Pipp (Sofia Carson), Zipp (Liza Koshy) und Hitch (James Marsden). Jeder und jede von ihnen hat einzigartige Fähigkeiten, sodass es den neuen Freunden gemeinsam bestimmt gelingen wird, die Magie nach Equestria zurückzuholen.",
+            "popularity": 671.77,
+            "poster_path": "/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg",
+            "release_date": "2021-09-23",
+            "title": "My little Pony - Eine neue Generation",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+            "genre_ids": [
+                53,
+                18,
+                36
+            ],
+            "id": 522241,
+            "original_language": "en",
+            "original_title": "The Courier",
+            "overview": "Während des Kalten Kriegs: Oleg Penkowski (Merab Ninidze) ist ehemaliger Geheimdienstoffizier der Sowjetunion und hat noch immer Kontakte in den Kreml, weshalb er nun die westlichen Geheimdienste mit Informationen versorgt. Angesichts der zunehmenden Eskalation des Konflikts mit den USA und der impulsiven Natur von KPdSU-Parteichef Nikita Khrushchev (Vladimir Chuprikov) fürchtet Penkowski einen drohenden Krieg und beschließt zu handeln. Er kontaktiert im Geheimen die amerikanische Botschaft in Moskau. CIA-Agentin Emily Donovan (Rachel Brosnahan) holt schließlich auch den britischen MI6 an Bord, denn sie hat einen Plan: Der unauffällige und harmlose Vertreter Greville Wynne (Benedict Cumberbatch) soll nichtsahnend mit Penkowski Kontakt aufnehmen. Nach und nach freunden sich die beiden Männer bei gegenseitigen Besuchen in Moskau und London an, doch die westlichen Geheimagenten spannen Wynne auch immer mehr in ihre Ränkespiele ein...",
+            "popularity": 639.171,
+            "poster_path": "/boZzebSbOv3csPJqjOJqPfhVuwi.jpg",
+            "release_date": "2021-03-18",
+            "title": "Der Spion",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mHU833IrBRfZ3hhzEQsiiw2D8Nc.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 565028,
+            "original_language": "en",
+            "original_title": "Candyman",
+            "overview": "Der Künstler Anthony McCoy stößt auf die Geschichte des „Candyman“, die er zunächst als Inspiration in seinen Bildern verarbeitet. Als plötzlich mehrere Menschen brutal ermordet werden, verliert Anthony jedoch allmählich seinen Verstand.",
+            "popularity": 637.94,
+            "poster_path": "/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+            "release_date": "2021-08-25",
+            "title": "Candyman",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AjfmYvPStX3fRMOYtPWAvWQjVHc.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 725273,
+            "original_language": "en",
+            "original_title": "Solitary",
+            "overview": "",
+            "popularity": 609.385,
+            "poster_path": "/aSuvkMToQevzJduda2xiqkt8QNE.jpg",
+            "release_date": "2021-09-24",
+            "title": "Solitary",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AjQgFtfXTmmMVuaH2VfQDdGbeQH.jpg",
+            "genre_ids": [
+                28,
+                18,
+                80
+            ],
+            "id": 706972,
+            "original_language": "en",
+            "original_title": "Narco Sub",
+            "overview": "",
+            "popularity": 606.502,
+            "poster_path": "/7p0O4mKYLIhU2E5Zcq9Z3vOZ4e9.jpg",
+            "release_date": "2021-01-22",
+            "title": "Narco Sub",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kDQdFs5XL6G8TuXvd0NnJfQ59GP.jpg",
+            "genre_ids": [
+                878,
+                12,
+                9648,
+                28,
+                53,
+                14,
+                35
+            ],
+            "id": 641501,
+            "original_language": "fr",
+            "original_title": "Comment je suis devenu super-héros",
+            "overview": "Lieutenant Gary Moreau (Pio Marmai) und seine Kollegin Cécile Schaltzmann (Vimala Pons) arbeiten für die Polizei im Paris des Jahres 2021, in dem Superhelden und Superheldinnen perfekt in die Gesellschaft integriert sind. Doch das ändert sich, als eine neue Droge auf den Markt kommt. Diese verleiht denen, die sie nehmen, temporär übermenschliche Kräfte – dumm nur, wenn diese in die falschen Hände geraten. Moreau und Schaltzmann werden damit beauftragt, dem Fall auf den Grund zu gehen. Hilfe erhalten sie dabei von Henri Monté Carlo (Benoît Poelvoorde) und Callista (Leïla Bekhti), einem Held und einer Heldin der alten Schule. Doch dann wird Moreau von seiner eigenen Vergangenheit eingeholt und der Fall erweist sich als ausgesprochen kompliziert.",
+            "popularity": 596.378,
+            "poster_path": "/5UDe6oVAIv6PC7eJ046o6oCyQc3.jpg",
+            "release_date": "2020-11-19",
+            "title": "Wie ich ein Superheld wurde",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kmuSGNlF9mfNHIDOEVEWPj6f3Ak.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 337404,
+            "original_language": "en",
+            "original_title": "Cruella",
+            "overview": "London in den 1970er Jahren: Die junge Estella ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace und Jasper, streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
+            "popularity": 591.952,
+            "poster_path": "/gqH6myf3cTomHrzc5bJEpdH0dEX.jpg",
+            "release_date": "2021-05-26",
+            "title": "Cruella",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 5515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b8cduNIEf75tBSFXDwBJfNAQMFP.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 659940,
+            "original_language": "da",
+            "original_title": "Marco effekten",
+            "overview": "",
+            "popularity": 591.468,
+            "poster_path": "/u1cROU3xbE3ndDygREi3UO5cRoN.jpg",
+            "release_date": "2021-05-27",
+            "title": "Marco effekten",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 9
+        }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+}

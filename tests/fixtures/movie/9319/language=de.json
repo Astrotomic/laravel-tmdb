@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/7BpvLurE2NbI1MhuoG5TfBNa7oC.jpg",
+    "belongs_to_collection": null,
+    "budget": 29000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/last-boy-scout",
+    "id": 9319,
+    "imdb_id": "tt0102266",
+    "original_language": "en",
+    "original_title": "The Last Boy Scout",
+    "overview": "Seinen schönen Job als Bodyguard des US-Präsidenten hat Joe Hallenbeck vor Jahren verloren. Aber als abgewrackter Privatdetektiv zieht er die Gefahr an wie ein Magnet. Nach “Stirb langsam” geht es für Superstar Bruce Willis im Kampf gegen die millionenschwere Football-Mafia von L.A. jetzt ums nackte Überleben. Bruce Willis und Damon Wayans liefern sich einen Schlagabtausch mit coolen Sprüchen und knallharter Action.",
+    "popularity": 20.081,
+    "poster_path": "/dJr6VfMsqwdjXNnfcztuERIjz9C.jpg",
+    "production_companies": [
+        {
+            "id": 360,
+            "logo_path": null,
+            "name": "Geffen Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1885,
+            "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+            "name": "Silver Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1991-12-11",
+    "revenue": 59509925,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Amerikas letzter Held.",
+    "title": "Last Boy Scout - Das Ziel ist Überleben",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 1291
+}

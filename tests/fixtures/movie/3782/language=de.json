@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 3782,
+    "imdb_id": "tt0044741",
+    "original_language": "ja",
+    "original_title": "生きる",
+    "overview": "Japanischer Film von Akira Kurosawa aus dem Jahr 1952. Als Kanji Watanabe erfährt, dass er Krebs hat und nur noch weniger Wochen leben wird, beschließt er seinem Leben neuen Sinn zu geben.",
+    "popularity": 8.063,
+    "poster_path": "/uMaLKmpxepW4Uq8lcCpels656u0.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho Co.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1952-10-09",
+    "revenue": 55240,
+    "runtime": 143,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ikiru - Einmal wirklich leben",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 707
+}

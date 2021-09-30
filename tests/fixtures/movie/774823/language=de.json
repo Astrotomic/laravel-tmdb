@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/8RL9atBsuRnRAhh0I2gWIV3AGfP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 774823,
+    "imdb_id": "tt10334438",
+    "original_language": "en",
+    "original_title": "Becoming Cousteau",
+    "overview": "",
+    "popularity": 7.187,
+    "poster_path": "/8RqcNsOlnRCH1XqU1YwtFBavqqm.jpg",
+    "production_companies": [
+        {
+            "id": 7521,
+            "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        },
+        {
+            "id": 76003,
+            "logo_path": null,
+            "name": "The Cousteau Society",
+            "origin_country": ""
+        },
+        {
+            "id": 136480,
+            "logo_path": "/5fLrloYGsWbdxS0HMmetiyZJ0Tw.png",
+            "name": "Story Syndicate",
+            "origin_country": "US"
+        },
+        {
+            "id": 159848,
+            "logo_path": "/A6u1GtsjaBil5NWsztXVB7MNoKx.png",
+            "name": "Ace Content",
+            "origin_country": ""
+        },
+        {
+            "id": 4183,
+            "logo_path": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+            "name": "Diamond Docs",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-22",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Becoming Cousteau",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

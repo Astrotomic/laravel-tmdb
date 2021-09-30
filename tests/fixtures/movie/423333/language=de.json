@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/cv6Nn8Yt9mgFoUSievEdW9JK82A.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://bleeckerstreetmedia.com/mass",
+    "id": 423333,
+    "imdb_id": "tt11389748",
+    "original_language": "en",
+    "original_title": "Mass",
+    "overview": "",
+    "popularity": 9.742,
+    "poster_path": "/h5NjOofdHeb6VX8U4xJHq8dfNOI.jpg",
+    "production_companies": [
+        {
+            "id": 148450,
+            "logo_path": null,
+            "name": "7 Eccles Street",
+            "origin_country": ""
+        },
+        {
+            "id": 63690,
+            "logo_path": null,
+            "name": "Circa 1888",
+            "origin_country": ""
+        },
+        {
+            "id": 109345,
+            "logo_path": null,
+            "name": "5B Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 19414,
+            "logo_path": "/xtZztkvakekloKHF857Hy8ttAs8.png",
+            "name": "Bleecker Street",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mass",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

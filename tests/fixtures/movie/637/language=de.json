@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 637,
+    "imdb_id": "tt0118799",
+    "original_language": "it",
+    "original_title": "La vita è bella",
+    "overview": "Die Geschichte eines italienischen Buchhändlers jüdischer Abstammung, der in seiner eigenen Märchenwelt lebt. Doch seine kreative Vorstellungskraft wird vor eine bittere Herausforderung gestellt, als er mit seiner ganzen Familie während des Holocaust in ein Konzentrationslager deportiert wird. Kurzerhand erklärt er seinem kleinen Sohn, dass alles nur ein Spiel sei.",
+    "popularity": 24.479,
+    "poster_path": "/ule20QbkvWHv2T2UkC0qr9M5IxR.jpg",
+    "production_companies": [
+        {
+            "id": 370,
+            "logo_path": null,
+            "name": "Melampo Cinematografica",
+            "origin_country": "IT"
+        },
+        {
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+        },
+        {
+            "id": 113521,
+            "logo_path": "/fF4xLqMQ0C6Laql7HpzRnvn8hfi.png",
+            "name": "StudioCanal",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1997-12-20",
+    "revenue": 230098753,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das Leben ist schön",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 10464
+}

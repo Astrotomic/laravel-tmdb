@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/chjkfyo57JexWo1YeIZRMk8wA4m.jpg",
+    "belongs_to_collection": {
+        "id": 125570,
+        "name": "300 Filmreihe",
+        "poster_path": "/15c4BOYE7gJn1jTN1VxA9KBjcnq.jpg",
+        "backdrop_path": "/aMGlbrOwAiqN7VyYHYwwj3CTDfk.jpg"
+    },
+    "budget": 110000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.300themovie.com/",
+    "id": 53182,
+    "imdb_id": "tt1253863",
+    "original_language": "en",
+    "original_title": "300: Rise of an Empire",
+    "overview": "Griechenland, 490 vor Christus. Während Spartas König Leonidas mit 300 Kriegern an den Thermopylen kämpft, stemmt sich Athens Feldherr Themistokles zur See gegen die Übermacht der persischen Invasoren. Mit strategischem Geschick und dem Mut der Verzweiflung können die Griechen blutige Schneisen in die mächtige Flotte des Feindes schlagen, zeigt sich sogar Persiens gnadenlose Flottenführerin Artemisia beeindruckt von ihrem Gegner, der seine Furchtlosigkeit und Kampfkunst in drei großen Schlachten unter Beweis stellt.",
+    "popularity": 28.861,
+    "poster_path": "/dfmIok6B1sUW642zyiCtbnBRCoW.jpg",
+    "production_companies": [
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2994,
+            "logo_path": null,
+            "name": "Hollywood Gang Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 2995,
+            "logo_path": null,
+            "name": "Atmosphere Entertainment MM",
+            "origin_country": "US"
+        },
+        {
+            "id": 7636,
+            "logo_path": "/e6uCvCNTf0nnery1iaQh6QSgpbn.png",
+            "name": "Nimar Studios",
+            "origin_country": "BG"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9995,
+            "logo_path": "/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png",
+            "name": "Cruel & Unusual Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-03-05",
+    "revenue": 337580051,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ergreife deinen Ruhm",
+    "title": "300: Rise of an Empire",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 5233
+}

@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/6esNUoXh4xQvucB7o7e3TCfjI65.jpg",
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://foxmovies.com/movies/the-art-of-racing-in-the-rain",
+    "id": 522924,
+    "imdb_id": "tt1478839",
+    "original_language": "en",
+    "original_title": "The Art of Racing in the Rain",
+    "overview": "Enzo und die wundersame Welt der Menschen basiert auf Garth Steins Bestseller und ist eine herzerwärmende Geschichte, die aus der Perspektive von Enzo, einem geistreichen und philosophierenden Hund erzählt wird. Durch die Freundschaft mit seinem Besitzer Denny Swift, einem aufstrebenden Formel 1 Fahrer, hat Enzo tiefen Einblick in das Wesen der Menschen bekommen.",
+    "popularity": 25.541,
+    "poster_path": "/9JjYqZ9izxPuzEz4Ddupgnuu0Tf.jpg",
+    "production_companies": [
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 121671,
+            "logo_path": null,
+            "name": "Shifting Gears Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 711,
+            "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+            "name": "Fox 2000 Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1708,
+            "logo_path": null,
+            "name": "Starbucks Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-08-08",
+    "revenue": 33766787,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Enzo und die wundersame Welt der Menschen",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 897
+}

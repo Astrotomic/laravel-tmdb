@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/mTp1gydo0qYzGaTRTv2LEyF2Stp.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 623962,
+    "imdb_id": "tt8400856",
+    "original_language": "en",
+    "original_title": "The Obscure Life of the Grand Duke of Corsica",
+    "overview": "",
+    "popularity": 9.827,
+    "poster_path": "/gs2c3CdJeeL1qqixIyhQkvxpxHm.jpg",
+    "production_companies": [
+        {
+            "id": 122041,
+            "logo_path": null,
+            "name": "Camelot Films",
+            "origin_country": ""
+        },
+        {
+            "id": 87101,
+            "logo_path": null,
+            "name": "Chris Hardman Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Obscure Life of the Grand Duke of Corsica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

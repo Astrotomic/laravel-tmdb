@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/tUwgWj9EUK70qqkIlkwzMejc9wJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.paramountplus.com/movies/infinite/gkYk2Ju73QiIYX8TrooFblbsaUfPugRz/",
+    "id": 581726,
+    "imdb_id": "tt6654210",
+    "original_language": "en",
+    "original_title": "Infinite",
+    "overview": "Evan McCauley (Mark Wahlberg) verfolgen Fähigkeiten, die er nie gelernt hat, und Erinnerungen an Orte, die er nie besucht hat, sein tägliches Leben. Selbstmedikamentiert und am Rande des Nervenzusammenbruchs, kommt ihm eine geheime Gruppe, die sich selbst „Infinites“ nennt, zu Hilfe und offenbart ihm, dass seine Erinnerungen real sind – aber sie stammen aus mehreren vergangenen Leben. Die Infinites bringen Evan in ihre außergewöhnliche Welt, in der einige wenige Begabte die Fähigkeit erhalten, mit ihren Erinnerungen und ihrem über Jahrhunderte angesammelten Wissen wiedergeboren zu werden. Mit kritischen Geheimnissen, die in seiner Vergangenheit vergraben sind, muss Evan mit den Infinites zusammenarbeiten, um die Antworten in seinen Erinnerungen zu entschlüsseln – in einem Rennen gegen die Zeit, um die Menschheit vor einem der ihren (Chiwetel Ejiofor) zu retten, der sie zerstören will.",
+    "popularity": 545.38,
+    "poster_path": "/80gmBmKASG3hzyRB1NqcGPH2WId.jpg",
+    "production_companies": [
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 8537,
+            "logo_path": null,
+            "name": "Closest to the Hole Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 119509,
+            "logo_path": null,
+            "name": "Leverage Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-06-10",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Viele Leben. Unbegrenztes Potenzial.",
+    "title": "Infinite - Lebe Unendlich",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 1144
+}

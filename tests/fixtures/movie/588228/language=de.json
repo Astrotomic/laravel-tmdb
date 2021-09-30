@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+    "belongs_to_collection": {
+        "id": 848922,
+        "name": "The Tomorrow War Filmreihe",
+        "poster_path": "/AgRf30cGWYWa08ynPId7qJLZvd9.jpg",
+        "backdrop_path": "/yKSNSOwHOeiZv2DxwHAlpiEXBB4.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B093CQZ2SM",
+    "id": 588228,
+    "imdb_id": "tt9777666",
+    "original_language": "en",
+    "original_title": "The Tomorrow War",
+    "overview": "Der Untergang der Welt ist nah! In der nicht allzu fernen Zukunft des Jahres 2051 haben Aliens einen vernichtenden Kampf gegen die Menschheit begonnen, der kaum zu gewinnen ist. Um die menschliche Rasse vor dem kompletten Niedergang zu bewahren, nutzen Wissenschaftler die letzte Chance, die ihnen bleibt: Mit Hilfe einer neu entwickelten Technik werden Soldaten und Zivilisten aus unserer Zeit in die Zukunft geholt. Ex-Soldat und Lehrer Dan Forester zählt zu den Auserwählten, die für die Zukunft der Welt eintreten müssen. Der Alien-Krieg hält jedoch auch persönliche Veränderungen für Dan bereit, der nur mit der Unterstützung seines entfremdeten Vaters Slade die Welt beschützen kann. Gemeinsam mit Slade und einer aus der Zukunft stammenden Wissenschaftlerin wird er auf eine ganz besondere Mission geschickt.",
+    "popularity": 533.806,
+    "poster_path": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+    "production_companies": [
+        {
+            "id": 82819,
+            "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+            "name": "Skydance Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 423,
+            "logo_path": "/uvA6e2O31qaonsbYd8tjvgqmNXh.png",
+            "name": "Phantom Four",
+            "origin_country": "US"
+        },
+        {
+            "id": 125000,
+            "logo_path": null,
+            "name": "Lit Entertainment Group",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-02",
+    "revenue": 0,
+    "runtime": 138,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Kampf um morgen beginnt heute",
+    "title": "The Tomorrow War",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 4228
+}

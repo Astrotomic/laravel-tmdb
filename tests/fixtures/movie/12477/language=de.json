@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/tDFvXn4tane9lUvFAFAUkMylwSr.jpg",
+    "belongs_to_collection": null,
+    "budget": 3700000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 12477,
+    "imdb_id": "tt0095327",
+    "original_language": "ja",
+    "original_title": "火垂るの墓",
+    "overview": "Japan, 1945. Das Land steht kurz vor der Kapitulation. Täglich werfen amerikanische Flieger Bomben vom Himmel und setzen ganze Landstriche in Brand. Im Inferno eines solchen Angriffs verlieren der vierzehnjährige Seita und die vierjährige Setsuko ihre Mutter. Ohne den Vater, der bei der Marine ist und von dem sie seit Langem nichts mehr gehört haben, sind die Kinder plötzlich auf sich alleine gestellt. Ihrer Tante, bei der sie zunächst unterkommen, sind die zusätzlichen hungrigen Mäuler in der herrschenden Hungersnot alles andere als willkommen. So ziehen die Geschwister in einen verlassenen Bunker und versuchen dort, auf eigene Faust zu überleben. Allem Leid zum Trotz setzt Seita alles daran, seiner kleinen Schwester eine möglichst unbeschwerte Kindheit zu bieten und tatsächlich verbringen die zwei einige glückliche Wochen. Doch die furchtbare Realität des unerbittlichen Krieges holt die beiden bald ein...",
+    "popularity": 0.6,
+    "poster_path": "/6LJC2SiqGnAUex0jDp1DbmYx8MT.jpg",
+    "production_companies": [
+        {
+            "id": 10342,
+            "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+            "name": "Studio Ghibli",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1988-04-16",
+    "revenue": 516962,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Die letzten Glühwürmchen",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 3725
+}

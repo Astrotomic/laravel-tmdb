@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/pEOiICcNiygzgFxP6nKDTMox8VZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 595280,
+    "imdb_id": "tt9471660",
+    "original_language": "es",
+    "original_title": "Distancia de rescate",
+    "overview": "Eine Frau namens Amanda liegt weit weg von zu Hause im Sterben. Neben ihr sitzt der Junge David. Sie ist weder seine Mutter, noch ist er ihr Kind. Während ihre Zeit abläuft, hilft er ihr, eine kraftvolle und eindringliche Geschichte über zwanghafte Eifersucht, eine unsichtbare Bedrohung und die Macht der Mutterliebe zu entwirren.",
+    "popularity": 8.984,
+    "poster_path": "/pnJ6quEU8Wmb7BuDBFvRsUiS8k0.jpg",
+    "production_companies": [
+        {
+            "id": 2605,
+            "logo_path": null,
+            "name": "Gran Via Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 21546,
+            "logo_path": null,
+            "name": "Fabula",
+            "origin_country": "CL"
+        },
+        {
+            "id": 7529,
+            "logo_path": "/9Y99ZxJW2a9ApMIW37YODzzjf7f.png",
+            "name": "Wanda Films",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CL",
+            "name": "Chile"
+        },
+        {
+            "iso_3166_1": "PE",
+            "name": "Peru"
+        }
+    ],
+    "release_date": "2021-10-06",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das Gift",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+    "belongs_to_collection": {
+        "id": 9485,
+        "name": "The Fast and the Furious Filmreihe",
+        "poster_path": "/qUAVDDG7dXP4z6NPXbiCgapdpGG.jpg",
+        "backdrop_path": "/gC9BUFiROWtaMsluGYziZ6lR4OJ.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.thefastsaga.com",
+    "id": 385128,
+    "imdb_id": "tt5433138",
+    "original_language": "en",
+    "original_title": "F9",
+    "overview": "Dominic Toretto und seine Crew kämpfen gegen den geschicktesten Attentäter und Hochleistungsfahrer, dem sie je begegnet sind: seinen jüngeren Bruder.",
+    "popularity": 1017.979,
+    "poster_path": "/4WkXDMBh03H4D0s3rAcRPFKvG8S.jpg",
+    "production_companies": [
+        {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 1225,
+            "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+            "name": "One Race",
+            "origin_country": "US"
+        },
+        {
+            "id": 34530,
+            "logo_path": null,
+            "name": "Perfect Storm Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 154215,
+            "logo_path": null,
+            "name": "ZXY MOVIES",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-05-19",
+    "revenue": 716000000,
+    "runtime": 143,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fast & Furious 9",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 3845
+}

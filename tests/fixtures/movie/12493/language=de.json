@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/2xliq3zIrQPIWG66Fc0bgVoBUWc.jpg",
+    "belongs_to_collection": null,
+    "budget": 250000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 12493,
+    "imdb_id": "tt0057565",
+    "original_language": "ja",
+    "original_title": "天国と地獄",
+    "overview": "Als Verbrecher das Kind eines reichen Managers entführen wollen, es aber mit dem Sohn des Chauffeurs verwechseln, zahlt der Manager dennoch. Dadurch verliert er sein Hab und Gut und gerät in arge Bedrängnis, während der Entführer noch nicht geschnappt wurde.",
+    "popularity": 10.926,
+    "poster_path": "/cy8N6z9dU9ezamrleoAnRMmmQuy.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho Co.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2680,
+            "logo_path": null,
+            "name": "Kurosawa Production Co.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1963-03-01",
+    "revenue": 0,
+    "runtime": 143,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Zwischen Himmel und Hölle",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 482
+}

@@ -116,3 +116,113 @@ it('does return fallback for unknown language', function (): void {
         ->translate('tagline', 'en', true)->toBe('The world has enough Superheroes.')
         ->translate('tagline', 'foo', true)->toBe('The world has enough Superheroes.');
 });
+
+it('loads all recommended movies', function (): void {
+    $movies = Movie::query()->findOrFail(335983)->recommendations();
+
+    expect($movies)
+        ->toHaveCount(40)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/335983/recommendations'))
+        ->toHaveCount(2);
+});
+
+it('loads first page of recommended movies', function (): void {
+    $movies = Movie::query()->findOrFail(335983)->recommendations(20);
+
+    expect($movies)
+        ->toHaveCount(20)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/335983/recommendations'))
+        ->toHaveCount(1);
+});
+
+it('loads several pages of similar movies', function (): void {
+    $movies = Movie::query()->findOrFail(335983)->similar(60);
+
+    expect($movies)
+        ->toHaveCount(55)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/335983/similar'))
+        ->toHaveCount(3);
+});
+
+it('loads first page of similar movies', function (): void {
+    $movies = Movie::query()->findOrFail(335983)->similar(20);
+
+    expect($movies)
+        ->toHaveCount(20)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/335983/similar'))
+        ->toHaveCount(1);
+});
+
+it('loads first page of popular movies', function (): void {
+    $movies = Movie::popular(20);
+
+    expect($movies)
+        ->toHaveCount(20)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/popular'))
+        ->toHaveCount(1);
+});
+
+it('loads several pages of popular movies', function (): void {
+    $movies = Movie::popular(60);
+
+    expect($movies)
+        ->toHaveCount(60)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/popular'))
+        ->toHaveCount(3);
+});
+
+it('loads first page of top rated movies', function (): void {
+    $movies = Movie::toprated(20);
+
+    expect($movies)
+        ->toHaveCount(20)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/top_rated'))
+        ->toHaveCount(1);
+});
+
+it('loads several pages of top rated movies', function (): void {
+    $movies = Movie::toprated(60);
+
+    expect($movies)
+        ->toHaveCount(60)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/top_rated'))
+        ->toHaveCount(3);
+});
+
+it('loads first page of upcoming movies', function (): void {
+    $movies = Movie::upcoming(20);
+
+    expect($movies)
+        ->toHaveCount(20)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/upcoming'))
+        ->toHaveCount(1);
+});
+
+it('loads several pages of upcoming movies', function (): void {
+    $movies = Movie::upcoming(60);
+
+    expect($movies)
+        ->toHaveCount(58)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/upcoming'))
+        ->toHaveCount(3);
+});

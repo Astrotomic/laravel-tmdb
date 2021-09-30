@@ -1,0 +1,402 @@
+{
+    "page": 3,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/qr5yCpKidwRpuAcsFoRtmw1yanH.jpg",
+            "genre_ids": [
+                27,
+                878,
+                9648,
+                53
+            ],
+            "id": 60935,
+            "title": "The Thing",
+            "original_language": "en",
+            "original_title": "The Thing",
+            "overview": "Als eine norwegische Forschungsgruppe bei einer ihrer Expeditionen in der Antarktis auf ein außerirdisches Raumschiff stößt und eine scheinbar leblose Kreatur darin entdeckt, lässt die Paläontologin Kate Lloyd nicht lange auf sich warten. Zusammen mit ihren Assistenten Davida Morris und Adam Goodman möchte Kate die außerirdische Lebensform näher unter die Lupe nehmen. Bei einem Experiment, in dem das Wesen aus seiner Eishülle befreit wird, kommt es zum unerwarteten Erwachen, das zahlreiche Opfer zur Folge hat. Die junge Forscherin und ihre Assistenten schließen sich dem Hubschrauberpiloten Sam Carter an, um dem Parasiten, der jede Lebensform nachahmen kann, die er berührt, zu entfliehen. Gemeinsam müssen sie einen Plan entwickeln, wie sie die zerstörungswütige Kreatur stoppen können, bevor es die Zivilisation erreicht. Doch können sie einander noch trauen?",
+            "popularity": 17.613,
+            "poster_path": "/1FD8Euelfh5sXohTbDDWHgjOKwp.jpg",
+            "release_date": "2011-10-12",
+            "video": false,
+            "vote_average": 6.177,
+            "vote_count": 2120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2lw4O1QOnJIVYaLrVuQyjtjwOuN.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 83542,
+            "title": "Cloud Atlas",
+            "original_language": "en",
+            "original_title": "Cloud Atlas",
+            "overview": "Der Rechtsanwalt Adam Ewing lernt 1850 mit einem Schiff die Ureinwohner des Südpazifik und ihre Unterdrückung kennen. Der Junge Musiker Robert Forbisher arbeitet 1931 an seinem Wolkenatlas-Sextett und wird dabei von Ewings Tagebuch inspiriert. Die Journalistin Luisa Rey ermittelt 1975 über eine vertuschte Fehlkonstruktion beim Bau eines Atomkraftwerks und erfährt dabei auch von Forbisher. Der Verleger Timothy Cavendish, der Luisa Reys Geschichte veröffentlichen will, wird in der Gegenwart irrtümlich in ein Altenheim eingewiesen. In der nahen Zukunft kämpft die junge Replikantin Sonmi-451, deren Lieblingsfilm die Verfilmung von Cavendishs Lebensgeschichte ist, für die Anerkennung ihrer Menschlichkeit. Schließlich spielt eine Episode in ferner Zukunft, in der die menschliche Zivilisation weitgehend wieder auf den Stand der Steinzeit zurückgefallen ist. Nur ein Hologramm mit den Aufzeichnungen Sonmis kündet von der lange vergangenen Zeit.",
+            "popularity": 14.744,
+            "poster_path": "/lNZnIfghFwUZLve3zbyXvk0AQBP.jpg",
+            "release_date": "2012-10-26",
+            "video": false,
+            "vote_average": 6.851,
+            "vote_count": 5828
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/botG6F4zvVD6WnDxQCWTU7U5cTD.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 89492,
+            "title": "Immer Ärger mit 40",
+            "original_language": "en",
+            "original_title": "This Is 40",
+            "overview": "Pete und Debbie werden 40 und müssen sich mit ihren Kindern, der achtjährigen Charlotte und der 13-jährigen Sadie, Ehe und dem Älterwerden herumschlagen. Dabei schreckt das Ehepaar auch nicht vor exzessivem Sport, gefälschten Geburtstagsdaten beim Arzt und körperlichen Auseinandersetzungen mit zickigen Müttern auf dem Schulhof zurück. Pete wird klar, dass er in einem vollkommen weiblichen Haushalt lebt. Als er versucht sein Record Label über Wasser zu halten, müssen er und Debbie lernen, einander zu vergeben, zu vergessen und den Rest ihres Lebens zu genießen... bevor sie sich gegenseitig umbringen.",
+            "popularity": 15.912,
+            "poster_path": "/y6KfYyyFhVjPs2SVcukybzuQnGb.jpg",
+            "release_date": "2012-12-20",
+            "video": false,
+            "vote_average": 5.801,
+            "vote_count": 1731
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                28,
+                14
+            ],
+            "id": 62177,
+            "title": "Merida - Legende der Highlands",
+            "original_language": "en",
+            "original_title": "Brave",
+            "overview": "Merida – Legende der Highlands spielt im Schottland des 10. Jahrhunderts. König Fergus und Königin Elinor haben es nicht leicht. Ihre Tochter Merida, ein Ass im Bogenschießen, ist ein echter Wildfang und Sturkopf. In ihrem Ungestüm verletzt die Prinzessin alte Traditionen, indem sie bei einem Turnier mit ihrer Schussfertigkeit auftrumpft, die offiziellen Teilnehmer brüskiert und damit den Zorn der schottischen Lords auf sich zieht. Als sie dadurch das Königreich in ein Chaos stürzt, bittet sie eine weise alte Frau um Hilfe, die ihr einen verhängnisvollen Wunsch gewährt. Um ihre Fehler wieder gut zu machen, muss Merida lernen, was wahrer Mut bedeutet und so den Fluch aufheben, bevor es zu spät ist.",
+            "popularity": 45.226,
+            "poster_path": "/1f78fee0gxFWcEjR0QhrxUczlSW.jpg",
+            "release_date": "2012-06-21",
+            "video": false,
+            "vote_average": 6.992,
+            "vote_count": 10935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kjTGuAeMsTTRxiHFSzj2T1zyUwH.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 87818,
+            "title": "Movie 43",
+            "original_language": "en",
+            "original_title": "Movie 43",
+            "overview": "Wonder Women ist verzweifelt. Sie war mit Batman im Bett und der scheint sich jetzt einfach nicht mehr bei ihr zu melden. Anscheinend hat er auch ganz andere Ziele. Dass Supergirl und Robin an einem Speed-Date teilnehmen und sich offensichtlich kennen lernen wollen, gefällt ihm überhaupt nicht. Am Rande sitzt Superman. Seine besten Tage scheinen gezählt zu sein. Der heruntergekommene, ketterauchende Held beobachtet die Misere seiner Kollegen. Juliet Hulme trifft sich mit einem Date auf einen Kaffee und wird dabei ganz schön von seinem Geburtsfehler überrascht. Währenddessen versucht die karriereorientierte Arlenes einen neuen MP3-Player zu entwickeln und an den Mann zu bringen. Erst völlig von sich überzeugt muss sie bald feststellen, dass ein MP3-Player mit einem Gewicht von 100 Pfund vielleicht doch ein bisschen zu schwer für den täglichen Gebrauch ist.",
+            "popularity": 36.075,
+            "poster_path": "/b6IIdKTN8z8OsUVoUzUaaN449vX.jpg",
+            "release_date": "2013-01-01",
+            "video": false,
+            "vote_average": 4.489,
+            "vote_count": 1790
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cgigaTI0slw8MRZZMODaDnmAsmL.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878,
+                18
+            ],
+            "id": 65291,
+            "title": "Green Lantern - Emerald Knights",
+            "original_language": "en",
+            "original_title": "Green Lantern: Emerald Knights",
+            "overview": "Mit den Storys berühmter Autoren wie Geoff Johns, Alan Burnett und Dave Gibbons entführt uns dieser animierte Originalfilm aus dem DC Universe mit Hilfe von sechs miteinander verbundenen Kapiteln in die detailreiche Mythologie des Green Lantern-Universums. Die von der Erde stammenden Green Lantern Hal Jordan, Kilowog, Sinestro und andere Mitglieder des Green Lantern Corps müssen sich in Kürze Krona - einem alten Feind der Wächter des Universums - zum Kampf stellen. Bis es soweit ist, erzählen sie der neuen Rekrutin Arisia ihre größten Abenteuer - vom ersten Lantern bis zu den unheilvollen Ereignissen, die dem Corps seine schlimmste Nacht bescherte!",
+            "popularity": 37.73,
+            "poster_path": "/tk7jyiMubRqe56goFgTtWczn2oS.jpg",
+            "release_date": "2011-04-09",
+            "video": false,
+            "vote_average": 6.654,
+            "vote_count": 374
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4UvNG6JFaSzMLUXUsq62VcVjNhP.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 93456,
+            "title": "Ich - Einfach unverbesserlich 2",
+            "original_language": "en",
+            "original_title": "Despicable Me 2",
+            "overview": "Nachdem der Superschurke Gru die drei Waisenkinder Margo, Edith und Agnes adoptiert hat, hat sich in seinem Leben viel geändert. Anstatt als Griesgram Verbrechen zu begehen, dreht sich sein Leben nun um Gute-Nacht-Geschichten, Kindergeburtstage und erste Verehrer der Mädchen. Sein neues Leben wird plötzlich gestört, als Lucy, eine Agentin der geheimen Anti-Villain League, Gru gegen seinen Willen zu deren Zentrale führt. Dort bekommt Gru den Auftrag, die Welt vor einem neuen Bösewicht zu retten. Eifrig macht sich Gru ans Werk und bekommt dabei erneut Hilfe von Dr. Nefario  und seinen meist sehr tollpatschigen Minions. Doch seine neue Aufgabe mit der Erziehung seiner Adoptivtöchter in Einklang zu bringen ist nicht leicht und auch mit der Situation, dass Lucy auch außerhalb der Arbeit sehr von Gru angetan ist, überfordert den ehemaligen Einzelgänger.",
+            "popularity": 49.85,
+            "poster_path": "/e9uMneUxEN8vb3lS2wU9Pie597B.jpg",
+            "release_date": "2013-06-26",
+            "video": false,
+            "vote_average": 6.91,
+            "vote_count": 9315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4a5YLWwi6OCp8TcvxsUNrXMbN5.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53,
+                12
+            ],
+            "id": 87101,
+            "title": "Terminator: Genisys",
+            "original_language": "en",
+            "original_title": "Terminator Genisys",
+            "overview": "Im Jahr 2029 kämpft der Rebellenanführer John Connor gegen die Übermacht des Skynet-Maschinenimperiums. Er schickt seinen loyalen Freund Kyle Reese zurück ins Jahr 1983, um seine Mutter Sarah Connor vor einem Killer-Roboter zu beschützen und so die Zukunft der Menschheit sicherzustellen. Doch als Kyle Reese im Los Angeles der 1980er ankommt, muss er feststellen, dass die erwartete Vergangenheit nicht mehr existiert. Sarahs Eltern wurden von einem durch die Zeit gereisten Terminator ermordet, ein Android des Modells T-800 hatte das 9-jährige Mädchen danach beschützt und großgezogen. Kyle erklärt Sarah, was in der Zukunft geschehen wird, doch sie wehrt sich entschieden gegen die Vorstellung, dass ihre Geschichte schon vorherbestimmt ist – und nimmt den Kampf mit Gegnern wie dem T-1000 auf…",
+            "popularity": 75.834,
+            "poster_path": "/lZffqHVVwmEwWHMSnSA7FNd67Rk.jpg",
+            "release_date": "2015-06-23",
+            "video": false,
+            "vote_average": 5.902,
+            "vote_count": 6849
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jiY7dnAtkvM1UykifM0RJAhZLY6.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 65759,
+            "title": "Happy Feet 2",
+            "original_language": "en",
+            "original_title": "Happy Feet Two",
+            "overview": "Mumble, der begnadetste Stepptänzer unter den Pinguinen, macht sich Sorgen um seinen Sohn Eric: Dieser kann mit tänzerischen Choreografien so gar nichts anfangen. Als er wieder einmal vor dem Tanzdrang seines Vaters flüchtet, begegnet er dem Pinguin The Mighty Seven, der zu Erics Staunen fliegen kann. Damit kann Eric nicht mithalten, was ihn ganz missmutig stimmt. Doch sein Vater bringt ihm letztlich bei, dass es vor allem darauf ankommt, an sich selber zu glauben.",
+            "popularity": 28.637,
+            "poster_path": "/tUTgqZfDX2Wz8hyw4uJZ0u4GAYY.jpg",
+            "release_date": "2011-11-18",
+            "video": false,
+            "vote_average": 6.089,
+            "vote_count": 1153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y1W70TgfOeaX14xoDxfaiHutA3X.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 100241,
+            "title": "I, Frankenstein",
+            "original_language": "en",
+            "original_title": "I, Frankenstein",
+            "overview": "Adam Frankenstein wurde von dem Wissenschaftler Dr. Victor Frankenstein erschaffen und zum Leben erweckt. Das aus Leichenteilen zusammengeflickte Monster findet sich in einer dystopischen Welt wieder, in der sich Menschen und Dämonen im Krieg befinden. Der unsterbliche Adam beschützt die Menschen vor den finsteren Gestalten der Unterwelt, doch er gerät zwischen die Fronten zweier unsterblicher Clans. Das Schicksal der Menschheit liegt in seinen Händen, denn er hat Fähigkeiten, die Menschen nicht haben. Doch die Gargoyles und die Dämonen haben großes Interesse an Adams Geheimnis.",
+            "popularity": 14.809,
+            "poster_path": "/uBfV2uL7iLAGAsEwSu9zuE4Qjcu.jpg",
+            "release_date": "2014-01-22",
+            "video": false,
+            "vote_average": 5.263,
+            "vote_count": 1492
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 99861,
+            "title": "Avengers: Age of Ultron",
+            "original_language": "en",
+            "original_title": "Avengers: Age of Ultron",
+            "overview": "Milliardär, Lebemann und Genie Tony Stark aka Iron Man will ein inaktives Friedensprogramm in Gang bringen, doch dabei geht etwas schief. So taucht der niederträchtige Roboter-Bösewicht Ultron auf und verfolgt Pläne zur Ausrottung der Menschheit. Nun ist es an den Helden, sich wieder zu sammeln und das schreckliche Schicksal der Welt abzuwenden. Zusammen mit Iron Man treten Thor, Captain America, Hulk, Black Widow und Hawkeye dem fiesen Ultron entgegen und bekommen dabei Unterstützung von den ehemaligen S.H.I.E.L.D.-Agenten Nick Fury und Maria Hill. Außerdem kreuzen die geheimnisvollen und mit besonderen Fähigkeiten ausgestatteten Newcomer Wanda und Pietro Maximoff den Weg der Helden, wie auch ein alter Bekannter in neuer Gestalt: Vision. Die Rächer müssen ihre Kräfte vereinen, unsichere Allianzen schmieden und auf unerwartete Aktionen reagieren, um die Bewohner der Erde einmal mehr vor dem drohenden Untergang zu bewahren.",
+            "popularity": 129.185,
+            "poster_path": "/z3v1HDnF2jqspg4G6q1Lt7zTN8U.jpg",
+            "release_date": "2015-04-22",
+            "video": false,
+            "vote_average": 7.301,
+            "vote_count": 18586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ftTnNVRwvdt0ljPaT5fRobPMLEB.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 96399,
+            "title": "Gottes General - Schlacht um die Freiheit",
+            "original_language": "en",
+            "original_title": "For Greater Glory: The True Story of Cristiada",
+            "overview": "Im Jahr 1926 führt der mexikanische Präsident Plutarco Elias Calles (Rubén Blades) einen erbitterten Krieg gegen die katholischen Menschen in seinem Land. Der Glaube ist ihm ein Dorn im Auge, den er mit aller Macht bekämpft. All jene, die sich zu Gott bekennen, müssen mit harten Strafen bis hin zum Tode rechnen. Selbst die ranghöchsten Heiligen im Land sind vor den Häschern von Calles nicht sicher. Einige der gläubigen Katholiken haben jedoch beschlossen, unter der Leitung von Enrique Gorostieta (Andy Garcia) für ihren Glauben zu kämpfen und so führen sie einen bewaffneten Guerilla-Kampf gegen die Regierungstruppen. Da sich der Konflikt immer weiter zuspitzt, bahnt sich für Gorostieta und seine kleine Glaubensarmee bald eine entscheidende Schlacht an, die entweder den Sieg der Freiheit oder aber den Tod aller Beteiligten zur Folge haben wird.",
+            "popularity": 14.937,
+            "poster_path": "/sph0O4ICLhOR310WlHjiKfkhLTz.jpg",
+            "release_date": "2012-06-01",
+            "video": false,
+            "vote_average": 6.606,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cWUOv3H7YFwvKeaQhoAQTLLpo9Z.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 106646,
+            "title": "The Wolf of Wall Street",
+            "original_language": "en",
+            "original_title": "The Wolf of Wall Street",
+            "overview": "New York in den frühen 1990er Jahren. Der aufstrebende Aktienhändler Jordan Belfort gründet mit Anfang 20 die Maklerfirma \"Stratton Oakmont\", mit der er schnell zum Multimillionär aufsteigt und zum Shootingstar der New Yorker Börse wird. Schon bald ist er hauptsächlich unter seinem neuen Spitznamen \"Wolf of Wall Street\" bekannt. Mit seinem Reichtum finanziert er einen ausschweifenden Lebensstil, der von Alkohol, Drogen, Sex und Dekadenz geprägt ist. Jordans Siegeszug scheint nicht zu stoppen zu sein, doch dies lässt ihn übermütig werden. Von unstillbarer Gier getrieben und mit dem Gefühl der Unbesiegbarkeit im Rücken lassen er und seine \"Wolfsbande\", darunter sein Kumpel Donnie Azoff, sich auf illegale Geschäfte ein. Das zieht schon bald die Aufmerksamkeit der Justiz auf sich, besonders der FBI-Agent Patrick Denham schaut aufmerksam hinter die Fassade von Belforts Firmengeflecht. Als die Gesetzeshüter Jordan langsam auf die Schliche kommen, droht sein gesamtes Kartenhaus einzustürzen.",
+            "popularity": 106.835,
+            "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+            "release_date": "2013-12-25",
+            "video": false,
+            "vote_average": 8.018,
+            "vote_count": 18349
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7BpvLurE2NbI1MhuoG5TfBNa7oC.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 9319,
+            "title": "Last Boy Scout - Das Ziel ist Überleben",
+            "original_language": "en",
+            "original_title": "The Last Boy Scout",
+            "overview": "Seinen schönen Job als Bodyguard des US-Präsidenten hat Joe Hallenbeck vor Jahren verloren. Aber als abgewrackter Privatdetektiv zieht er die Gefahr an wie ein Magnet. Nach “Stirb langsam” geht es für Superstar Bruce Willis im Kampf gegen die millionenschwere Football-Mafia von L.A. jetzt ums nackte Überleben. Bruce Willis und Damon Wayans liefern sich einen Schlagabtausch mit coolen Sprüchen und knallharter Action.",
+            "popularity": 20.081,
+            "poster_path": "/dJr6VfMsqwdjXNnfcztuERIjz9C.jpg",
+            "release_date": "1991-12-11",
+            "video": false,
+            "vote_average": 6.748,
+            "vote_count": 1291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fryen9fnjlm0YibKTDNGzWNBOSo.jpg",
+            "genre_ids": [
+                53,
+                878
+            ],
+            "id": 9320,
+            "title": "Mit Schirm, Charme und Melone",
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "Nachdem das Wetterkontrollprojekt der britischen Inseln von einer Person zerstört wurde, die der Mitarbeiterin Dr. Emma Peel verblüffend ähnlich sieht, setzt der Chef des Secret Service, Mutter, seinen besten Mann John Steed auf den Fall an. Der hat schon bald den entlassenen Mitentwickler Sir August de Wynter in Verdacht, seine Finger im Spiel zu haben. Gemeinsam mit Dr. Peel macht er sich an die Aufklärung, doch de Wynter hat seine Absichten geschickt getarnt und einen Verräter in Reihen des Secret Service scheint es auch zu geben. Viel Arbeit für die beiden, denn England droht, in einem Wetterchaos unterzugehen, wenn die erforderliche Summe nicht gezahlt wird.",
+            "popularity": 20.598,
+            "poster_path": "/eqwlz0xnixG9yLinz7Nx66nTxVv.jpg",
+            "release_date": "1998-08-13",
+            "video": false,
+            "vote_average": 4.375,
+            "vote_count": 508
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7tqV9ihSDfsa9C7D7PRRnZ1ZrVA.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 9342,
+            "title": "Die Maske des Zorro",
+            "original_language": "en",
+            "original_title": "The Mask of Zorro",
+            "overview": "Don Diego De La Vega ist Zorro. Sein Markenzeichen, das “Z” lässt die Mächtigen erzittern und die Unterdrückten hoffen. Nach 20 Jahren Gefangenschaft im Verlies von Gouverneur Don Rafael Montero gelingt Zorro endlich die Flucht. Beseelt von dem Gedanken an Rache für seine ermordete Frau und die entführte Tochter Elena will er Montero töten – und findet in dem ungeschliffenen Banditen Alejandro Murrieta einen idealen Nachfolger. Er trainiert den jungen Wilden, lehrt ihn den Umgang mit Degen und Peitsche. Dieser wird seine neue Waffe gegen Montero sein! Doch der Weg zur entscheidenden Schlacht ist steinig und Monteros Handlanger sind unerbittlich. Es ist ein gewaltiger Kampf für Freiheit und Gerechtigkeit, aber auch ein Kampf um Elena, den vier Männer gleichermaßen leidenschaftlich fechten.",
+            "popularity": 16.513,
+            "poster_path": "/ixM4KXs1a3ihVrzhH6EQujEwD1F.jpg",
+            "release_date": "1998-07-16",
+            "video": false,
+            "vote_average": 6.51,
+            "vote_count": 3102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mr1Oqt7l32JEtfsd6MEJ17pI400.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 9352,
+            "title": "Eurotrip",
+            "original_language": "en",
+            "original_title": "EuroTrip",
+            "overview": "Scott hielt Mieke, seine Briefbekanntschaft aus Berlin, immer für einen Kerl. Doch kurz nachdem er “ihn” übelst beleidigt hat, muss er feststellen, dass Mieke die Frau seiner Träume ist. Dumm nur, daß sie jetzt auf keine E-mail mehr antworten will. Also macht sich Scott kurzerhand mit seinem Kumpel Cooper und den Zwillingen Jenny und Jamie auf nach Europa.",
+            "popularity": 16.218,
+            "poster_path": "/sQaTcyKN52bwS4YiYrhCUljfimq.jpg",
+            "release_date": "2004-02-20",
+            "video": false,
+            "vote_average": 6.528,
+            "vote_count": 1853
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iuNzPZ8O68ThChJy1Kqr9dweYip.jpg",
+            "genre_ids": [
+                35,
+                878,
+                28
+            ],
+            "id": 9397,
+            "title": "Evolution",
+            "original_language": "en",
+            "original_title": "Evolution",
+            "overview": "Mitten in der Wüste Arizonas landet ein Meteorit, der es in sich hat. Auf ihm tummeln sich außerirdische Einzeller, die ihren Entdeckern Ira Kane und Harry Block - zwei Kleinstadt-Lehrer - den Nobelpreis einbringen sollen. Doch da mutieren die extraterrestrischen Lebewesen in atemberaubender Geschwindigkeit zu menschenmordenden Ungeheuern. Nun müssen Ira und Harry die Bedrohung schnellstens stoppen. Unterstützt werden sie dabei von einer ungeschickten Alienforscherin und einem tölpelhaften Feuerwehr-Anwärter.",
+            "popularity": 17.627,
+            "poster_path": "/h8CBygeqQdsbTfw4PV12TvFEPOJ.jpg",
+            "release_date": "2001-06-08",
+            "video": false,
+            "vote_average": 6.006,
+            "vote_count": 1654
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 14306,
+            "title": "Marley & Ich",
+            "original_language": "en",
+            "original_title": "Marley & Me",
+            "overview": "Wenn man verheiratet ist, stellt sich zwangsläufig auch bald die Frage nach Kindern, doch für John und Jenny bleiben da noch Zweifel, ob sie dem schon gewachsen sind. Weil aber der Kinderwunsch sich regt, will John lieber erst noch etwas üben und schenkt seiner Frau einen Hundewelpen, den Labrador-Retriever Marley. Das knuddelige Etwas erfüllt die Anforderung mehr als gut, denn es richtet im Haushalt der Grogans bald ein heilloses Chaos an und zeigt sich auch sonst von seiner unkontrollierbaren und verfressenen Seite. Schon bald ist er zu einem noch schwerer zu bändigenden Koloss herangewachsen, den John zum Thema einer Zeitungskolumne macht und auch wenn das Chaos weiterhin regiert, stellen sich John und Jenny bald der Herausforderung eigener Kinder...",
+            "popularity": 22.481,
+            "poster_path": "/sCKsDiF2oSVaUAc6ixdOJ0b2Xzm.jpg",
+            "release_date": "2008-12-25",
+            "video": false,
+            "vote_average": 7.204,
+            "vote_count": 3737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8xcm94SLAxvNmJYuGh42ziydu70.jpg",
+            "genre_ids": [
+                10751,
+                12,
+                16,
+                35
+            ],
+            "id": 10527,
+            "title": "Madagascar 2",
+            "original_language": "en",
+            "original_title": "Madagascar: Escape 2 Africa",
+            "overview": "In ihrem neuen Abenteuer möchten Alex, Marty, Melman und Gloria die Insel Madagaskar, wo sie nach einer längeren Odyssee gestrandet waren, verlassen, und wieder zurück \"nach Hause\" in den Zoo im New Yorker Central Park. Die Pinguine machen ein altes Flugzeugwrack wieder flott und die Heimreise kann beginnen. Auch mit an Bord gehen die Schimpansen Mason und Phil sowie King Julien und sein Privatsekretär Maurice. Es glückt zwar der Start des mit Klebeband geflickten Flugzeugs, aber weiter als bis nach Afrika schaffen sie es nicht und landen mit einem harten Aufprall mitten in der Steppe. Alex und seine Freunde treffen diesmal nicht nur auf Artgenossen, sondern sogar auf die eigene Familie und geraten mitten in ein neues turbulent-witziges Abenteuer.",
+            "popularity": 40.715,
+            "poster_path": "/iIgt1IlXacoBJDrfze5DlvV7szf.jpg",
+            "release_date": "2008-10-30",
+            "video": false,
+            "vote_average": 6.441,
+            "vote_count": 5396
+        }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+}

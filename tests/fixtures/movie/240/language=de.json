@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+    "belongs_to_collection": {
+        "id": 230,
+        "name": "Der Pate Filmreihe",
+        "poster_path": "/4AeG0bUiQkkb7mU2GeQFX4sjftg.jpg",
+        "backdrop_path": "/pGl7NqNhyncju3Qu8LGA7owciMW.jpg"
+    },
+    "budget": 13000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 240,
+    "imdb_id": "tt0071562",
+    "original_language": "en",
+    "original_title": "The Godfather: Part II",
+    "overview": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+    "popularity": 36.301,
+    "poster_path": "/cPCgXKNBn3bATMLes1uYRTCjTpY.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 536,
+            "logo_path": null,
+            "name": "The Coppola Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1974-12-20",
+    "revenue": 102600000,
+    "runtime": 200,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Pate - Teil II",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 8907
+}

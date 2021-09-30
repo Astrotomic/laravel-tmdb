@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81068804",
+    "id": 410113,
+    "imdb_id": "tt6714432",
+    "original_language": "fr",
+    "original_title": "The Loud House Movie",
+    "overview": "Die Familie Loud reist nach Schottland und entdeckt, dass sie Nachkommen des schottischen Königshauses sind, als sie in ihr riesiges Ahnenschloss einziehen.",
+    "popularity": 370.115,
+    "poster_path": "/mab5wPeGVjbMyYMzyzfdKKnG9cl.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 4859,
+            "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+            "name": "Nickelodeon Animation Studio",
+            "origin_country": "US"
+        },
+        {
+            "id": 2348,
+            "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+            "name": "Nickelodeon Movies",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-20",
+    "revenue": 0,
+    "runtime": 83,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Louds werden regieren.",
+    "title": "Willkommen bei den Louds - Der Film",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 77
+}

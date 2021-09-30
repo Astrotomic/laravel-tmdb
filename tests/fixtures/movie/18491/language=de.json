@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+    "belongs_to_collection": {
+        "id": 96850,
+        "name": "Evangelion Filmreihe",
+        "poster_path": "/in2Oid51htVMo4NA1GCk0cKmZ5G.jpg",
+        "backdrop_path": "/zguc4BSy4cbviHd7di67kifnmzD.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 18491,
+    "imdb_id": "tt0169858",
+    "original_language": "ja",
+    "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+    "overview": "Im Jahr 2015 sieht sich der junge Shinji mit einer besonderen Aufgabe konfrontiert: Der 14-Jährige soll einen Kampfroboter, den so genannten EVA, steuern, der die einzige Waffe gegen die die Menschheit angreifenden \"Engel\" ist. Die Engel kamen vor 15 Jahren auf die Erde und zerstörten große Teile davon. Jetzt, in der neu aufgebauten Stadt Tokyo-3, soll sich Shinji vor seinem Vater und seinen Kameraden beweisen.",
+    "popularity": 31.03,
+    "poster_path": "/vIWonMqeYRmY95OEk06NvTC1h8N.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21504,
+            "logo_path": null,
+            "name": "Star Child Recording",
+            "origin_country": ""
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5822,
+            "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+            "name": "Toei Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113750,
+            "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+            "name": "SEGA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1997-07-19",
+    "revenue": 20000000,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 910
+}

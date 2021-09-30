@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 878195,
+    "imdb_id": "tt14844714",
+    "original_language": "en",
+    "original_title": "Youngstown",
+    "overview": "",
+    "popularity": 2.744,
+    "poster_path": "/166wiD54JUdfRGxcsmOg7kPoXH8.jpg",
+    "production_companies": [
+        {
+            "id": 161546,
+            "logo_path": null,
+            "name": "Spartan Media Acquisitions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 78,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Youngstown",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

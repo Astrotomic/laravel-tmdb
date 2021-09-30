@@ -1,0 +1,46 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81346326",
+    "id": 874948,
+    "imdb_id": "tt13717980",
+    "original_language": "tr",
+    "original_title": "Kin",
+    "overview": "",
+    "popularity": 7.429,
+    "poster_path": "/xSqtHT2DWbWBZ4dUvvMs6z1OfFK.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Kin",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

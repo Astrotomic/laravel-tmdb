@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/8IGhddolsygxhea8cWYwSb9AHxa.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 795613,
+    "imdb_id": "tt14030526",
+    "original_language": "en",
+    "original_title": "Introducing, Selma Blair",
+    "overview": "",
+    "popularity": 8.007,
+    "poster_path": "/47S4ARlyBztFbZG9vQnVxeWH8e2.jpg",
+    "production_companies": [
+        {
+            "id": 8533,
+            "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+            "name": "LD Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 158524,
+            "logo_path": "/giOP9msXSWCe2i2cHP08xYodQpr.png",
+            "name": "Discovery+",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Introducing, Selma Blair",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

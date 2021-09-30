@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/zsmTFn1Y2ulNd2njTjDbIhYwmkx.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://www.searchlightpictures.com/thefrenchdispatch/",
+    "id": 542178,
+    "imdb_id": "tt8847712",
+    "original_language": "en",
+    "original_title": "The French Dispatch",
+    "overview": "The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+    "popularity": 17.216,
+    "poster_path": "/u0PhyuslumkTuqwFNfN3CQ2cuQw.jpg",
+    "production_companies": [
+        {
+            "id": 23449,
+            "logo_path": null,
+            "name": "American Empirical Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9350,
+            "logo_path": "/anrLUwQPXl9W2CzA6Z8tYGx46e5.png",
+            "name": "Indian Paintbrush",
+            "origin_country": "US"
+        },
+        {
+            "id": 127929,
+            "logo_path": "/fCB4AVYvxxDvqumgYqsN6ehyN3G.png",
+            "name": "Searchlight Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 264,
+            "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+            "name": "Studio Babelsberg",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-21",
+    "revenue": 0,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The French Dispatch",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

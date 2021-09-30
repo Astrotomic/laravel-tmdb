@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/2lw4O1QOnJIVYaLrVuQyjtjwOuN.jpg",
+    "belongs_to_collection": null,
+    "budget": 102000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.cloudatlasmovie.com/",
+    "id": 83542,
+    "imdb_id": "tt1371111",
+    "original_language": "en",
+    "original_title": "Cloud Atlas",
+    "overview": "Der Rechtsanwalt Adam Ewing lernt 1850 mit einem Schiff die Ureinwohner des Südpazifik und ihre Unterdrückung kennen. Der Junge Musiker Robert Forbisher arbeitet 1931 an seinem Wolkenatlas-Sextett und wird dabei von Ewings Tagebuch inspiriert. Die Journalistin Luisa Rey ermittelt 1975 über eine vertuschte Fehlkonstruktion beim Bau eines Atomkraftwerks und erfährt dabei auch von Forbisher. Der Verleger Timothy Cavendish, der Luisa Reys Geschichte veröffentlichen will, wird in der Gegenwart irrtümlich in ein Altenheim eingewiesen. In der nahen Zukunft kämpft die junge Replikantin Sonmi-451, deren Lieblingsfilm die Verfilmung von Cavendishs Lebensgeschichte ist, für die Anerkennung ihrer Menschlichkeit. Schließlich spielt eine Episode in ferner Zukunft, in der die menschliche Zivilisation weitgehend wieder auf den Stand der Steinzeit zurückgefallen ist. Nur ein Hologramm mit den Aufzeichnungen Sonmis kündet von der lange vergangenen Zeit.",
+    "popularity": 14.744,
+    "poster_path": "/lNZnIfghFwUZLve3zbyXvk0AQBP.jpg",
+    "production_companies": [
+        {
+            "id": 11080,
+            "logo_path": null,
+            "name": "Cloud Atlas Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 450,
+            "logo_path": null,
+            "name": "Anarchos Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 7829,
+            "logo_path": null,
+            "name": "Ascension Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 19621,
+            "logo_path": null,
+            "name": "Dreams of Dragon Picture",
+            "origin_country": ""
+        },
+        {
+            "id": 11082,
+            "logo_path": null,
+            "name": "Five Drops",
+            "origin_country": ""
+        },
+        {
+            "id": 11083,
+            "logo_path": null,
+            "name": "Media Asia Group",
+            "origin_country": ""
+        },
+        {
+            "id": 96,
+            "logo_path": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
+            "name": "X Filme Creative Pool",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-10-26",
+    "revenue": 130482868,
+    "runtime": 172,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Alles ist verbunden",
+    "title": "Cloud Atlas",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 5828
+}

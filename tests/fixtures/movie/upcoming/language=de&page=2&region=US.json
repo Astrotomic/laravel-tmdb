@@ -1,0 +1,385 @@
+{
+    "dates": {
+        "maximum": "2021-10-27",
+        "minimum": "2021-10-06"
+    },
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 858062,
+            "original_language": "en",
+            "original_title": "The Rescue",
+            "overview": "",
+            "popularity": 8.297,
+            "poster_path": "/rDd1Bnjufq4Wx6v21s8YAcaYQgE.jpg",
+            "release_date": "2021-10-09",
+            "title": "The Rescue",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8IGhddolsygxhea8cWYwSb9AHxa.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 795613,
+            "original_language": "en",
+            "original_title": "Introducing, Selma Blair",
+            "overview": "",
+            "popularity": 8.007,
+            "poster_path": "/47S4ARlyBztFbZG9vQnVxeWH8e2.jpg",
+            "release_date": "2021-10-15",
+            "title": "Introducing, Selma Blair",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/giQ3iFmDzKD3bDtqYO1xv1rNZZK.jpg",
+            "genre_ids": [
+                878,
+                53,
+                18
+            ],
+            "id": 583081,
+            "original_language": "en",
+            "original_title": "Warning",
+            "overview": "",
+            "popularity": 7.76,
+            "poster_path": "/elaQvcOaor2leCCrI5PH6hyps9o.jpg",
+            "release_date": "2021-10-22",
+            "title": "Warning",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                10749
+            ],
+            "id": 452019,
+            "original_language": "en",
+            "original_title": "Needle in a Timestack",
+            "overview": "",
+            "popularity": 7.73,
+            "poster_path": "/jC2aqSgxaBsZEQwtOc1eEkIufIG.jpg",
+            "release_date": "2021-10-15",
+            "title": "Needle in a Timestack",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ren47PIOlg8bVtl2D0xeav4Bj.jpg",
+            "genre_ids": [
+                35,
+                53
+            ],
+            "id": 749505,
+            "original_language": "en",
+            "original_title": "The Estate",
+            "overview": "",
+            "popularity": 7.534,
+            "poster_path": "/mmU8J8KiK2rmNTLOyhTTDdskpiN.jpg",
+            "release_date": "2021-10-22",
+            "title": "The Estate",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 874948,
+            "original_language": "tr",
+            "original_title": "Kin",
+            "overview": "",
+            "popularity": 7.429,
+            "poster_path": "/xSqtHT2DWbWBZ4dUvvMs6z1OfFK.jpg",
+            "release_date": "2021-10-08",
+            "title": "Kin",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aWffkNRWu2SLqb4AtKOnRVL5E4.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 477044,
+            "original_language": "en",
+            "original_title": "Bergman Island",
+            "overview": "Ein ausländisches Paar mit Kind lässt sich für einen Sommer auf der schwedischen Insel Fårö nieder. Die beiden Filmemacher planen, in dieser Zeit an ihren neuen Drehbüchern zu arbeiten. Sie erhoffen sich Inspiration von dem Ort, an dem der von ihnen hochgeschätzte Ingmar Bergman lebte und begraben liegt. Chris fällt die Arbeit an ihrem Skript aber zunehmend schwerer. Ihr älterer Partner Tony rät ihr, einer anderen Tätigkeit nachzugehen, was sie erzürnt. Auch muss sie feststellen, dass sie im Ferienhaus das Schlafzimmer bewohnen, in dem Bergman zum Teil seinen Film Szenen einer Ehe (1973) drehte, was Chris ebenfalls verunsichert. Im Verlauf der Drehbucharbeit und im Kontakt mit der wilden Landschaft Fårös beginnt für das Paar die Grenze zwischen Fiktion und Realität allmählich zu verschwimmen. Gleichzeitig tauchen Erinnerungen einer ersten Liebe wieder auf.",
+            "popularity": 7.228,
+            "poster_path": "/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+            "release_date": "2021-10-15",
+            "title": "Bergman Island",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8RL9atBsuRnRAhh0I2gWIV3AGfP.jpg",
+            "genre_ids": [
+                99,
+                12
+            ],
+            "id": 774823,
+            "original_language": "en",
+            "original_title": "Becoming Cousteau",
+            "overview": "",
+            "popularity": 7.187,
+            "poster_path": "/8RqcNsOlnRCH1XqU1YwtFBavqqm.jpg",
+            "release_date": "2021-10-22",
+            "title": "Becoming Cousteau",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c72kDHmXtkP3vdkN4cKvkOVsp11.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 645861,
+            "original_language": "en",
+            "original_title": "South of Heaven",
+            "overview": "",
+            "popularity": 7.157,
+            "poster_path": "/pKf4Y75siozbAtAIqcHYB1eJgXt.jpg",
+            "release_date": "2021-10-08",
+            "title": "South of Heaven",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bIcidBTNPg5JGAYCyuJQCKnqr9P.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 541524,
+            "original_language": "en",
+            "original_title": "Passing",
+            "overview": "",
+            "popularity": 6.444,
+            "poster_path": "/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+            "release_date": "2021-10-27",
+            "title": "Seitenwechsel",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                36,
+                10402
+            ],
+            "id": 858223,
+            "original_language": "en",
+            "original_title": "Freedom of NC",
+            "overview": "",
+            "popularity": 6.337,
+            "poster_path": null,
+            "release_date": "2021-10-10",
+            "title": "Freedom of NC",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aLCdMBypAMuW9MOoHfefdRxG0hv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 665883,
+            "original_language": "en",
+            "original_title": "Freeland",
+            "overview": "",
+            "popularity": 6.296,
+            "poster_path": "/ths3Io125YyEPlS6QsF8QLlruS4.jpg",
+            "release_date": "2021-10-15",
+            "title": "Freeland",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mUo1ilGTDm7LaiinW1EvsHQnr6A.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 757514,
+            "original_language": "es",
+            "original_title": "Hijo de monarcas",
+            "overview": "",
+            "popularity": 5.837,
+            "poster_path": "/iOV7S8mBDkpGspskzdrALIkKodb.jpg",
+            "release_date": "2021-10-15",
+            "title": "Hijo de monarcas",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZrnSL2mpFwGwIJ0uvMTdbuAi6p.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 614017,
+            "original_language": "zh",
+            "original_title": "返校",
+            "overview": "",
+            "popularity": 5.778,
+            "poster_path": "/uMgiuUqDN6VDOUV0vYJTkpz4kmm.jpg",
+            "release_date": "2021-10-08",
+            "title": "Detention",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4IHty8ygl8XSkGeD5F0lAx1sycc.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 874728,
+            "original_language": "en",
+            "original_title": "The Secret of Sinchanee",
+            "overview": "",
+            "popularity": 5.545,
+            "poster_path": "/6LiH1h8m7m6N9upszp35ipWc7Mr.jpg",
+            "release_date": "2021-10-08",
+            "title": "The Secret of Sinchanee",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8qphDloxwqGe38MBYz64Md4WtdA.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 725120,
+            "original_language": "en",
+            "original_title": "Baby",
+            "overview": "",
+            "popularity": 5.482,
+            "poster_path": "/vO53tF5svz1i9vJtvMaYOEHgf8t.jpg",
+            "release_date": "2021-10-08",
+            "title": "Baby",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dXmHHOyJ4S10TVGGW291tHjoUrN.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 822138,
+            "original_language": "en",
+            "original_title": "Ascension",
+            "overview": "",
+            "popularity": 5.358,
+            "poster_path": null,
+            "release_date": "2021-10-08",
+            "title": "Ascension",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vBR1IVCsRLVrW33OwfjoeYNdk5w.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 582292,
+            "original_language": "en",
+            "original_title": "13 Fanboy",
+            "overview": "",
+            "popularity": 4.895,
+            "poster_path": "/ev1FUheirWVD2BwEaVjjLymRdhC.jpg",
+            "release_date": "2021-10-22",
+            "title": "13 Fanboy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 871964,
+            "original_language": "pl",
+            "original_title": "W lesie dzis nie zasnie nikt 2",
+            "overview": "",
+            "popularity": 4.599,
+            "poster_path": "/uSH2QAWJEnVEFSZjkcvbQPvP0Jy.jpg",
+            "release_date": "2021-10-27",
+            "title": "W lesie dzis nie zasnie nikt 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 848519,
+            "original_language": "en",
+            "original_title": "Every Last One of Them",
+            "overview": "",
+            "popularity": 4.326,
+            "poster_path": "/1nE7aQNpSDTNSLXJc3eRT36Bk7O.jpg",
+            "release_date": "2021-10-22",
+            "title": "Every Last One of Them",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 3,
+    "total_results": 58
+}

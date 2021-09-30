@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "http://HardLuckLoveSong.com",
+    "id": 536208,
+    "imdb_id": "tt8709338",
+    "original_language": "en",
+    "original_title": "Hard Luck Love Song",
+    "overview": "",
+    "popularity": 9.88,
+    "poster_path": "/fWUbYGT0zTJoEZVyc2SvsenoHPF.jpg",
+    "production_companies": [
+        {
+            "id": 92539,
+            "logo_path": null,
+            "name": "Synthetic Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 106687,
+            "logo_path": null,
+            "name": "Dime Box Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-10-15",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hard Luck Love Song",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

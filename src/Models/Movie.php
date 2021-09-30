@@ -9,10 +9,17 @@ use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\GetMovieDetails;
+use Astrotomic\Tmdb\Requests\ListMovieRecommendations;
+use Astrotomic\Tmdb\Requests\ListMovieSimilars;
+use Astrotomic\Tmdb\Requests\ListPopularMovies;
+use Astrotomic\Tmdb\Requests\ListTopRatedMovies;
+use Astrotomic\Tmdb\Requests\ListUpcomingMovies;
 use Carbon\CarbonInterval;
+use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\LazyCollection;
 
 /**
  * @property int $id
@@ -103,6 +110,36 @@ class Movie extends Model
         'poster_path',
         'homepage',
     ];
+
+    public static function popular(int $limit = null): Collection
+    {
+        $ids = ListPopularMovies::request()
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
+
+    public static function toprated(int $limit = null): Collection
+    {
+        $ids = ListTopRatedMovies::request()
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
+
+    public static function upcoming(int $limit = null): Collection
+    {
+        $ids = ListUpcomingMovies::request()
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
 
     public function genres(): BelongsToMany
     {
@@ -252,5 +289,25 @@ class Movie extends Model
             $this->backdrop_path,
             $this->title
         );
+    }
+
+    public function recommendations(?int $limit = null): Collection
+    {
+        $ids = ListMovieRecommendations::request($this->id)
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
+
+    public function similar(?int $limit = null): Collection
+    {
+        $ids = ListMovieSimilars::request($this->id)
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
     }
 }

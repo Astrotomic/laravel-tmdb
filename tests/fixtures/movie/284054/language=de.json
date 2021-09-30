@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "belongs_to_collection": {
+        "id": 529892,
+        "name": "Black Panther Filmreihe",
+        "poster_path": "/uVnN6KnfDuHiC8rsVsSc7kk0WRD.jpg",
+        "backdrop_path": "/1Jj7Frjjbewb6Q6dl6YXhL3kuvL.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://marvel.com/movies/movie/224/black_panther",
+    "id": 284054,
+    "imdb_id": "tt1825683",
+    "original_language": "en",
+    "original_title": "Black Panther",
+    "overview": "Aufgrund von Bodenschätzen außerirdischen Ursprungs ist das afrikanische Königreich Wakanda unermesslich reich. Nur hier kommt das Vibrationen jeder Art und Stärke absorbierende Mineral Vibranium vor. Den Bewohnern von Wakanda ist sehr daran gelegen, vor den Augen Fremder verborgen zu bleiben.  Reichtum weckt Begehrlichkeiten, und es braucht einen starken Führer, ihn zu verteidigen: Den Black Panther! Die Verantwortung des Black Panther wird vom König Wakandas an den jeweiligen Nachfolger weitergegeben. Und so nimmt T’Challa die Bürde und die Würde des ihm vorbestimmten Schicksals von seinem Vater T’Chaka nach dessen tragischen Tod entgegen.",
+    "popularity": 70.003,
+    "poster_path": "/daKUTgrMnsMLFrRv3a7s6yUyXf1.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-02-13",
+    "revenue": 1346739107,
+    "runtime": 134,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        },
+        {
+            "english_name": "Swahili",
+            "iso_639_1": "sw",
+            "name": "Kiswahili"
+        },
+        {
+            "english_name": "Xhosa",
+            "iso_639_1": "xh",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Lang lebe der König",
+    "title": "Black Panther",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 17949
+}
