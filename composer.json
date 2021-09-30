@@ -40,6 +40,11 @@
         "composer-normalize": {
             "indent-size": 4,
             "indent-style": "space"
+        },
+        "laravel": {
+            "providers": [
+                "Astrotomic\\Tmdb\\TmdbServiceProvider"
+            ]
         }
     },
     "autoload": {
