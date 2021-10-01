@@ -5,15 +5,17 @@ namespace Astrotomic\Tmdb\Models;
 use Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder;
 use Astrotomic\Tmdb\Enums\CreditType;
 use Astrotomic\Tmdb\Enums\MovieStatus;
+use Astrotomic\Tmdb\Enums\WatchProviderType;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
-use Astrotomic\Tmdb\Requests\GetMovieDetails;
-use Astrotomic\Tmdb\Requests\ListMovieRecommendations;
-use Astrotomic\Tmdb\Requests\ListMovieSimilars;
-use Astrotomic\Tmdb\Requests\ListPopularMovies;
-use Astrotomic\Tmdb\Requests\ListTopRatedMovies;
-use Astrotomic\Tmdb\Requests\ListUpcomingMovies;
+use Astrotomic\Tmdb\Requests\Movie\Details;
+use Astrotomic\Tmdb\Requests\Movie\Recommendations;
+use Astrotomic\Tmdb\Requests\Movie\Similars;
+use Astrotomic\Tmdb\Requests\Movie\Popular;
+use Astrotomic\Tmdb\Requests\Movie\TopRated;
+use Astrotomic\Tmdb\Requests\Movie\Upcoming;
+use Astrotomic\Tmdb\Requests\Movie\WatchProviders;
 use Carbon\CarbonInterval;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
@@ -113,7 +115,7 @@ class Movie extends Model
 
     public static function popular(int $limit = null): Collection
     {
-        $ids = ListPopularMovies::request()
+        $ids = Popular::request()
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');
@@ -123,7 +125,7 @@ class Movie extends Model
 
     public static function toprated(int $limit = null): Collection
     {
-        $ids = ListTopRatedMovies::request()
+        $ids = TopRated::request()
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');
@@ -133,7 +135,7 @@ class Movie extends Model
 
     public static function upcoming(int $limit = null): Collection
     {
-        $ids = ListUpcomingMovies::request()
+        $ids = Upcoming::request()
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');
@@ -207,7 +209,7 @@ class Movie extends Model
     {
         $append = collect($with)
             ->map(fn (string $relation) => match ($relation) {
-                'cast', 'crew', 'credits' => GetMovieDetails::APPEND_CREDITS,
+                'cast', 'crew', 'credits' => Details::APPEND_CREDITS,
                 default => null,
             })
             ->filter()
@@ -216,7 +218,7 @@ class Movie extends Model
             ->all();
 
         $data = rescue(
-            fn () => GetMovieDetails::request($this->id)
+            fn () => Details::request($this->id)
                 ->language($locale)
                 ->append(...$append)
                 ->send()
@@ -293,7 +295,7 @@ class Movie extends Model
 
     public function recommendations(?int $limit = null): Collection
     {
-        $ids = ListMovieRecommendations::request($this->id)
+        $ids = Recommendations::request($this->id)
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');
@@ -303,11 +305,22 @@ class Movie extends Model
 
     public function similar(?int $limit = null): Collection
     {
-        $ids = ListMovieSimilars::request($this->id)
+        $ids = Similars::request($this->id)
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');
 
         return static::query()->findMany($ids);
+    }
+
+    public function watchProviders(?string $region = null, ?WatchProviderType $type = null): Collection
+    {
+        return WatchProvider::query()->findMany(
+            WatchProviders::request($this->id)->send()->collect(sprintf(
+                'results.%s.%s.*.provider_id',
+                $region ?? '*',
+                $type?->value ?? '*'
+            ))
+        );
     }
 }

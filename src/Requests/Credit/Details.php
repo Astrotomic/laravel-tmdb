@@ -1,10 +1,11 @@
 <?php
 
-namespace Astrotomic\Tmdb\Requests;
+namespace Astrotomic\Tmdb\Requests\Credit;
 
+use Astrotomic\Tmdb\Requests\Request;
 use Illuminate\Http\Client\Response;
 
-class GetCreditDetails extends Request
+class Details extends Request
 {
     public function __construct(
         protected string $creditId

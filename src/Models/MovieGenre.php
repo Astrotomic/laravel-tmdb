@@ -4,7 +4,7 @@ namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
-use Astrotomic\Tmdb\Requests\ListMovieGenres;
+use Astrotomic\Tmdb\Requests\MovieGenre\ListAll;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Support\Collection;
@@ -44,7 +44,7 @@ class MovieGenre extends Model
     public static function all($columns = ['*']): EloquentCollection
     {
         return DB::transaction(function () use ($columns): EloquentCollection {
-            $data = rescue(fn () => ListMovieGenres::request()->send()->collect('genres'));
+            $data = rescue(fn () => ListAll::request()->send()->collect('genres'));
 
             if ($data instanceof Collection) {
                 $data->each(fn (array $genre) => static::query()->updateOrCreate(
@@ -77,7 +77,7 @@ class MovieGenre extends Model
 
     public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
-        $data = rescue(fn () => ListMovieGenres::request()->language($locale)->send()->collect('genres'));
+        $data = rescue(fn () => ListAll::request()->language($locale)->send()->collect('genres'));
 
         if ($data === null) {
             return false;

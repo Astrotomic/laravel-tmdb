@@ -1,13 +1,14 @@
 <?php
 
-namespace Astrotomic\Tmdb\Requests;
+namespace Astrotomic\Tmdb\Requests\Movie;
 
 use Astrotomic\Tmdb\Facades\Tmdb;
+use Astrotomic\Tmdb\Requests\Request;
 use Generator;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\LazyCollection;
 
-class ListUpcomingMovies extends Request
+class Upcoming extends Request
 {
     protected int $page = 1;
     protected ?string $region = null;

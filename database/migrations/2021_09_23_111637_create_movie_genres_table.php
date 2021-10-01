@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Schema;
 return new class() extends Migration {
     public function up(): void
     {
-        Schema::create(MovieGenre::table(), static function (Blueprint $table): void {
+        Schema::connection(MovieGenre::connection())->create(MovieGenre::table(), static function (Blueprint $table): void {
             $table->bigInteger('id')->unsigned()->primary();
 
             $table->json('name');
@@ -19,6 +19,6 @@ return new class() extends Migration {
 
     public function down(): void
     {
-        Schema::dropIfExists(MovieGenre::table());
+        Schema::connection(MovieGenre::connection())->dropIfExists(MovieGenre::table());
     }
 };

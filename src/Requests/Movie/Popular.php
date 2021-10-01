@@ -1,25 +1,21 @@
 <?php
 
-namespace Astrotomic\Tmdb\Requests;
+namespace Astrotomic\Tmdb\Requests\Movie;
 
 use Astrotomic\Tmdb\Facades\Tmdb;
+use Astrotomic\Tmdb\Requests\Request;
 use Generator;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\LazyCollection;
 
-class ListMovieSimilars extends Request
+class Popular extends Request
 {
     protected int $page = 1;
+    protected ?string $region = null;
 
-    public function __construct(
-        protected int $movieId,
-    ) {
-        parent::__construct();
-    }
-
-    public static function request(int $movieId): static
+    public static function request(): static
     {
-        return new static($movieId);
+        return new static();
     }
 
     public function page(int $page): static
@@ -29,12 +25,20 @@ class ListMovieSimilars extends Request
         return $this;
     }
 
+    public function region(string $region): static
+    {
+        $this->region = $region;
+
+        return $this;
+    }
+
     public function send(): Response
     {
         return $this->request->get(
-            sprintf('/movie/%d/similar', $this->movieId),
+            '/movie/popular',
             array_filter([
                 'language' => $this->language ?? Tmdb::language(),
+                'region' => $this->region ?? Tmdb::region(),
                 'page' => $this->page,
             ])
         )->throw();

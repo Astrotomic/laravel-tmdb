@@ -1,11 +1,12 @@
 <?php
 
-namespace Astrotomic\Tmdb\Requests;
+namespace Astrotomic\Tmdb\Requests\Movie;
 
 use Astrotomic\Tmdb\Facades\Tmdb;
+use Astrotomic\Tmdb\Requests\Request;
 use Illuminate\Http\Client\Response;
 
-class GetMovieDetails extends Request
+class Details extends Request
 {
     public const APPEND_CREDITS = 'credits';
 

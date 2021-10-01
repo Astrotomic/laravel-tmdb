@@ -1,10 +1,10 @@
 <?php
 
-use Astrotomic\Tmdb\Requests\GetMovieDetails;
+use Astrotomic\Tmdb\Requests\Movie\Details;
 use Illuminate\Http\Client\RequestException;
 
 it('responds with movie data', function (): void {
-    $data = GetMovieDetails::request(335983)->send()->json();
+    $data = Details::request(335983)->send()->json();
 
     expect($data)
         ->toBeArray()
@@ -13,7 +13,7 @@ it('responds with movie data', function (): void {
 });
 
 it('responds with english movie data', function (): void {
-    $data = GetMovieDetails::request(335983)->language('en')->send()->json();
+    $data = Details::request(335983)->language('en')->send()->json();
 
     expect($data)
         ->toBeArray()
@@ -22,8 +22,8 @@ it('responds with english movie data', function (): void {
 });
 
 it('appends credits', function (): void {
-    $data = GetMovieDetails::request(335983)
-        ->append(GetMovieDetails::APPEND_CREDITS)
+    $data = Details::request(335983)
+        ->append(Details::APPEND_CREDITS)
         ->send()
         ->json();
 
@@ -34,13 +34,13 @@ it('appends credits', function (): void {
 });
 
 it('fails if not found', function (): void {
-    GetMovieDetails::request(0)->send()->json();
+    Details::request(0)->send()->json();
 })->throws(RequestException::class);
 
 it('can call pending request methods', function (): void {
     $foo = false;
 
-    GetMovieDetails::request(335983)
+    Details::request(335983)
         ->beforeSending(function () use (&$foo): void {
             $foo = true;
         })
@@ -50,5 +50,5 @@ it('can call pending request methods', function (): void {
 });
 
 it('throws exception for unknown method', function (): void {
-    GetMovieDetails::request(335983)->unknownFooMethodBar();
+    Details::request(335983)->unknownFooMethodBar();
 })->throws(BadMethodCallException::class);

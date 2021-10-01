@@ -4,8 +4,9 @@ namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder;
 use Astrotomic\Tmdb\Enums\Gender;
+use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
-use Astrotomic\Tmdb\Requests\GetPersonDetails;
+use Astrotomic\Tmdb\Requests\Person\Details;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Facades\DB;
 
@@ -115,7 +116,7 @@ class Person extends Model
     {
         $append = collect($with)
             ->map(fn (string $relation) => match ($relation) {
-                'movie_credits' => GetPersonDetails::APPEND_MOVIE_CREDITS,
+                'movie_credits' => Details::APPEND_MOVIE_CREDITS,
                 default => null,
             })
             ->filter()
@@ -124,7 +125,7 @@ class Person extends Model
             ->all();
 
         $data = rescue(
-            fn () => GetPersonDetails::request($this->id)
+            fn () => Details::request($this->id)
                 ->language($locale)
                 ->append(...$append)
                 ->send()
@@ -156,5 +157,13 @@ class Person extends Model
     public function newEloquentBuilder($query): PersonBuilder
     {
         return new PersonBuilder($query);
+    }
+
+    public function profile(): Poster
+    {
+        return new Poster(
+            $this->profile_path,
+            $this->name
+        );
     }
 }

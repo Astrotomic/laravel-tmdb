@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Schema;
 return new class() extends Migration {
     public function up(): void
     {
-        Schema::create(Person::table(), static function (Blueprint $table): void {
+        Schema::connection(Person::connection())->create(Person::table(), static function (Blueprint $table): void {
             $table->bigInteger('id')->unsigned()->primary();
 
             $table->string('name')->nullable();
@@ -32,6 +32,6 @@ return new class() extends Migration {
 
     public function down(): void
     {
-        Schema::dropIfExists(Person::table());
+        Schema::connection(Person::connection())->dropIfExists(Person::table());
     }
 };

@@ -1,10 +1,10 @@
 <?php
 
-use Astrotomic\Tmdb\Requests\GetPersonDetails;
+use Astrotomic\Tmdb\Requests\Person\Details;
 use Illuminate\Http\Client\RequestException;
 
 it('responds with person data', function (): void {
-    $data = GetPersonDetails::request(561)->send()->json();
+    $data = Details::request(561)->send()->json();
 
     expect($data)
         ->toBeArray()
@@ -12,8 +12,8 @@ it('responds with person data', function (): void {
 });
 
 it('appends movie credits', function (): void {
-    $data = GetPersonDetails::request(561)
-        ->append(GetPersonDetails::APPEND_MOVIE_CREDITS)
+    $data = Details::request(561)
+        ->append(Details::APPEND_MOVIE_CREDITS)
         ->send()
         ->json();
 
@@ -24,13 +24,13 @@ it('appends movie credits', function (): void {
 });
 
 it('fails if not found', function (): void {
-    GetPersonDetails::request(0)->send()->json();
+    Details::request(0)->send()->json();
 })->throws(RequestException::class);
 
 it('can call pending request methods', function (): void {
     $foo = false;
 
-    GetPersonDetails::request(561)
+    Details::request(561)
         ->beforeSending(function () use (&$foo): void {
             $foo = true;
         })
@@ -40,5 +40,5 @@ it('can call pending request methods', function (): void {
 });
 
 it('throws exception for unknown method', function (): void {
-    GetPersonDetails::request(561)->unknownFooMethodBar();
+    Details::request(561)->unknownFooMethodBar();
 })->throws(BadMethodCallException::class);

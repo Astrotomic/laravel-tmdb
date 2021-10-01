@@ -1,10 +1,10 @@
 <?php
 
-use Astrotomic\Tmdb\Requests\GetCreditDetails;
+use Astrotomic\Tmdb\Requests\Credit\Details;
 use Illuminate\Http\Client\RequestException;
 
 it('responds with credit data', function (): void {
-    $data = GetCreditDetails::request('5a30d4a40e0a264cbe180b27')->send()->json();
+    $data = Details::request('5a30d4a40e0a264cbe180b27')->send()->json();
 
     expect($data)
         ->toBeArray()
@@ -12,13 +12,13 @@ it('responds with credit data', function (): void {
 });
 
 it('fails if not found', function (): void {
-    GetCreditDetails::request('')->send()->json();
+    Details::request('')->send()->json();
 })->throws(RequestException::class);
 
 it('can call pending request methods', function (): void {
     $foo = false;
 
-    GetCreditDetails::request('5a30d4a40e0a264cbe180b27')
+    Details::request('5a30d4a40e0a264cbe180b27')
         ->beforeSending(function () use (&$foo): void {
             $foo = true;
         })
@@ -28,5 +28,5 @@ it('can call pending request methods', function (): void {
 });
 
 it('throws exception for unknown method', function (): void {
-    GetCreditDetails::request('5a30d4a40e0a264cbe180b27')->unknownFooMethodBar();
+    Details::request('5a30d4a40e0a264cbe180b27')->unknownFooMethodBar();
 })->throws(BadMethodCallException::class);

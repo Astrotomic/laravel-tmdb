@@ -9,14 +9,16 @@ use Illuminate\Support\Facades\Schema;
 return new class() extends Migration {
     public function up(): void
     {
-        Schema::create('movie_movie_genre', static function (Blueprint $table): void {
+        Schema::connection(Movie::connection())->create('movie_movie_genre', static function (Blueprint $table): void {
             $table->foreignId('movie_id')->constrained(Movie::table());
             $table->foreignId('movie_genre_id')->constrained(MovieGenre::table());
+
+            $table->unique(['movie_id', 'movie_genre_id']);
         });
     }
 
     public function down(): void
     {
-        Schema::dropIfExists('movie_movie_genre');
+        Schema::connection(Movie::connection())->dropIfExists('movie_movie_genre');
     }
 };

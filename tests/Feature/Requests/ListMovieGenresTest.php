@@ -1,9 +1,9 @@
 <?php
 
-use Astrotomic\Tmdb\Requests\ListMovieGenres;
+use Astrotomic\Tmdb\Requests\MovieGenre\ListAll;
 
 it('responds with movie genres', function (): void {
-    $data = ListMovieGenres::request()->send()->json();
+    $data = ListAll::request()->send()->json();
 
     expect($data)
         ->toBeArray()
@@ -13,7 +13,7 @@ it('responds with movie genres', function (): void {
 it('can call pending request methods', function (): void {
     $foo = false;
 
-    ListMovieGenres::request()
+    ListAll::request()
         ->beforeSending(function () use (&$foo): void {
             $foo = true;
         })
@@ -23,5 +23,5 @@ it('can call pending request methods', function (): void {
 });
 
 it('throws exception for unknown method', function (): void {
-    ListMovieGenres::request()->unknownFooMethodBar();
+    ListAll::request()->unknownFooMethodBar();
 })->throws(BadMethodCallException::class);

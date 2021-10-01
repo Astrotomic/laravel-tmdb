@@ -4,6 +4,7 @@ use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Movie;
 use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\Person;
+use Astrotomic\Tmdb\Models\WatchProvider;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Fluent;
 
@@ -26,6 +27,7 @@ dataset('Builder::findMany', function (): Generator {
         MovieGenre::class => [35, 99],
         Person::class => [561, 10393],
         Credit::class => ['5a30d4a40e0a264cbe180b27', '5bb637c10e0a2633a7011036'],
+        WatchProvider::class => [8, 9],
     ];
 
     foreach ($set as $model => $ids) {
@@ -41,6 +43,7 @@ dataset('Builder::findMany@incomplete', function (): Generator {
         MovieGenre::class => [35, 0],
         Person::class => [561, 0],
         Credit::class => ['5a30d4a40e0a264cbe180b27', ''],
+        WatchProvider::class => [8, 0],
     ];
 
     foreach ($set as $model => $ids) {
@@ -56,6 +59,7 @@ dataset('Builder::findMany@empty', function (): Generator {
         MovieGenre::class => [],
         Person::class => [],
         Credit::class => [],
+        WatchProvider::class => [],
     ];
 
     foreach ($set as $model => $ids) {

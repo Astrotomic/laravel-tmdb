@@ -4,7 +4,7 @@ namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder;
 use Astrotomic\Tmdb\Enums\CreditType;
-use Astrotomic\Tmdb\Requests\GetCreditDetails;
+use Astrotomic\Tmdb\Requests\Credit\Details;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\MorphTo;
 use Illuminate\Support\Arr;
@@ -82,7 +82,7 @@ class Credit extends Model
     public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
         $data = rescue(
-            fn () => GetCreditDetails::request($this->id)
+            fn () => Details::request($this->id)
                 ->send()
                 ->json()
         );

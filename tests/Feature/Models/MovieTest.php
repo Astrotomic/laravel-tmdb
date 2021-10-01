@@ -2,9 +2,11 @@
 
 use Astrotomic\PhpunitAssertions\ArrayAssertions;
 use Astrotomic\Tmdb\Enums\MovieStatus;
+use Astrotomic\Tmdb\Enums\WatchProviderType;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Movie;
+use Astrotomic\Tmdb\Models\WatchProvider;
 use Carbon\CarbonInterval;
 use PHPUnit\Framework\Assert;
 use Spatie\Enum\Phpunit\EnumAssertions;
@@ -225,4 +227,52 @@ it('loads several pages of upcoming movies', function (): void {
 
     expect(requests('movie/upcoming'))
         ->toHaveCount(3);
+});
+
+it('loads all watch providers', function (): void {
+    $providers = Movie::query()->findOrFail(335983)->watchProviders();
+
+    expect($providers)
+        ->toHaveCount(61)
+        ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('loads german watch providers', function (): void {
+    $providers = Movie::query()->findOrFail(335983)->watchProviders('DE');
+
+    expect($providers)
+        ->toHaveCount(11)
+        ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('loads buy watch providers', function (): void {
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::BUY());
+
+    expect($providers)
+        ->toHaveCount(31)
+        ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('loads rent watch providers', function (): void {
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::RENT());
+
+    expect($providers)
+        ->toHaveCount(36)
+        ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('loads flatrate watch providers', function (): void {
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE());
+
+    expect($providers)
+        ->toHaveCount(24)
+        ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('loads german flatrate watch providers', function (): void {
+    $providers = Movie::query()->findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE());
+
+    expect($providers)
+        ->toHaveCount(1)
+        ->each->toBeInstanceOf(WatchProvider::class);
 });

@@ -1,11 +1,12 @@
 <?php
 
-namespace Astrotomic\Tmdb\Requests;
+namespace Astrotomic\Tmdb\Requests\MovieGenre;
 
 use Astrotomic\Tmdb\Facades\Tmdb;
+use Astrotomic\Tmdb\Requests\Request;
 use Illuminate\Http\Client\Response;
 
-class ListMovieGenres extends Request
+class ListAll extends Request
 {
     public static function request(): static
     {

@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Schema;
 return new class() extends Migration {
     public function up(): void
     {
-        Schema::create(Movie::table(), static function (Blueprint $table): void {
+        Schema::connection(Movie::connection())->create(Movie::table(), static function (Blueprint $table): void {
             $table->bigInteger('id')->unsigned()->primary();
 
             $table->boolean('adult')->default(false);
@@ -40,6 +40,6 @@ return new class() extends Migration {
 
     public function down(): void
     {
-        Schema::dropIfExists(Movie::table());
+        Schema::connection(Movie::connection())->dropIfExists(Movie::table());
     }
 };
