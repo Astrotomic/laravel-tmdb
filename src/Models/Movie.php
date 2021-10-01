@@ -113,7 +113,7 @@ class Movie extends Model
         'homepage',
     ];
 
-    public static function popular(int $limit = null): Collection
+    public static function popular(?int $limit): Collection
     {
         $ids = Popular::request()
             ->cursor()
@@ -123,7 +123,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public static function toprated(int $limit = null): Collection
+    public static function toprated(?int $limit): Collection
     {
         $ids = TopRated::request()
             ->cursor()
@@ -133,7 +133,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public static function upcoming(int $limit = null): Collection
+    public static function upcoming(?int $limit): Collection
     {
         $ids = Upcoming::request()
             ->cursor()
@@ -293,7 +293,7 @@ class Movie extends Model
         );
     }
 
-    public function recommendations(?int $limit = null): Collection
+    public function recommendations(?int $limit): Collection
     {
         $ids = Recommendations::request($this->id)
             ->cursor()
@@ -303,7 +303,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public function similar(?int $limit = null): Collection
+    public function similars(?int $limit): Collection
     {
         $ids = Similars::request($this->id)
             ->cursor()

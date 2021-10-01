@@ -142,7 +142,7 @@ it('loads first page of recommended movies', function (): void {
 });
 
 it('loads several pages of similar movies', function (): void {
-    $movies = Movie::query()->findOrFail(335983)->similar(60);
+    $movies = Movie::query()->findOrFail(335983)->similars(60);
 
     expect($movies)
         ->toHaveCount(55)
@@ -153,7 +153,7 @@ it('loads several pages of similar movies', function (): void {
 });
 
 it('loads first page of similar movies', function (): void {
-    $movies = Movie::query()->findOrFail(335983)->similar(20);
+    $movies = Movie::query()->findOrFail(335983)->similars(20);
 
     expect($movies)
         ->toHaveCount(20)
