@@ -120,7 +120,7 @@ it('does return fallback for unknown language', function (): void {
 });
 
 it('loads all recommended movies', function (): void {
-    $movies = Movie::query()->findOrFail(335983)->recommendations();
+    $movies = Movie::query()->findOrFail(335983)->recommendations(null);
 
     expect($movies)
         ->toHaveCount(40)
