@@ -88,11 +88,7 @@ class Collection extends Model
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
-            return false;
-        }
-
-        return true;
+        return $this->fillFromTmdb($data, $locale)->save();
     }
 
     public function newEloquentBuilder($query): CollectionBuilder
