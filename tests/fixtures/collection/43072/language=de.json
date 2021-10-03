@@ -1,0 +1,51 @@
+{
+    "id": 43072,
+    "name": "Die Maske Filmreihe",
+    "overview": "",
+    "poster_path": "/pl2vNt9XlxITTgm8wCQ2Y6ThkpT.jpg",
+    "backdrop_path": "/ucDNm5TJW1ji7kIjnX2SZYm7ATM.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "Son of the Mask",
+            "poster_path": "/877cfV7U0I9laUSsi6QMMQgjQH0.jpg",
+            "video": false,
+            "vote_average": 4.1,
+            "overview": "Der Comiczeichner und frisch gebackene Vater Tim Avery muß feststellen, daß sein Spross über unglaubliche Fähigkeiten verfügt, denn irgendwie hat das Baby Kontakt mit der berüchtigten Maske des Loki bekommen.",
+            "release_date": "2005-02-18",
+            "vote_count": 1336,
+            "title": "Die Maske 2 - Die nächste Generation",
+            "adult": false,
+            "backdrop_path": "/zbGteYxh9dMJAKPyZY9AWzzHR5I.jpg",
+            "id": 10214,
+            "genre_ids": [
+                14,
+                35,
+                10751,
+                12
+            ],
+            "popularity": 33.071
+        },
+        {
+            "genre_ids": [
+                10749,
+                35,
+                80,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "The Mask",
+            "poster_path": "/sfok3inDsb0zIamb6ZLWw0DxRbU.jpg",
+            "video": false,
+            "vote_average": 6.9,
+            "overview": "Stanley Ipkiss ist ein kleiner Bankangestellter. Sein Leben ist derart unauffällig, dass man es nicht einmal als durchschnittlich bezeichnen kann. Er ist schüchtern, ein bisschen linkisch, und wenn ihn sein Boss oder seine Vermieterin zur Schnecke macht, zittert er am ganzen Leib. Sein einziger Freund ist Milo, ein Terrier. Eines Tages fischt Stanley Treibgut aus dem Fluss: eine rätselhafte Holzmaske. Zu Hause hält er sich mehr zufällig die Maske vor’s Gesicht, und plötzlich bebt die Erde. Magische Kräfte verwandeln Stanley von einer Null zu einem Superhelden, zu einem Wirbelwind, dem selbst die sexy Nachtclub-Tänzerin Tina nicht mehr widerstehen kann. Als der skrupellose Gangsterboss Dorian von den unglaublichen Kräften der Maske erfährt, will er sie haben. Um jeden Preis…",
+            "id": 854,
+            "vote_count": 7863,
+            "title": "Die Maske",
+            "adult": false,
+            "backdrop_path": "/rFzedAcbusHXdAJxJf6t523mqFk.jpg",
+            "release_date": "1994-07-29",
+            "popularity": 42.761
+        }
+    ]
+}

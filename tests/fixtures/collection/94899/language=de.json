@@ -1,0 +1,85 @@
+{
+    "id": 94899,
+    "name": "Jeepers Creepers Filmreihe",
+    "overview": "Filmreihe US-amerikanischer Horrorfilme über ein menschenfressendes Monster, das alle 23 Jahre auftaucht um für 23 Tage Jagd auf Menschenfleisch zu machen. Der Titel bezieht sich auf einen gleichnamigen Song, der in den Filmen eine zentrale Rolle spielt.",
+    "poster_path": "/2qyn3GJXqLP54fbWazRGvsnkmAA.jpg",
+    "backdrop_path": "/mzFtvzOdmuDYoQQuOzulsJkAUQB.jpg",
+    "parts": [
+        {
+            "backdrop_path": "/oG1NY1hU6hhC7TWdQBURUtAjvGv.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Jeepers Creepers",
+            "poster_path": "/ohJI8iK4dG9KYfWrB2MgU838tYQ.jpg",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2074,
+            "overview": "Die Geschwister Trish und Darry befinden sich auf der Heimfahrt vom College in die Sommerferien zu ihren Eltern. Plötzlich werden sie auf einer abgelegenen, einsamen Landstraße mitten im Niemandsland von einem alten, verdreckten Truck von der Straße gedrängt. Schockiert setzen sie ihre Fahrt fort und sehen kurze Zeit später den besagten Truck an einer alten Kirche stehen. Im Vorbeifahren beobachten sie, wie eine massige Gestalt ein menschengroßes, in ein Laken gehülltes Bündel, von der Ladefläche hebt und in einem Erdschacht verschwinden lässt. Die große Angst vor dem Fremden wird schließlich von Darrys Neugier besiegt und die beiden kehren wider jegliche Vernunft um und machen eine grauenvolle Entdeckung. Sie untersuchen die Erdröhre, dabei verliert Darry den Halt und stürzt in die dunkle Tiefe.",
+            "release_date": "2001-07-01",
+            "title": "Jeepers Creepers",
+            "id": 8922,
+            "adult": false,
+            "popularity": 42.636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pxT33mSp70MhA7eYImzDlaQCj2g.jpg",
+            "genre_ids": [
+                27
+            ],
+            "original_language": "en",
+            "original_title": "Jeepers Creepers 2",
+            "poster_path": "/gVZKgKjwFCa7yDSNosBVe9YXPpc.jpg",
+            "vote_count": 1100,
+            "video": false,
+            "vote_average": 6,
+            "id": 11351,
+            "overview": "Nach einem gewonnen Wettbewerb fährt eine Gruppe von Basketballspielern, Trainern, Cheerleadern und deren Freunden in einem Reisebus heim. Auf dem berüchtigten Highway 9 bleibt der Bus liegen. Mit gesammelter Kraft muss die Gruppe gegen ein fleischfressendes Monster namens Creeper ankämpfen. Unterdessen begeben sich ein Farmer und sein Sohn eigenmächtig auf die Jagd nach diesem Monster.",
+            "release_date": "2003-08-08",
+            "title": "Jeepers Creepers 2",
+            "popularity": 42.759
+        },
+        {
+            "overview": "Dan Tashtego, Sheriff des kleinen Städtchens Poho County, steht vor einem Rätsel als er und sein Team einen LKW voller Leichen finden. Bei ihrer Untersuchung finden sie zahlreiche tödliche Fallen an dem Fahrzeug. Und damit hat das Grauen noch kein Ende. Addison Brandon wird von einem Dämonen verfolgt, so auch Buddy Hooks, ein weiterer Jugendlicher aus dem Ort. Immer mehr Menschen aus ihrer Umgebung werden scheinbar von dem Dämon geschnappt. Hilfe scheint ausgerechnet die alte, als verrückt geltende Frau Gaylen zu bieten. Sie verlor ihren Sohn vor 23 Jahren und glaubt nun zu wissen, wie man das Monster stoppen kann. Dabei könnte auch der alte Polizei-Veteran Davis Tubbs eine wichtige Hilfe sein. Er hat Erfahrung im Kampf mit dem Creeper und unterstützt Sheriff Tashtego...",
+            "id": 55341,
+            "title": "Jeepers Creepers 3",
+            "adult": false,
+            "backdrop_path": "/1kk4cuhjiAw8bGZwXIADJ2P7Xyj.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Jeepers Creepers 3",
+            "poster_path": "/8xO02ZE28Mhqk0U1WeQnp2Ctfpr.jpg",
+            "vote_count": 570,
+            "video": false,
+            "vote_average": 4.8,
+            "release_date": "2017-09-26",
+            "popularity": 37.493
+        },
+        {
+            "id": 717728,
+            "overview": "",
+            "release_date": "2021-10-28",
+            "adult": false,
+            "backdrop_path": null,
+            "vote_count": 0,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "vote_average": 0,
+            "original_language": "en",
+            "original_title": "Jeepers Creepers: Reborn",
+            "poster_path": "/g3jrVqSls1ItQvw6TXWMVcFS6FH.jpg",
+            "title": "Jeepers Creepers: Reborn",
+            "video": false,
+            "popularity": 15.489
+        }
+    ]
+}

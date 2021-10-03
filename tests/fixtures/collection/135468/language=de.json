@@ -1,0 +1,70 @@
+{
+    "id": 135468,
+    "name": "G.I. Joe Filmreihe",
+    "overview": "Eine Science-Fiction-Action-Filmreihe die auf der Spielzeugreihe G.I. Joe von Hasbro basiert.",
+    "poster_path": "/8ykKDU3FisEFtCpPZloB1jqcAIn.jpg",
+    "backdrop_path": "/st6ukSdJrKfwYVwxGRHWqXJGrQc.jpg",
+    "parts": [
+        {
+            "title": "G.I. Joe - Geheimauftrag Cobra",
+            "vote_average": 5.7,
+            "overview": "Es soll lediglich eine Eskorte gefährlicher Sprengköpfe sein, die alles zerstörende Nano-Roboter beinhalten, doch für Captain Hauser und seinen Armeekollegen Weems kommt die Terrororganisation Cobra in die Quere, die nach der Weltherrschaft greift. Die brandgefährliche Baroness versucht im Auftrag des gemeingefährlichen \"Doctor\", die Sprengköpfe als Druckmittel in die Finger zu bekommen, als eine Spezialeinheit namens \"G.I.Joe\" unter der Führung von General Clayton \"Hawk\" Abernathy in letzter Minute eingreift. Einmal in Kontakt mit der Gruppe sehen Hauser und Weems in der mit neuester Kampftechnik ausgestatteten Gruppe eine ganz große Chance und bemühen sich um Beitritt zur Eliteeinheit...",
+            "release_date": "2009-08-03",
+            "adult": false,
+            "backdrop_path": "/z9EaK0h0hGhrhwqWsp2WyIOIwQF.jpg",
+            "vote_count": 3691,
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "G.I. Joe: The Rise of Cobra",
+            "poster_path": "/yzk1sq9jPdNPrBshaT5uvHci717.jpg",
+            "id": 14869,
+            "popularity": 246.466
+        },
+        {
+            "genre_ids": [
+                878,
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "G.I. Joe: Retaliation",
+            "poster_path": "/SQWhh0CGgcZZQmgdohdS3qEuyK.jpg",
+            "video": false,
+            "vote_average": 5.6,
+            "overview": "Die eigentlich recht wehrhafte Elite-Einheit G.I. Joe wird von einer höheren Instanz attackiert und soll vollständig ausgelöscht werden. Bei der perfide geplanten Liquidierungsaktion sterben viele Mitglieder der kampferprobten Elite-Einheit. Nur eine kleine Runde rund um Captain Duke Hauser, den zupackenden Roadblock und die verführerische Lady Jaye überleben den tödlichen Übergriff und gehen der Sache fortan auf den Grund. Unterstützung erhalten sie dabei von dem zwar etwas in die Jahre gekommenen, aber immer noch recht schlagfertigen General Joe Colton, seines Zeichens ehemaliger Gründer der Elite-Einheit G.I. Joe.",
+            "id": 72559,
+            "vote_count": 4678,
+            "title": "G.I. Joe - Die Abrechnung",
+            "adult": false,
+            "backdrop_path": "/pEhXq18GVe1dg2ltplcxtGWfSje.jpg",
+            "release_date": "2013-03-27",
+            "popularity": 72.163
+        },
+        {
+            "genre_ids": [
+                28,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Snake Eyes: G.I. Joe Origins",
+            "poster_path": "/zz8RZW7Dbs35EANTtyRydqvFhOA.jpg",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 531,
+            "overview": "Snake Eyes (Henry Golding) ist ein Einzelgänger, der dem Thronfolger eines alten japanischen Clans das Leben gerettet hat, woraufhin er in den Arashikage Clan aufgenommen wird. Doch vorher muss er sich beweisen: Die Killer des Arashikage Clans übernehmen Aufträge, an die sich sonst keiner rantraut, und nur besonders gute Kämpfer werden dafür ausgewählt. Snake Eyes trainiert entschlossen bei seinem Lehrer Hard Master (Iko Uwais), um sein Ziel zu erreichen. Während dieser Lehrzeit bietet die Gruppe ihm etwas, wonach er sich schon lange sehnt: ein Zuhause und Sicherheit. Doch als dunkle Geheimnisse aus seiner Vergangenheit aufgedeckt werden, werden Snake Eyes' Ehre und Loyalität auf die Probe gestellt. Er muss eine Entschiedung treffen und in einen unerbittlichen Kampf ziehen - selbst wenn das bedeutet, das Vertrauen derer zu verlieren, die ihm am nächsten stehen.",
+            "id": 568620,
+            "release_date": "2021-07-22",
+            "title": "Snake Eyes: G.I. Joe Origins",
+            "adult": false,
+            "backdrop_path": "/aO9Nnv9GdwiPdkNO79TISlQ5bbG.jpg",
+            "popularity": 6520.868
+        }
+    ]
+}

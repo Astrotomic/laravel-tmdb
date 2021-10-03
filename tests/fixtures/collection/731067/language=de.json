@@ -1,0 +1,49 @@
+{
+    "id": 731067,
+    "name": "Bird Box Collection",
+    "overview": "",
+    "poster_path": "/hKFcfZNI1tlQJlZYaO782SZS5p3.jpg",
+    "backdrop_path": null,
+    "parts": [
+        {
+            "genre_ids": [
+                53,
+                18,
+                878
+            ],
+            "original_language": "en",
+            "id": 405774,
+            "poster_path": "/dKuRb7CP2FEaMEtdXXn6YFU8H2Y.jpg",
+            "video": false,
+            "vote_average": 6.9,
+            "overview": "Ein mysteriöser Schrecken hat die Welt heimgesucht. Es handelt sich dabei um eine mysteriöse Macht, die seine Opfer in den Selbstmord treibt. Sobald man sie erblickt erlebt man seine schlimmsten Ängste. Um sich und ihre zwei Kinder vor diesem grausamen Schicksal zu bewahren, muss sich Malorie mit ihnen in dieser in Angst und Schrecken versetzten Welt durchkämpfen. Dies mit verbundenen Augen, um dem unheimlichen Wesen keine Angriffsfläche zu bieten. Malorie erfährt von einem Ort am Fluß, an dem ein Überleben, vielleicht möglich ist. In einem kleinem Boot wagt sie mit ihren Kindern die gefährliche Fahrt …",
+            "release_date": "2018-12-13",
+            "vote_count": 7852,
+            "title": "Bird Box - Schließe deine Augen",
+            "adult": false,
+            "backdrop_path": "/zzaFYbbn2jRhE1eAoqsS2LWR3EA.jpg",
+            "original_title": "Bird Box",
+            "popularity": 31.911
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                878,
+                18
+            ],
+            "id": 724583,
+            "original_language": "en",
+            "original_title": "Bird Box 2",
+            "overview": "",
+            "poster_path": null,
+            "release_date": "",
+            "title": "Bird Box 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.916
+        }
+    ]
+}

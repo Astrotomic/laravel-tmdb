@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/k22mrpAzZNRR5ktD5Wb7rMlxemS.jpg",
+    "belongs_to_collection": {
+        "id": 86055,
+        "name": "Men in Black Filmreihe",
+        "poster_path": "/1nDZPKU1KIR0UuY92g33wHHNhMO.jpg",
+        "backdrop_path": "/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"
+    },
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.sonypictures.com/homevideo/meninblackii/",
+    "id": 608,
+    "imdb_id": "tt0120912",
+    "original_language": "en",
+    "original_title": "Men in Black II",
+    "overview": "Agent J muss die Erde wieder vor einigem Abschaum bewahren, denn in Gestalt des verführerischen Dessous-Models Serleena will ein Alien den Planeten unterjochen. Dabei benötigt J die Hilfe seines alten Partners Agent K. Der wurde aber bei seiner “Entlassung” geblitzdingst, und so muß J seine Erinnerung erst mal etwas auffrischen bevor es auf die Jagd gehen kann.",
+    "popularity": 27.278,
+    "poster_path": "/eQLcIA6JeZ7v0ypr3bBoR3Uq8Jf.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 49325,
+            "logo_path": null,
+            "name": "Parkes+MacDonald Image Nation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-07-03",
+    "revenue": 445135288,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Derselbe Planet. Neuer Abschaum.",
+    "title": "Men in Black II",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 7934
+}

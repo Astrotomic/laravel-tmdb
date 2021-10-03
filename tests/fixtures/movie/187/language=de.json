@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+    "belongs_to_collection": {
+        "id": 135179,
+        "name": "Sin City Filmreihe",
+        "poster_path": "/OchYYo5ieq1WwvSIcb7iX6EdOL.jpg",
+        "backdrop_path": "/nrn5Uogru1UPhnGZdc0g5Kvkyni.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.miramax.com/movie/sin-city/",
+    "id": 187,
+    "imdb_id": "tt0401792",
+    "original_language": "en",
+    "original_title": "Sin City",
+    "overview": "Basin City, genannt Sin City, ist ein düsteres Metropolis, in dem nichts und niemand wirklich sicher ist, in dem die Gewalt allgegenwärtig ist und die Schicksale sich kreuzen. Drei Geschichten aus den dunklen Winkeln der Stadt werden hier erzählt: da ist der muskulöse Schläger Marv, der sich auf einen beispiellosen Rachefeldzug begibt, als die einzige von ihm geliebte Frau Goldie nach einer gemeinsamen Nacht von einem Killer getötet wird. Dwight, der aus Gefühlsgründen für die nicht ganz so wehrlosen Prostituierten und Tänzerinnen eintritt, als ein brutaler Cop sie bedroht und damit selbst in immer gewalttätigere Schwierigkeiten gerät und schließlich und endlich die Story des ehrlichen Cops Hartigan, der allmählich seines Jobs müde geworden ist, aber noch einmal zur Tat schreiten muss...",
+    "popularity": 23.49,
+    "poster_path": "/bYT76Gqo58fNugswfzD2WtOfl8c.jpg",
+    "production_companies": [
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 10807,
+            "logo_path": "/j0BcMaJKIiDDYHq9lriTcM0Npka.png",
+            "name": "Troublemaker Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-04-01",
+    "revenue": 158733820,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Es gibt keine Gerechtigkeit ohne Sünde",
+    "title": "Sin City",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 6362
+}

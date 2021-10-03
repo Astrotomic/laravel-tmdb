@@ -1,0 +1,69 @@
+{
+    "id": 119,
+    "name": "Der Herr der Ringe Filmreihe",
+    "overview": "Die Der Herr der Ringe-Filme erhielten insgesamt 30 Oscar-Nominierungen und gewannen rekordträchtige 17 Oscars – der dritte Film wurde als Bester Film sowie für die Regie, das Drehbuch nach einer Vorlage und in acht weiteren Kategorien ausgezeichnet. Jacksons Filmtrilogie ist die Verfilmung der Romanbestseller von J.R.R. Tolkien, eine epische Reise von Menschen, Hobbits, Elben, Zwergen und den anderen Wesen und Kulturen in Mittelerde. Die Filme zeigen den Kampf Gut gegen Böse mit fantastischen Spezialeffekten und einem starken emotionalen Zentrum – es geht um unzertrennbare Freundschaften und die Opfer, die während des drohenden Untergangs von Mittelerde gebracht werden müssen.",
+    "poster_path": "/fVVwUTyykClDk16ViZnkDwsLaiL.jpg",
+    "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "poster_path": "/k6lw7hhaMDzJ170bfZfBbnipxcW.jpg",
+            "video": false,
+            "vote_average": 8.4,
+            "overview": "Dem Hobbit Bilbo Beutlin fällt zufällig ein machtvoller Ring in die kleinen Hände. Dieses Schmuckstück erlaubte es dem finsteren Herrscher Sauron einst, die Welt zu unterjochen. Der Ring schien über Jahrhunderte verloren, bis Bilbo ihn an sich nahm und seinen \"Schatz\" sechzig Jahre lang bewahrte. An seinem 111. Geburtstag gibt er ihn schweren Herzens an seinen Neffen Frodo weiter und verlässt seine Heimat Mittelerde. Für den jungen Hobbit Frodo wird der Ring jedoch zur schweren Bürde. Der böse Geist Saurons, der in dem \"Einen\" gefangen ist, wird immer stärker. Frodo bleibt nur eine Möglichkeit: Er muss ihn vernichten. Allerdings ist das nicht gerade einfach. Nur in den ewigen Feuern des Schicksalsberges im Lande Mordor, wo der Ring geschmiedet wurde, kann er auch vernichtet werden. Doch bis dahin muss Frodo an der Seite des Zauberers Gandalf und seiner Gefährten durch Feindesland ziehen, immer verfolgt von Saurons Lakaien...",
+            "release_date": "2001-12-18",
+            "title": "Der Herr der Ringe - Die Gefährten",
+            "adult": false,
+            "backdrop_path": "/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg",
+            "vote_count": 19765,
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 120,
+            "popularity": 100.434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nS4picOwj15APKzJeBCk6EBcMG5.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 121,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Two Towers",
+            "overview": "Der Weg der Gefährten hat sich geteilt. Ringträger Frodo und sein treuer Begleiter Sam treffen in den Bergen von Emyn Muil auf Gollum, dem einst Bilbo Beutlin den Einen Ring wegnahm. Gollums Versuch, den mächtigen Ring von Frodo zu stehlen, misslingt, doch die Hobbits bringen es nicht übers Herz, die Kreatur zu töten. Stattdessen soll Gollum die beiden nach Mordor an die Pforten von Barad-Dûr, Saurons Festung, führen, wo Frodo den Ring vernichten will. Währenddessen folgen Aragorn, Elben-Bogenschütze Legolas und Zwerg Gimli den Spuren der von Orks verschleppten Hobbits. Im Menschenkönigreich Rohan ersuchen sie Unterstützung. Doch König Theoden steht unter einem tödlichen Bann Saurons. Erst als Gandalf als wiedergeborener weißer Zauberer zurückkehrt, wendet sich das Blatt. Er befreit Theoden von dem Fluch und bringt die Menschen von Rohan hinter sich. Unterdessen rückt Saurons Verbündeter Saruman mit einer 10.000 Mann starken Armee von Uruk-hais in RIchtung der Menschenstadt vor...",
+            "poster_path": "/tgBCeAjPwXeUaf8LsRL0LzBIcdR.jpg",
+            "release_date": "2002-12-18",
+            "title": "Der Herr der Ringe - Die zwei Türme",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 17100,
+            "popularity": 78.022
+        },
+        {
+            "title": "Der Herr der Ringe - Die Rückkehr des Königs",
+            "video": false,
+            "vote_average": 8.5,
+            "overview": "Saurons Heer will Minas Tirith angreifen, die in Felsen errichtete Hauptstadt von Gondor. Angesichts der Bedrohlichkeit des feindlichen Heeres wiegt es umso schwerer, dass Gondors König fehlt und nur der schwächliche Truchsess Denethor über das einst mächtige Königreich wacht. Wird Aragorn die Kraft aufbringen, jene Aufgabe zu übernehmen, für die sein Schicksal ihn bestimmt hat? Während Gandalf verzweifelt versucht, die mutlosen Kämpfer von Gondor zu motivieren, sammelt Théoden die Krieger von Rohan, um am Kampf teilzunehmen. Aber obwohl sie tapfer und leidenschaftlich Widerstand leisten, haben die Streitkräfte der Menschen dem überwältigenden Ansturm der feindlichen Legionen gegen das Königreich kaum etwas entgegenzusetzen. Jeder Sieg fordert große Opfer. Trotz der starken Verluste stellen sich die Gefährten der größten Schlacht ihres Lebens - vereint durch ein einziges Ziel: Sauron muss so lange abgelenkt werden, bis Frodo den Ring vernichtet hat...",
+            "release_date": "2003-12-01",
+            "adult": false,
+            "backdrop_path": "/lXhgCODAbBXL5buk9yEmTpOoOgR.jpg",
+            "vote_count": 18357,
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "poster_path": "/uFjlP9U9UOZAzGB25HUtmlEpXbc.jpg",
+            "popularity": 82.11
+        }
+    ]
+}

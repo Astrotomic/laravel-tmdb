@@ -1,0 +1,190 @@
+{
+    "id": 10,
+    "name": "Star Wars Filmreihe",
+    "overview": "\"Star Wars™\" ist die größte Science-Fiction-Saga aller Zeiten, die mit ihren bislang neun filmischen Episoden und den unüberschaubaren Verzweigungen alle Dimensionen der Unterhaltungskultur gesprengt hat. Die Abenteuer von Luke Skywalker, Han Solo und der schönen Prinzessin Leia fesseln die Kinozuschauer und die Leser in aller Welt seit fast 30 Jahren.",
+    "poster_path": "/46oFAcjORMltwPxR6uU6hM4mN7F.jpg",
+    "backdrop_path": "/d8duYyyC9J5T825Hg7grmaabfxQ.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 8.2,
+            "overview": "Seit der Vernichtung der Jedi-Ritter steht die Galaxie unter der grausamen Herrschaft des Imperiums. Nur eine kleine Gruppe von Rebellen, angeführt von der schönen Prinzessin Leia, widersetzt sich der dunklen Macht. Als es ihnen gelingt, die geheimen Baupläne für den gefährlichen Todesstern zu entwenden, gerät das Imperium in Aufruhr. Durch Zufall gelangen die Pläne ausgerechnet in die Hände des Farmerjungen Luke Skywalker, der spürt, dass er sein bisheriges Leben hinter sich lassen muss. Gemeinsam mit dem weisen Obi-Wan Kenobi, den Weltraumabenteurern Han Solo und Chewbacca sowie den Droiden R2-D2 und C-3PO nimmt er den Kampf gegen das mächtige Imperium auf. Es beginnt ein Wettlauf gegen die Zeit, denn der Kampfstern kann nur vor seiner Fertigstellung zerstört werden...",
+            "release_date": "1977-05-25",
+            "vote_count": 16050,
+            "adult": false,
+            "backdrop_path": "/iPnH51khswDrYij6XIBHKlAznW.jpg",
+            "title": "Krieg der Sterne",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 11,
+            "original_language": "en",
+            "original_title": "Star Wars",
+            "poster_path": "/mqGTDn6c5wy4Bwf6DR7eZeO7c5d.jpg",
+            "popularity": 56.676
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/azIbQpeKKNF9r85lBSRrNnMK0Si.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 1891,
+            "original_language": "en",
+            "original_title": "The Empire Strikes Back",
+            "overview": "Nach der Zerstörung des Todessterns geht der Kampf zwischen den Rebellen und dem herrschenden Imperium weiter. Die Rebellen haben sich auf den Eisplaneten Hoth zurückgezogen, doch das Imperium spürt sie auf und zerstört nach hartem Kampf die dortige Basis. Daraufhin teilen sich unsere Freunde auf: Luke gerät mit R2-D2 auf den Sumpfplaneten Dagobah, wo er von dem alten Jedi-Meister Yoda eine Ausbildung im Umgang mit der Macht erhält, während Leia, Han Solo und die anderen sich nach Bespin durchschlagen, wo in einer Wolkenstadt ein alter Freund von Han residiert. Doch dort geraten sie in eine Falle des Imperiums, und Luke muß ihnen zu Hilfe kommen und Darth Vader zu einem Duell herausfordern...",
+            "poster_path": "/3gf6BSpJziIgOSXIeFDcjfLnncM.jpg",
+            "release_date": "1980-05-20",
+            "title": "Das Imperium schlägt zurück",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 13390,
+            "popularity": 22.053
+        },
+        {
+            "title": "Die Rückkehr der Jedi-Ritter",
+            "video": false,
+            "vote_average": 7.9,
+            "overview": "Wesen aus allen Ecken der Galaxis treffen die Vorbereitungen für die entscheidende Schlacht gegen die Streitkräfte des Imperiums. Ziel der Aktion ist die totale Zerstörung des zweiten Todessterns, dessen unvorstellbare Feuerkraft ganze Planeten vernichten kann. Inzwischen ist Han Solo immer noch in der Wüstenfestung des mächtigsten und skrupellosesten Verbechers des Universums, Jabba the Hutt, gefangen. Luke Skywalker gelingt es schließlich zusammen mit seinen Gefährten Prinzessin Leia, Chewbacca und Lando Calrissian, sowie den beiden Robotern C3PO und R2D2 mit Han zu fliehen. Aber Luke steht die schwerste Prüfung noch bevor: Während auf dem Waldmond Endor und beim Todesstern die alles entscheidende Schlacht entbrennt, muß er sich seinem Erzfeind Darth Vader zu einem Zweikampf auf Leben und Tod stellen...",
+            "release_date": "1983-05-25",
+            "adult": false,
+            "backdrop_path": "/iP2tEA2A77qhbhRfcFkiD6WFOqH.jpg",
+            "vote_count": 11914,
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 1892,
+            "original_language": "en",
+            "original_title": "Return of the Jedi",
+            "poster_path": "/nBCUkvi2IXYeRA7V7ZSsdetmgOB.jpg",
+            "popularity": 22.543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qKnCpQl6ARxbSjw3CLqPlfm43vb.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "vote_count": 11404,
+            "original_language": "en",
+            "original_title": "Star Wars: Episode I - The Phantom Menace",
+            "poster_path": "/mxhaOjcX1BdWw26s6c8vcZeKqzj.jpg",
+            "title": "Star Wars: Episode I - Die dunkle Bedrohung",
+            "video": false,
+            "vote_average": 6.5,
+            "id": 1893,
+            "overview": "Nachdem der friedliche Planet Naboo von der Handelsföderation angegriffen wurde, müssen die Jedi-Ritter Qui-Gon Jinn und Obi-Wan Kenobi gemeinsam mit Königin Amidala auf dem Wüstenplaneten Tatooine notlanden. Dort bekommen sie Hilfe von Anakin Skywalker, einem Sklavenjungen, in dem die Macht ungewöhnlich stark ist. Als es Königin Amidala nicht gelingt, den Senat gegen die Handelsföderation zu mobilisieren, kehrt sie mit den Jedi-Rittern und Anakin nach Naboo zurück, um den Kampf allein fortzusetzen. Eine gewaltige Schlacht beginnt!",
+            "release_date": "1999-05-19",
+            "popularity": 27.684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1uQSh7P3k0oRbRf0vH8GVt4thpP.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "vote_count": 10302,
+            "original_language": "en",
+            "original_title": "Star Wars: Episode II - Attack of the Clones",
+            "poster_path": "/zPVqU4O2XtDzy9Adva0CBX6PoJc.jpg",
+            "title": "Star Wars: Episode II - Angriff der Klonkrieger",
+            "video": false,
+            "vote_average": 6.5,
+            "id": 1894,
+            "overview": "Der junge Jedi-Schüler Anakin Skywalker beginnt sich allmählich zu einem grossen und ernstzunehmenden Jediritter zu entwickeln, der unter der Führung von Obi Wan-Kenobi steht. Jedoch hat er auch seine Problemzonen - diese bestehen aus der eigenen Arroganz, seiner nicht wissentlich vorhandenen grenzenlosen Macht, und der ihm verbotenen Liebe zu Königin Amidala. Auf diese werden kurz vor wichtigen Entscheidungen im Senat der Republik mehrere Attentate verübt, die jedoch vereitelt werden können. Daraufhin teilen sich Anakin und Obi-Wan auf: während Anakin auf Amidala aufpaßt, verfolgt Kenobi den Attentäter Jango Fett. Er kommt einer erschaffenen Klon-Armee auf die Spur, die mittels mysteriösem Auftrag geschaffen wurde und findet in dem ehemaligen Jedi Count Dooku einen neuen Gegner für die Hüter der Macht...",
+            "release_date": "2002-05-15",
+            "popularity": 25.141
+        },
+        {
+            "video": false,
+            "vote_average": 7.4,
+            "overview": "Nach drei Jahren nähern sich die Klonkriege endlich dem Ende. Um die Separatisten endgültig zu besiegen, soll Obi-Wan Kenobi ihren Anführer General Grevious und Count Dooku ihrer gerechten Strafe zuführen. Zur Beunruhigung der schwangeren Padme nutzt daheim der endgültig vom Bösen korrumpierte Kanzler Palpatine die Gelegenheit, um den jungen Anakin Skywalker mit Versprechungen von unbegrenzter Macht auf die dunkle Seite zu ziehen. Ratlos und hin- und hergerissen wem er dienen soll, erliegt er geblendet von deren Machtverheißungen, den Versuchungen der dunklen Seite, schwört dem bösen Darth Sidious die Treue und nimmt die Identität von Darth Vader an. Die Sith-Lords beginnen zusammen einen Rachefeldzug, der in der Ermordung der Jedi seinen Anfang nimmt...",
+            "release_date": "2005-05-17",
+            "id": 1895,
+            "adult": false,
+            "backdrop_path": "/eFaRU5y8wIwV0D14DPkbLaRUzOV.jpg",
+            "vote_count": 10685,
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "title": "Star Wars: Episode III - Die Rache der Sith",
+            "original_language": "en",
+            "original_title": "Star Wars: Episode III - Revenge of the Sith",
+            "poster_path": "/nvYfX1KsUi3ajgtFhcZ2BQxVWq3.jpg",
+            "popularity": 27.175
+        },
+        {
+            "title": "Star Wars: Das Erwachen der Macht",
+            "video": false,
+            "vote_average": 7.3,
+            "overview": "Über 30 Jahre sind vergangen, seitdem die Rebellen den zweiten Todesstern über Endor zerstört und damit die entscheidende Schlacht gegen die finsteren Mächte des Imperiums gewonnen haben. Doch aus der Asche des Bösen ist die Erste Ordnung empor gestiegen und hat die Herrschaft wieder an sich gerissen. Während Supreme Leader Snoke die Zügel im Hintergrund in den Händen hält, schickt er den Lichtschwert schwingenden Kylo Ren ins Feld, um die neue Weltordnung auch in den verstecktesten Winkeln der Galaxis zu verbreiten. Von großer Politik aber weiß Rey auf dem Wüstenplaneten Jakku zunächst nicht viel. Die junge Frau verbringt ihre Tage damit, die karge Landschaft nach Schrott abzusuchen, den sie danach verkauft. Sie ist allein, wartet auf ihre Familie – bis sie die Bekanntschaft von Finn macht, einem ehemaligen Sturmtruppler, den die Untaten der Ersten Ordnung abgeschreckt haben.",
+            "release_date": "2015-12-15",
+            "adult": false,
+            "backdrop_path": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+            "vote_count": 16177,
+            "genre_ids": [
+                28,
+                12,
+                878,
+                14
+            ],
+            "id": 140607,
+            "original_language": "en",
+            "original_title": "Star Wars: The Force Awakens",
+            "poster_path": "/gV2bG8dPbxaUMllgRxCj0MMsYGw.jpg",
+            "popularity": 54.091
+        },
+        {
+            "video": false,
+            "vote_average": 6.5,
+            "overview": "Etwa ein Jahr, nachdem der letzte Rest des Widerstands durch Luke Skywalkers Opfertat aus dem Griff der Ersten Ordnung entkommen konnte, kämpfen die völlig unterlegenen Rebellen aus dem Hinterhalt gegen Kylo Ren und dessen Truppen. Zum ersten Mal gehen dabei die neuen Helden Rey, Finn und der Super-Pilot Poe gemeinsam auf eine lange Mission ...",
+            "release_date": "2019-12-18",
+            "adult": false,
+            "backdrop_path": "/SPkEiZGxq5aHWQ2Zw7AITwSEo2.jpg",
+            "vote_count": 7083,
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Star Wars: Der Aufstieg Skywalkers",
+            "original_language": "en",
+            "original_title": "Star Wars: The Rise of Skywalker",
+            "poster_path": "/7uJYadq29ZfZojh8YycsvQbY9y5.jpg",
+            "id": 181812,
+            "popularity": 56.347
+        },
+        {
+            "overview": "Die planetenvernichtende Starkiller-Basis der Ersten Ordnung ist zwar zerstört, die Neue Republik nach der vorherigen Zerstörung von fünf Welten aber massiv geschwächt. Sie steht am Abgrund und wird nur noch von Generalin Leias Widerstand verteidigt, für den auch Pilot Poe Dameron und der desertierte Ex-Sturmtruppler Finn kämpfen. Rey, mit den Erfahrungen ihres ersten großen Abenteuers in den Knochen, geht unterdessen bei Luke Skywalker auf dem Inselplaneten Ahch-To in die Lehre. Luke ist der letzte Jedi, der letzte Vertreter des Ordens, auf dem die Hoffnung ruht, dass Frieden in der Galaxis einkehrt. Doch die Erste Ordnung wirft ihren Schatten auch auf Luke und Rey: Der verlorene, ehemalige Schützling des alten Meisters, Kylo Ren, hat die finstere Mission noch längst nicht beendet, die ihm der sinistere Strippenzieher Snoke auftrug ...",
+            "release_date": "2017-12-13",
+            "title": "Star Wars: Die letzten Jedi",
+            "id": 181808,
+            "adult": false,
+            "backdrop_path": "/epVMXf10WqFkONzKR8V76Ypj5Y3.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Star Wars: The Last Jedi",
+            "poster_path": "/cBRoeauknmTrcmv7jAbFKluOtSV.jpg",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 12266,
+            "popularity": 52.812
+        }
+    ]
+}

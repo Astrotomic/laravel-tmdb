@@ -1,0 +1,64 @@
+{
+    "id": 729322,
+    "name": "Gabriel's Inferno Collection",
+    "overview": "",
+    "poster_path": "/LdSn17U6ybhtPJT3S6fTNRni5Y.jpg",
+    "backdrop_path": "/hXF55codODfnzTZDExbUbfFmA9y.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 8.6,
+            "overview": "",
+            "release_date": "2020-05-29",
+            "adult": false,
+            "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+            "vote_count": 2118,
+            "genre_ids": [
+                10749
+            ],
+            "title": "Gabriel's Inferno",
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno",
+            "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+            "id": 696374,
+            "popularity": 8.976
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "vote_count": 1308,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno Part II",
+            "poster_path": "/8Rxutea68d940kg44Box5gFmKcF.jpg",
+            "title": "Gabriel's Inferno Part II",
+            "video": false,
+            "vote_average": 8.7,
+            "release_date": "2020-07-31",
+            "overview": "",
+            "id": 724089,
+            "popularity": 8.628
+        },
+        {
+            "overview": "",
+            "release_date": "2020-11-19",
+            "adult": false,
+            "backdrop_path": "/fQq1FWp1rC89xDrRMuyFJdFUdMd.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 761053,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno Part III",
+            "poster_path": "/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+            "vote_count": 875,
+            "video": false,
+            "vote_average": 8.6,
+            "title": "Gabriel's Inferno Part III",
+            "popularity": 21.597
+        }
+    ]
+}

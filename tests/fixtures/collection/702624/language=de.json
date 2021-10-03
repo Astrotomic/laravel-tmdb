@@ -1,0 +1,118 @@
+{
+    "id": 702624,
+    "name": "After... Filmreihe",
+    "overview": "",
+    "poster_path": "/oIcmMYCVrVUftMiO9tsniNnSNBc.jpg",
+    "backdrop_path": "/zZTy8G3sEVZNv0yGssgc7DvPUQJ.jpg",
+    "parts": [
+        {
+            "title": "After Passion",
+            "vote_average": 7.2,
+            "overview": "Tessa Young ist ein braves Mädchen, wie es im Buche steht. Klug, wohlerzogen und mit klaren Plänen für die Zukunft. Als sie ans College kommt, lernt sie den Bad Boy Hardin Scott kennen, der sie wie magisch anzieht. Düster, unverschämt, unberechenbar und verdammt sexy – er verkörpert all das, was sie nicht sein will. Hals über Kopf verliebt sie sich und je mehr sie ihm verfällt, desto mehr wird ihr klar: Sie wird selbst nie wieder die sein, die sie einmal sein wollte.",
+            "release_date": "2019-04-11",
+            "adult": false,
+            "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+            "id": 537915,
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "vote_count": 6576,
+            "original_language": "en",
+            "original_title": "After",
+            "poster_path": "/tKdmhFxSGuDumORWnRjYLr3ExS2.jpg",
+            "video": false,
+            "popularity": 209.601
+        },
+        {
+            "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 613504,
+            "original_language": "en",
+            "original_title": "After We Collided",
+            "poster_path": "/51DHmkP62AS6037gc0GKs1uzlBy.jpg",
+            "video": false,
+            "vote_average": 7.3,
+            "overview": "Nachdem Hardin sie sehr verletzt hat, beschloss Tessa, die Beziehung mit ihm zu beenden. Lange Zeit wurde ihr die Wahrheit über ihn vorenthalten, nun, da sie davon weiß, fühlt sie sich hintergangen und gedemütigt. Nach den Ereignissen will sie einfach nur noch zurück in ihr altes Leben, dem Leben, was sie vor Hardin geführt hat. Als sie ihr Traum-Praktikum bei der Vance Publishing Company bekommt, scheint der erste Schritt geglückt. Dort erregt sie die Aufmerksamkeit ihres neuen Kollegen Trevor, der genau die Art Mann ist, mit dem Tessa eigentlich zusammen sein sollte...",
+            "release_date": "2020-09-02",
+            "vote_count": 4161,
+            "title": "After Truth",
+            "adult": false,
+            "popularity": 285.724
+        },
+        {
+            "vote_average": 8.1,
+            "overview": "Gerade als Tessa die größte Entscheidung ihres Lebens trifft, ändert sich alles. Die einzige Person, auf die sie sich verlassen kann, ist Hardin. Enthüllungen über ihre Familien stellen jedoch bald alles, was sie bisher wussten, in Frage und erschweren ihre hart erkämpfte gemeinsame Zukunft.",
+            "release_date": "2021-09-01",
+            "adult": false,
+            "backdrop_path": "/qD45xHA35HdJDGOaA1AgDwiWEgO.jpg",
+            "vote_count": 284,
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744275,
+            "original_language": "en",
+            "original_title": "After We Fell",
+            "poster_path": "/jkdVZm3H3emQ5tgnNYvjy9XWjA4.jpg",
+            "title": "After Love",
+            "video": false,
+            "popularity": 909.3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749
+            ],
+            "id": 744276,
+            "original_language": "en",
+            "original_title": "After Ever Happy",
+            "overview": "",
+            "poster_path": null,
+            "release_date": "",
+            "title": "After Ever Happy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 2.619
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749
+            ],
+            "id": 820523,
+            "original_language": "en",
+            "original_title": "Before",
+            "overview": "",
+            "poster_path": null,
+            "release_date": "",
+            "title": "Before",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.6
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 820525,
+            "original_language": "en",
+            "original_title": "After the Next Generation",
+            "overview": "",
+            "poster_path": null,
+            "release_date": "",
+            "title": "After the Next Generation",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.6
+        }
+    ]
+}

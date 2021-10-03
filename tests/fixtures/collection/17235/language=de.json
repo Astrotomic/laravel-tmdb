@@ -1,0 +1,49 @@
+{
+    "id": 17235,
+    "name": "Hellboy Filmreihe",
+    "overview": "Hellboy ist eine US-amerikanische Comicverfilmung von Guillermo del Toro aus dem Jahr 2004, beruhend auf dem gleichnamigen Dark Horse-Comic von Mike Mignola. Der Titelheld wird von Ron Perlman gespielt. Der Film wurde 2008 mit Hellboy – Die goldene Armee fortgesetzt.",
+    "poster_path": "/7zzD8uQ5fyC4slZF1ATMS6gtyHS.jpg",
+    "backdrop_path": "/3gDrNeP3ddD41Sv0nLAlKc8XA4E.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/v6ejJREqtrKoveHhX7q0mwP9iUd.jpg",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "id": 1487,
+            "original_language": "en",
+            "original_title": "Hellboy",
+            "overview": "Im zweiten Weltkrieg versuchen Nazi-Wissenschaftler auf dem Gebiet des Okkulten mit Hilfe des bösen Rasputin ein Tor zur Hölle zu öffnen und sieben Götter des Chaos zu ihren Gunsten auf die Erde loszulassen. Eine amerikanische Geheimorganisation unter der Leitung von Professor \"Broom\" Bruttenholm kann dies verhindern, doch durch das unfertige Tor fällt ihnen ein noch junger Dämon, genannt \"Hellboy\" in die Hände. Broom erzieht ihn zum Kampf gegen das Böse und in unserer Zeit hat er es sich auf der guten Seite recht gemütlich gemacht, ist sogar heimlich verliebt in die pyrokinetische Liz. Als Rasputin jedoch sich anschickt, seinen Plan zu vollenden, mobilisiert die Organisation alle Kräfte und Hellboy ist mittendrin.",
+            "poster_path": "/4U17d2FYYyazmkZe3mh1WIFotpP.jpg",
+            "release_date": "2004-04-02",
+            "title": "Hellboy",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 5476,
+            "popularity": 21.443
+        },
+        {
+            "genre_ids": [
+                28,
+                12,
+                9648,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Hellboy II: The Golden Army",
+            "poster_path": "/939ihk1G75AFB3ZJIRSDDooYDLQ.jpg",
+            "video": false,
+            "vote_average": 6.7,
+            "overview": "Weil die Menschheit die Natur und damit die darin lebenden Fabelwesen zerstört, kündigt Elfenprinz Nuada den seit Ewigkeiten herrschenden Frieden und will die unbesiegbare Goldene Armee in die Schlacht führen. Hellboy und seine Kollegen vom Institut für paranormale Forschung und Verteidigung sind gefordert! Mit Freundin Liz und Fischmensch Abe legt er los. Doch sein Gegner ist unsterblich.",
+            "release_date": "2008-07-11",
+            "vote_count": 4011,
+            "title": "Hellboy - Die goldene Armee",
+            "adult": false,
+            "backdrop_path": "/c1PkxFxNdGhesu6hljDiK2zcF6c.jpg",
+            "id": 11253,
+            "popularity": 24.257
+        }
+    ]
+}

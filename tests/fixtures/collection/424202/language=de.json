@@ -1,0 +1,47 @@
+{
+    "id": 424202,
+    "name": "Trainspotting Filmreihe",
+    "overview": "Eine wilde Reise durch die dunkelsten Winkel von Edinburgh, die sich auf Mark Renton und seine Freunde konzentriert.",
+    "poster_path": "/6W9nyZ3Daq4zHkfTRIzNgWg6ai6.jpg",
+    "backdrop_path": "/Ap1WbMPScADhMrtBRVp4taK6Ncw.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/Aw0z8bUhGljT0ots6udf1MTLEMi.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 627,
+            "original_language": "en",
+            "original_title": "Trainspotting",
+            "overview": "Mark ist ein Junkie. Sein Revier ist ein trister Teil Edinburghs, und sein grauer Alltag dreht sich von morgens bis abends um den nächsten Schuss. Irgendwann, so glaubt er, wird er einmal davon loskommen, aber mit kaputten Freunden wie Sick Boy, Spud und Begbie ist daran gar nicht zu denken. Was immer er versucht, er scheitert kläglich, bis sich eines Tages die Chance seines Lebens bietet – in Form von zwei Kilo seines Lieblingspulvers allerfeinster Qualität…",
+            "poster_path": "/84uIVeFz44PgXdS1N3Rk98wyW2r.jpg",
+            "release_date": "1996-02-23",
+            "title": "Trainspotting - Neue Helden",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 7683,
+            "popularity": 16.568
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kR48L1E3OLOkQcnlmpi5wDj7ZZt.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "vote_count": 2492,
+            "original_language": "en",
+            "original_title": "T2 Trainspotting",
+            "poster_path": "/nEXPfVpp2PqWObBeAdphYUIg8SI.jpg",
+            "title": "T2 Trainspotting",
+            "video": false,
+            "vote_average": 7,
+            "id": 180863,
+            "overview": "20 Jahre nachdem er Edinburghs Stadtteil Leith hinter sich gelassen hat und sich einem bürgerlichen Leben zuwendete, kehrt Mark Renton in seine Heimatstadt zurück, wo sich manches geändert hat und vieles gleich geblieben ist, und wo seine alten Freunde und Bekannten, darunter Spud, Sick Boy und Begbie, schon auf ihn warten. Allesamt sind sie zwar mittlerweile weg vom Heroin, doch führen deswegen noch längst keine Leben in geordneten Bahnen. Und nicht bei allen ist die Freude über den Rückkehrer gleich groß: Mit Spud und Sick Boy knüpft Renton schnell wieder an alte Zeiten an, aber alle drei versuchen tunlichst zu verhindern, Begbie über den Weg zu laufen, der unlängst aus dem Gefängnis ausgebrochen ist und nicht sonderlich gut auf Renton zu sprechen ist.",
+            "release_date": "2017-01-27",
+            "popularity": 14.424
+        }
+    ]
+}

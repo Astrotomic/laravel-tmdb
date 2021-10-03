@@ -1,0 +1,49 @@
+{
+    "id": 261307,
+    "name": "Alice im Wunderland Filmreihe",
+    "overview": "Alice im Wunderland ist ein Fantasy Film von Tim Burton und basiert auf Lewis Carrolls Fantasy Geschichte und dem gleichnamigen davon inspirierten Zeichentrickfilm von Walt Disney's.",
+    "poster_path": "/2gx63DG6XIaMS8OInVjGxF36LuP.jpg",
+    "backdrop_path": "/hbigSy1RDiSiX2uWj6vEQsO3T7Q.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/20pkC7yJdCV4J1IMKfsCT9QU7zV.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                12
+            ],
+            "id": 12155,
+            "original_language": "en",
+            "original_title": "Alice in Wonderland",
+            "overview": "Nach vielen Jahren kehrt die inzwischen 19-jährige Alice zurück ins Wunderland, einem faszinierenden Ort jenseits aller Vorstellungskraft. Dort trifft sie auf viele außergewöhnliche Charaktere wie den verrückten Hutmacher, die weiße und rote Königin, sowie das weiße Kaninchen. Auf ihrer unglaublichen Reise durch diese zauberhafte Welt findet Alice heraus, wer sie wirklich ist.",
+            "poster_path": "/egaAiFKCYMep4RZGNgHAl8YlWVR.jpg",
+            "release_date": "2010-03-03",
+            "title": "Alice im Wunderland",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 11563,
+            "popularity": 36.645
+        },
+        {
+            "release_date": "2016-05-25",
+            "adult": false,
+            "backdrop_path": "/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
+            "id": 241259,
+            "genre_ids": [
+                12,
+                10751,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Alice Through the Looking Glass",
+            "poster_path": "/efe4tjwxyOgoMEGTL13G6eTaI6R.jpg",
+            "vote_count": 5273,
+            "video": false,
+            "vote_average": 6.6,
+            "title": "Alice im Wunderland: Hinter den Spiegeln",
+            "overview": "Alice Kingsleigh hat die letzten Jahre damit zugebracht, in die Fussstapfen ihres Vaters zu treten und über die sieben Weltmeere zu segeln. Wieder zurück in London findet sie einen magischen Spiegel und kehrt in die fantastische Welt von Unterland zurück. Dort trifft sie auf alte Bekannte: das Weisse Kaninchen, Absolem, die Grinsekatze und natürlich den Verrückten Hutmacher, der aber nicht mehr er selbst ist – er hat sein Mehrsein verloren. Um ihn zu retten, schickt die Weisse Königin Alice los, nach der Chronosphäre zu suchen, einer Metallkugel im Inneren der Grossen Uhr, von der alle Zeit ausgeht. Auf ihrer Reise in die Vergangenheit trifft Alice auf Freunde - und Feinde - in verschiedenen Stadien ihres Lebens. Es ist ein gefahrenvoller Wettlauf mit der Zeit, um den Verrückten Hutmacher zu retten, bevor sein letztes Stündlein geschlagen hat… im wahrsten Sinne des Wortes!",
+            "popularity": 45.233
+        }
+    ]
+}

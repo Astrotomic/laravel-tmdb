@@ -1,0 +1,132 @@
+{
+    "id": 151,
+    "name": "Star Trek-Filmreihe: Raumschiff Enterprise",
+    "overview": "Der Weltraum, unendliche Weiten: Dies sind die Abenteuer des Raumschiffs Enterprise, das unterwegs ist, um fremde Welten zu entdecken, unbekannte Lebensformen und neue Zivilisationen. Die Enterprise dringt dorthin vor, wo noch nie ein Mensch zuvor gewesen ist. Diese Sammlung umfasst die sechs Filme mit der Mannschaft der Enterprise NCC 1701 bzw. NCC 1701-A ab Sternzeit 7412,6 bis 9521,6 (Kirk, Spock, McCoy, Scotty, Sulu, Uhura).",
+    "poster_path": "/snLmGlECug4auT20j4vKigHe62E.jpg",
+    "backdrop_path": "/9BQj9hq0aK6yM9Tm2NJ28jg572y.jpg",
+    "parts": [
+        {
+            "overview": "Eine mysteriöse Wolke nähert sich der Erde und zerstört alles, was sich ihr in den Weg stellt. In Anbetracht der drohenden Gefahr entreißt Admiral Kirk dem jungen Captain der soeben renovierten Enterprise, Willard Decker, das Kommando und eilt zusammen mit seiner schnell wieder zusammengefügten alten Crew dem todbringenden Gebilde entgegen. Kirk und seine Crew erfahren, dass die Wolke V’ger heißt und auf der Erde ihren Schöpfer zu finden hofft. Im Alleingang findet Spock dank der vulkanischen Gedankenverschmelzung heraus, dass sich unter der Wolke eine komplexe Maschine verbirgt. Kirk gelingt es, V’ger zu überzeugen, ihn mit ein paar Getreuen in das Innere der Wolke zu lassen. Dort will er ihr Geheimnis lüften.",
+            "release_date": "1979-12-07",
+            "adult": false,
+            "backdrop_path": "/oQYpa1TKJRR58IrFGhppi9vL7PC.jpg",
+            "vote_count": 1220,
+            "genre_ids": [
+                878,
+                12,
+                9648
+            ],
+            "id": 152,
+            "original_language": "en",
+            "original_title": "Star Trek: The Motion Picture",
+            "poster_path": "/gHBZf1nB9ntU2gFhjJHSZ0lAUvB.jpg",
+            "title": "Star Trek - Der Film",
+            "video": false,
+            "vote_average": 6.4,
+            "popularity": 19.103
+        },
+        {
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Star Trek II: The Wrath of Khan",
+            "poster_path": "/nVj2OavtEDWZYJhmrzs4oM8bhGM.jpg",
+            "title": "Star Trek II - Der Zorn des Khan",
+            "vote_average": 7.5,
+            "vote_count": 1398,
+            "overview": "Ohne es zu wissen, landet Chekov auf dem Planeten, auf den Kirk einst Khan verbannte. Der zwingt den Russen, seinen Ex-Captain herzulocken. Zugleich hat Khan es auf das Projekt Genesis abgesehen, das Kirks einstige Liebe Dr. Marcus zusammen mit ihrem gemeinsamen Sohn leitet. Es soll die Schöpfung fruchtbarer Welten auf öden Planeten ermöglichen. Als Kirk mit einer Enterprise voller Neulinge eintrifft, greift ein Föderationsschiff an. Khan führt dort das Kommando…",
+            "release_date": "1982-06-04",
+            "video": false,
+            "id": 154,
+            "adult": false,
+            "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+            "popularity": 11.42
+        },
+        {
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Star Trek III: The Search for Spock",
+            "poster_path": "/iVe8L14X9DfXuQ8aCNwB4NQXo7q.jpg",
+            "video": false,
+            "vote_average": 6.6,
+            "overview": "Spock ist tot! Die Stimmung unter seinen früheren Freunden ist entsprechend gedrückt. Auch Pille nimmt sich den Tod seines liebsten Diskussionspartners schwer zu Herzen, trotzdem verwundert es Kirk sehr, als er ihn in Spocks Kabine ertappt und ausgerechnet er sich genauso wie der tote Vulkanier benimmt. Kirk erfährt von Spocks Vater Sarek, dass Spock versucht haben muss, vor seinem Tod seinen Geist in jemand anderes zu übertragen – in McCoy? Tatsächlich finden Saavik und Kirks Sohn David Marcus, die beide auf dem Planeten Genesis zurückgeblieben sind, Spocks leeren Sarg und entdecken in der Nähe ein vulkanisches Kind ohne Gedächtnis, das rasant heranwächst…",
+            "release_date": "1984-06-01",
+            "vote_count": 959,
+            "title": "Star Trek III - Auf der Suche nach Mr. Spock",
+            "adult": false,
+            "backdrop_path": "/5lUpy6OrDhzdeAGBaM1mIsQvfOl.jpg",
+            "id": 157,
+            "popularity": 10.285
+        },
+        {
+            "genre_ids": [
+                878,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Star Trek IV: The Voyage Home",
+            "poster_path": "/1tCOUUxDBgZ4M8yuG85RCL34R9C.jpg",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1045,
+            "overview": "Obwohl sie als Abtrünnige gelten, kehrt die Mannschaft der U.S.S. Enterprise zur Erde zurück. Sie stellen sich der Anklagen für die Taten, die sie im Laufe von Spocks Rettung begangen haben. Während sie noch im Anflug sind, wird die Erde von einer außerirdischen Sonde verwüstet. Sie verlangt Antwort von einer Lebensform, die nicht länger existiert. Kirk und seine Crew begeben sich an Bord eines gekaperten klingonischen Bird of Prey auf eine Reise durch Raum und Zeit, um die Erde zu retten. Sie entdecken dabei die wahre Bedeutung von Freundschaft wieder.",
+            "release_date": "1986-11-26",
+            "title": "Star Trek IV - Zurück in die Gegenwart",
+            "id": 168,
+            "adult": false,
+            "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+            "popularity": 15.929
+        },
+        {
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Star Trek V: The Final Frontier",
+            "poster_path": "/lB7BI5a52lXMkd9cxc3GeESICEz.jpg",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 840,
+            "overview": "Captain Kirk, Spock und \"Pille\" McCoy machen gemütlich Urlaub auf der guten alten Erde; währenddessen geht auf der funkelnagelneuen Enterprise alles drunter und drüber, weil längst noch nicht alles funktioniert wie es soll. Mitten in dieses Chaos platzt ein verrückter Vulkanier namens Sybok, der die Enterprise entführt, um ins Zentrum des Universums vorzudringen. Sein Ziel heißt Shkari, der Planet der hinter den Grenzen liegt, die noch kein Sterblicher überschritten hat. Der fanatische Sybok glaubt fest daran, dass er auf Shakari dem Schöpfer allen Lebens gegenübertreten wird - Sybok sucht Gott. Für Kirk und Co. bedeutet dies der Anfang der erstaunlichsten Reise, die die Enterprise und ihre Besatzung jemals unternommen haben...",
+            "release_date": "1989-06-09",
+            "title": "Star Trek V - Am Rande des Universums",
+            "id": 172,
+            "adult": false,
+            "backdrop_path": "/A54JlhiGcfRCamefa7UIam7MmUF.jpg",
+            "popularity": 10.944
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6MKUtBtVOzCX2z6VLXUPxwXOGL.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "id": 174,
+            "original_language": "en",
+            "original_title": "Star Trek VI: The Undiscovered Country",
+            "overview": "Nachdem die Explosion eines klingonischen Mondes das Imperium in die Knie zwingt, liegt das fremdartige Konzept eines Friedens mit der Föderation in greifbarer Nähe. Ironischerweise soll gerade Admiral James T. Kirk als Botschafter den Frieden aushandeln. Alle Hoffnungen werden jedoch zunichte gemacht, als die Crew der U.S.S. Enterprise beschuldigt wird, einen klingonischen Diplomaten ermordet zu haben. Stattdessen stehen beide Seiten vor einem alles vernichtenden Krieg...",
+            "poster_path": "/dEG6neOLdnHycAB97H4LsnuYTFq.jpg",
+            "release_date": "1991-12-06",
+            "title": "Star Trek VI - Das unentdeckte Land",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 902,
+            "popularity": 8.332
+        }
+    ]
+}

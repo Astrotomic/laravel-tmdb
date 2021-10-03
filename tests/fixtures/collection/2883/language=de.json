@@ -1,0 +1,48 @@
+{
+    "id": 2883,
+    "name": "Kill Bill Filmreihe",
+    "overview": "Kill Bill ist ein zweiteiliges US-amerikanisches Action-Drama aus den Jahren 2003 und 2004. Quentin Tarantino schrieb das Drehbuch und führte auch Regie. Die Filme erzählen die Geschichte einer Profikillerin, die am Tag ihrer Hochzeit von ihrem eigenen Boss verraten wird. Dieser lässt die gesamte Hochzeitsgesellschaft durch seine Killer-Truppe umbringen. Nur die Braut überlebt den Anschlag, fällt aber aufgrund eines Kopfschusses für Jahre ins Koma. Wieder erwacht startet sie einen unerbittlichen Rachefeldzug. Während der erste Teil zu großen Teilen auf Martial-Arts-Szenen baut und sich der Bilderwelt des Eastern bedient, spielt der zweite Teil vor allem mit Elementen des Italowestern. Der Filmtitel Kill Bill hat im Englischen eine Doppelbedeutung, zum einen lässt sich Kill Bill als \"Töte Bill“, zum anderen als \"Tödliche Abrechnung“ oder als \"Todesliste“ übersetzen. Ein Zusammenschnitt beider Filme unter dem Arbeitstitel \"Kill Bill - The Whole Bloody Affair\" ist seit Jahren geplant.",
+    "poster_path": "/tf1nUtw3LJGUGv1EFFi23iz6ngr.jpg",
+    "backdrop_path": "/oCLKNACMNrEf4T1EP6BpMXDl5m1.jpg",
+    "parts": [
+        {
+            "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "original_language": "en",
+            "original_title": "Kill Bill: Vol. 1",
+            "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 13733,
+            "overview": "Es sollte der Aufbruch in ein neues Leben werden, doch es endete mit dem Tod: Die Killer O-Ren Ishi, Vernita Green, Budd und Elle Driver haben die Hochzeit ihrer Ex-Kollegin - im Film nur \"die Braut\" genannt - in ein Massaker verwandelt. Wider erwarten überlebt die geschändete Frau jedoch und will von nun an nichts weiter als Rache. Rache an dem Todeskommando, das sie liquidieren sollte und Rache an dem Mann, der den Auftrag dazu gegeben hatte: Gangster-Boss Bill. Ihr Weg führt die Braut bis ins ferne Okinawa, wo sie sich vom legendären Waffenschmied Hattori Hanzo ein Schwert anfertigen lässt, das fortan zu ihrem wichtigsten Begleiter wird...",
+            "release_date": "2003-10-10",
+            "title": "Kill Bill - Volume 1",
+            "id": 24,
+            "adult": false,
+            "popularity": 31.259
+        },
+        {
+            "backdrop_path": "/70EtzaGfO2d8X5n8SLI4s61KuJh.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Kill Bill: Vol. 2",
+            "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 11004,
+            "overview": "Die blutdurstige Rache der Braut ist noch nicht gestillt: Drei Namen stehen noch auf der Liste der kalten Schönen, die am Tag ihrer Hochzeit ins Jenseits befördert werden sollte und jetzt Jagd auf die macht, die ihren Tod verlangten. Nach Verdita Green und O-Ren Ishii sind nun der heruntergekommene Budd und die durchtriebene Elle Driver an der Reihe, bevor die Braut in Mexiko schließlich ihrem einstigen Chef und Liebhaber Bill gegenübersteht – und ihrer totgeglaubten Tochter.",
+            "release_date": "2004-04-16",
+            "title": "Kill Bill - Volume 2",
+            "id": 393,
+            "adult": false,
+            "popularity": 20.839
+        }
+    ]
+}

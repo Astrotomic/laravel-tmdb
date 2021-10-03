@@ -8,7 +8,6 @@ use Astrotomic\Tmdb\Requests\MovieGenre\ListAll;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Support\Collection;
-use Illuminate\Support\Facades\DB;
 
 /**
  * @property int $id
@@ -18,8 +17,8 @@ use Illuminate\Support\Facades\DB;
  * @property-read array $translations
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Movie[] $movies
  *
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder newModelQuery()
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder newQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder newModelQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder query()
  *
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieGenreBuilder
@@ -43,18 +42,16 @@ class MovieGenre extends Model
 
     public static function all($columns = ['*']): EloquentCollection
     {
-        return DB::transaction(function () use ($columns): EloquentCollection {
-            $data = rescue(fn () => ListAll::request()->send()->collect('genres'));
+        $data = rescue(fn () => ListAll::request()->send()->collect('genres'));
 
-            if ($data instanceof Collection) {
-                $data->each(fn (array $genre) => static::query()->updateOrCreate(
-                    ['id' => $genre['id']],
-                    ['name' => $genre['name']],
-                ));
-            }
+        if ($data instanceof Collection) {
+            $data->each(fn (array $genre) => static::query()->updateOrCreate(
+                ['id' => $genre['id']],
+                ['name' => $genre['name']],
+            ));
+        }
 
-            return parent::all($columns);
-        });
+        return parent::all($columns);
     }
 
     public function movies(): BelongsToMany

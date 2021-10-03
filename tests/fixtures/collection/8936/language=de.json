@@ -1,0 +1,67 @@
+{
+    "id": 8936,
+    "name": "Bridget Jones Filmreihe",
+    "overview": "",
+    "poster_path": "/VuqSd0RpUBQATMPWmc0rvguhJn.jpg",
+    "backdrop_path": "/h7kmBdnH9fxuSRMlJrEqAfMwhVl.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/cAZzH82kxaOhqPNQrGmMPqOEIP9.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 634,
+            "original_language": "en",
+            "original_title": "Bridget Jones's Diary",
+            "overview": "Völlig verkatert und immer noch Single, beschließt Bridget Jones am Neujahrstag, ihr Leben endlich in den Griff zu kriegen - und Tagebuch zu führen: \"Vorsatz Nummer eins: Muss unbedingt zwanzig Pfund abnehmen! Vorsatz Nummer zwei: Netten, einfühlsamen Freund suchen und nie wieder eine Beziehung mit Spannern, Größenwahnsinnigen, emotionalen Flachwichsern oder Perversen eingehen!\" Leichter gesagt als getan - immerhin muss sich Bridget zwischen dem \"amtlichen-Sex-Gott-mit-dickem-Auto\" Daniel Cleaver  und dem \"unnahbar-wirkenden-aber-dennoch-nachdenklich-sensiblen\" Mark Darcy  entscheiden ...",
+            "poster_path": "/pQW8oUZ6prwG0hD3UUQ4FEyFfqg.jpg",
+            "release_date": "2001-04-13",
+            "title": "Bridget Jones - Schokolade zum Frühstück",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 3983,
+            "popularity": 20.118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1XKrZoWCjkzxpsQGIeoTVUTjJnC.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 9801,
+            "original_language": "en",
+            "original_title": "Bridget Jones: The Edge of Reason",
+            "overview": "Rund? Na und? Das denkt sich die Titelheldin mittlerweile und sonnt sich in ihrem Liebesglück mit Darcy. Doch Liebeslust liegt nah bei Liebesfrust und so bröckelt die Idylle rapide, als eine grazile, langbeinige australische Arbeitskollegin ihrem Darcy gefährlich nahe kommt. Natürlich riecht Bridgets Ex-Lover Cleaver den Braten und setzt angesichts der Beziehungskrise des Pummelchens alles daran, bei ihr noch einmal unters Laken zu schlüpfen. Und die stolpert bei so viel Interesse von einem Fettnapf in den nächsten.",
+            "poster_path": "/iqCDKhYbGAAzr6JPQJpisTPbXJm.jpg",
+            "release_date": "2004-11-10",
+            "title": "Bridget Jones - Am Rande des Wahnsinns",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 2220,
+            "popularity": 12.095
+        },
+        {
+            "overview": "43 Jahre und noch - oder schon lange wieder - Single, für Bridget Jones, erfolgreiche Produzentin des Nachrichtenmagazins \"Hard News\" gibt es anscheinend wichtigere Dinge als die Gründung einer Familie oder Nachwuchs. Doch das soll sich bald ändern, denn um sie herum schwelgt so mancher im Babyglück und der bemüht verborgen gehaltene Geburtstag, der die biologische Uhr problemlos laut stellen kann, wird doch noch breit getreten. Doch dann kommt plötzlich alles zusammen: Bridget begegnet Ex-Lover Mark Darcy und dessen Frau Frau Camilla; dann schleifen ihre Freundinnen Miranda und Cathy Bridget auf ein Mädelswochenende auf einem Musikfestival, wo diese mit Internet-Millionärs Jack Quant im Bett landet. Leider tut sie das auch auch kurz darauf noch mit dem guten Mark - was die Frage nach der Vaterschaft für die kurz darauf diagnostizierte Schwangerschaft verkompliziert...",
+            "release_date": "2016-09-14",
+            "title": "Bridget Jones’ Baby",
+            "adult": false,
+            "backdrop_path": "/e9P6n1X7zmYbRK4ukwoBcRIj3BV.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "original_language": "en",
+            "original_title": "Bridget Jones's Baby",
+            "poster_path": "/5hHomngoPZrNoXOPlyaHV6eXaQW.jpg",
+            "vote_count": 2481,
+            "video": false,
+            "vote_average": 6.5,
+            "id": 95610,
+            "popularity": 19.416
+        }
+    ]
+}

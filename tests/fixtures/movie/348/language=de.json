@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+    "belongs_to_collection": {
+        "id": 8091,
+        "name": "Alien Filmreihe",
+        "poster_path": "/ofAZRK5EDBRQIVZQriyyMt9wR0B.jpg",
+        "backdrop_path": "/kB0Y3uGe9ohJa59Lk8UO9cUOxGM.jpg"
+    },
+    "budget": 11000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/alien",
+    "id": 348,
+    "imdb_id": "tt0078748",
+    "original_language": "en",
+    "original_title": "Alien",
+    "overview": "Die Besatzung des Weltraumfrachters Nostromo - darunter der dritte Offizier Ellen Ripley - befindet sich im künstlichen Tiefschlaf. Plötzlich empfängt ihr Schiff ein SOS-Signal. Der Bordcomputer weckt daraufhin die Mannschaft, die der Hilferuf wenig später auf einen unwirtlichen Planten führt. Dabei entdeckt die Crew das Wrack eines außerirdischen Raumschiffs. Ein Crewmitglied wird dabei von einem Alien angegriffen, das sich auf seinem Gesicht festsaugt. Dem Schiffsarzt Ash gelingt zwar die Entfernung des fremden Organismus, doch das außerirdische Wesen ist damit längst nicht besiegt. In der Enge des Raumfrachters beginnt ein Kampf ums Überleben, bei der Feind nahezu unsichtbar, heimtückisch und äußerst tödlich ist...",
+    "popularity": 40.304,
+    "poster_path": "/zXEiLErr8mYCU4MUwllIcaTPmXq.jpg",
+    "production_companies": [
+        {
+            "id": 19747,
+            "logo_path": null,
+            "name": "Brandywine Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1979-05-25",
+    "revenue": 104931801,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Im Weltall hört dich niemand schreien.",
+    "title": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 10916
+}

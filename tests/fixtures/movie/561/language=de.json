@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/tIG8FwHRiHLOlWJdizp2oxdkSL2.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "http://constantinemovie.warnerbros.com/",
+    "id": 561,
+    "imdb_id": "tt0360486",
+    "original_language": "en",
+    "original_title": "Constantine",
+    "overview": "Er ist durch die Hölle gegangen – und das ist keine Metapher! John Constantine ist Detektiv in Los Angeles, allerdings für die ganz speziellen Fälle. Denn Constantine weiß, dass es parallel zu unserer Realität auch noch eine von Dämonen bevölkerte Höllendimension gibt und dass sich die Welten bisweilen überschneiden, ohne dass die Menschheit etwas davon ahnt. Da kontaktiert ihn eines Tages Angela Dodson, der er bei der Klärung des Todes ihrer Zwillingsschwester Isabel helfen soll, die sich vom Dach der Nervenheilanstalt stürzte, in der sie einsaß. Angela glaubt, hinter ihrem Tod stecke mehr; was sie nicht glaubt, sind Constantines Ansichten über die Dämonenwelt. Zwangsläufig wird sie jedoch eines Besseren belehrt, denn die Kräfte der Unheimlichen brechen zunehmend in unsere Realität durch.",
+    "popularity": 47.248,
+    "poster_path": "/sfzfZtEhRkAUWRjxRlzhcV6uas6.jpg",
+    "production_companies": [
+        {
+            "id": 79,
+            "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        },
+        {
+            "id": 430,
+            "logo_path": null,
+            "name": "Lonely Film Productions GmbH & Co. KG.",
+            "origin_country": ""
+        },
+        {
+            "id": 431,
+            "logo_path": null,
+            "name": "The Donners' Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 432,
+            "logo_path": null,
+            "name": "Branded Entertainment/Batfilm Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 433,
+            "logo_path": null,
+            "name": "Weed Road Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 434,
+            "logo_path": null,
+            "name": "3 Art Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-02-08",
+    "revenue": 230884728,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Tagalog",
+            "iso_639_1": "tl",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Hölle will ihn, der Himmel nimmt ihn nicht, die Erde braucht ihn.",
+    "title": "Constantine",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 5147
+}

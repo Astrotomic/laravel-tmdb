@@ -1,0 +1,50 @@
+{
+    "id": 531242,
+    "name": "Suicide Squad Filmreihe",
+    "overview": "",
+    "poster_path": "/bdgaCpdDh0J0H7ZRpDP2NJ8zxJE.jpg",
+    "backdrop_path": "/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg",
+    "parts": [
+        {
+            "title": "Suicide Squad",
+            "video": false,
+            "vote_average": 5.9,
+            "overview": "Gift gegen Gift, Feuer gegen Feuer? Das zumindest scheint der Gedanke der amerikanischen Geheimagentin Amanda Waller zu sein, als sie einen heiklen Entschluss fasst: Um einer geheimnisvollen und unbesiegbar erscheinenden Bedrohung endgültig das Handwerk zu legen, gebraucht es mehr als nur hochgerüstete Soldaten auf einem Himmelfahrtskommando. Man braucht ganz einfach die gemeingefährlichsten Fieslinge, die derzeit im Gefängnis vor sich hin schmoren, denn die haben offenbar nichts mehr zu verlieren. Doch die illustre Truppe, zu der Knalltüten wie die exzentrische Harley Quinn, Deadshot, Rick Flag und Captain Boomerang gehören, merkt schnell, dass sie im Zweifelsfall einfach nur entbehrliches Kanonenfutter und Sündenbock sein soll. Da stellt sich ihnen unweigerlich die Frage, ob sie überhaupt noch den Auftrag ausführen sollen, was ihren sicheren Tod bedeuten würde, oder ob sie sich lieber selbst retten...",
+            "release_date": "2016-08-03",
+            "adult": false,
+            "backdrop_path": "/sMRwI5trKI6qhxYcjPgGghmPBef.jpg",
+            "vote_count": 17976,
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 297761,
+            "original_language": "en",
+            "original_title": "Suicide Squad",
+            "poster_path": "/5cGuLclAOTypR5wif7HmM4xWKq.jpg",
+            "popularity": 74.701
+        },
+        {
+            "original_title": "The Suicide Squad",
+            "poster_path": "/zNrFrmShSsu0bZfa6paQ2Dhv7En.jpg",
+            "video": false,
+            "vote_average": 7.8,
+            "overview": "Task Force X — a.k.a. the Suicide Squad — wird auf der abgelegenen Feindesinsel Corto Maltese abgesetzt um Jotunheim, ein Gefängnis und Labor aus der Nazi-Zeit, zu finden und zu zerstören.",
+            "release_date": "2021-07-28",
+            "vote_count": 4187,
+            "adult": false,
+            "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+            "title": "The Suicide Squad",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                35
+            ],
+            "id": 436969,
+            "original_language": "en",
+            "popularity": 1296.68
+        }
+    ]
+}

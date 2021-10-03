@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/1riTqK5ouEgjTs69MVm0F8dXilZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 92000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 7446,
+    "imdb_id": "tt0942385",
+    "original_language": "en",
+    "original_title": "Tropic Thunder",
+    "overview": "Regisseur Cockburn hat sich für seinen neuesten Film, das teuerste Vietnam-Drama aller Zeiten, die bestbezahlten Schauspieler gesichert, u. a. den blasierten Superstar Speedman, den verweichlichten Komiker Portnoy und den Charakterstar Lazarus. Um nach anfänglichen Schwierigkeiten optimale Ergebnisse zu erzielen, will Cockburn den Film fortan im Guerilla-Stil mit versteckten Kameras drehen. Deshalb glaubt die Schauspieler-Gruppe auch dann noch, die Kameras würden laufen, als sie im Dschungel von Drogengangstern aufgespürt werden.",
+    "popularity": 57.044,
+    "poster_path": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+    "production_companies": [
+        {
+            "id": 12379,
+            "logo_path": null,
+            "name": "Internationale Filmproduktion Stella-del-Sud Second",
+            "origin_country": "DE"
+        },
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2932,
+            "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+            "name": "Red Hour",
+            "origin_country": "US"
+        },
+        {
+            "id": 500,
+            "logo_path": null,
+            "name": "Goldcrest",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "2008-08-09",
+    "revenue": 195702811,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Film, den sie drehen, ist nicht mehr ein Film...",
+    "title": "Tropic Thunder",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 4549
+}

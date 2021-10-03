@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/atgJVij4KB5Lj2ieGP4voXgt7x5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "",
+    "id": 874986,
+    "imdb_id": "tt14032444",
+    "original_language": "sr",
+    "original_title": "Пуцњи у Марсеју",
+    "overview": "",
+    "popularity": 1.96,
+    "poster_path": "/w2Ye4SEwbnkWjj89Cq5DCPHN2Gb.jpg",
+    "production_companies": [
+        {
+            "id": 161050,
+            "logo_path": null,
+            "name": "Re-kreativno",
+            "origin_country": "RS"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RS",
+            "name": "Serbia"
+        }
+    ],
+    "release_date": "2021-10-09",
+    "revenue": 0,
+    "runtime": 74,
+    "spoken_languages": [
+        {
+            "english_name": "Serbian",
+            "iso_639_1": "sr",
+            "name": "Srpski"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Пуцњи у Марсеју",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

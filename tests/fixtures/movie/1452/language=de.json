@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+    "belongs_to_collection": {
+        "id": 8537,
+        "name": "Superman Filmreihe",
+        "poster_path": "/iun7YRHwTWG6bqm1j5N8Q5wTO7l.jpg",
+        "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg"
+    },
+    "budget": 270000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/superman-returns",
+    "id": 1452,
+    "imdb_id": "tt0348150",
+    "original_language": "en",
+    "original_title": "Superman Returns",
+    "overview": "Während der fünf Jahre, in denen Superman seinen Heimatplaneten suchte, änderten sich die Dinge auf seinem adoptierten Planeten. Nationen entwickelten sich ohne ihn weiter. Lois Lane hat jetzt einen Sohn, einen Verlobten und den Pulitzerpreis für \"Warum die Welt Superman nicht braucht.\" Und Lex Luthor hat einen Plan, der Milliarden von Leben zerstören wird.",
+    "popularity": 20.471,
+    "poster_path": "/319jLYLTuOME7xRWExjKFfP8pnN.jpg",
+    "production_companies": [
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9168,
+            "logo_path": "/hQNXrYIuyLRxMSBuGHk0GX7CCBS.png",
+            "name": "Bad Hat Harry Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 16774,
+            "logo_path": null,
+            "name": "Peters Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 113288,
+            "logo_path": null,
+            "name": "Red Sun Productions Pty. Ltd.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-06-28",
+    "revenue": 391081192,
+    "runtime": 154,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Superman Returns",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 3222
+}

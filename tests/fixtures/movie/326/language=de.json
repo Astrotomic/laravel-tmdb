@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/bAG05yQkT56yFuLAETr12UfK05y.jpg",
+    "belongs_to_collection": null,
+    "budget": 33000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 326,
+    "imdb_id": "tt0417148",
+    "original_language": "en",
+    "original_title": "Snakes on a Plane",
+    "overview": "Nach Jahren der Jagd steht FBI-Agent Neville Flynn endlich kurz davor einen Gangsterboss zu Fall zu bringen, er muss nur noch den Kronzeugen Sean Jones von Hawaii nach Los Angeles bringen. Neville entscheidet sich für einen normalen Linienflug - jedoch befinden sich einige hundert an Bord geschmuggelte und äußerst tödliche Schlangen ebenfalls in der Maschine. Als wären die Schlangen nicht schon Problem genug, muß Neville sich auch noch mit panischen Passagieren und einer überforderten Crew herumschlagen.",
+    "popularity": 14.817,
+    "poster_path": "/drrvfBwIZtUI3RIBt2jkWDOGg6e.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-08-06",
+    "revenue": 62022014,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Snakes on a Plane",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 1282
+}

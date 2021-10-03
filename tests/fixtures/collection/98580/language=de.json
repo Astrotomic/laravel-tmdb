@@ -1,0 +1,86 @@
+{
+    "id": 98580,
+    "name": "Candyman Filmreihe",
+    "overview": "",
+    "poster_path": "/ty8ibfM6ei1tFjyvFCllMjzUxet.jpg",
+    "backdrop_path": "/gcTX64hlnbykStLnTCnfE8FbDpv.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/vPDtur0rXAnEMqdYAnLO41aSDoO.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 9529,
+            "original_language": "en",
+            "original_title": "Candyman",
+            "overview": "Helen Lyle ist eine Studentin in Chicago, die an einer Arbeit über urbane Legenden sitzt und bei ihren Nachforschungen auf die Geschichte vom Candyman stößt. Er war ein Afroamerikaner, der wegen seiner verbotenen Liebe zu einem weißen Mädchen von einer Gang auf brutale Weise hingerichtet wurde. Die Schergen sägten ihm eine Hand ab und übergossen ihn mit Honig, sodass hunderte Bienen ihn zu Tode stachen. Die Legende besagt, dass der Candyman zurückkehrt, wenn sein Name fünf Mal genannt wird. Helen glaubt der Geschichte kein Wort, bis sie selbst den Namen fünfmal ausgesprochen hat. Daraufhin beginnt eine Serie grausamer Morde. Jetzt muss sich die aufgeklärte Studentin dem Dämonen stellen, der in ihrem Umfeld auf brutale Weise sein Werk verrichtet. Dabei kann sie kaum auf Hilfe hoffen, denn niemand glaubt ihr die Geschichte vom Candyman.",
+            "poster_path": "/gDR8umsaqVaxt3RqqcHBGQ7zhaU.jpg",
+            "release_date": "1992-10-16",
+            "title": "Candyman's Fluch",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1022,
+            "popularity": 23.634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5UzXIBh94vmTFHzIBiQZT6WhpOk.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Candyman: Farewell to the Flesh",
+            "poster_path": "/nJaokTlS9bmTtLMDwj7GtO9XfNT.jpg",
+            "id": 10824,
+            "title": "Candyman 2 - Die Blutrache",
+            "vote_count": 208,
+            "overview": "Der hakenarmige Killer Candyman treibt erneut sein Unwesen in New Orleans, nachdem jemand ihn mit dem fünfmaligem Nennen seines Namens gerufen hat. Diesmal ist die Lehrerin Annie Tarrant sein auserkorenes Opfer. Er will sie zu seiner neuen Gefährtin machen.",
+            "release_date": "1995-03-17",
+            "vote_average": 5.4,
+            "video": false,
+            "popularity": 11.692
+        },
+        {
+            "original_language": "en",
+            "original_title": "Candyman: Day of the Dead",
+            "poster_path": "/dnbUxWORDMdDmhLUJHqMt0mTigR.jpg",
+            "video": false,
+            "vote_average": 4.8,
+            "overview": "Dritter und letzter Teil der Candyman-Reihe, in dem der böse Candyman seine entfernte Verwandte Caroline McKeever zu sich holen will. Die glaubt zunächst nicht an den Mythos, muss sich aber nach und nach von zahlreichen Leichen überzeugen lassen. Der Film kam nicht ins Kino und feierte seine TV-Premiere im Jahr 1999.",
+            "release_date": "1999-07-09",
+            "id": 12485,
+            "adult": false,
+            "backdrop_path": "/sbh6EGgPftuG5zGiHWMH7soX6iw.jpg",
+            "vote_count": 132,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "title": "Candyman 3 - Der Tag der Toten",
+            "popularity": 15.998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mHU833IrBRfZ3hhzEQsiiw2D8Nc.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 565028,
+            "original_language": "en",
+            "original_title": "Candyman",
+            "overview": "Der Künstler Anthony McCoy stößt auf die Geschichte des „Candyman“, die er zunächst als Inspiration in seinen Bildern verarbeitet. Als plötzlich mehrere Menschen brutal ermordet werden, verliert Anthony jedoch allmählich seinen Verstand.",
+            "poster_path": "/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+            "release_date": "2021-08-25",
+            "title": "Candyman",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 377,
+            "popularity": 559.913
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": 105995,
+    "name": "Anaconda Filmreihe",
+    "overview": "",
+    "poster_path": "/sENQAlXOhOb2QmfpFl2w34W9ODP.jpg",
+    "backdrop_path": "/uR7j2TEwJVCMz7CDJgNPuhty4J9.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 5.1,
+            "overview": "Ein Filmteam um die attraktive Terri im Dickicht des Amazonas-Dschungels macht sich auf die Suche nach den Spuren eines vermeintlich ausgestorbenen Indianerstamms. Keiner kann ahnen, daß ihnen ein Rendezvous mit einer Riesenschlange bevorsteht, die nur ein Ziel kennt: Ihre Opfer zu Tode zu quetschen. Als sich der Schlangenjäger Sarone Zugang zum Boot verschafft, wird die Expedition zum apokalyptischen Todestrip. Denn der dämonische Sarone hat es auf die Anaconda abgesehen. Um der Bestie endlich ins Auge sehen zu können, schreckt er auch nicht davor zurück, das Kommando skrupellos an sich zu reißen und die Expeditionsteilnehmer als Köder an das Monster zu verfüttern ...",
+            "release_date": "1997-04-11",
+            "adult": false,
+            "backdrop_path": "/5aj2kU5FN9VIu835cIf8W838vlt.jpg",
+            "vote_count": 1851,
+            "genre_ids": [
+                12,
+                27,
+                53
+            ],
+            "title": "Anaconda",
+            "original_language": "en",
+            "original_title": "Anaconda",
+            "poster_path": "/1G3tE98K1dtsVzSgpevzboKEyXK.jpg",
+            "id": 9360,
+            "popularity": 24.747
+        },
+        {
+            "overview": "Auf Borneo ist ein Team von Wissenschaftlern auf der Suche nach einer seltenen Orchidee. Da vor Ort die Regensaison eingesetzt hat, ist das Team gezwungen, den etwas fragwürdigen Kapitän Bill Johnson und seinen heruntergekommenen Kutter anzuheuern. Als sie schon kurz darauf Schiffbruch erleiden, machen sie die Bekanntschaft mit einer Riesenanakonda und kämpfen sich, verfolgt von dem hungrigen Untier, zu Fuß durch den Dschungel.",
+            "original_language": "en",
+            "original_title": "Anacondas: The Hunt for the Blood Orchid",
+            "poster_path": "/gTlVy3wUApAanIAPdx3yz0YOROD.jpg",
+            "adult": false,
+            "backdrop_path": "/2zg3nm55gMUi5lFzCdXMjnYJjS9.jpg",
+            "vote_average": 5.4,
+            "genre_ids": [
+                12,
+                28,
+                27,
+                53
+            ],
+            "vote_count": 675,
+            "video": false,
+            "title": "Anacondas - Die Jagd nach der Blutorchidee",
+            "release_date": "2004-08-26",
+            "id": 11237,
+            "popularity": 24.072
+        },
+        {
+            "video": false,
+            "vote_average": 4.8,
+            "overview": "Einer Gruppe skrupelloser Wissenschaftler und Jäger in Diensten des Unternehmers Murdoch ist es gelungen, eine jener gefährlichen Monsteranakondas vom Urwald Brasiliens in ein Labor auf Amerikas grüner Wiese zu verfrachten, um dort einen Jungbrunnen aus ihren Zellen zu destillieren. Prompt macht sich das Mörderreptil selbständig, entkommt in die Natur und bedroht die Einwohner der Umgebung. Ein Team unter Leitung des kriminellen Großwildjägers Hammett soll es erledigen, bevor es sich am Ende noch vermehrt.",
+            "release_date": "2008-01-01",
+            "id": 14863,
+            "adult": false,
+            "backdrop_path": "/7ELIOvgJhhGDenPhdwRqi8RGIuL.jpg",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "vote_count": 207,
+            "original_language": "en",
+            "original_title": "Anaconda 3: Offspring",
+            "poster_path": "/o6Z4f9lr9NuFSD8VZJZT4MXqHrK.jpg",
+            "title": "Anaconda - Offspring",
+            "popularity": 21.489
+        },
+        {
+            "overview": "Der todgeweihte Magnat Murdoch beauftragt einen Arzt, einen neuen Bestand Blutorchideen zu ernten und mit ihrem regenerativen Nektar Experimente an einer kleinen Anaconda durchzuführen. Über Nacht wächst die Babyschlange zu einem Monster heran, das groß und hungrig genug ist, um den guten Doktor zu verspeisen, bevor es sich frisch gestärkt auf einen Amoklauf begibt. Die attraktive Herpetologin Amanda ist entschlossen, die gefährlichen Tiere zu töten, an deren Entstehung sie selbst beteiligt war, und führt ein Team junger Wissenschaftler gegen Murdochs eiskalte Bande bewaffneter Schläger an, um die begehrten Orchideen in Sicherheit zu bringen, bevor die gefährliche Schlange beide Parteien erwischt. Das angriffslustige Reptil scheint unbesiegbar, gleitet unbeschadet durch Explosionen und Feuergefechte und regeneriert sich jedes Mal aufs Neue, um unersättlich alles zu verzehren, was sich ihm in den Weg stellt.",
+            "release_date": "2009-02-27",
+            "original_title": "Anacondas: Trail of Blood",
+            "poster_path": "/5VQVzYzTCsKrtGgcqLNTDJmsqjK.jpg",
+            "adult": false,
+            "backdrop_path": "/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
+            "vote_average": 4.7,
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "vote_count": 200,
+            "original_language": "en",
+            "video": false,
+            "title": "Anacondas - Trail Of Blood",
+            "id": 19543,
+            "popularity": 20.294
+        }
+    ]
+}

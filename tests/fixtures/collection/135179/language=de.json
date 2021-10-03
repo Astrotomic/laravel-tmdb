@@ -1,0 +1,49 @@
+{
+    "id": 135179,
+    "name": "Sin City Filmreihe",
+    "overview": "Sin City Filmreihe eine Adaption der gleichnamigen Comics von Frank Miller.",
+    "poster_path": "/OchYYo5ieq1WwvSIcb7iX6EdOL.jpg",
+    "backdrop_path": "/nrn5Uogru1UPhnGZdc0g5Kvkyni.jpg",
+    "parts": [
+        {
+            "video": false,
+            "title": "Sin City",
+            "overview": "Basin City, genannt Sin City, ist ein düsteres Metropolis, in dem nichts und niemand wirklich sicher ist, in dem die Gewalt allgegenwärtig ist und die Schicksale sich kreuzen. Drei Geschichten aus den dunklen Winkeln der Stadt werden hier erzählt: da ist der muskulöse Schläger Marv, der sich auf einen beispiellosen Rachefeldzug begibt, als die einzige von ihm geliebte Frau Goldie nach einer gemeinsamen Nacht von einem Killer getötet wird. Dwight, der aus Gefühlsgründen für die nicht ganz so wehrlosen Prostituierten und Tänzerinnen eintritt, als ein brutaler Cop sie bedroht und damit selbst in immer gewalttätigere Schwierigkeiten gerät und schließlich und endlich die Story des ehrlichen Cops Hartigan, der allmählich seines Jobs müde geworden ist, aber noch einmal zur Tat schreiten muss...",
+            "release_date": "2005-04-01",
+            "id": 187,
+            "adult": false,
+            "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "vote_count": 6361,
+            "original_language": "en",
+            "original_title": "Sin City",
+            "poster_path": "/bYT76Gqo58fNugswfzD2WtOfl8c.jpg",
+            "vote_average": 7.4,
+            "popularity": 23.49
+        },
+        {
+            "video": false,
+            "vote_average": 6.4,
+            "overview": "Und wieder bricht die Nacht an in Basin City, so schwarz und undurchdringlich, dass sich nur die Mutigsten auf die Straße trauen. Eine heiße Nacht, trocken, ohne Wind - genau richtig, um verschwitzte, geheime Dinge zu tun. Dwight muss daran denken, was er alles verbockt hat und was er dafür geben würde, noch einmal von vorne anfangen zu können, endlich der grauen, betäubenden Hölle zu entfliehen, die sich sein Leben nennt. Dann tritt seine schöne Ex-Freundin Ava auf den Plan. Sie brach ihm einst das Herz, als sie mit einem Anderen verschwand. Nun bittet sie ausgerechnet ihn um Hilfe. Ihr Ehemann Damien Lord misshandelt sie brutal, lässt sie durch seinen skrupellosen Chauffeur Manute überwachen. Einer so schönen Frau kann Dwight keinen Wunsch abschlagen und will ihr helfen. Doch in dieser Sünden-Stadt kann man niemandem vertrauen, nicht einmal einer schönen Dame in Not…",
+            "release_date": "2014-08-20",
+            "vote_count": 3018,
+            "adult": false,
+            "backdrop_path": "/rxMnmklIpunsNsRkQ7hw61ZJa84.jpg",
+            "title": "Sin City 2: A Dame To Kill For",
+            "genre_ids": [
+                80,
+                28,
+                53
+            ],
+            "id": 189,
+            "original_language": "en",
+            "original_title": "Sin City: A Dame to Kill For",
+            "poster_path": "/zBLmDM28fFlwOJVzjBqeDkzTh7i.jpg",
+            "popularity": 113.412
+        }
+    ]
+}

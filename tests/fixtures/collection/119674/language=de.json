@@ -1,0 +1,89 @@
+{
+    "id": 119674,
+    "name": "Psycho Filmreihe",
+    "overview": "Eine Thriller-Filmreihe mit der von Anthony Perkins verkörperten Figur des psychopathischen Serienmörders Norman Bates.",
+    "poster_path": "/29pDqAgmb4idzWzuZncoT7LZplA.jpg",
+    "backdrop_path": "/fQGEt8pqwXGxaSykjw0eKJkgvvj.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "Psycho",
+            "poster_path": "/nXjkXxpsE7ZGRCVd6PKkrf9tgsL.jpg",
+            "video": false,
+            "vote_average": 8.4,
+            "overview": "Die Sekretärin Marion Crane unterschlägt 40.000 Dollar und macht auf ihrer Flucht in einem abgelegenen Motel Station, das der eigentümliche Norman Bates leitet, der mit seiner Mutter im Haus neben dem Motel lebt. Als Marion sich frisch machen will, wird sie während des Duschens erstochen. Nachdem ein Privatdetektiv, der ihre Spur gefunden hatte, ebenfalls verschwindet, begeben sich Marions Freund Sam und ihre Schwester Lila auf die Suche. Im Bates Motel machen sie eine grausige Entdeckung.",
+            "id": 539,
+            "vote_count": 7633,
+            "adult": false,
+            "backdrop_path": "/5A9dsIpb7876nU9QrWEGziDmj0r.jpg",
+            "release_date": "1960-06-22",
+            "genre_ids": [
+                27,
+                18,
+                53
+            ],
+            "title": "Psycho",
+            "popularity": 28.573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pSXP7pa8mgOjrh8GbKnXArLXmL7.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 10576,
+            "original_language": "en",
+            "original_title": "Psycho II",
+            "overview": "22 Jahre nach den Ereignissen in „Psycho“ wird Norman Bates jetzt aus der Psychiatrie als geheilt entlassen und kehrt in das Haus seiner Mutter, mit dem kleinen Motel, zurück. Lila Loomis, die ihm damals fast zum Opfer gefallen war, ist nicht davon überzeugt, daß Norman gesund ist und macht sich daran, das nachzuweisen. Doch im Ort sind alle guter Hoffnung. Schon bald jedoch erklingt wieder die Stimme von Normans Mutter aus den alten Räumen und Zettelchen mit Nachrichten finden sich allerorten. Normans geistige Gesundheit leidet wieder Schaden, was auch die Freundschaft zu der Snack-Bedienung Mary nicht ganz ausgleichen kann. Bald gibt es die erste Leiche und keiner ahnt, daß mehrere Leute daran arbeiten, Norman seiner ursprünglichen Bestimmung zuzuführen.",
+            "poster_path": "/9a2bTT9z8xo2xpSyHlbj30zxLCz.jpg",
+            "release_date": "1983-06-03",
+            "title": "Psycho II",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 425,
+            "popularity": 10.276
+        },
+        {
+            "video": false,
+            "vote_average": 5.5,
+            "overview": "Norman Bates arbeitet inzwischen wieder in dem bekannten Motel. Als eines Tages eine ehemalige Nonne bei ihm ein Zimmer mieten will, die fast genauso aussieht, wie sein erstes Opfer vor 25 Jahren, will er ihr so weit wie möglich aus dem Weg gehen, denn sie scheint sich zu ihm hingezogen zu fühlen, und er ist immer noch seiner Mutter Rechenschaft schuldig. Außerdem wird er von einer Reporterin verfolgt, die unbedingt eine Story von ihm haben will. Als kurze Zeit später die Leiche einer Frau in einer Telefonzelle gefunden wird, beginnt die Geschichte von damals erneut.",
+            "release_date": "1986-04-02",
+            "title": "Psycho III",
+            "adult": false,
+            "backdrop_path": "/lwT098kKHOnFwk0iJkJHsfRYuYy.jpg",
+            "id": 12662,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "vote_count": 242,
+            "original_language": "en",
+            "original_title": "Psycho III",
+            "poster_path": "/d8hedJtsSDBiHClwzIYpBxTVTUD.jpg",
+            "popularity": 7.127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1n5pOyD8aseJ5oyPY3RlK5SS1hW.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53,
+                10770
+            ],
+            "id": 40377,
+            "original_language": "en",
+            "original_title": "Psycho IV – The Beginning",
+            "overview": "In diesem vierten Teil von „Psycho“ erfährt der Zuschauer mehr über die Mutter von Norman Bates – Dinge, die man im ersten Teil aus dem Jahr 1960 nicht erfahren hat. Norman Bates hört im Radio eine Sendung über Männer, die ihre Mutter getötet haben, und ruft unter falschem Namen dort an. Die Moderatorin kann ihm entlocken, daß er nicht nur seine Mutter, sondern auch einige andere Frauen auf dem Gewissen hat.",
+            "poster_path": "/vxWTkQRAvTvA6rbBhsdC4pdnHuq.jpg",
+            "release_date": "1990-11-10",
+            "title": "Psycho IV – The Beginning",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 152,
+            "popularity": 9.677
+        }
+    ]
+}

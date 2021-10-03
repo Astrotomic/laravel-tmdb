@@ -1,0 +1,131 @@
+{
+    "id": 328,
+    "name": "Jurassic Park Filmreihe",
+    "overview": "Eine amerikanische Abenteuerfilmserie, basierend auf dem Roman „DinoPark“ von Michael Crichton. Die Filme spielen auf der fiktiven Insel Nublar in der Nähe von Costa Rica an der mittelamerikanischen Pazifikküste, wo der Multimilliardär John Hammond mit Hilfe modernster Gentechnologie einen Erlebnispark mit lebenden Dinosauriern und anderen paläontologischen Sensationen geschaffen hat.",
+    "poster_path": "/ugJ6KXdOXq5wAKSypsKBTg0OgWv.jpg",
+    "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/um7dCYud1VGIsjTmSTvhO0QNTFr.jpg",
+            "genre_ids": [
+                12,
+                878
+            ],
+            "id": 329,
+            "original_language": "en",
+            "original_title": "Jurassic Park",
+            "overview": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+            "poster_path": "/8nSi7W1pG1KgqHS9kp3EsGoeKtA.jpg",
+            "release_date": "1993-06-11",
+            "title": "Jurassic Park",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 12650,
+            "popularity": 23.783
+        },
+        {
+            "original_language": "en",
+            "original_title": "The Lost World: Jurassic Park",
+            "poster_path": "/zZgk9X8YWlUBZv7ZqkCRQv5hxzL.jpg",
+            "video": false,
+            "vote_average": 6.5,
+            "overview": "Vier Jahre nach dem Desaster im Jurassic Park: Auf einer nahegelegenen Insel haben die Dinosaurier unbemerkt überlebt und können sich frei bewegen. Doch jetzt droht eine noch viel größere Gefahr - der Plan, die Dinosaurier einzufangen und auf das Festland zu bringen. John Hammond, der die Kontrolle über seine Gesellschaft \"InGen\" verloren hat, sieht die Chance, seine Fehler aus der Vergangenheit wiedergutzumachen und sendet eine Expedition, geleitet von Ian Malcolm, zur Insel, bevor der beauftragte Jagd-Trupp dort ankommt. Die zwei Gruppen stehen sich in extremer Gefahr gegenüber und müssen sich in einem Wettlauf gegen die Zeit zusammenschließen, um zu überleben...",
+            "release_date": "1997-05-23",
+            "id": 330,
+            "adult": false,
+            "backdrop_path": "/2W1MfDpE3bH1hLAiFAUBWe4nBCP.jpg",
+            "vote_count": 6398,
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "title": "Vergessene Welt: Jurassic Park",
+            "popularity": 1.907
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sksqYbKUEOsD2bPhDmb0rycMQRD.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 331,
+            "original_language": "en",
+            "original_title": "Jurassic Park III",
+            "overview": "Bei seiner Forschung über Intelligenz und Sozialverhalten von Velociraptoren bekommt der berühmte Paläontologe Dr. Alan Grant eine Einladung der reichen Eheleute Paul Kirby und dessen Frau, Amanda Kirby. Beide wünschen, dass Grant sie bei einem Rundflug über die Insel Isla Sorna, die ursprünglich als Dinosaurier Zuchtinsel genutzt wurde, begleitet. Grant willigt schwerenherzens ein, da er auf eine Finanzspende für seine weiteren Forschungen hofft. Auf der Insel während des Rundfluges setzt das Flugzeug plötzlich zur Landung an. Grant protestiert, da er um die Gefahren nur zu gut weiß, wird aber bewusstlos geschlagen.",
+            "poster_path": "/gvYqgirswXdovnm82cKFG8XDcrs.jpg",
+            "release_date": "2001-07-18",
+            "title": "Jurassic Park III",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 5435,
+            "popularity": 1.47
+        },
+        {
+            "backdrop_path": "/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Jurassic World",
+            "poster_path": "/fryDtXgd6Cf4oqNlNPHas0GWDNM.jpg",
+            "video": false,
+            "vote_average": 6.7,
+            "title": "Jurassic World",
+            "vote_count": 17234,
+            "overview": "Mehr als 20 Jahre sind vergangen, seitdem die Ereignisse auf Isla Nublar aus dem Ruder liefen. Längst ist der Themenpark wieder eröffnet, grösser und sicherer und mit mehr Dinosauriern denn je, so wie es sich John Hammond ursprünglich vorgestellt hatte. Weil die Besucherzahlen deutlich nach unten gehen, arbeitet Projektleiterin Claire an einer neuen Attraktion: Ein selbst geschaffener Dino-Hybrid, der sich jedoch als so gefährlich und unberechenbar erweist, dass selbst Velociraptoren vor ihm Reissaus nehmen. Doch der erfahrene Dino-Trainer Owen nimmt den Kampf mit dem unberechenbaren Biest in seine Hände!",
+            "release_date": "2015-06-06",
+            "id": 135397,
+            "adult": false,
+            "popularity": 94.025
+        },
+        {
+            "release_date": "2018-06-06",
+            "adult": false,
+            "backdrop_path": "/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 351286,
+            "original_language": "en",
+            "original_title": "Jurassic World: Fallen Kingdom",
+            "poster_path": "/gIbpCh7nMvLOMxBmkWC6MeQgVr1.jpg",
+            "vote_count": 9216,
+            "video": false,
+            "vote_average": 6.6,
+            "title": "Jurassic World - Das gefallene Königreich",
+            "overview": "Vier Jahre nachdem der Freizeitpark Jurassic World geschlossen wurde, haben die Dinosaurier sich auf der kompletten Isla Nublar ausgebreitet. Zwar leben sie mittlerweile vom Menschen ungestört, doch ein bevorstehender Vulkanausbruch auf der Insel droht die Urzeittiere auszulöschen. Die ehemalige Parkmanagerin Claire will dies auf keinen Fall zulassen und bittet daher ihren Ex-Freund Owen Grady um Hilfe. Gemeinsam kehren sie auf die Insel zurück, um das erneute Aussterben der Dinosaurier zu verhindern. Während sich Owen auf die Suche nach seinen ehemaligen Raptoren-Schützlingen macht, stoßen die restlichen Expeditionsmitglieder während ihrer Rettungsmission auf eine Verschwörung.",
+            "popularity": 95.276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/flTnaBaW1UnQtzGEIoHR7C3OYfy.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878,
+                53
+            ],
+            "id": 507086,
+            "original_language": "en",
+            "original_title": "Jurassic World: Dominion",
+            "overview": "",
+            "poster_path": "/blO6k1NsYgPq4sQRZyWvi962FOo.jpg",
+            "release_date": "2022-06-08",
+            "title": "Jurassic World: Ein neues Zeitalter",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 43.403
+        }
+    ]
+}

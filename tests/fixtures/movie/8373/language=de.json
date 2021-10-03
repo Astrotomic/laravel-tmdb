@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/z0Q4R2h9Z94PXUpjPXL7HpjvvMF.jpg",
+    "belongs_to_collection": {
+        "id": 8650,
+        "name": "Transformers Filmreihe",
+        "poster_path": "/giURBCO3r4LVbhywEjIuYz92fEv.jpg",
+        "backdrop_path": "/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://www.transformersmovie.com/",
+    "id": 8373,
+    "imdb_id": "tt1055369",
+    "original_language": "en",
+    "original_title": "Transformers: Revenge of the Fallen",
+    "overview": "Nachdem Sam Witwicky die Welt mit Hilfe der gutmütigen Autobots vor den bösartigen Decepticons gerettet hat, freut er sich auf ein normales Leben. Als er aufs College geht, lässt er nicht nur Freundin Mikaela zurück, sondern auch Roboter-Kumpel Bumblebee. Doch bald wird Sam von seltsamen Visionen heimgesucht. Erneut steht ein Kampf der außerirdischen Roboter bevor, bei dem das Schicksal der Menschheit auf dem Spiel steht. Sam scheint den Schlüssel zu ihrer Rettung in der Hand zu halten, doch diesmal bekommen es er, Mikaela und die Autobots mit einem noch mächtigeren Gegner zu tun...",
+    "popularity": 63.048,
+    "poster_path": "/gTxxxbMc8rnL8AaOcpJzuRVTkpR.jpg",
+    "production_companies": [
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 135316,
+            "logo_path": null,
+            "name": "Tom DeSanto & Don Murphy Production",
+            "origin_country": ""
+        },
+        {
+            "id": 2598,
+            "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+            "name": "Hasbro",
+            "origin_country": ""
+        },
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-06-19",
+    "revenue": 836303693,
+    "runtime": 150,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Rache kommt.",
+    "title": "Transformers - Die Rache",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 6661
+}

@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/1xaib1Y52yZPvu4oyiZu6LNC1uj.jpg",
+    "belongs_to_collection": {
+        "id": 529892,
+        "name": "Black Panther Filmreihe",
+        "poster_path": "/uVnN6KnfDuHiC8rsVsSc7kk0WRD.jpg",
+        "backdrop_path": "/1Jj7Frjjbewb6Q6dl6YXhL3kuvL.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/black-panther-wakanda-forever",
+    "id": 505642,
+    "imdb_id": "tt9114286",
+    "original_language": "en",
+    "original_title": "Black Panther: Wakanda Forever",
+    "overview": "",
+    "popularity": 15.792,
+    "poster_path": "/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-07-06",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Black Panther: Wakanda Forever",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

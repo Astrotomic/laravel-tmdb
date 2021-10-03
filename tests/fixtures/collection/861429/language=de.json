@@ -1,0 +1,51 @@
+{
+    "id": 861429,
+    "name": "Jungle Cruise Filmreihe",
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
+            "genre_ids": [
+                12,
+                14,
+                35,
+                28
+            ],
+            "id": 451048,
+            "original_language": "en",
+            "original_title": "Jungle Cruise",
+            "overview": "Lily reist von London, England, in den Amazonas-Dschungel und nimmt die fragwürdigen Dienste des Skippers Frank Wolff in Anspruch. Er soll sie auf der La Quila, seinem baufälligen, aber charmanten Boot, flussabwärts bringen. Lily ist entschlossen, dort einen uralten Baum mit beispiellosen Heilkräften zu finden. Über ihn wird gesagt, er könne die Zukunft der Medizin verändern. Bei dieser epischen Suche stößt das ungleiche Duo auf unzählige Gefahren und übernatürliche Kräfte, die in der trügerischen Schönheit des üppigen Regenwaldes lauern. Aber während sie die Geheimnisse des verschollenen Baumes aufdecken, steht für Lily und Frank immer mehr auf dem Spiel, und ihr Schicksal – und das der Menschheit – befindet sich in der Schwebe.",
+            "poster_path": "/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",
+            "release_date": "2021-07-28",
+            "title": "Jungle Cruise",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 2782,
+            "popularity": 1138.085
+        },
+        {
+            "genre_ids": [
+                14,
+                12,
+                28,
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Jungle Cruise 2",
+            "poster_path": null,
+            "video": false,
+            "vote_average": 0,
+            "id": 861426,
+            "overview": "",
+            "release_date": "",
+            "vote_count": 0,
+            "adult": false,
+            "backdrop_path": null,
+            "title": "Jungle Cruise 2",
+            "popularity": 3.207
+        }
+    ]
+}

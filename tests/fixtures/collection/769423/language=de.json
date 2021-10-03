@@ -1,0 +1,50 @@
+{
+    "id": 769423,
+    "name": "Escape Room Collection",
+    "overview": "",
+    "poster_path": "/zdgt4NhbhJqFQOKDRD6L2Jmh7tx.jpg",
+    "backdrop_path": "/jMdEW5QcRZ7WShJo3ZsMgNGdJIJ.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/mWLljCmpqlcYQh7uh51BBMwCZwN.jpg",
+            "genre_ids": [
+                27,
+                53,
+                28,
+                9648
+            ],
+            "vote_count": 3340,
+            "original_language": "en",
+            "original_title": "Escape Room",
+            "id": 522681,
+            "title": "Escape Room",
+            "video": false,
+            "vote_average": 6.5,
+            "poster_path": "/zmdRZ834diMNSZqKmMFrVgH8KPZ.jpg",
+            "overview": "Amanda, Mike und Ben kennen sich nicht, haben aber gemeinsam, dass sie sich für besonders intelligent halten. Wie noch drei weitere Menschen, die auch glauben, sie seien besonders schlau, bekommen sie eine ganz spezielle Einladung: Sie dürfen an einer einzigartigen Escape-Room-Erfahrung teilnehmen und können dabei sogar noch ein Preisgeld in Höhe von einer Million Dollar gewinnnen. Doch verschwiegen wird in der Einladung ein nicht ganz unwichtiges Detail: Das Spiel kann (und wird) tödlich enden, wenn man eines der extrem herausfordernden Rätsel nicht schnell genug löst...",
+            "release_date": "2019-01-03",
+            "popularity": 110.125
+        },
+        {
+            "original_title": "Escape Room: Tournament of Champions",
+            "poster_path": "/ek8XGUtt04DfBDT7DL1eUrBdIa7.jpg",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 479,
+            "overview": "Sechs Menschen finden sich unwissentlich in einer weiteren Serie von Escape Rooms eingesperrt und entdecken langsam, was sie gemeinsam haben, um zu überleben. Als sie sich mit zwei der ursprünglichen Überlebenden zusammentun, bemerken sie bald, dass sie alle das Spiel schon einmal gespielt haben.",
+            "release_date": "2021-07-01",
+            "title": "Escape Room 2: No Way Out",
+            "adult": false,
+            "backdrop_path": "/dsdbViTNjLu4DbgkkYmuY4xDQ20.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 585216,
+            "original_language": "en",
+            "popularity": 732.827
+        }
+    ]
+}

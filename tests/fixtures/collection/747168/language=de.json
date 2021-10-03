@@ -1,0 +1,45 @@
+{
+    "id": 747168,
+    "name": "Borat Filmreihe",
+    "overview": "",
+    "poster_path": "/wC7DgdpGSBsBn2UElP8EdHKCbah.jpg",
+    "backdrop_path": "/3Ysvp4ODDC6sucdQ9quHWkMiKED.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/2m9FVISmYnDpOgBKwHSCIAKDHCx.jpg",
+            "genre_ids": [
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "poster_path": "/pGfzx3CHxyaliB0c6vr7lGAspyu.jpg",
+            "video": false,
+            "title": "Borat",
+            "vote_count": 4107,
+            "overview": "Nachdem er Kasachstan verlassen hat, ist Borat nach Amerika gereist, um hier einen Dokumentarfilm über das Land und seine Einwohner zu drehen. Kreuz und quer fährt er durchs Land und trifft hier auf „wahre“ Leute im „wahren“ Leben und das hat zum Teil wahrlich irrsinnige Konsequenzen. Borats rückständiges und hinterwäldlerisches Auftreten ruft heftige Reaktionen hervor und entlarvt die Vorurteile und die Heuchelei der amerikanischen Kultur. In einigen Fällen teilen seine Interviewpartner durchaus seine unverschämten Ansichten vor allem bei den Themen „Männer & Frauen“ und „Hautfarbe“. Andere versuchen ihm eine patriotische Lektion in „westlichen Werten“ zu erteilen.",
+            "release_date": "2006-11-01",
+            "vote_average": 6.7,
+            "id": 496,
+            "popularity": 14.316
+        },
+        {
+            "video": false,
+            "vote_average": 6.5,
+            "overview": "14 Jahre nach seinem Film über seine Reise durch die USA riskiert Borat Leib und Leben, als er mit seiner Tochter in die Staaten zurückkehrt und noch mehr über die amerikanische Kultur, die COVID-19 Pandemie und die Wahlen enthüllt.",
+            "release_date": "2020-10-23",
+            "adult": false,
+            "backdrop_path": "/hbrXbVoE0NuA1ORoSGGYNASagrl.jpg",
+            "id": 740985,
+            "genre_ids": [
+                35
+            ],
+            "vote_count": 1689,
+            "original_language": "en",
+            "original_title": "Borat Subsequent Moviefilm",
+            "poster_path": "/kwh9dYvZLn7yJ9nfU5sPj2h9O7l.jpg",
+            "title": "Borat Anschluss-Moviefilm",
+            "popularity": 22.022
+        }
+    ]
+}

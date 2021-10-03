@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+    "belongs_to_collection": {
+        "id": 8650,
+        "name": "Transformers Filmreihe",
+        "poster_path": "/giURBCO3r4LVbhywEjIuYz92fEv.jpg",
+        "backdrop_path": "/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.transformersmovie.com/",
+    "id": 1858,
+    "imdb_id": "tt0418279",
+    "original_language": "en",
+    "original_title": "Transformers",
+    "overview": "Zwei außerirdische Roboterrassen, die den Menschen gut gesinnten Autobots und die zerstörerischen Decepticons, kommen auf die Erde und tragen dort ihren Kampf gegeneinander aus. Es stellen sich ihnen nur wenige mutige Menschen in den Weg - wie Teenager Sam, der zum Geburtstag einen Autobot \"geschenkt\" bekam. Zusammen mit dem Militär, einigen Zivilisten und seiner Freundin Mikaela beginnt ein verzweifelter Kampf ums Schicksal der Menschheit...",
+    "popularity": 16.988,
+    "poster_path": "/7IOE8Ewl1x1nrMTsHgHmReVwNPP.jpg",
+    "production_companies": [
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 2598,
+            "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+            "name": "Hasbro",
+            "origin_country": ""
+        },
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-06-27",
+    "revenue": 709709780,
+    "runtime": 144,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ihr Krieg. Unsere Welt.",
+    "title": "Transformers",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 8777
+}

@@ -1,0 +1,87 @@
+{
+    "id": 120794,
+    "name": "Batman Filmreihe",
+    "overview": "Die Batman \"Original Series\" besteht aus insgesamt 4 Filmen. Der erste Film ist 1989 erschienen und der letzte Film erschien 1997. Die Serie wurde mit der \"The Dark Knight\"-Reihe fortgesetzt.",
+    "poster_path": "/aUFuAsWPGw1QfWoKlk19oNZ513s.jpg",
+    "backdrop_path": "/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 7.2,
+            "overview": "Gotham City erstickt in einem Sumpf aus Korruption und Verbrechen, und nur ein Mann stellt sich der Gefahr: Batman, der dunkle Ritter in dem Fledermaus-Cape. Die Reporterin Vicky Vale wittert eine heiße Story, und will die Identität des mysteriösen Kämpfers für das Gute aufdecken. Doch Batman hat andere Probleme: Er ist Joker auf den Fersen, der die Macht in Gothams Unterwelt an sich reißen will ...",
+            "release_date": "1989-06-23",
+            "adult": false,
+            "backdrop_path": "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+            "title": "Batman",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "id": 268,
+            "original_language": "en",
+            "original_title": "Batman",
+            "poster_path": "/r7XF6duZy5ZXmOX7HE3fKGV1WLN.jpg",
+            "vote_count": 5754,
+            "popularity": 35.525
+        },
+        {
+            "genre_ids": [
+                28,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Batman Returns",
+            "poster_path": "/rshX1A5w3lUbVOdTHXPpFLBM2zX.jpg",
+            "video": false,
+            "vote_average": 6.8,
+            "overview": "Batman hat es mit dem Pinguin zu tun, einem amphibisch/menschlichem Wesen, das durch den Ansporn des fiesen Geschäftsmanns Max Schreck sogar Ambitionen hegt, es bis zum Bürgermeister Gotham Citys zu bringen. Die beiden wollen Batman in Verruf bringen, doch dann gibt es da noch die ehemalige Sekretärin Schrecks, Melina Kyle, die als undurchsichtige Catwoman durch Gothams Strassen zieht ...",
+            "release_date": "1992-06-19",
+            "id": 364,
+            "title": "Batmans Rückkehr",
+            "adult": false,
+            "backdrop_path": "/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+            "vote_count": 4797,
+            "popularity": 25.623
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9EbbF7KIwqjkND2vt0BxflDeuDh.jpg",
+            "genre_ids": [
+                28,
+                80,
+                14
+            ],
+            "id": 414,
+            "original_language": "en",
+            "original_title": "Batman Forever",
+            "overview": "Der dunkle Ritter von Gotham City hat es diesmal mit zwei äusserst gefährlichen Schurken zu tun: Der frühere Staatsanwalt Harvey Dent, der durch einen schrecklichen Unfall im Gerichtssaal entstellt wurde und zu Harvey Two-Face mutierte, macht fälschlicherweise Batman für seine Leiden verantwortlich. Dann ist da noch Edward Nygma, der ein neuartiges Fernsehvergbügen für die Einwohner von Gotham erfunden hat, und zeitweilig in der Person des Riddler Batman knifflige Rätsel zu lösen gibt…",
+            "poster_path": "/mzzNBVwTiiY94xAXDMWJpNPW2US.jpg",
+            "release_date": "1995-06-16",
+            "title": "Batman Forever",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 3953,
+            "popularity": 18.72
+        },
+        {
+            "video": false,
+            "vote_average": 4.3,
+            "overview": "Turbulenzen in Gotham City und im Hause Wayne. Zwei neue Superverbrecher, der rachsüchtige Wissenschaftler Mr. Freeze und die giftige Ökoamazone Poison Ivy, haben den Ring betreten. Außerdem macht sich Nachwuchs in der Batcave breit: Barbara Wilson, Alfreds liebe Nichte, begehrt mit Vehemenz Einlaß und ihre umgehende Beförderung zum Batgirl. Als Mr. Freeze auf Anraten von Ivy damit beginnt, die komplette Stadt einzufrieren, sind Eile und Teamwork geboten.",
+            "release_date": "1997-06-20",
+            "id": 415,
+            "adult": false,
+            "backdrop_path": "/rpOqHZMNIaI4qP4r7nw1B7oA0mx.jpg",
+            "genre_ids": [
+                878,
+                28,
+                14
+            ],
+            "vote_count": 3842,
+            "original_language": "en",
+            "original_title": "Batman & Robin",
+            "poster_path": "/bsg0mrxUKyJoL4oSGP5mlhEsqp.jpg",
+            "title": "Batman & Robin",
+            "popularity": 21.193
+        }
+    ]
+}

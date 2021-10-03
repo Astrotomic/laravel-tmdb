@@ -1,0 +1,67 @@
+{
+    "id": 230,
+    "name": "Der Pate Filmreihe",
+    "overview": "Die weltberühmte Familienchronik der sizilianischen Großfamilie um Don Vito Corleone und seine beiden Söhne Michael und Sonny, denen im Land der unbegrenzten Möglichkeiten Amerika bis gegen Ende der 70er Jahre der Aufstieg von Kleinkriminellen zur alles beherrschenden Mafiaorganisation von New York gelingt.",
+    "poster_path": "/4AeG0bUiQkkb7mU2GeQFX4sjftg.jpg",
+    "backdrop_path": "/pGl7NqNhyncju3Qu8LGA7owciMW.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 8.7,
+            "overview": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte.",
+            "release_date": "1972-03-14",
+            "adult": false,
+            "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+            "vote_count": 14848,
+            "genre_ids": [
+                18,
+                80
+            ],
+            "title": "Der Pate",
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "poster_path": "/5mcfdJiLfHkg7eWROzCSuadHrYb.jpg",
+            "id": 238,
+            "popularity": 55.872
+        },
+        {
+            "video": false,
+            "vote_average": 8.6,
+            "overview": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+            "release_date": "1974-12-20",
+            "vote_count": 8909,
+            "adult": false,
+            "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+            "title": "Der Pate - Teil II",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather: Part II",
+            "poster_path": "/cPCgXKNBn3bATMLes1uYRTCjTpY.jpg",
+            "popularity": 37.269
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cAKf3fnIV1AyDghzqI3xxjK1v0S.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "title": "Der Pate - Teil III",
+            "original_language": "en",
+            "original_title": "The Godfather: Part III",
+            "poster_path": "/iVjSuqHFFOqCFM4rdhUyysYWnnj.jpg",
+            "video": false,
+            "vote_average": 7.4,
+            "overview": "Der alternde Don Michael Corleone möchte den Familienbetrieb legalisieren und sich langsam aus dem Geschäft zurückziehen. Während er sich als Förderer der katholischen Kirche versucht, macht ihm vor allem ein Mensch zu schaffen: Vincent Mancini, Michaels zukünftiger Schwiegersohn und potentieller Nachfolger. Dieser schmiedet nämlich ganz andere Pläne.",
+            "release_date": "1990-12-25",
+            "vote_count": 4526,
+            "id": 242,
+            "popularity": 26.3
+        }
+    ]
+}

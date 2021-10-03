@@ -1,0 +1,47 @@
+{
+    "id": 837007,
+    "name": "Cruella Collection",
+    "overview": "",
+    "poster_path": "/lXiLDlf1AKOY6i0eOZ7gi7zLH2O.jpg",
+    "backdrop_path": null,
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 8.3,
+            "overview": "London in den 1970er Jahren: Die junge Estella ist eine talentierte Designerin und träumt von einer großen Karriere als Modeschöpferin. Doch da sie verwaist und mittellos aufgewachsen ist, scheint ihr der Weg in höhere Kreise verschlossen. Mit ihren zwei Kumpels, den Amateur-Dieben Horace und Jasper, streift sie durch London und begeht hier und da kleine Verbrechen – und wann immer sich die Möglichkeit ergibt, wenigstens kurz in den von ihr ersehnten Luxus der Schönen und Reichen einzutauchen, greift sie schamlos zu. Dann aber bietet sich ihr endlich eine einzigartige Gelegenheit, um der Gosse zu entkommen: Ein aufstrebender Rockstar entdeckt ihr Talent und beauftragt Estella damit, ihm ein einzigartiges Outfit zu entwerfen. Auf der Suche nach dem perfekten Material muss sich Estella, die ein Faible für Hundefell hat, fragen, was sie für ihren Erfolg zu opfern bereit ist.",
+            "release_date": "2021-05-26",
+            "adult": false,
+            "backdrop_path": "/kmuSGNlF9mfNHIDOEVEWPj6f3Ak.jpg",
+            "vote_count": 5540,
+            "genre_ids": [
+                35,
+                80
+            ],
+            "title": "Cruella",
+            "original_language": "en",
+            "original_title": "Cruella",
+            "poster_path": "/gqH6myf3cTomHrzc5bJEpdH0dEX.jpg",
+            "id": 337404,
+            "popularity": 618.976
+        },
+        {
+            "id": 836454,
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                35
+            ],
+            "vote_count": 0,
+            "original_language": "en",
+            "original_title": "Cruella 2",
+            "poster_path": null,
+            "title": "Cruella 2",
+            "video": false,
+            "vote_average": 0,
+            "release_date": "",
+            "overview": "",
+            "popularity": 2.906
+        }
+    ]
+}

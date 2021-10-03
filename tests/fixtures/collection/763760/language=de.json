@@ -1,0 +1,47 @@
+{
+    "id": 763760,
+    "name": "Bloodshot Filmreihe",
+    "overview": "",
+    "poster_path": "/jTu4dCrctrP1bgl6lvSsJoFVdks.jpg",
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/zlqMASc3vEtdym2OvXgE7fC6onT.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 338762,
+            "original_language": "en",
+            "original_title": "Bloodshot",
+            "overview": "Nachdem er und seine Frau ermordet wurden, wird Ray Garrison von einem Team aus Wissenschaftlern wiedererweckt. Mit Nanotechnologie ausgestattet wird er zu einer übermenschlichen Tötungsmaschine – Bloodshot. Während er mit anderen Supersoldaten trainiert, kann er sich zunächst an nichts aus seinem früheren Leben erinnern, aber alsbald kehren seine Erinnerungen zurück. Er bricht aus der Einrichtung aus und sinnt auf Rache, findet jedoch heraus, dass die Verschwörung weit größer ist als er bisher dachte.",
+            "poster_path": "/y6MmcmyknK19fGnpqUygUPPJA13.jpg",
+            "release_date": "2020-03-05",
+            "title": "Bloodshot",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 4015,
+            "popularity": 47.394
+        },
+        {
+            "id": 763759,
+            "genre_ids": [
+                28,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Bloodshot 2",
+            "poster_path": null,
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "adult": false,
+            "vote_count": 0,
+            "title": "Bloodshot 2",
+            "overview": "",
+            "backdrop_path": null,
+            "popularity": 0.626
+        }
+    ]
+}

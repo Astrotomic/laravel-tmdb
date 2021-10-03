@@ -1,0 +1,48 @@
+{
+    "id": 103372,
+    "name": "Mr. Bean Filmreihe",
+    "overview": "",
+    "poster_path": "/61Jcc1Gwc2KE7sIJ1HPqqdt67ji.jpg",
+    "backdrop_path": "/aIXcqHz5VKRLXHPsNo0dFoK7YP5.jpg",
+    "parts": [
+        {
+            "id": 1281,
+            "video": false,
+            "vote_average": 6.5,
+            "overview": "Die Londoner Royal Gallery wird gebeten, Ihren besten Experten nach Kalifornien zu entsenden, damit dieser die Enthüllung eines kostbaren Gemäldes beaufsichtigt. Aber sie schickt ihren unfähigsten und meistgehassten Angestellten, um ihn endlich loszuwerden. Dieser Angestellte ist natürlich Mr. Bean, der bekannte Unglücksrabe! Innerhalb weniger Tage gelingt es ihm, alles zu zerstören, was auch nur entfernt in seine Nähe kommt, sei dies nun die Karriere und Ehe seines Gastgebers oder das großartigste Gemälde der Vereinigten Staaten. Vergessen Sie Vulkane und Invasionen von Außerirdischen - Bean ist der ultimative Katastrophenfilm!",
+            "release_date": "1997-07-03",
+            "adult": false,
+            "backdrop_path": "/ivvSF7erxJ6g6PHNvglrI6sQmSl.jpg",
+            "vote_count": 1836,
+            "genre_ids": [
+                35,
+                10751,
+                12
+            ],
+            "title": "Bean - Der ultimative Katastrophenfilm",
+            "original_language": "en",
+            "original_title": "Bean",
+            "poster_path": "/4jGakwOZNQ7Mqlpj5yHbNG4lyVm.jpg",
+            "popularity": 16.529
+        },
+        {
+            "poster_path": "/cwepJOEvIJnXDisaPjsH3M6dUPc.jpg",
+            "video": false,
+            "vote_average": 6.3,
+            "overview": "Der tollpatschige aber sympathische Engländer Mr. Bean gewinnt einen Urlaub in Südfrankreich. Dabei bereiten ihm nicht nur er selbst, sondern auch seine mangelnden Sprachenkenntnisse sowie exotische und kulinarische Genüsse Schwierigkeiten. Das Unglück nimmt seinen Lauf und gipfelt schließlich in den Filmfestspielen von Cannes, wo seine Urlaubsvideos durch eine Verkettung von Missverständnissen gezeigt werden.",
+            "release_date": "2007-03-22",
+            "id": 1268,
+            "adult": false,
+            "backdrop_path": "/pJ1jm5sJbcQC731JYF06rDAkZEZ.jpg",
+            "vote_count": 2178,
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "title": "Mr. Bean macht Ferien",
+            "original_language": "en",
+            "original_title": "Mr. Bean's Holiday",
+            "popularity": 18.383
+        }
+    ]
+}

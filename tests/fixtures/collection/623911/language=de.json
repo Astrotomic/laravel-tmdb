@@ -1,0 +1,50 @@
+{
+    "id": 623911,
+    "name": "Captain Marvel Filmreihe",
+    "overview": "",
+    "poster_path": "/4diELSzXT1FbN782cOogEWeKN2w.jpg",
+    "backdrop_path": "/ubZUKycnQldt2umj0bPD2VwXDJM.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 6.9,
+            "overview": "Bei einem Einsatz wird die Kree-Soldatin Vers von den Skrull gefangengenommen. Als die Gestaltenwandler auf Anweisung ihres Kapitäns Talos versuchen, mit einer Maschine Informationen aus dem Gehirn ihrer Geisel herauszuziehen, kann Vers mit einer Fluchtkapsel entkommen, woraufhin sie anschließend in den USA der 1990er Jahre durch das Dach einer Videothek kracht. Während die S.H.I.E.L.D.-Agenten Nick Fury und Phil Coulson erst einmal alles daransetzen, die vermeintliche Außerirdische zu fangen, findet Vers schon bald heraus, dass sie offenbar schon einmal auf diesem Planeten war und unter dem Namen Carol Danvers als Kampfpilotin für das US-Militär gearbeitet hat ...",
+            "release_date": "2019-03-06",
+            "vote_count": 11995,
+            "adult": false,
+            "backdrop_path": "/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+            "title": "Captain Marvel",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 299537,
+            "original_language": "en",
+            "original_title": "Captain Marvel",
+            "poster_path": "/rswtOkjZw3VhwPuTlOao3AiBRmz.jpg",
+            "popularity": 79.573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3AbHZcRdon7TmpqracuQqgJxOGE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                14
+            ],
+            "id": 609681,
+            "original_language": "en",
+            "original_title": "The Marvels",
+            "overview": "",
+            "poster_path": "/bnz17wOkp9O0c9JADOncEx0Q1sJ.jpg",
+            "release_date": "2022-11-09",
+            "title": "Captain Marvel 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 9.611
+        }
+    ]
+}

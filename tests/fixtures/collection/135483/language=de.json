@@ -1,0 +1,67 @@
+{
+    "id": 135483,
+    "name": "96 Hours Filmreihe",
+    "overview": "Eine französische Action-Thriller-Serie über den fiktiven CIA-Agent Bryan Mills, der in Europa tätig ist.",
+    "poster_path": "/5xu0fpu5wZR7NXBWfYH8bCDtAJE.jpg",
+    "backdrop_path": "/hO1R1TI429PjkOjby4dTPBrWFwn.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/9iQWsXwjOMGDvTDdvCnpiyR0UG3.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 8681,
+            "original_language": "en",
+            "original_title": "Taken",
+            "overview": "Bryan Mills hat seinen Dienst als Agent der US-Regierung quittiert, um in der Nähe seiner 17-jährigen Tochter leben zu können. Die verwöhnte Kim wohnt bei Bryans Ex-Frau und deren reichem Mann und Bryan kommt kaum an sie heran. Als Kim mit ihrer Freundin nach Paris fährt, macht sich Bryan Sorgen. Tatsächlich werden die Mädchen dort von einer albanischen Bande entführt. Bryan fährt nach Paris, wo er seine Fähigkeiten als Mann für gefährliche Einsätze voll einsetzen muss.",
+            "poster_path": "/fJ1JZ29dyTWqAqdGxlNpHlIOIXD.jpg",
+            "release_date": "2008-02-18",
+            "title": "96 Hours",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 8984,
+            "popularity": 42.256
+        },
+        {
+            "overview": "Nachdem der frühere CIA-Topagent Bryan Mills im ersten Teil seine Tochter Kim in Eigenregie aus den Klauen eines osteuropäischen Mädchenhändlerrings befreit hatte, braucht er diesmal selber Hilfe. Einem Vater der damaligen Kidnapper gefiel Mills Aufräumaktion so gar nicht, weshalb er den mit seiner Frau Leonore im Urlaub in Istanbul weilenden Ex-Agenten kurzerhand als Geisel nimmt. Mit Hilfe seiner Tochter gelingt es Mills, den Spieß umzudrehen und seine Familie in Sicherheit zu bringen. Auch dieses Mal springt der ehemalige Topagent dabei nicht gerade zimperlich mit seinen Widersachern um.",
+            "release_date": "2012-09-27",
+            "adult": false,
+            "backdrop_path": "/wiHwmNKPA7J9GgqCKY2z243HE3S.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "vote_count": 5354,
+            "original_language": "en",
+            "original_title": "Taken 2",
+            "poster_path": "/mTbhQOP1qMwOpD45NgQaNdREsDe.jpg",
+            "title": "96 Hours - Taken 2",
+            "video": false,
+            "vote_average": 6.3,
+            "id": 82675,
+            "popularity": 82.534
+        },
+        {
+            "original_language": "en",
+            "original_title": "Taken 3",
+            "id": 260346,
+            "video": false,
+            "vote_average": 6.2,
+            "overview": "Ex-CIA-Agent und Familienvater Bryan Mills rettete seine Tochter Kim und deren Mutter Lenore bereits zwei Mal aus den bedrohlichsten Situationen. Diesmal muss er sich primär um die eigene Haut kümmern – Mills wird zum Hauptverdächtigen in einem Mordfall, dessen Opfer ihm sehr nahe stand. Der Einzelkämpfer sieht nur eine Möglichkeit, seine Unschuld zu beweisen: Er muss den Killer selbst ausfindig machen und zur Rechenschaft ziehen. Seine in vielen gefährlichen Missionen geschulten, ebenso besonderen wie tödlichen Fähigkeit setzt Mills aber nicht nur für die Jagt ein, sondern auch, um sich die Polizei vom Hals zu halten. Diese fahndet mit allen Mitteln nach dem früheren Spion, angeführt von dem hartnäckigen Polizeiinspektor Franck Dotzler …",
+            "release_date": "2014-12-16",
+            "vote_count": 4599,
+            "title": "96 Hours - Taken 3",
+            "adult": false,
+            "backdrop_path": "/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
+            "poster_path": "/gm2U2NqOn6T3AZ48ufNhzDY2Ppn.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "popularity": 85.923
+        }
+    ]
+}

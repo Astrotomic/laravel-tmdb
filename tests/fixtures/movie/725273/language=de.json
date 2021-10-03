@@ -1,6 +1,6 @@
 {
     "adult": false,
-    "backdrop_path": "/AjfmYvPStX3fRMOYtPWAvWQjVHc.jpg",
+    "backdrop_path": "/iDLtDgxLiYsarfdQ4msUhUqoNPp.jpg",
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -15,8 +15,8 @@
     "original_language": "en",
     "original_title": "Solitary",
     "overview": "",
-    "popularity": 609.385,
-    "poster_path": "/aSuvkMToQevzJduda2xiqkt8QNE.jpg",
+    "popularity": 1194.395,
+    "poster_path": "/ApwmbrMlsuOay5rXQA4Kbz7qJAl.jpg",
     "production_companies": [
         {
             "id": 139417,
@@ -46,5 +46,5 @@
     "title": "Solitary",
     "video": false,
     "vote_average": 6.9,
-    "vote_count": 16
+    "vote_count": 21
 }

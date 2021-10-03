@@ -1,0 +1,70 @@
+{
+    "id": 192492,
+    "name": "Jack Ryan Filmreihe",
+    "overview": "John Patrick \"Jack\" Ryan, Sr. ist ein von Tom Clancy entwickelter fiktiver Charakter  der in unterschiedlichen Filmen auftaucht.",
+    "poster_path": "/dXQhuoOVNF3v5O3jRYQzmQfN788.jpg",
+    "backdrop_path": "/qYlcVBifq5T4wyWV00a5Awq0kUi.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/nkpqhZKTXF18J94e2QVNhnO1ALr.jpg",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "original_language": "en",
+            "original_title": "Patriot Games",
+            "poster_path": "/vsV3xzyRU4oYdTMlU53dVndZZYt.jpg",
+            "id": 9869,
+            "title": "Die Stunde der Patrioten",
+            "vote_count": 1163,
+            "overview": "Bei einem Londonaufenthalt verhindert der ehemalige CIA Agent Jack Ryan einen terroristischen Anschlag auf ein Mitglied des britischen Königshauses. Jack Ryan tötet einen der Attentäter - und zieht damit den mörderischen Zorn dessen Bruders, Sean Miller auf sich. Als Miller verhaftet wird, schwört er vor laufenden Kameras Ryan ewige Rache. Kaum ist Ryan mit seiner Familie nach Washington zurückgekehrt, erfährt er von der Flucht seines gefährlichen Verfolgers aus dem britischen Staatsgefängnis. Wenig später kann Ryan selbst dem Angriff eines Attentäters knapp entgehen, doch seine Frau wird auf der Autobahn beschossen und in einen Unfall verwickelt, bei dem Ryans Tochter schwer verletzt wird. Ryan entschließt sich, die Organisation der CIA zu nutzen, um den Attentäter zu fassen ...",
+            "release_date": "1992-06-04",
+            "vote_average": 6.7,
+            "video": false,
+            "popularity": 12.55
+        },
+        {
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "original_language": "en",
+            "id": 9331,
+            "poster_path": "/iMgX3INK2JgSGLoCSZJcEqHP0sT.jpg",
+            "video": false,
+            "vote_average": 6.6,
+            "overview": "Ein enger Freund des amerikanischen Präsidenten wird mit samt seiner Familie ermordet. Jack Ryans erste Ermittlungen ergeben, dass der Mann Verbindungen zu einem kolumbianischen Drogenkartell hatte. Der Präsident sieht rot, und ordnet eine geheime militärische Operation an, um den Dorgenbossen Einhalt zu gebieten. Ryan wird aber darüber nicht nur nicht informiert, sondern soll auch noch ohne sein Wissen die Gelder dafür locker machen…",
+            "release_date": "1994-08-03",
+            "vote_count": 1048,
+            "title": "Das Kartell",
+            "adult": false,
+            "backdrop_path": "/uhBTaysiWU3dIQFHiVWXHuqO4OZ.jpg",
+            "original_title": "Clear and Present Danger",
+            "popularity": 11.881
+        },
+        {
+            "overview": "Der russische Kommandant Ramius setzt sich samt Mannschaft mit seinem dank neuer Antriebssysteme nahezu unortbaren Atom-U-Boot \"Roter Oktober\" in Richtung Westen ab. Einem US-U-Boot gelingt es, die \"Roter Oktober\" zu orten. Der Krisenstab befürchtet, Ramius plane auf eigene Faust einen Angriff auf die USA. Nur CIA-Agent Jack Ryan glaubt, dass es sich bei Ramius um einen Überläufer handelt. Er geht an Bord des US-U-Boots und nimmt Kontakt mit Ramius auf, der sich als Überläufer entpuppt, seine Mannschaft aber im Glauben gelassen hat, ihr Einsatz sei ein Angriff. Mit vereinten Kräften gilt es nun, die Attacke eines russischen U-Boots abzuwehren.",
+            "release_date": "1990-03-02",
+            "adult": false,
+            "backdrop_path": "/ysYBfA0VcbJic9CURRmR1QwWaKw.jpg",
+            "vote_count": 2393,
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "original_language": "en",
+            "id": 1669,
+            "original_title": "The Hunt for Red October",
+            "poster_path": "/4sVVRZ343Y9udgmN0QZBj5QVTin.jpg",
+            "title": "Jagd auf Roter Oktober",
+            "video": false,
+            "vote_average": 7.4,
+            "popularity": 15.655
+        }
+    ]
+}

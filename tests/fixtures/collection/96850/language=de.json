@@ -1,0 +1,92 @@
+{
+    "id": 96850,
+    "name": "Evangelion Filmreihe",
+    "overview": "",
+    "poster_path": "/in2Oid51htVMo4NA1GCk0cKmZ5G.jpg",
+    "backdrop_path": "/zguc4BSy4cbviHd7di67kifnmzD.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/rKx7TwyN5kTldYZRdbP7C5UOvsE.jpg",
+            "genre_ids": [
+                28,
+                16,
+                18,
+                878
+            ],
+            "id": 54270,
+            "original_language": "ja",
+            "original_title": "新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に",
+            "overview": "",
+            "poster_path": "/q9iNOhpH0BIaTccVriyxLKcCWuU.jpg",
+            "release_date": "1998-03-07",
+            "title": "新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 22,
+            "popularity": 9.624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/74wyAwiWTGLpJGQIPMKjYjvSyl4.jpg",
+            "genre_ids": [
+                18,
+                878,
+                16
+            ],
+            "id": 21832,
+            "original_language": "ja",
+            "original_title": "新世紀エヴァンゲリオン 劇場版 DEATH & REBIRTH シト新生",
+            "overview": "Death - ist eine Zusammenfassung der ersten 24 Episoden des Anime Neon Genesis Evangelion. Ein bloßes Zusammenschneiden der wichtigsten Szenen? Nicht ganz, denn in Death werden die Ereignisse nicht chronologisch präsentiert und durch klassische Musik untermalt. Diese Vorgehensweise verwandelt bekannte Szenen in einen neuen Genuss und ermöglicht eine andere Sicht auf das Gesamtbild.  Rebirth - ist eine Vorschau auf den Film The End of Evangelion.",
+            "poster_path": "/32dZOG3vn8jHPZvhGDGOgrqi4yB.jpg",
+            "release_date": "1997-03-15",
+            "title": "Neon Genesis Evangelion: Death & Rebirth",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 245,
+            "popularity": 21.591
+        },
+        {
+            "overview": "Im Jahr 2015 sieht sich der junge Shinji mit einer besonderen Aufgabe konfrontiert: Der 14-Jährige soll einen Kampfroboter, den so genannten EVA, steuern, der die einzige Waffe gegen die die Menschheit angreifenden \"Engel\" ist. Die Engel kamen vor 15 Jahren auf die Erde und zerstörten große Teile davon. Jetzt, in der neu aufgebauten Stadt Tokyo-3, soll sich Shinji vor seinem Vater und seinen Kameraden beweisen.",
+            "release_date": "1997-07-19",
+            "adult": false,
+            "backdrop_path": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+            "vote_count": 912,
+            "genre_ids": [
+                18,
+                878,
+                16,
+                28
+            ],
+            "id": 18491,
+            "original_language": "ja",
+            "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+            "poster_path": "/vIWonMqeYRmY95OEk06NvTC1h8N.jpg",
+            "title": "Neon Genesis Evangelion: The End of Evangelion",
+            "video": false,
+            "vote_average": 8.4,
+            "popularity": 33.099
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9sKpKvCNV9OiLqC5h33f6hGWG7r.jpg",
+            "genre_ids": [
+                16,
+                878,
+                28,
+                18
+            ],
+            "id": 857862,
+            "original_language": "en",
+            "original_title": "EVANGELION：DEATH (TRUE)²",
+            "overview": "",
+            "poster_path": "/AehyZFGm68ep76b81IbLJ1EJ5ot.jpg",
+            "release_date": "1998-03-07",
+            "title": "EVANGELION：DEATH (TRUE)²",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 24,
+            "popularity": 5.3
+        }
+    ]
+}

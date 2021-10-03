@@ -1,0 +1,53 @@
+{
+    "id": 702342,
+    "name": "Justice League Dark Collection",
+    "overview": "",
+    "poster_path": "/hR1aBzl1nzMf8eh8yj8QNzK4Bv7.jpg",
+    "backdrop_path": "/umbb4v3RR63hkJNhuvfI7zuc8Sr.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/2idkeA6HJ9F7IxeP6zbU4xBU35y.jpg",
+            "genre_ids": [
+                878,
+                28,
+                16,
+                14,
+                53
+            ],
+            "id": 408220,
+            "original_language": "en",
+            "original_title": "Justice League Dark",
+            "overview": "Superman (Stimme: Jerry O’Connell), Batman (Jason O’Mara), Wonder Woman (Rosario Dawson) und die übrigen Mitglieder der Justice League stehen einem großen Problem über. Als unschuldige Zivilisten aus heiterem Himmel in Metropolis, Gotham und anderen Städten Verbrechen begehen, sehen sie sich bei der Untersuchung der Vorfälle mit einer übernatürlichen Gefahr konfrontiert, die ihre Kräfte übersteigt. Doch zum Glück kennt man einen Spezialisten dafür: John Constantine (Matt Ryan). Dem wird sofort klar, dass er ein ganzes Team von Unterstützern braucht, die sich mit der dunklen Seite auskennen. So rekrutiert er unter anderem Swamp Thing (Roger Cross) und Dämon Etrigan (Ray Chase). Bei ihrem Kampf gegen die übernatürliche Plage, die schon bald den ganzen Erdball in ihrem Würgegriff hält, bekommen sie es mit dem mächtigen Magier Felix Faust (Enrico Colantoni) zu tun…",
+            "poster_path": "/mI3Oxpub6vNQ71FIR2GS4d8XXgj.jpg",
+            "release_date": "2017-03-29",
+            "title": "Justice League Dark",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 642,
+            "popularity": 19.381
+        },
+        {
+            "title": "Justice League Dark: Apokolips War",
+            "original_language": "en",
+            "original_title": "Justice League Dark: Apokolips War",
+            "poster_path": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+            "video": false,
+            "vote_average": 8.4,
+            "overview": "",
+            "release_date": "2020-05-05",
+            "vote_count": 1036,
+            "adult": false,
+            "backdrop_path": "/sQkRiQo3nLrQYMXZodDjNUJKHZV.jpg",
+            "id": 618344,
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14,
+                878
+            ],
+            "popularity": 31.514
+        }
+    ]
+}

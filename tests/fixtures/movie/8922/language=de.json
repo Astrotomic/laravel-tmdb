@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/oG1NY1hU6hhC7TWdQBURUtAjvGv.jpg",
+    "belongs_to_collection": {
+        "id": 94899,
+        "name": "Jeepers Creepers Filmreihe",
+        "poster_path": "/2qyn3GJXqLP54fbWazRGvsnkmAA.jpg",
+        "backdrop_path": "/mzFtvzOdmuDYoQQuOzulsJkAUQB.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.mgm.com/#/our-titles/1003/Jeepers-Creepers",
+    "id": 8922,
+    "imdb_id": "tt0263488",
+    "original_language": "en",
+    "original_title": "Jeepers Creepers",
+    "overview": "Die Geschwister Trish und Darry befinden sich auf der Heimfahrt vom College in die Sommerferien zu ihren Eltern. Plötzlich werden sie auf einer abgelegenen, einsamen Landstraße mitten im Niemandsland von einem alten, verdreckten Truck von der Straße gedrängt. Schockiert setzen sie ihre Fahrt fort und sehen kurze Zeit später den besagten Truck an einer alten Kirche stehen. Im Vorbeifahren beobachten sie, wie eine massige Gestalt ein menschengroßes, in ein Laken gehülltes Bündel, von der Ladefläche hebt und in einem Erdschacht verschwinden lässt. Die große Angst vor dem Fremden wird schließlich von Darrys Neugier besiegt und die beiden kehren wider jegliche Vernunft um und machen eine grauenvolle Entdeckung. Sie untersuchen die Erdröhre, dabei verliert Darry den Halt und stürzt in die dunkle Tiefe.",
+    "popularity": 42.636,
+    "poster_path": "/ohJI8iK4dG9KYfWrB2MgU838tYQ.jpg",
+    "production_companies": [
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 70,
+            "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+            "name": "American Zoetrope",
+            "origin_country": "US"
+        },
+        {
+            "id": 995,
+            "logo_path": null,
+            "name": "Cinerenta Medienbeteiligungs KG",
+            "origin_country": "DE"
+        },
+        {
+            "id": 21784,
+            "logo_path": null,
+            "name": "Cinerenta-Cinebeta",
+            "origin_country": ""
+        },
+        {
+            "id": 21785,
+            "logo_path": null,
+            "name": "VCL Communications",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-07-01",
+    "revenue": 59217789,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Er kann dich riechen. Er wird dich jagen.",
+    "title": "Jeepers Creepers",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 2075
+}

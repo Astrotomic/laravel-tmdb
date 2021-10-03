@@ -1,0 +1,51 @@
+{
+    "id": 404825,
+    "name": "Ralph reichts Filmreihe",
+    "overview": "Sammlung aller Ralph reichts Teile.",
+    "poster_path": "/osVbF7AV1f9Tn36aMPGLOBrWZhN.jpg",
+    "backdrop_path": "/maHMw00WEuUzi4hoXxXQAGLntfH.jpg",
+    "parts": [
+        {
+            "genre_ids": [
+                10751,
+                16,
+                35,
+                12
+            ],
+            "title": "Ralph reichts",
+            "original_language": "en",
+            "original_title": "Wreck-It Ralph",
+            "poster_path": "/TI7IZvj006iz24MYu5YwYr6Gj7.jpg",
+            "video": false,
+            "vote_average": 7.3,
+            "id": 82690,
+            "overview": "Video-Spiel-Bösewicht Wreck-It-Ralph wäre gerne so beliebt wie sein stetiger Widersacher Fix-It-Felix. Das Problem: niemand mag den „Bad Guy“, aber jeder mag Helden. Als ein neuer First-Person-Shooter auf den Markt kommt, sieht Ralph seine Chance auf Heldentum und Beliebtheit. Er schmuggelt sich heimlich in das andere Spiel, um dort wenigstens einmal eine Auszeichnung zu gewinnen. Doch er kann seiner wahren Natur nicht ganz entfliehen und zerstört schnell alles und entfesselt damit einen gefährlichen Bösewicht, der alle Videospiele zu übernehmen droht. Ralphs einzige Hoffnung ist Vanellope von Schweetz, eine schöne Unruhestifterin aus einem Autorennspiel, die ihm beibringen will, was es heißt, ein guter Junge zu sein. Doch kommt Ralphs Wandelung noch rechtzeitig bevor es „Game Over“ für alle Videospiele heißt?",
+            "release_date": "2012-01-01",
+            "vote_count": 10123,
+            "adult": false,
+            "backdrop_path": "/mSTKBEz1saXIUVDrAaU1YX6IBn7.jpg",
+            "popularity": 85.191
+        },
+        {
+            "original_title": "Ralph Breaks the Internet",
+            "poster_path": "/1nSlMZ2dsVWT4VZt5vEqpZEXLDQ.jpg",
+            "id": 404368,
+            "video": false,
+            "vote_average": 7.2,
+            "overview": "Nach einem unglücklichen Unfall stürzen sich Ralph und seine quirlige Freundin Vanellope ins Internet, um dort nach einem wichtigen Ersatzteil für Vanellopes Videospiel zu suchen. Dabei schauen sie nicht nur hinter die Kulissen des World Wide Webs, sondern begegnen auch allerhand schrägen Figuren, die es nicht immer gut mit unseren liebenswerten Helden meinen. Und wo sollen sie überhaupt in dieser unübersichtlichen und sich ständig verändernden Welt mit ihrer Suche anfangen? Gänzlich unerfahren im Umgang mit dem Surfen im Netz richten die beiden innerhalb kürzester Zeit im Internet völliges Chaos an…",
+            "release_date": "2018-11-20",
+            "adult": false,
+            "backdrop_path": "/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+            "vote_count": 5805,
+            "genre_ids": [
+                10751,
+                16,
+                35,
+                12
+            ],
+            "title": "Chaos im Netz",
+            "original_language": "en",
+            "popularity": 82.102
+        }
+    ]
+}

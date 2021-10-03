@@ -1,0 +1,71 @@
+{
+    "id": 86117,
+    "name": "Johnny English Filmreihe",
+    "overview": "Johnny English ist eine Serie britischer Action-Comedy-Filme, die das James-Bond-Geheimagentengenre parodieren. Es zeigt Rowan Atkinson als Titelfigur, basierend auf dem Drehbuch von Neal Purvis, Robert Wade und William Davies. Die Serie umfasst drei Teile. Die Serie ist von einer Komödie durchdrungen, die Atkinsons Mr. Bean-Charakter ähnelt, und hat weltweit 477,8 Millionen US-Dollar eingespielt.",
+    "poster_path": "/9JzXVqCfyIReAHd3BO76LjF4tIM.jpg",
+    "backdrop_path": "/pMHHhMKu2iQichL6Eym4ApCvIEB.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/tGcIy7gA8jwYpi5W2UB1Rxrk2i6.jpg",
+            "genre_ids": [
+                12,
+                28,
+                35
+            ],
+            "id": 9486,
+            "original_language": "en",
+            "original_title": "Johnny English",
+            "overview": "Johnny English ist britischer Agent beim MI7. Zwar ist er nicht mehr der allerjüngste und auch nicht der allerhellste Geheimdienstler im Service Ihrer Majestät, aber seine kleinen Schwächen macht er durch extremen Enthusiasmus wett. Und als Britannien vor seiner größten Krise steht, stolpert Johnny mittenhinein: Der finstere Franzose Pascal Sauvage hat die Kronjuwelen der englischen Königin in seinen Besitz gebracht und es außerdem auf den britischen Thron abgesehen. Die nationale Katastrophe beschert dem bisher eher bedeutungslosen Johnny plötzlich schnelle Autos, die neuesten Hi-Tech Gadgets und Geheiminformationen allererster Güte. Angespornt auch durch das Zusammentreffen mit der schönen Doppelagentin Lorna ist er wild entschlossen, dem hinterlistigen Sauvage den Garaus zu machen. Denn was kann einem auch besseres passieren, als sich zu verlieben und dabei noch ganz nebenbei die Nation zu retten?",
+            "poster_path": "/sfGf1YP79nZBWHArOBiFaExXRpK.jpg",
+            "release_date": "2003-03-14",
+            "title": "Johnny English - Der Spion, der es versiebte",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2617,
+            "popularity": 19.811
+        },
+        {
+            "video": false,
+            "vote_average": 6.2,
+            "overview": "Sein Name ist English, Johnny English. Der Top-Spion im Dienste Ihrer Majestät muss diesmal ein Attentat auf den chinesischen Premierminister Ping verhindern. Sein Action-Einsatz führt ihn zu spektakulären Schauplätzen von Hongkong und Macao über die französischen Alpen bis in den Buckingham Palace vor den Thron der Queen. Ob im schlichten Rollstuhl oder dem superlativen Rolls-Royce Phantom mit 9 Liter V16 Motor, ob am Fallschirm oder in der Seilbahn – English zieht alle Gadget-Register, um das konspirative Verschwörernetz zu zerschlagen, das vom KGB über die CIA bis zum MI7 reicht. Und diesmal kommt bei Johnny auch die Liebe nicht zu kurz...",
+            "release_date": "2011-09-15",
+            "adult": false,
+            "backdrop_path": "/rpJotXIyyEsVlXIsu5E8DxPaymp.jpg",
+            "title": "Johnny English - Jetzt erst recht",
+            "genre_ids": [
+                80,
+                12,
+                28,
+                35,
+                53
+            ],
+            "id": 58233,
+            "original_language": "en",
+            "original_title": "Johnny English Reborn",
+            "poster_path": "/aA0qp5BrMZOOS4p7ljvEdHvmZ7X.jpg",
+            "vote_count": 2536,
+            "popularity": 40.493
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xh4SKML3kQPnJfEcgML2pFpalQe.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Johnny English Strikes Again",
+            "poster_path": "/tpaM9bgn5rJq2Tet7LEqju0MUbC.jpg",
+            "vote_count": 1852,
+            "video": false,
+            "title": "Johnny English - Man lebt nur dreimal",
+            "vote_average": 6.3,
+            "overview": "Johnny English arbeitet mittlerweile nicht mehr als Geheimagent, sondern als Lehrer. Doch als ein mysteriöser Hacker sämtliche britischen Spione enttarnt, bleibt dem Geheimdienst nichts anderes übrig, als English zu reaktivieren und auf eine gefährliche Mission zu schicken, obwohl dieser bisher jeden seiner Aufträge verbockte. Denn er ist der einzige Undercover-Agent, der kein Opfer des Hackangriffs geworden ist - einfach weil English keinen Plan von der Digitalisierung und damit auch nicht von Smartphones oder Computern hat. Nun stolpert der Spion also mit seinen gnadenlos veralten Methoden und seiner trotteligen Art von einer Pleite zur nächsten, bleibt dennoch die letzte Hoffnung der britischen Premierministerin und trifft die verführerische Ophelia.",
+            "release_date": "2018-09-13",
+            "id": 463272,
+            "popularity": 21.693
+        }
+    ]
+}

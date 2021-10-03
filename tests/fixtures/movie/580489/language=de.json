@@ -1,13 +1,13 @@
 {
     "adult": false,
-    "backdrop_path": "/lNyLSOKMMeUPr1RsL4KcRuIXwHt.jpg",
+    "backdrop_path": "/t9nyF3r0WAlJ7Kr6xcRYI4jr9jm.jpg",
     "belongs_to_collection": {
         "id": 558216,
         "name": "Venom Filmreihe",
         "poster_path": "/670x9sf0Ru8y6ezBggmYudx61yB.jpg",
         "backdrop_path": "/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg"
     },
-    "budget": 0,
+    "budget": 110000000,
     "genres": [
         {
             "id": 878,
@@ -16,10 +16,6 @@
         {
             "id": 28,
             "name": "Action"
-        },
-        {
-            "id": 35,
-            "name": "Komödie"
         }
     ],
     "homepage": "https://www.venom.movie",
@@ -28,7 +24,7 @@
     "original_language": "en",
     "original_title": "Venom: Let There Be Carnage",
     "overview": "Fortsetzung zum erfolgreichen „Spider-Man“-Spin-off „Venom“, in der der titelgebende Symbiont und sein Wirt Eddie Brock (Tom Hardy) es mit dem Serienkiller Cletus Kasady (Woody Harrelson) zu tun bekommen, der sich in den blutrünstigen Carnage verwandelt, nachdem er ebenfalls mit einer außerirdischen Lebensform in Kontakt gekommen ist. Kasady trat bereits in der Abspannszene von „Venom“ auf, wo er zwar im Gefängnis saß, aber davor warnte, dass es nach seinem Ausbruch ein Gemetzel geben würde. In den Comics infiziert sich Kasady bei seinem Ausbruch mit dem Carnage-Symbionten. Außerdem soll auch die Schurkin Frances Barrison alias Shriek (Naomie Harris) mitspielen. Venom bekommt es also mit gleich zwei Gegenspieler*innen zu tun...",
-    "popularity": 1295.199,
+    "popularity": 2538.591,
     "poster_path": "/jNd6tx7FL2h7wtZgLUsLvzD0kFN.jpg",
     "production_companies": [
         {
@@ -86,6 +82,6 @@
     "tagline": "",
     "title": "Venom 2: Let There Be Carnage",
     "video": false,
-    "vote_average": 8.2,
-    "vote_count": 38
+    "vote_average": 7.3,
+    "vote_count": 98
 }

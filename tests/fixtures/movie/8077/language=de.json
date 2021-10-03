@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/3aIBsxp6ozH3uDwb2IJCJxTS7LF.jpg",
+    "belongs_to_collection": {
+        "id": 8091,
+        "name": "Alien Filmreihe",
+        "poster_path": "/ofAZRK5EDBRQIVZQriyyMt9wR0B.jpg",
+        "backdrop_path": "/kB0Y3uGe9ohJa59Lk8UO9cUOxGM.jpg"
+    },
+    "budget": 50000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/alien-3",
+    "id": 8077,
+    "imdb_id": "tt0103644",
+    "original_language": "en",
+    "original_title": "Alien³",
+    "overview": "Nachdem Ellen Ripley, die kleine Newt, Soldat Hicks und der Android Bishop von LV 426 entkommen sind und sich mit dem Raumschiff USS Sulaco auf dem Rückweg zur Erde befinden, bricht wegen des säurehaltigen Blutes eines Facehuggers (\"Gesichtsumklammerer\") auf einem Zwischendeck ein Feuer aus. Eine Rettungskapsel wird abgesprengt und macht auf dem Planeten Fiorina \"Fury\" 161, auf dem sich nur eine Strafkolonie befindet, eine Bruchlandung. Corporal Hicks und Newt sterben bei dem Aufprall bzw. durch Ertrinken, der Android Bishop ist nicht mehr funktionsfähig. Neben Ripley überlebt die Landung nur ein Facehugger, der sich in einem Rottweiler schnell einen neuen Wirt sucht. Das kurz darauf neugeborene Alien beginnt bald die Strafgefangenen zu dezimieren.",
+    "popularity": 19.415,
+    "poster_path": "/eEWPeAUo7hQxOwTk0uSg1xpzCut.jpg",
+    "production_companies": [
+        {
+            "id": 19747,
+            "logo_path": null,
+            "name": "Brandywine Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1992-05-22",
+    "revenue": 159773545,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "ES ist wieder da.",
+    "title": "Alien 3",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 4107
+}

@@ -1,0 +1,69 @@
+{
+    "id": 90863,
+    "name": "Rush Hour Filmreihe",
+    "overview": "Chief Inspector Lee und Polizist James Carter gehen zusammen durch Dick und Dünn. Sie lösen zusammen Fälle in Bereichen, in den nicht jeder sein will. Dabei findet man viel \"Chinesische Geschichte\" und ganz viel \"Muschuuh\".",
+    "poster_path": "/pEvK2AoBnhC1RgqB7VRbBCMDq23.jpg",
+    "backdrop_path": "/uoDt3eCCKpcxSQVWjPTgN8T0gjm.jpg",
+    "parts": [
+        {
+            "backdrop_path": "/2kSgmFpvHaktkNFwf9a5zyFRtLs.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "original_language": "en",
+            "original_title": "Rush Hour",
+            "poster_path": "/c37V8Gj41dzXEnmWKiQJEyc2yEO.jpg",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 3399,
+            "overview": "Um dem FBI zu helfen, seine entführte Tochter wieder zu bekommen, wird Inspektor Lee von seinem Freund Konsul Han aus Hong Kong nach Los Angeles gerufen. Das FBI hat allerdings kein Interesse an ausländischer Hilfe, deshalb soll James Carter, Polizist des LAPD, der kurz vor der Suspendierung steht, ihnen den Asiaten vom Hals halten.",
+            "release_date": "1998-09-18",
+            "title": "Rush Hour",
+            "id": 2109,
+            "adult": false,
+            "popularity": 37.761
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zzFTSEAZcLGSbGipQVflSNUqpij.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 5175,
+            "original_language": "en",
+            "original_title": "Rush Hour 2",
+            "poster_path": "/guW1faWvp2QBlZV4W3QLUx56Rs0.jpg",
+            "title": "Rush Hour 2",
+            "vote_average": 6.7,
+            "overview": "Lee und Carter sind zurück! Dieses Mal macht das ungleiche Team die Straßen von Hong Kong unsicher, um einer Band von Geldfälschern auf die Schliche zu kommen. Eigentlich sollte es ja nur ein entspannender Urlaub werden, doch kaum angekommen, stecken die Supercops schon in den allergrößten Schwierigkeiten. Zwei amerikanische Zöllner, die den Verbrechern auf der Spur waren, um den Gaunern mit großer Klappe und harten Schlägen das Handwerk zu legen. Nur Carter hat einige Probleme, sich mit den Gewohnheiten der Einheimischen anzufreunden - oder um es mit Lees Worten auszudrücken: \"Hier bin ich Michael Jackson - und du Toto\"...",
+            "release_date": "2001-08-03",
+            "vote_count": 2935,
+            "video": false,
+            "popularity": 29.287
+        },
+        {
+            "backdrop_path": "/rnWSM7qWWdAc2LvNh3lrvsERz7c.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "original_language": "en",
+            "original_title": "Rush Hour 3",
+            "poster_path": "/5fhYNVv60Zo3efY6FAYaWfhabkz.jpg",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2273,
+            "overview": "Die unfreiwilligen Partner Carter und Lee mischen diesmal die französische Hauptstadt auf, um einer brisanten Verschwörung der Triaden auf die Spur zu kommen. Denn die Killer dieses mächtigsten Verbrechersyndikats der Welt schießen den Botschafter Han nieder, bevor der vor dem internationalen Strafgerichtshof den obersten Triaden-Boss identifizieren kann. Inspector Lee war persönlich für den Schutz des Botschafters verantwortlich – jetzt will er persönlich abrechnen. Aber wie? Weder Carter noch Lee waren jemals in Paris, sie können “voilà” nicht von “bonjour” unterscheiden – im Grunde wissen sie nicht einmal, was sie an der Seine eigentlich suchen. Klar scheint nur zu sein, dass die schöne Geneviève eine Schlüsselrolle spielt. Und in den Fall verwickelt ist auch Lees einstiger Jugendfreund, der skrupellose Kenji...",
+            "release_date": "2007-08-08",
+            "title": "Rush Hour 3",
+            "id": 5174,
+            "adult": false,
+            "popularity": 27.475
+        }
+    ]
+}

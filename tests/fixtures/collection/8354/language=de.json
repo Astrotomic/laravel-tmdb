@@ -1,0 +1,115 @@
+{
+    "id": 8354,
+    "name": "Ice Age Filmreihe",
+    "overview": "Die Filme handeln von den Abenteuern einer skur­rilen Tiergruppe (bestehend aus dem Mammut Manni, dem Säbelzahntiger Diego und dem Riesenfaultier Sid) zu Zeiten der Eiszeit.",
+    "poster_path": "/5YdZLglqbXKjozGZO8z2emX4XKl.jpg",
+    "backdrop_path": "/2Mb92Ssoe1eUecvrCe2pEvgAlmv.jpg",
+    "parts": [
+        {
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "original_language": "en",
+            "id": 57800,
+            "poster_path": "/6rrtFegowtpEyUbzfLZVVG8cLSJ.jpg",
+            "video": false,
+            "vote_average": 6.3,
+            "overview": "Manny, Diego und Sid erleben ihr bisher größtes Abenteuer, als ein Kataklysmus gewaltige Stücke ihres Kontinents in den Ozean abdriften lässt. Vom Rest der Herde getrennt, nutzen sie einen Eisberg als notdürftigen Schiffersatz. Dabei begegnen die Freunde allerlei exotischen Meeresbewohnern und bekämpfen rücksichtlose Piraten.",
+            "release_date": "2012-06-27",
+            "vote_count": 6085,
+            "title": "Ice Age 4 - Voll verschoben",
+            "adult": false,
+            "backdrop_path": "/kyTlMMVWo1GffYoQctZwLqJcwaj.jpg",
+            "original_title": "Ice Age: Continental Drift",
+            "popularity": 54.788
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mCVQ2cZmGkAHG2Q3fDZTQA1YzeI.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Ice Age",
+            "poster_path": "/6Y4s2peunteEMU9OpBEsmzZCHdR.jpg",
+            "video": false,
+            "vote_average": 7.3,
+            "id": 425,
+            "overview": "Achtung Eiszeit! Rutschen Sie mit Scrat, dem urigen Eichhörnchen-Mix, in die Welt vor 20.000 Jahren und erleben Sie das eis-coolste Abenteuer, der Filmgeschichte. Während Scrat besessen versucht seine geliebte Nuss zu vergraben haben Sid (das nervige Faultier), Manni (das muffige Zottel-Mammut) und Diego (der verschlagene Säbelzahntiger) ein ganz anderes Problem. Das schräge Trio stolpert zufällig über ein Menschenbaby, dass sie nun zu seiner Familie zurückbringen wollen. Ohne zu ahnen, was sie sich mit dem süßen Bündel aufgehalst haben, stürzen sich die drei in ein halsbrecherisches Abenteuer, bei dem es gilt Vulkanausbrüche, wilde Rutschpartien und noch ganz andere Gefahren zu meistern...",
+            "release_date": "2002-03-10",
+            "vote_count": 10400,
+            "title": "Ice Age",
+            "popularity": 101.22
+        },
+        {
+            "backdrop_path": "/gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Ice Age: Dawn of the Dinosaurs",
+            "poster_path": "/lIbYpUjwGTk0FZOSB3UfGZtNsJc.jpg",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 6500,
+            "overview": "Die drei \"Ice Age\"-Helden Diego, Sid und Manni haben die grosse Schmelze aus dem zweiten Teil überstanden. Ellie und Manni, die beiden Mammuts, erwarten Nachwuchs und Sid hegt ebenfalls den Gedanken, die Familiengründung so langsam zu beginnen. Dass er sich dazu die Eier eines T-Rex Weibchens zu eigen macht, stösst bei dieser nicht gerade auf Wohlwollen. Kurzum wird Sid verschleppt und findet sich einer schier ausweglosen Situation in einer grossen Dinosaurier-Welt wieder. Nun sind seine Freunde gefragt, denn nur sie können das Faultier befreien.",
+            "release_date": "2009-06-26",
+            "title": "Ice Age 3 - Die Dinosaurier sind los",
+            "id": 8355,
+            "adult": false,
+            "popularity": 81.755
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 950,
+            "original_language": "en",
+            "original_title": "Ice Age: The Meltdown",
+            "overview": "Das Mammut Manny und seine Freunde Sid und Diego sehen sich mit neuen Problemen konfrontiert. Nachdem sie es sich inmitten des Eises gemütlich gemacht haben, stellen sie fest, dass das Eis hinter einer grossen Eiswand zu schmelzen beginnt. Es gilt also für alle Tiere eine neue Bleibe zu finden, wollen nicht alle in einer riesigen Flutwelle umkommen. Am anderen Ende des Tals liegt ein Boot, das man zu erreichen versucht. Die Reise dorthin erweist sich für alle jedoch alles andere als leicht.",
+            "poster_path": "/5eJmKYyYIhJgwUo8YkVe6kiY5h6.jpg",
+            "release_date": "2006-03-29",
+            "title": "Ice Age 2 - Jetzt taut's",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7843,
+            "popularity": 67.244
+        },
+        {
+            "release_date": "2016-06-23",
+            "title": "Ice Age - Kollision voraus!",
+            "id": 278154,
+            "backdrop_path": "/lyt9DYP0Suy1j8XnjJl0saVOs8K.jpg",
+            "genre_ids": [
+                12,
+                16,
+                10751,
+                35,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Ice Age: Collision Course",
+            "poster_path": "/pvjPA4yOc2SVCd9QVc5d3Y0Tazh.jpg",
+            "vote_count": 3515,
+            "video": false,
+            "vote_average": 6,
+            "adult": false,
+            "overview": "Noch immer ist Rattenhörnchen Scrat mit seiner heiß geliebten Nuss beschäftigt. Doch dieses Mal setzen seine Missgeschicke eine Kette von Ereignissen in Gang, die sogar die ganze Welt bedrohen: Denn bei seinen Abenteuern stößt er zufällig auf ein UFO, das im Eis eingefroren war, bringt es zum Starten und schießt damit ins Weltall. Dort sorgt er dafür, dass nicht nur viele kleine Meteoriten auf die Erde stürzen, sondern auch ein riesengroßer droht, den gesamten blauen Planeten zu vernichten. Für das Mammut Manny, Faultier Sid und Säbelzahntiger Diego beginnt die aufregende Suche nach einer Möglichkeit, die Katastrophe abzuwenden. Dabei stehen ihnen viele alte und neue Kumpanen zur Seite. Bei der Absturzstelle eines Meteoriten, der vor langer Zeit schon auf der Erde aufprallte, machen sie dann eine erstaunliche Entdeckung…",
+            "popularity": 50.341
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": 263,
+    "name": "The Dark Knight Filmreihe",
+    "overview": "Neuauflage der Comicfigur Batman von Christopher Nolan als Trilogie (2005 - 2012), die die Anfänge Batmans zeigt. Im Gegensatz zu früheren Verfilmungen wird die Welt Batmans düsterer dargestellt.",
+    "poster_path": "/bLLJe1ZxqWKBC8k3roSQXYHydd9.jpg",
+    "backdrop_path": "/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg",
+    "parts": [
+        {
+            "id": 155,
+            "video": false,
+            "vote_average": 8.5,
+            "overview": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+            "release_date": "2008-07-14",
+            "adult": false,
+            "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+            "vote_count": 25903,
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "title": "The Dark Knight",
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "poster_path": "/qLN7cO2ZuOAt44H9bv3toHRYKdA.jpg",
+            "popularity": 54.046
+        },
+        {
+            "video": false,
+            "vote_average": 7.8,
+            "overview": "Nach dem Tod des Staatsanwalts Harvey Dent alias Two-Face nahm Batman die Schuld von dessen Verbrechen auf sich, um seinen Ruf zu schützen. Daher wurde er von dem Gotham City Police Department gejagt und verließ die Stadt. Die Handlung des Films setzt acht Jahre nach den Ereignissen von The Dark Knight ein. Nachdem der bemerkbar gealterte Batman nach Gotham zurückkehrt, muss er die Wahrheit der geheimnisvollen Selina Kyle herausfinden und den Schurken Bane davon abhalten, Gotham zu zerstören",
+            "release_date": "2012-07-16",
+            "adult": false,
+            "backdrop_path": "/cKPfiu9IcCW0fMdKdQBXe3PRtTZ.jpg",
+            "id": 49026,
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "vote_count": 18353,
+            "original_language": "en",
+            "original_title": "The Dark Knight Rises",
+            "poster_path": "/8JCu1wi83pirpHEbVpmpfowDolX.jpg",
+            "title": "The Dark Knight Rises",
+            "popularity": 74.153
+        },
+        {
+            "video": false,
+            "vote_average": 7.7,
+            "overview": "Wie wurde Bruce Wayne zu Batman? Als kleiner Junge musste Bruce Wayne mit ansehen, wie seine Eltern auf grauenhafte Weise umgebracht wurden. Deshalb kümmert sich der Butler Alfred Pennyworth um ihn und zieht ihn groß.Eines Tages macht er sich in aller Welt auf die Suche nach einem Weg, die Ungerechtigkeit zu bekämpfen. Als er nach seiner Reise wieder in seine Heimatstadt Gotham City zurückkehrt, muss er feststellen, dass die Verbrechensrate deutlich angestiegen ist. Dieser Umstand und der Drang nach Rache am Mord seiner Eltern treiben ihn langsam aber sicher dazu, sich Kampftechniken beizubringen und ein Fledermauskostüm zu entwerfen, mit deren Hilfe er Nacht für Nacht die Kriminellen der Stadt zur Strecke bringt - als Batman.",
+            "release_date": "2005-06-10",
+            "adult": false,
+            "backdrop_path": "/y9AuabF1SXnn3xZ0tAJLLhv33Uj.jpg",
+            "title": "Batman Begins",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 272,
+            "original_language": "en",
+            "original_title": "Batman Begins",
+            "poster_path": "/pahCwY59TfbhPsVJ4e7ASLry8a8.jpg",
+            "vote_count": 16644,
+            "popularity": 47.895
+        }
+    ]
+}

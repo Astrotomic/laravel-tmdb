@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/xtwd01AAujdLTsnlfzVSEsyRXIC.jpg",
+    "belongs_to_collection": {
+        "id": 1006,
+        "name": "Austin Powers Filmreihe",
+        "poster_path": "/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg",
+        "backdrop_path": "/3QJMI8nqQcwU5JBPy26m8TUXtTN.jpg"
+    },
+    "budget": 33000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 817,
+    "imdb_id": "tt0145660",
+    "original_language": "en",
+    "original_title": "Austin Powers: The Spy Who Shagged Me",
+    "overview": "Und ein neues Abenteuer des unwiderstehlichen - hust! - Spions Austin Powers: Dr. Evil reist mit einer Zeitmaschine zurück in die sechziger Jahre und raubt Austin sein Lustempfinden. Jetzt fehlt dem smarten Agenten mit den schrillen Klamotten jegliche Anziehungskraft auf das weibliche Geschlecht. Das findet er verständlicherweise gar nicht gut und gelangt mittels eines Zeitportals des britischen Geheimdienstes in Form eines neuen VW Käfers in das Jahr 1969. Dort versucht er, seine Libido zurückzugewinnen und mit Hilfe der Agentin Felicity Schickfick Evils Plan zur Übernahme der Weltherrschaft zu stoppen. Denn Evil hat eine mächtige Erfindung des Wissenschaftlers Alan Parson in seinem Besitz. Es handelt sich um einen gigantischen Laser, mit dem die Erde zerstört werden kann. Powers und Schickfick müssen vollen Einsatz zeigen, um Evil in die Schranken zu weisen.",
+    "popularity": 19.133,
+    "poster_path": "/mV8qt2Irt2vYViMivsuxyD2xI1b.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 595,
+            "logo_path": null,
+            "name": "Eric's Boy",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-06-08",
+    "revenue": 312016858,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Austin Powers - Spion in geheimer Missionarsstellung",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 2536
+}

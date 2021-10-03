@@ -1,0 +1,88 @@
+{
+    "id": 8091,
+    "name": "Alien Filmreihe",
+    "overview": "Alle vier Filme mit Sigourney Weavers, die damit zur ersten „Action-Heldin“ im Kino wurde. Die Aliens und die Umgebung wurden atemberaubend designt von HR Giger – was sich durch alle Teile fortzieht. Im Gegensatz zu vielen anderen bekannten Filmreihen wie Star Wars oder Indiana Jones lassen sich die Alien-Filme keinem einheitlichen Genre zuordnen. Zwar lassen sich alle Filme unter dem Oberbegriff Science-Fiction zusammenfassen, jedoch setzen die einzelnen Filme unterschiedliche atmosphärische Schwerpunkte. Die Unterschiede der Alien-Filme sind unter anderem darauf zurückzuführen, dass alle Filme von verschiedenen Regisseuren stammen.",
+    "poster_path": "/ofAZRK5EDBRQIVZQriyyMt9wR0B.jpg",
+    "backdrop_path": "/kB0Y3uGe9ohJa59Lk8UO9cUOxGM.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 348,
+            "original_language": "en",
+            "original_title": "Alien",
+            "overview": "Die Besatzung des Weltraumfrachters Nostromo - darunter der dritte Offizier Ellen Ripley - befindet sich im künstlichen Tiefschlaf. Plötzlich empfängt ihr Schiff ein SOS-Signal. Der Bordcomputer weckt daraufhin die Mannschaft, die der Hilferuf wenig später auf einen unwirtlichen Planten führt. Dabei entdeckt die Crew das Wrack eines außerirdischen Raumschiffs. Ein Crewmitglied wird dabei von einem Alien angegriffen, das sich auf seinem Gesicht festsaugt. Dem Schiffsarzt Ash gelingt zwar die Entfernung des fremden Organismus, doch das außerirdische Wesen ist damit längst nicht besiegt. In der Enge des Raumfrachters beginnt ein Kampf ums Überleben, bei der Feind nahezu unsichtbar, heimtückisch und äußerst tödlich ist...",
+            "poster_path": "/zXEiLErr8mYCU4MUwllIcaTPmXq.jpg",
+            "release_date": "1979-05-25",
+            "title": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 10913,
+            "popularity": 40.304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "vote_count": 7202,
+            "original_language": "en",
+            "original_title": "Aliens",
+            "poster_path": "/7ak2SjSe1tUbmauHEjZ8ZazSQiJ.jpg",
+            "title": "Aliens - Die Rückkehr",
+            "video": false,
+            "id": 679,
+            "vote_average": 7.9,
+            "overview": "Nach der ersten Begegnung Ripleys mit dem Alien sind 57 Jahre vergangen. Ziellos treibt sie sich immernoch im Kälteschlaf befindlich durchs All. Zufällig wird sie entdeckt und wieder zurück zur Erde gebracht. Ihren Berichten über die Ereignisse mit dem Alien wird zunächst wenig Glauben geschenkt, doch als der Kontakt zu dem mittlweile bevölkerten, aus dem ersten Teil bekannten Planeten abbricht, wird Ripley gebeten zusammen mit einem Trupp Space-Marines nach dem Rechten zu sehen. Sie kommen zu spät - die komplette Kolonie wurde von den Aliens überrannt und das Einsatzteam muss es mit der Übermacht aufnehmen...",
+            "release_date": "1986-07-18",
+            "popularity": 28.69
+        },
+        {
+            "vote_average": 6.3,
+            "overview": "Nachdem Ellen Ripley, die kleine Newt, Soldat Hicks und der Android Bishop von LV 426 entkommen sind und sich mit dem Raumschiff USS Sulaco auf dem Rückweg zur Erde befinden, bricht wegen des säurehaltigen Blutes eines Facehuggers (\"Gesichtsumklammerer\") auf einem Zwischendeck ein Feuer aus. Eine Rettungskapsel wird abgesprengt und macht auf dem Planeten Fiorina \"Fury\" 161, auf dem sich nur eine Strafkolonie befindet, eine Bruchlandung. Corporal Hicks und Newt sterben bei dem Aufprall bzw. durch Ertrinken, der Android Bishop ist nicht mehr funktionsfähig. Neben Ripley überlebt die Landung nur ein Facehugger, der sich in einem Rottweiler schnell einen neuen Wirt sucht. Das kurz darauf neugeborene Alien beginnt bald die Strafgefangenen zu dezimieren.",
+            "release_date": "1992-05-22",
+            "id": 8077,
+            "adult": false,
+            "backdrop_path": "/3aIBsxp6ozH3uDwb2IJCJxTS7LF.jpg",
+            "genre_ids": [
+                878,
+                28,
+                27
+            ],
+            "vote_count": 4107,
+            "original_language": "en",
+            "original_title": "Alien³",
+            "poster_path": "/eEWPeAUo7hQxOwTk0uSg1xpzCut.jpg",
+            "title": "Alien 3",
+            "video": false,
+            "popularity": 19.415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f8XUY6srsxTabJ8h353izrqaKfs.jpg",
+            "genre_ids": [
+                878,
+                27,
+                28
+            ],
+            "vote_count": 3533,
+            "original_language": "en",
+            "original_title": "Alien Resurrection",
+            "poster_path": "/3oPvF9ht165xlzWbCgA5RHBnibM.jpg",
+            "title": "Alien - Die Wiedergeburt",
+            "video": false,
+            "vote_average": 6.1,
+            "id": 8078,
+            "overview": "200 Jahre nach ihrem Tod wird Ellen Ripley von skrupellosen Militär-Wissenschaftlern an Bord des terranischen Raumkreuzers U.S.M. Auriga wieder zum Leben erweckt: In einer Testreihe werden die Gene ihrer Überreste so oft geklont, bis es gelingt, sie und die Alien-Königin in ihrem Körper lebensfähig zu halten. Wider Erwarten überlebt sie den Eingriff, bei dem die Königin operativ aus dem Körper entfernt wird. Die Wissenschaftler wollen die xenomorphen Aliens für den militärischen Einsatz weiterzüchten. Zu diesem Zweck benötigen sie Wirtskörper, die ihnen von Weltraumpiraten in Form von entführten Kolonisten geliefert werden. Bald schon schlüpfen die ersten Aliens, die in vermeintlich ausbruchsicheren Käfigen untergebracht werden.",
+            "release_date": "1997-11-12",
+            "popularity": 26.796
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 748919,
+    "name": "Don't Breathe Collection",
+    "overview": "",
+    "poster_path": "/b4mJz9qvh4i328aIO0Ciqqy2DGA.jpg",
+    "backdrop_path": "/dItuxD2MjMyrMykhHkLDHdZR7Ei.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 7,
+            "overview": "Der Vater von Alex arbeitet im Sicherheitsgeschäft – sehr praktisch, wenn man wie Alex ein Dieb ist. Das Insiderwissen hilft dem jungen Mann, die teuren Sicherheitssysteme reicher Leute zu überwinden und in Villen fette Beute zu machen. Alex ist auf diesen Diebestouren nicht allein: Rocky, als sein heimlicher Schwarm die Hauptmotivation für die Einbrüche, begleitet ihn, um sich und ihrer kleinen Tochter ein besseres Leben zu ermöglichen. Dritter im Bunde ist Money, Rockys Freund der des Kicks wegen mitmacht. Ein Kick der besonderen Art steht dem Trio bevor, als es in das Haus eines Kriegsveteranen einsteigt, der nach dem Unfalltod seines einzigen Kindes ein großes Schmerzensgeld bekommen haben soll. Der Veteran ist blind, was kann also schiefgehen? Nun, eine Menge…",
+            "release_date": "2016-06-08",
+            "adult": false,
+            "backdrop_path": "/hvXWVpKvFWAqiGyTYloudgLXKMY.jpg",
+            "vote_count": 5619,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "title": "Don't Breathe",
+            "original_language": "en",
+            "original_title": "Don't Breathe",
+            "poster_path": "/xkTtJVGmI5Q3b1YCwBMDH5VcUTG.jpg",
+            "id": 300669,
+            "popularity": 111.595
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 482373,
+            "original_language": "en",
+            "original_title": "Don't Breathe 2",
+            "overview": "Der Blinde Mann versteckt sich seit Jahren in einer abgelegenen Hütte und hat ein junges Mädchen aufgenommen und aufgezogen, das seine Eltern bei einem Hausbrand verloren hat. Als das Mädchen jedoch von einer Gruppe Entführern mitgenommen wird, ist er gezwungen, seinen sicheren Zufluchtsort zu verlassen, um sie zu retten.",
+            "poster_path": "/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg",
+            "release_date": "2021-08-12",
+            "title": "Don't Breathe 2",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 816,
+            "popularity": 1055.713
+        }
+    ]
+}

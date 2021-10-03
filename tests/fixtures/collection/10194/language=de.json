@@ -1,0 +1,93 @@
+{
+    "id": 10194,
+    "name": "Toy Story Filmreihe",
+    "overview": "Toy Story ist ein Computeranimationsfilm des Regisseurs John Lasseter aus dem Jahr 1995. Der von den Pixar Animation Studios im Auftrag der Walt Disney Company produzierte Film ist der erste vollständig am Computer erstellte Langfilm für das Kino. Er feierte am 19. November 1995 Premiere in Hollywood und kam am 21. März 1996 in die deutschen Kinos. (Text: de.wikipedia.org)",
+    "poster_path": "/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg",
+    "backdrop_path": "/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg",
+    "parts": [
+        {
+            "title": "Toy Story",
+            "adult": false,
+            "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Toy Story",
+            "poster_path": "/om4fMx3e4xkx27sAsacoFP4WiEd.jpg",
+            "vote_count": 14489,
+            "id": 862,
+            "vote_average": 8,
+            "video": false,
+            "overview": "Als Andys Lieblingspuppe hat Woody im Kinderzimmer das Sagen. Kaum ist der Junge nicht da, erwacht die Cowboy-Figur zum Leben, und mit ihm auch all das andere Spielzeug um ihn herum. Aufgeregt debattiert man über Andys bevorstehenden Geburtstag. Es wird befürchtet, daß ihr Besitzer ein neues Geschenk bevorzugen wird. Und tatsächlich: Der Neuankömmling Buzz Lightyear, ein stolzer Space Ranger, avanciert zu Andys Favoriten. Diese Herabstufung will Woody nicht hinnehmen.",
+            "release_date": "1995-10-30",
+            "popularity": 135.892
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cmyDcJLkWjIBsB74K7BMA5DL5QU.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 863,
+            "original_language": "en",
+            "original_title": "Toy Story 2",
+            "overview": "Als Woody von einem fiesen Sammler entführt wird macht sich die Puppen-Clique auf, ihren Freund zu befreien - aber schon auf die andere Straßenseite zu gelangen, gestaltet sich schwierig, ganz zu schweigen von den lauernden Gefahren im Spielzeugladen gegenüber: Doppelgänger stellen sich Buzz Lightyear in den Weg, durchgeknallte Barbie-Sirenen drohen die edlen Ritter vom rechten Weg abzubringen, und obendrein entkommt Zurg, der böse Imperator, aus seiner Plastikbox...",
+            "poster_path": "/qbIzxJnCDjpXeTMSZmGcpXtcYpz.jpg",
+            "release_date": "1999-10-30",
+            "title": "Toy Story 2",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 10897,
+            "popularity": 101.804
+        },
+        {
+            "poster_path": "/aHxQdb3Ennws1EIraHnOS3BFjVJ.jpg",
+            "video": false,
+            "vote_average": 7.8,
+            "id": 10193,
+            "overview": "Der Moment des Abschieds ist gekommen: Andy ist den Kinderschuhen entwachsen und macht sich bereit, aufs College zu gehen. Für sein stets getreues Spielzeug hat er keine Verwendung mehr. Andys Mutter spendet die Spielsachen der Kindertagesstätte Sunnyside. Doch dieses angebliche Paradies entpuppt sich nach zuerst freundlicher Aufnahme durch die alteingesessenen Spielzeuge bald zum Gefängnis für die Freunde. Ein ausgeklügelter Ausbruchsplan wird ausgearbeitet - die Zeit drängt, denn hier geht nicht alles mit rechten Dingen zu.",
+            "release_date": "2010-06-16",
+            "adult": false,
+            "backdrop_path": "/csDxOOSjfcJNNRo4ma8ltVynELV.jpg",
+            "vote_count": 11788,
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "title": "Toy Story 3",
+            "original_language": "en",
+            "original_title": "Toy Story 3",
+            "popularity": 80.493
+        },
+        {
+            "vote_average": 7.6,
+            "overview": "Die Cowboy-Puppe Woody und sein Freund Buzz Lightyear haben sich mit den anderen Spielsachen gut im Kinderzimmer ihrer neuen Besitzerin, Bonnie, eingerichtet. Als das Mädchen aus einem Göffel (Gabel + Löffel) ein neues Spielzeug namens Forky bastelt und es ins Herz schließt, nehmen sie den ungewöhnlichen Zuwachs mit offenen Armen in ihre Mitte auf. Doch Forky sieht sich selbst eher als Abfall an und flüchtet, woraufhin Woody sich auf die Suche nach ihm macht, um ihn zurückzubringen.  Auf dem Ausflug im Wohnwagen mit Bonnies Familie nimmt Woody außerdem einen unerwarteten Umweg und trifft so in einem Antiquitätenladen seine verlorene Freundin, die Schäferin Bo Peep, wieder. Und dann taucht auch noch ein Freizeitpark am Horizont auf, der das Leben der Spielzeuge zusätzlich ins Chaos stürzt.",
+            "release_date": "2019-06-19",
+            "adult": false,
+            "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+            "vote_count": 7381,
+            "genre_ids": [
+                10751,
+                12,
+                16,
+                35,
+                14,
+                18
+            ],
+            "title": "Toy Story 4 – Alles hört auf kein Kommando",
+            "original_language": "en",
+            "original_title": "Toy Story 4",
+            "poster_path": "/s1Laea6lrtQVs4HLC1Mtkjl9UAp.jpg",
+            "id": 301528,
+            "video": false,
+            "popularity": 105.442
+        }
+    ]
+}

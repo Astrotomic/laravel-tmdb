@@ -1,0 +1,49 @@
+{
+    "id": 724848,
+    "name": "Shazam! Filmreihe",
+    "overview": "",
+    "poster_path": "/lBnWYj2UW0EuwrjxAGZvrZxAIrb.jpg",
+    "backdrop_path": null,
+    "parts": [
+        {
+            "backdrop_path": "/qwgGtdlLMKYvT2tV8hLY22syRHN.jpg",
+            "genre_ids": [
+                28,
+                35,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Shazam!",
+            "poster_path": "/tx87ziEI8SMsRiSnVbJKKMAS6Pb.jpg",
+            "video": false,
+            "title": "Shazam!",
+            "vote_count": 6915,
+            "overview": "Billy Batson muss einfach das Wort „Shazam!“ rufen, und schon verwandelt sich das freche 14-jährige Pflegekind in den erwachsenen Superhelden Shazam – so hat es ein uralter Zauberer bestimmt. Gerade weil Billy im Grunde noch ein Kind ist, genießt er sein muskelbepacktes, göttergleiches Alter Ego in vollen Zügen und probiert seine Superkräfte genauso aus, wie jeder Teenager es tun würde: Hauptsache, es macht Spaß! Kann er fliegen? Verfügt er über den Röntgenblick? Kann er aus dem Handgelenk Blitze schleudern? Shazam testet seine Fähigkeiten bis zum Anschlag – mit kindlich-unbekümmerter Rücksichtslosigkeit. Doch bald wird aus dem wilden Spiel tödlicher Ernst: Wenn Shazam seine besonderen Fähigkeiten nicht schnellstens in den Griff bekommt, wird er sich gegen die bösen Mächte von Dr. Thaddeus Sivana nicht zur Wehr setzen können.",
+            "release_date": "2019-03-29",
+            "vote_average": 7.1,
+            "id": 287947,
+            "adult": false,
+            "popularity": 80.038
+        },
+        {
+            "id": 594767,
+            "overview": "",
+            "release_date": "2023-06-01",
+            "adult": false,
+            "backdrop_path": "/lKoIpmbmd9vcjwgkmnVRp8YZEe3.jpg",
+            "genre_ids": [
+                35,
+                28,
+                14
+            ],
+            "vote_count": 0,
+            "original_language": "en",
+            "original_title": "Shazam! Fury of the Gods",
+            "poster_path": "/vrFVPBprPlKKmIcpuLVu8SluI9j.jpg",
+            "vote_average": 0,
+            "video": false,
+            "title": "Shazam! 2",
+            "popularity": 22.919
+        }
+    ]
+}

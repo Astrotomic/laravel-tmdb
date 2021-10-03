@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/v6ejJREqtrKoveHhX7q0mwP9iUd.jpg",
+    "belongs_to_collection": {
+        "id": 17235,
+        "name": "Hellboy Filmreihe",
+        "poster_path": "/7zzD8uQ5fyC4slZF1ATMS6gtyHS.jpg",
+        "backdrop_path": "/3gDrNeP3ddD41Sv0nLAlKc8XA4E.jpg"
+    },
+    "budget": 66000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 1487,
+    "imdb_id": "tt0167190",
+    "original_language": "en",
+    "original_title": "Hellboy",
+    "overview": "Im zweiten Weltkrieg versuchen Nazi-Wissenschaftler auf dem Gebiet des Okkulten mit Hilfe des bösen Rasputin ein Tor zur Hölle zu öffnen und sieben Götter des Chaos zu ihren Gunsten auf die Erde loszulassen. Eine amerikanische Geheimorganisation unter der Leitung von Professor \"Broom\" Bruttenholm kann dies verhindern, doch durch das unfertige Tor fällt ihnen ein noch junger Dämon, genannt \"Hellboy\" in die Hände. Broom erzieht ihn zum Kampf gegen das Böse und in unserer Zeit hat er es sich auf der guten Seite recht gemütlich gemacht, ist sogar heimlich verliebt in die pyrokinetische Liz. Als Rasputin jedoch sich anschickt, seinen Plan zu vollenden, mobilisiert die Organisation alle Kräfte und Hellboy ist mittendrin.",
+    "popularity": 21.443,
+    "poster_path": "/4U17d2FYYyazmkZe3mh1WIFotpP.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 497,
+            "logo_path": "/pMyhOBd3sCiLzBlmIopdJkcUFtn.png",
+            "name": "Revolution Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 552,
+            "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+            "name": "Dark Horse Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 840,
+            "logo_path": null,
+            "name": "Lawrence Gordon Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 21497,
+            "logo_path": null,
+            "name": "Starlite Films",
+            "origin_country": ""
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-04-02",
+    "revenue": 99318987,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Von der Seite des Bösen... auf unsere Seite gewechselt",
+    "title": "Hellboy",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5476
+}

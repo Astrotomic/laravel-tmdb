@@ -1,0 +1,51 @@
+{
+    "id": 91427,
+    "name": "Agent Cody Banks Filmreihe",
+    "overview": "Nach außen ist Cody Banks ein ganz normaler 16-jähriger. Was seine Eltern nicht ahnen: Ihr Sprössling ist Junior-Agent bei der CIA - und rettet zwischen Mathepauken und Meerschweinchenfüttern die Welt, macht größenwahnsinnigen Schurken den Garaus und lässt Mädchenherzen flattern. Obercoole Spionagerätschaften, tolle Spezialeffekte und die schärfste Verfolgungsjagd seit Erfindung des Skateboards machen Agent Cody Banks zum irren Agentenspaß für die ganze Familie.",
+    "poster_path": "/nQZ1TuxTEFrZLEU02kTTeKogFbX.jpg",
+    "backdrop_path": "/gh0OZpG16E5LtTAkCRkr5j0v1Fh.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/rkdVFDVfTMuk8AetzvJ0C4gVE5c.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751
+            ],
+            "id": 10923,
+            "original_language": "en",
+            "original_title": "Agent Cody Banks",
+            "overview": "In seinem Sommerferienlager ist der 15-jährige Cody Banks von der CIA rekrutiert und zum Nachwuchsagenten ausgebildet worden. Während seine Eltern und Freunde davon nicht den blassesten Schimmer haben, erhält der unauffällige Cody seinen ersten Auftrag. Er soll die hübsche Tochter eines Wissenschaftlers und diesen selbst ausspionieren, um zu verhindern, dass dessen neueste, menschheitsbedrohende Entdeckung in die Hände eines skrupellosen Gangsters gerät. Leider ist Cody aber in Bezug auf Mädchen eine totale Niete.",
+            "poster_path": "/9ojS8KLeGtvTz3yJY3Nv1F1esnB.jpg",
+            "release_date": "2003-03-14",
+            "title": "Agent Cody Banks",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 862,
+            "popularity": 10.95
+        },
+        {
+            "original_language": "en",
+            "original_title": "Agent Cody Banks 2: Destination London",
+            "poster_path": "/nvPa7fHQt1r3kzgikh6fkjN2uvA.jpg",
+            "id": 17047,
+            "vote_average": 5.5,
+            "overview": "Nachdem der Bösewicht und Ex-CIA-Ausbilder Diaz die Seiten gewechselt hat und sich eine Maschine zur Gedankenkontrolle unter den Nagel gerissen hat, will er nun die Weltherrschaft an sich reißen. Und wer wäre besser für diesen Auftrag geeignet als der junge Spitzenagent Cody Banks. In London angekommen soll er verhindern, dass Diaz und sein Handlanger Kenworth den Apparat dazu benutzen, führende Weltpolitiker und damit die ganze Menschheit unter ihre Kontrolle bringen. Hilfe bekommt er von dem Ex-Agent Derek und der süßen, britischen Undercover-Agentin Emily.",
+            "release_date": "2004-03-12",
+            "vote_count": 484,
+            "video": false,
+            "adult": false,
+            "backdrop_path": "/8AYrUyxjHsosfEwXmbZVKK8mdhK.jpg",
+            "title": "Agent Cody Banks 2: Mission London",
+            "genre_ids": [
+                35,
+                28,
+                12,
+                10751
+            ],
+            "popularity": 13.024
+        }
+    ]
+}

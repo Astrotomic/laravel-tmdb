@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/7wt1DA7duYtUitwZs4ChV3VYGRx.jpg",
+    "belongs_to_collection": null,
+    "budget": 2479000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 426,
+    "imdb_id": "tt0052357",
+    "original_language": "en",
+    "original_title": "Vertigo",
+    "overview": "Ein wegen Höhenangst aus dem Polizeidienst ausgeschiedener Detektiv verliebt sich in die neurotische Frau eines Schulfreundes, die er überwachen soll. Als diese sich von einem Kirchturm stürzt, fühlt er sich für ihren Tod verantwortlich. Doch mit dem Auftauchen einer Doppelgängerin der Toten ahnt Ferguson, dass er auf ein Täuschungsmanöver hereingefallen ist.",
+    "popularity": 14.352,
+    "poster_path": "/xp1zeuEubNMEfMXeJ5vZLrJZMwH.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 10715,
+            "logo_path": null,
+            "name": "Alfred J. Hitchcock Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1958-05-28",
+    "revenue": 7797728,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vertigo - Aus dem Reich der Toten",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 4248
+}

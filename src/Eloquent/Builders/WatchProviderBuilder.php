@@ -2,8 +2,6 @@
 
 namespace Astrotomic\Tmdb\Eloquent\Builders;
 
-use Astrotomic\Tmdb\Enums\WatchProviderType;
-use Astrotomic\Tmdb\Facades\Tmdb;
 use Astrotomic\Tmdb\Models\WatchProvider;
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Database\Eloquent\Collection;
@@ -18,14 +16,4 @@ class WatchProviderBuilder extends Builder
 {
     /** @var \Astrotomic\Tmdb\Models\WatchProvider */
     protected $model;
-
-    public function whereWatchProviderType(WatchProviderType $type): static
-    {
-        return $this->wherePivot('type', $type);
-    }
-
-    public function whereRegion(?string $region = null): static
-    {
-        return $this->wherePivot('region', $region ?? Tmdb::region());
-    }
 }

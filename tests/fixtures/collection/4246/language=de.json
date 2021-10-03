@@ -1,0 +1,99 @@
+{
+    "id": 4246,
+    "name": "Scary Movie Filmreihe",
+    "overview": "Scary Movie ist eine erfolgreiche Horror-Persiflage aus dem Jahr 2000. In den Jahren 2001, 2003, 2006 und 2013 entstanden die Fortsetzungen Scary Movie 2, Scary Movie 3, Scary Movie 4 und Scary Movie 5.",
+    "poster_path": "/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
+    "backdrop_path": "/rpzbedRGnWd5YzZZmgG6H076AzJ.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "Scary Movie",
+            "poster_path": "/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
+            "video": false,
+            "vote_average": 6.3,
+            "overview": "Aus scheinbar heiterem Himmel wird die jungfräuliche Cindy Campbell von einem unheimlichen Maskenmann attackiert, doch im Gegensatz zu manch anderem Freund aus ihrer Clique, den es in der Folgezeit noch erwischen wird, überlebt sie die Attacke. Cindy entwickelt den Verdacht, daß ein vor Jahresfrist bei einem von der Clique verursachten Unfall getöteter Passant sein Ableben nur vorgetäuscht hat und nunmehr Rache sucht. Gemeinsam mit dem tölpelhaften Dorfsherriff und einer rasenden Reporterin geht sie der Sache auf den Grund.",
+            "release_date": "2000-07-07",
+            "id": 4247,
+            "adult": false,
+            "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+            "vote_count": 5035,
+            "genre_ids": [
+                35
+            ],
+            "title": "Scary Movie",
+            "popularity": 61.942
+        },
+        {
+            "backdrop_path": "/tcvPFdANexMxEsIUZnzjxBJbgkb.jpg",
+            "genre_ids": [
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Scary Movie 2",
+            "poster_path": "/2SdKbgT74TzsrrHBuAhEWJQIKdt.jpg",
+            "video": false,
+            "id": 4248,
+            "vote_average": 5.8,
+            "vote_count": 3438,
+            "title": "Scary Movie 2",
+            "release_date": "2001-07-04",
+            "adult": false,
+            "overview": "Eine Gruppe von Studenten verbringt auf Einladung des vordergründig charmanten Geisteswissenschaftlers Prof. Oldman ein Wochenende in einer berühmt-berüchtigten Spukvilla namens \"Hell House\", um ein paar nicht genauer definierte Schlafexperimente durchzuführen. Natürlich führt der suspekte Oldman alles andere als seriöse Wissenschaft im Schilde, wenn er seine Schutzbefohlenen einem groben Poltergeist und seinen dämonischen Heerscharen sozusagen auf dem Silbertablett serviert.",
+            "popularity": 51.345
+        },
+        {
+            "genre_ids": [
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Scary Movie 4",
+            "poster_path": "/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg",
+            "video": false,
+            "id": 4257,
+            "vote_count": 2430,
+            "overview": "Die liebenswerte, aber reichlich naive Cindy Campell findet einen Job als Altenpflegerin bei einer geheimnisvollen alten Frau, in deren Haus Geister ihr Unwesen treiben. Dort lernt sie auch ihren gutaussehenden Nachbarn Tom Ryan kennen. Gemeinsam mit ihm und seinen Kindern flieht Cindy alsbald vor Außerirdischen, die die Weltherrschaft übernehmen wollen. Dabei werden sie unter anderem mit schrecklichen Flugzeugabstürzen, Dorfidioten, Körperöffnungen von Aliens und schließlich sogar Oprah Winfrey konfrontiert.",
+            "release_date": "2006-04-12",
+            "vote_average": 5.5,
+            "title": "Scary Movie 4",
+            "adult": false,
+            "backdrop_path": "/tUXYmCZW4wz6KATInPHPcIPo4U5.jpg",
+            "popularity": 31.481
+        },
+        {
+            "genre_ids": [
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Scary Movie 5",
+            "poster_path": "/kM2L2upBdsuukwrLW8pJwUVNDY7.jpg",
+            "video": false,
+            "title": "Scary Movie 5",
+            "vote_count": 2159,
+            "overview": "Das glücklich angetraute Paar Dan und Jody haben Zuwachs bekommen: ihr frisch geborener Sohn Aiden ist ihr ganzer Stolz. Doch müssen sie mit erschrecken feststellen, dass sich, seid ihr Sohn daheim ist, bizarre und unerklärliche Dinge im Haus abspielen. Aber als das Chaos sogar Jodys Job als Ballettänzerin und Dans Karriere als Affenforscher gefährdet, realisieren die Beiden allmählich, dass sie von einem bösen Dämon heimgesucht werden. Zusammen mit qualifizierten Experten und dem Schutz von unzählige Kameras, versuchen sie herauszufinden, wie man den Dämon wieder los wird – bevor es zu spät ist.",
+            "release_date": "2013-04-11",
+            "vote_average": 4.8,
+            "id": 4258,
+            "adult": false,
+            "backdrop_path": "/kttkW0qMv4quwRH5a59gQMFrpl2.jpg",
+            "popularity": 58.98
+        },
+        {
+            "original_title": "Scary Movie 3",
+            "poster_path": "/f3nRFgJzSIJiCYurNUy7IsJRCNw.jpg",
+            "id": 4256,
+            "video": false,
+            "vote_average": 6,
+            "overview": "Die Fernseh-Moderatorin Cindy Campbell untersucht mysteriöse Zeichen in Kornfeldern, die auf eine Landung von Aliens hindeuten. Ihre Freundin Brenda bekommt derweil ein Videoband in die Hände, das sieben Tage nach dem Ansehen tödliche Nachwirkungen haben soll. Tatsächlich erhält sie nur wenige Augenblicke nach dem Angucken einen Anruf, der ihr ein vorzeitiges Ende prophezeit. Der junge weißen Rapper George möchte sich in einem großen Battle beweisen und zu einem Star des Hip-Hop-Universums aufsteigen, gewinnt aber zunächst die Liebe von Cindy. Gemeinsam versuchen sie, den Geheimnissen der Außerirdischen und des Videobandes auf die Spur zu kommen...",
+            "release_date": "2003-10-24",
+            "adult": false,
+            "backdrop_path": "/4ml6eXieYnW6qv9qHwUUfDi0ntm.jpg",
+            "vote_count": 3034,
+            "genre_ids": [
+                35
+            ],
+            "title": "Scary Movie 3",
+            "original_language": "en",
+            "popularity": 42.747
+        }
+    ]
+}

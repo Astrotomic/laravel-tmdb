@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/cAZzH82kxaOhqPNQrGmMPqOEIP9.jpg",
+    "belongs_to_collection": {
+        "id": 8936,
+        "name": "Bridget Jones Filmreihe",
+        "poster_path": "/VuqSd0RpUBQATMPWmc0rvguhJn.jpg",
+        "backdrop_path": "/h7kmBdnH9fxuSRMlJrEqAfMwhVl.jpg"
+    },
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 634,
+    "imdb_id": "tt0243155",
+    "original_language": "en",
+    "original_title": "Bridget Jones's Diary",
+    "overview": "Völlig verkatert und immer noch Single, beschließt Bridget Jones am Neujahrstag, ihr Leben endlich in den Griff zu kriegen - und Tagebuch zu führen: \"Vorsatz Nummer eins: Muss unbedingt zwanzig Pfund abnehmen! Vorsatz Nummer zwei: Netten, einfühlsamen Freund suchen und nie wieder eine Beziehung mit Spannern, Größenwahnsinnigen, emotionalen Flachwichsern oder Perversen eingehen!\" Leichter gesagt als getan - immerhin muss sich Bridget zwischen dem \"amtlichen-Sex-Gott-mit-dickem-Auto\" Daniel Cleaver  und dem \"unnahbar-wirkenden-aber-dennoch-nachdenklich-sensiblen\" Mark Darcy  entscheiden ...",
+    "popularity": 20.118,
+    "poster_path": "/pQW8oUZ6prwG0hD3UUQ4FEyFfqg.jpg",
+    "production_companies": [
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 13323,
+            "logo_path": null,
+            "name": "Little Bird",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2001-04-13",
+    "revenue": 281929795,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bridget Jones - Schokolade zum Frühstück",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 3983
+}

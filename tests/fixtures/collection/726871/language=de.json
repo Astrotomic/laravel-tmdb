@@ -1,0 +1,51 @@
+{
+    "id": 726871,
+    "name": "Dune Collection",
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": "/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/aknvFyJUQQoZFtmFnYzKi4vGv4J.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Dune",
+            "poster_path": "/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg",
+            "id": 438631,
+            "vote_average": 8.1,
+            "vote_count": 1192,
+            "overview": "Die Neuverfilmung des gleichnamigen, populären Sci-Fi-Romans von Frank Herbert.  Aus der Vorlage erzählt Dune die komplexe Geschichte einer gefallenen Adelsfamilie und ihres Versuchs, die Kontrolle über den Wüstenplaneten Arrakis zu erlangen. Und über dessen kostbarste Exportware, das Spice, eine seltene bewusstseinserweiternde Droge. Doch sie wird von einem galaktischen Imperator betrogen, und Paul Atreides, der junge Sohn des Herrschers dieser Familie, muss sich ins Ödland flüchten und mit den dort heimischen Nomadenstämmen verbünden, um schließlich zurückzuschlagen.",
+            "release_date": "2021-09-15",
+            "video": false,
+            "title": "Dune",
+            "popularity": 309.505
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                18,
+                878
+            ],
+            "id": 693134,
+            "original_language": "en",
+            "original_title": "Dune: Part Two",
+            "overview": "Fortsetzung zum 2020 Film ‚Dune‘",
+            "poster_path": "/8kaQKfh1QdE7l0f7FvxM0lh4U8C.jpg",
+            "release_date": "",
+            "title": "Dune Fortsetzung",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 10.789
+        }
+    ]
+}

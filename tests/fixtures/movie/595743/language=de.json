@@ -1,9 +1,13 @@
 {
     "adult": false,
-    "backdrop_path": "/vD8oPUpDUZDTGI5IVofxrUjxxUO.jpg",
+    "backdrop_path": "/zHHcindG4uVZLPLuYWoo4rnv6Ti.jpg",
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
         {
             "id": 28,
             "name": "Action"
@@ -19,7 +23,7 @@
     "original_language": "en",
     "original_title": "SAS: Red Notice",
     "overview": "Ein SAS-Soldat außer Dienst, Tom Buckingham, muss einen Terroranschlag auf einen Zug vereiteln, der durch den Kanaltunnel fährt. Während die Aktion im Zug eskaliert, ereignen sich in den Korridoren der Macht Ereignisse, die den Unterschied ausmachen könnten, ob Buckingham und die zivilen Passagiere es lebend aus dem Tunnel schaffen.",
-    "popularity": 1062.247,
+    "popularity": 1058.355,
     "poster_path": "/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg",
     "production_companies": [
         {
@@ -127,6 +131,6 @@
     "tagline": "",
     "title": "SAS: Red Notice",
     "video": false,
-    "vote_average": 6,
-    "vote_count": 203
+    "vote_average": 5.9,
+    "vote_count": 206
 }

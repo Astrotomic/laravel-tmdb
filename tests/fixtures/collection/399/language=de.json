@@ -1,0 +1,111 @@
+{
+    "id": 399,
+    "name": "Predator Filmreihe",
+    "overview": "Predator ist ein US-amerikanischer Spielfilm von Regisseur John McTiernan aus dem Jahr 1987 mit Arnold Schwarzenegger in der Hauptrolle. Der Actionfilm kombiniert Elemente des Horror-, Science-Fiction- und Kriegsfilms.  Der Film war ausreichend erfolgreich, um im Jahr 1990 die Fortsetzung Predator 2 nach sich zu ziehen. 2004 wurde ein Crossover zwischen den Predator- und den Alien-Filmen mit dem Titel Alien vs. Predator produziert. 2007 folgte mit Aliens vs. Predator 2 ein weiteres Crossover. Im Juli 2010 erschien Predators, eine Fortsetzung des ersten Teils, unter der Regie von Nimród Antal und produziert von Robert Rodriguez.",
+    "poster_path": "/94ODbkAPSudOm58lLSCWIwpuA5.jpg",
+    "backdrop_path": "/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg",
+    "parts": [
+        {
+            "poster_path": "/biznhvfedHPp9GKjlVFXH6OZtyU.jpg",
+            "id": 106,
+            "video": false,
+            "vote_average": 7.5,
+            "overview": "Eine Routinemission wird zum Horrortrip. Das Spezialkommando unter Major Dutch Schaefer soll im mittelamerikanischen Dschungel Geiseln aus den Händen von Guerilleros befreien. Doch die Männer bekommen es nicht nur mit einer Handvoll Rebellen zu tun. In der grünen Hölle lauert ihnen ein Gegner auf, der nicht von dieser Welt ist. Eine Kreatur, die das Töten als reine Lust betrachtet – und Elitesoldaten als willkommene Jagdtrophäen.",
+            "release_date": "1987-06-12",
+            "adult": false,
+            "backdrop_path": "/qpS5pfZJcirPTDpvckpczKJIsO0.jpg",
+            "vote_count": 5701,
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "title": "Predator",
+            "original_language": "en",
+            "original_title": "Predator",
+            "popularity": 45.864
+        },
+        {
+            "backdrop_path": "/dUHYM3D8h3ZIMCut2nNesbwjvbK.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Predator 2",
+            "poster_path": "/wDI6pJvyklKNHv8yZZnHJ0uwrUR.jpg",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2130,
+            "overview": "Vor Jahren hatte er sich seine Opfer dort gesucht, wo die Welt am unwegsamsten ist – tief im südamerikanischen Dschungel. Heute hat er ein anderes Jagdrevier gefunden – den Dschungel von Los Angeles. Mitten im heißesten Sommer schlägt der Predator wieder zu: Menschen verschwinden, verstümmelte Leichen stacheln die bis an die Zähne bewaffneten Drogenmafia-Gangs zu einem blutigen Bandenkrieg an. Los Angeles verwandelt sich in einen Schlachthof. Der totale Zusammenbruch scheint unaufhaltsam. Angst und nackter Terror beherrschen die Stadt. Nur der Polizei-Sergeant Mike Harrigan will sich nicht damit abfinden, ein leichtes Opfer zu sein. Er stellt sich dem übermächtigen Unbekannten.",
+            "release_date": "1990-11-20",
+            "title": "Predator 2",
+            "id": 169,
+            "adult": false,
+            "popularity": 33.103
+        },
+        {
+            "id": 34851,
+            "release_date": "2010-07-03",
+            "adult": false,
+            "backdrop_path": "/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
+            "vote_count": 2921,
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "overview": "Eine Gruppe von Elite-Kämpfern aus den unterschiedlichsten Teilen der Welt landet auf unerklärliche Weise auf einem fremden Planeten. Schon bald ahnen sie warum: Sie wurden geholt, um Teil eines mörderischen Spiels zu werden, in dem sie als Beute ausgesetzt sind. Und die Jäger sind die Predators. Royce führt die skrupellose Gruppe an, die mit Ausnahme des Arztes Edwin aus menschlichen Predators besteht: Söldner, japanische Yakuza, Schwerverbrecher und Mitglieder des Todesschwadrons. Doch die Jäger werden nun selbst gejagt und systematisch eliminiert - von einer neuen Rasse Predators...",
+            "original_language": "en",
+            "original_title": "Predators",
+            "poster_path": "/54LZIRznS0Zjn7ZDXrsGVe3HXei.jpg",
+            "title": "Predators",
+            "video": false,
+            "vote_average": 6.2,
+            "popularity": 161.813
+        },
+        {
+            "release_date": "2018-09-05",
+            "adult": false,
+            "backdrop_path": "/f4E0ocYeToEuXvczZv6QArrMDJ.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                35
+            ],
+            "id": 346910,
+            "original_language": "en",
+            "original_title": "The Predator",
+            "poster_path": "/nwZuSeaEJME9EEOQCLQTf2M98W5.jpg",
+            "vote_count": 3494,
+            "video": false,
+            "vote_average": 5.6,
+            "title": "Predator - Upgrade",
+            "overview": "Eine geheime Militäraktion wird  durch die Bruchlandung eines Predator-Raumschiffes gestört. Während zwei seiner Kameraden getötet werden, kann Quinn McKenna das Alien außer Gefecht setzten und seine Ausrüstung an sich nehmen.  Als er diese jedoch zu sich nach Hause schickt und sein am Asperger-Syndrom leidender Sohn es schafft, sie in Betrieb zu nehmen, lockt er damit die Predators direkt zu sich. Zusammen mit einer chaotische Truppe von Ex-Soldaten und der Biologin Casey Bracket muss er nun um sein Überleben und das seines Sohnes kämpfen.",
+            "popularity": 59.416
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                53,
+                28
+            ],
+            "id": 766507,
+            "original_language": "en",
+            "original_title": "Skulls",
+            "overview": "",
+            "poster_path": "/6cTAU5zYdUPdMQlA3yCE3iPkLiu.jpg",
+            "release_date": "",
+            "title": "Skulls",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.601
+        }
+    ]
+}

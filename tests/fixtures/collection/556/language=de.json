@@ -1,0 +1,68 @@
+{
+    "id": 556,
+    "name": "Spider-Man Filmreihe",
+    "overview": "Dreiteilige Verfilmung des legendären Marvel Comics durch Sam Raimi (\"Tanz der Teufel\"), der auf den jugendlichen Charme seines Hauptdarstellers Tobey Maguire baut, während sich die Männerwelt am Lächeln von Kirsten Dunst ergötzt. Nach dem aufwändigen Erstling sorgte Raimi im Sequel für noch mehr Action und Effekte, um die Zuschauer dann im letzten Teil der Trilogie mit nochmals verbesserten Effekten, einer Vielzahl von Handlungssträngen und Figuren zu beglücken, ohne dabei seinen spielerisch leichten Ton zu verlieren. (video.de)",
+    "poster_path": "/6ysDfqfpOjWtuW9IY3xusVSqKe9.jpg",
+    "backdrop_path": "/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/sWvxBXNtCOaGdtpKNLiOqmwb10N.jpg",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "original_language": "en",
+            "original_title": "Spider-Man",
+            "poster_path": "/tobhqwOzljAfLsG4jJC30GRZaZw.jpg",
+            "id": 557,
+            "video": false,
+            "title": "Spider-Man",
+            "vote_count": 14110,
+            "overview": "Peter Parker ist nicht gerade angesehen an seiner Uni, denn er ist schmächtig und ungeschickt, was seine Chancen beim Mädchen seiner Träume, Mary Jane nicht gerade erhöht. Als er eines Tages jedoch von einer genmanipulierten Spinne gebissen wird, wacht er am nächsten Morgen auf und findet seine Sinne geschärft vor und entwickelt auch weitere übermenschliche, aber sehr spinnenähnliche Fähigkeiten. Nachdem er damit zunächst sein Traummädchen beeindruckt hat, wächst er schon bald zu dem maskierten Helden Spider-Man heran, spätestens als ein Superschurke namens Grüner Kobold, der die Mr.Hyde-Variante des Wissenschaftlers Norman Osborn ist, die Stadt bedroht...",
+            "release_date": "2002-05-01",
+            "vote_average": 7.2,
+            "popularity": 134.247
+        },
+        {
+            "original_language": "en",
+            "original_title": "Spider-Man 2",
+            "id": 558,
+            "video": false,
+            "vote_average": 7.1,
+            "overview": "Zwei Jahre sind inzwischen vergangen, als Peter Parker von einer genmutierten Spinne gebissen wurde und sein Leben sich radikal verändert hat. Bei der Verbrechensbekämpferei lässt er sein College-Studium schleifen und verspätet sich permanent bei seinen beiden Jobs. Zu allem Überfluss muss Peter mit ansehen, wie Mary Jane im Gegensatz zu ihm ihr Leben meistert. Nun allerdings streckt ein neuer Bösewicht namens Dr. Octavius seine metallischen Tentakel nach der Zivilisation aus. Mit ihm ist nicht zu spaßen..",
+            "release_date": "2004-06-25",
+            "vote_count": 11385,
+            "title": "Spider-Man 2",
+            "adult": false,
+            "backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+            "poster_path": "/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 41.827
+        },
+        {
+            "release_date": "2007-05-01",
+            "id": 559,
+            "backdrop_path": "/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "vote_count": 10326,
+            "original_language": "en",
+            "original_title": "Spider-Man 3",
+            "poster_path": "/9BWVD70pofOapudGVdu7Wf90MKC.jpg",
+            "title": "Spider-Man 3",
+            "video": false,
+            "vote_average": 6.3,
+            "adult": false,
+            "overview": "Eigentlich könnte alles wunderbar laufen für Peter Parker, seit er seiner Freundin Mary Jane Watson seine Geheimidentität \"Spiderman\" offenbart hat. Doch am Horizont zeigen sich bald neue dunkle Wolken, als der Ausbrecher Flint Marko durch einen Unfall in den geheimnisvollen \"Sandman\" verwandelt wird, einen Mutanten, der seine Moleküle verändern kann. Peter ist bald persönlich betroffen, denn offenbar hat Marko etwas mit dem Mord an seinem Onkel zu tun. Doch es zeigt sich neues Unheil: eine außerirdische schwarze Substanz ergreift von Peter Besitz, die seine dunkle, machtstrebende Seite zum Vorschein bringt.",
+            "popularity": 134.559
+        }
+    ]
+}

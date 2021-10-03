@@ -1,0 +1,45 @@
+{
+    "id": 126209,
+    "name": "Halloween (Remake) Filmreihe",
+    "overview": "Halloween ist eine Neuverfilmung von John Carpenters gleichnamigem Horrorfilm aus dem Jahr 1978. Im Mittelpunkt steht der psychopathische Massenmörder Michael Myers, der jeweils am 31.Oktober (Halloween) seine Heimatstadt terrorisiert. Sein Markenzeichen ist eine weisse Maske. 2009 erschien das Sequel Halloween II, welches aber inhaltlich kein Remake des Originals von 1981 darstellt.",
+    "poster_path": "/gpFh3wieLjNVU6Q67EFyQZTTh4H.jpg",
+    "backdrop_path": "/tXXPOkcFLcDiJ4OU5SOU3JnhQrg.jpg",
+    "parts": [
+        {
+            "overview": "Michael Myers ist tot! So lautet jedenfalls die offizielle Aussage der Polizei. Doch Laurie Strode, die Michaels brutales Massaker überlebt hat, ist sich sicher: er lebt und wird wieder zuschlagen. Aber obwohl seine Leiche niemals gefunden wurde, will niemand Laurie glauben. Als ein Jahr später die Straßen von Haddonfield wieder mit orangefarbenen Kürbisköpfen geschmückt sind, geschieht der erste grauenvolle Mord. Laurie weiß sofort, dass Michael zurückgekommen ist, um sie diesmal endgültig zu töten. Und Michael Myers wird Halloween in den blutigsten Tag des Jahres verwandeln.",
+            "genre_ids": [
+                27
+            ],
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "poster_path": "/v2XdkyItUPROPBB0Gwdb3PcCR5d.jpg",
+            "id": 24150,
+            "vote_average": 5.4,
+            "vote_count": 939,
+            "title": "Halloween II",
+            "video": false,
+            "release_date": "2009-08-28",
+            "adult": false,
+            "backdrop_path": "/nQ1U3KmVxsA5mXwlxnT0EmthSB0.jpg",
+            "popularity": 26.734
+        },
+        {
+            "genre_ids": [
+                27
+            ],
+            "original_language": "en",
+            "original_title": "Halloween",
+            "poster_path": "/9zsbtHyesDB3pLZ143KIHaLSIKo.jpg",
+            "video": false,
+            "vote_average": 6.2,
+            "overview": "Als der zehnjährige Michael Myers in der Nacht von Halloween zum ersten Mal mordet, sind die Bewohner der Kleinstadt Haddonfield in Illinois fassungslos. Nur zu gern möchte man diesen schrecklichen Vorfall schnell vergessen. Michael wird in eine geschlossene Anstalt gesteckt, wo Dr. Loomis jahrelang versucht, mit dem Jungen zu kommunizieren. Während sich Haddonfields Teenager Jahre später auf ein neues Halloween vorbereiten, flieht der inzwischen 25-jährige Michael aus der Anstalt. Und nun ist niemand mehr vor dem eiskalten Maskenmörder sicher.",
+            "release_date": "2007-08-31",
+            "vote_count": 1594,
+            "title": "Halloween",
+            "adult": false,
+            "backdrop_path": "/hDC6IpSg01T3QukfF9qkslQvWUF.jpg",
+            "id": 2082,
+            "popularity": 40.838
+        }
+    ]
+}

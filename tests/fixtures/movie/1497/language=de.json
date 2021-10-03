@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg",
+    "belongs_to_collection": {
+        "id": 1582,
+        "name": "Turtles Filmreihe",
+        "poster_path": "/hxcTQ9aR9U2hOWyy7S1HoBDFprA.jpg",
+        "backdrop_path": "/7dusELv6x1ANRGorNvqbKhKIUPY.jpg"
+    },
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "",
+    "id": 1497,
+    "imdb_id": "tt0103060",
+    "original_language": "en",
+    "original_title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "overview": "Die Turtles dachten, ihren Erzfeind Shredder ein für alle Mal vernichtet zu haben. Falsch gedacht: Der Schurke erfreut sich nämlich bester Gesundheit und ist drauf und dran, die „Foot Gang“ neu aufzubauen. Um Rache an seinen verhassten Widersachern zu nehmen, erschafft er außerdem mithilfe des geheimnisvollen Ooze, das auch einst die Turtles hervorbrachte, 2 andere Mutanten, gegen die das Schildkröten-Quartett praktisch chancenlos ist. Die einzige Hoffnung, dieser Übermacht noch bei zu kommen, liegt in dem Wissenschaftler Jordan Perry, der sich zur Zeit aber selber in Shredders Gewalt befindet...",
+    "popularity": 14.398,
+    "poster_path": "/2O4d3xDCwCODayzFk1Mr2m4K3rS.jpg",
+    "production_companies": [
+        {
+            "id": 2521,
+            "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+            "name": "Orange Sky Golden Harvest",
+            "origin_country": "HK"
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 30900,
+            "logo_path": null,
+            "name": "Mirage Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1991-03-22",
+    "revenue": 78656813,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Turtles II - Das Geheimnis des Ooze",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 784
+}

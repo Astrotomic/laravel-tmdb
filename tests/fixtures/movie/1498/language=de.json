@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/vVDPB2bU5qFpjI6xx9DipgfRfT0.jpg",
+    "belongs_to_collection": {
+        "id": 1582,
+        "name": "Turtles Filmreihe",
+        "poster_path": "/hxcTQ9aR9U2hOWyy7S1HoBDFprA.jpg",
+        "backdrop_path": "/7dusELv6x1ANRGorNvqbKhKIUPY.jpg"
+    },
+    "budget": 13500000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "",
+    "id": 1498,
+    "imdb_id": "tt0100758",
+    "original_language": "en",
+    "original_title": "Teenage Mutant Ninja Turtles",
+    "overview": "In New York ist eine Bande krimineller Jugendlicher, angeführt von dem japanischen Ninja-Meister Shredder, durch ihre ständig wachsende Mitgliederzahl so einflussreich geworden, dass die Polizei kaum noch Macht über die Lage hat. Die einzigen, die dem Chaos Einhalt gebieten können, sind 4 mutierte Schildkröten, die dank der weisen Ratte Splinter, ebenfalls ein Mutationsprodukt, über hervorragende Ninjitsu-Kenntnisse verfügen. Bei ihren Kampfeinsätzen für das Gute machen die grünen Helden eines Tages sogar persönliche Bekanntschaft mit ihrem größten Schwarm, der Reporterin April O’Neil. Diese lang ersehnte Erfahrung bringt leider auch einen schweren Schlag mit sich: Ihre Gegenspieler haben ihr Versteck in der Kanalisation ausfindig gemacht und Splinter entführt...",
+    "popularity": 19.63,
+    "poster_path": "/auBa6QqcjXKj5QvFLTgPHw0A8gB.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 2521,
+            "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+            "name": "Orange Sky Golden Harvest",
+            "origin_country": "HK"
+        },
+        {
+            "id": 30900,
+            "logo_path": null,
+            "name": "Mirage Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1990-03-30",
+    "revenue": 201965915,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Quietschvergnügt und springlebendig",
+    "title": "Turtles",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 1251
+}

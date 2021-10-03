@@ -1,0 +1,69 @@
+{
+    "id": 422834,
+    "name": "Ant-Man Filmreihe",
+    "overview": "Eine Superheldenfilmreihe, die auf dem Marvel Comics Charakter Ant-Man basiert und Teil der Marvel Cinematic Universe (MCU) Serie ist. Die Filmreihe konzentriert sich auf Scott Lang, einen Ex-Sträfling, der einen Anzug gestohlen hat, der es ihm erlaubt, seine Größe zu ändern. Hank Pym, der ursprüngliche Ant-Man, entdeckte die subatomaren Partikel, die die Transformation ermöglichen. Hank hilft Scott, seine Rolle als Superheld einzunehmen.",
+    "poster_path": "/rjpJooNO8v3ExYQClw6MpGGPppw.jpg",
+    "backdrop_path": "/2KjtWUBiksmN8LsUouaZnxocu5N.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 7.1,
+            "overview": "Als Hank Pym den smarten Superdieb Scott Lang für einen großen Coup anwirbt, setzt der Knastveteran seine Qualitäten erstmals für das Gute ein. Um zu verhindern, dass Pyms Technologie, mit der Belebtes und Unbelebtes auf Miniaturgröße geschrumpft werden kann, militärisch genutzt wird, soll Lang die Fortschritte von Pyms skrupellosem Kontrahenten Cross sabotieren und dessen Spezialanzug stehlen. Doch dafür muss Lang ein Superheldentraining absolvieren und lernen, ein Heer von Ameisen für seine Mission Impossible zu kontrollieren ...",
+            "release_date": "2015-07-14",
+            "id": 102899,
+            "adult": false,
+            "backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "vote_count": 16084,
+            "original_language": "en",
+            "original_title": "Ant-Man",
+            "poster_path": "/i19WDSF030UObPPf60qkM0Hl03x.jpg",
+            "title": "Ant-Man",
+            "popularity": 66.798
+        },
+        {
+            "video": false,
+            "vote_average": 7,
+            "overview": "Scott Lang aka Ant-Man hadert  mit den Konsequenzen seiner Taten als Superheld und Vater. Während er in Ant-Man and the Wasp versucht, sein Leben wieder in geregelte Bahnen zu lenken, steht ihm ein neuer Auftrag bevor. Auf Drängen von Hope van Dyne aka Wasp und Dr. Hank Pym schlüpft er erneut in die Rolle seines Superhelden-Alter Egos, um gemeinsam mit Wasp Licht in die Geheimnisse der Vergangenheit zu bringen.",
+            "release_date": "2018-07-04",
+            "adult": false,
+            "backdrop_path": "/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
+            "title": "Ant-Man and the Wasp",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "vote_count": 10281,
+            "original_language": "en",
+            "original_title": "Ant-Man and the Wasp",
+            "poster_path": "/7XrdIEgmKMSZhRqT3WQ5pQtZNKg.jpg",
+            "id": 363088,
+            "popularity": 62.499
+        },
+        {
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "2023-02-16",
+            "adult": false,
+            "backdrop_path": "/dbuR6XuVubN5ZmRUiOycZi2457l.jpg",
+            "vote_count": 0,
+            "genre_ids": [
+                12,
+                878,
+                35
+            ],
+            "id": 640146,
+            "original_language": "en",
+            "original_title": "Ant-Man and the Wasp: Quantumania",
+            "poster_path": "/mYCBuVGQGWPlUNZQusdHfbSzP1h.jpg",
+            "title": "Ant-Man and the Wasp: Quantumania",
+            "video": false,
+            "popularity": 12.51
+        }
+    ]
+}

@@ -3,23 +3,23 @@
     "department": "Acting",
     "job": "Actor",
     "media": {
-        "adult": false,
+        "original_language": "en",
         "original_title": "Venom",
         "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "video": false,
+        "vote_average": 6.8,
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": "2018-09-28",
+        "id": 335983,
+        "vote_count": 11445,
+        "adult": false,
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "title": "Venom",
         "genre_ids": [
             878,
             28
         ],
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 11381,
-        "id": 335983,
-        "title": "Venom",
-        "original_language": "en",
-        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-        "release_date": "2018-09-28",
-        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
-        "popularity": 532.923,
+        "popularity": 1073.972,
         "character": "Security Chief Roland Treece"
     },
     "media_type": "movie",
@@ -31,23 +31,23 @@
         "id": 87954,
         "known_for": [
             {
-                "adult": false,
+                "original_language": "en",
                 "original_title": "Venom",
                 "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "video": false,
+                "vote_average": 6.8,
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": "2018-09-28",
+                "id": 335983,
+                "vote_count": 11411,
+                "adult": false,
+                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+                "title": "Venom",
                 "genre_ids": [
                     878,
                     28
                 ],
-                "video": false,
-                "vote_average": 6.8,
-                "vote_count": 11380,
-                "id": 335983,
-                "title": "Venom",
-                "original_language": "en",
-                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-                "release_date": "2018-09-28",
-                "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
-                "popularity": 547.049,
+                "popularity": 1003.325,
                 "media_type": "movie"
             },
             {
@@ -66,9 +66,9 @@
                 "title": "Midnight Special",
                 "overview": "A father and son go on the run after the dad learns his child possesses special powers.",
                 "release_date": "2016-02-12",
-                "vote_count": 1526,
+                "vote_count": 1529,
                 "id": 245703,
-                "popularity": 10.072,
+                "popularity": 12.303,
                 "media_type": "movie"
             },
             {
@@ -87,14 +87,14 @@
                 "original_language": "en",
                 "original_title": "Only the Brave",
                 "poster_path": "/rwJVB0muOMhkI5pTt9wwr4XCMBY.jpg",
-                "vote_count": 1101,
+                "vote_count": 1104,
                 "video": false,
-                "popularity": 34.969,
+                "popularity": 42.281,
                 "media_type": "movie"
             }
         ],
         "known_for_department": "Acting",
         "profile_path": "/6cd3Jt8Vo52j8cRKbNf1j7cERhs.jpg",
-        "popularity": 2.449
+        "popularity": 2.401
     }
 }

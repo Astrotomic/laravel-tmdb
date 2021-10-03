@@ -5,7 +5,7 @@
         "id": 748919,
         "name": "Don't Breathe Collection",
         "poster_path": "/b4mJz9qvh4i328aIO0Ciqqy2DGA.jpg",
-        "backdrop_path": null
+        "backdrop_path": "/dItuxD2MjMyrMykhHkLDHdZR7Ei.jpg"
     },
     "budget": 10000000,
     "genres": [
@@ -24,7 +24,7 @@
     "original_language": "en",
     "original_title": "Don't Breathe 2",
     "overview": "Der Blinde Mann versteckt sich seit Jahren in einer abgelegenen Hütte und hat ein junges Mädchen aufgenommen und aufgezogen, das seine Eltern bei einem Hausbrand verloren hat. Als das Mädchen jedoch von einer Gruppe Entführern mitgenommen wird, ist er gezwungen, seinen sicheren Zufluchtsort zu verlassen, um sie zu retten.",
-    "popularity": 844.883,
+    "popularity": 1055.713,
     "poster_path": "/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg",
     "production_companies": [
         {
@@ -85,5 +85,5 @@
     "title": "Don't Breathe 2",
     "video": false,
     "vote_average": 7.7,
-    "vote_count": 802
+    "vote_count": 826
 }

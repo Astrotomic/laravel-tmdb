@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/iEVZScwA2vy8BlVOFBBCfbU6XxB.jpg",
+    "belongs_to_collection": {
+        "id": 86055,
+        "name": "Men in Black Filmreihe",
+        "poster_path": "/1nDZPKU1KIR0UuY92g33wHHNhMO.jpg",
+        "backdrop_path": "/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.sonypictures.com/homevideo/meninblack",
+    "id": 607,
+    "imdb_id": "tt0119654",
+    "original_language": "en",
+    "original_title": "Men in Black",
+    "overview": "Nur die Men In Black kennen das bestgehütete Geheimnis der Welt: auf der Erde wimmelt es von Aliens! Außerirdische der unterschiedlichsten Art haben sich, als Menschen getarnt, auf dem Planeten breitgemacht. Einige werden geduldet, andere aufgespürt, gejagt, vertrieben. Und diesen Job erledigen die beiden zähesten unter den Alienjägern, die Agenten Mr. K und Mr. J. Doch dann landet ein intergalaktisches Riesenmonster auf der Erde - sein Ziel: die totale Vernichtung der Welt. Trotz optimaler High-Tech-Bewaffnung haben die beiden Super-Agenten jetzt einen lebensgefährlichen Auftrag. Als sie die Fährte des außerirdischen Eindringlings aufgenommen haben, scheint es fast zu spät zu sein - eine globale Katastrophe bahnt sich an...",
+    "popularity": 34.646,
+    "poster_path": "/838NNSVYSR3JflsI3dKpTkJGmPC.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 49325,
+            "logo_path": null,
+            "name": "Parkes+MacDonald Image Nation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-07-02",
+    "revenue": 589390539,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie schützen die Erde vor dem Abschaum des Universums.",
+    "title": "Men in Black",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 11025
+}

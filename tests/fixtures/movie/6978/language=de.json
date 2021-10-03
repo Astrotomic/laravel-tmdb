@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/wb9HmFqa7TOWmvIRzJstdkjzOkG.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.theofficialjohncarpenter.com/big-trouble-in-little-china/",
+    "id": 6978,
+    "imdb_id": "tt0090728",
+    "original_language": "en",
+    "original_title": "Big Trouble in Little China",
+    "overview": "Der Trucker Jack Burton kommt zu Besuch bei seinem Freund Wan, um dessen Freundin vom Flughafen abzuholen. Leider wird die Schöne wegen ihrer smaragdgrünen Augen von den Schergen des Lo-Pan, eines unsterblichen Geschöpf der chinesischen Mythologie, entführt. Lo-Pan braucht das Mädchen, um endlich wieder sterblich zu werden, was Jack und Wang natürlich verhindern wollen. Ihr Weg führt sie nach Chinatown zu dem weisen Egg-Shen und von dort in die mystischen Katakomben unter der Stadt...",
+    "popularity": 13.977,
+    "poster_path": "/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg",
+    "production_companies": [
+        {
+            "id": 965,
+            "logo_path": null,
+            "name": "TAFT Entertainment Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-05-30",
+    "revenue": 11000000,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Abenteuer wird niemals größer sein",
+    "title": "Big Trouble in Little China",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 2082
+}

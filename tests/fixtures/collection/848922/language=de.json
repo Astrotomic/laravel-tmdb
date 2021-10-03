@@ -1,0 +1,48 @@
+{
+    "id": 848922,
+    "name": "The Tomorrow War Filmreihe",
+    "overview": "",
+    "poster_path": "/AgRf30cGWYWa08ynPId7qJLZvd9.jpg",
+    "backdrop_path": "/yKSNSOwHOeiZv2DxwHAlpiEXBB4.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 8.1,
+            "overview": "Der Untergang der Welt ist nah! In der nicht allzu fernen Zukunft des Jahres 2051 haben Aliens einen vernichtenden Kampf gegen die Menschheit begonnen, der kaum zu gewinnen ist. Um die menschliche Rasse vor dem kompletten Niedergang zu bewahren, nutzen Wissenschaftler die letzte Chance, die ihnen bleibt: Mit Hilfe einer neu entwickelten Technik werden Soldaten und Zivilisten aus unserer Zeit in die Zukunft geholt. Ex-Soldat und Lehrer Dan Forester zählt zu den Auserwählten, die für die Zukunft der Welt eintreten müssen. Der Alien-Krieg hält jedoch auch persönliche Veränderungen für Dan bereit, der nur mit der Unterstützung seines entfremdeten Vaters Slade die Welt beschützen kann. Gemeinsam mit Slade und einer aus der Zukunft stammenden Wissenschaftlerin wird er auf eine ganz besondere Mission geschickt.",
+            "release_date": "2021-07-02",
+            "adult": false,
+            "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+            "title": "The Tomorrow War",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 588228,
+            "original_language": "en",
+            "original_title": "The Tomorrow War",
+            "poster_path": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+            "vote_count": 4241,
+            "popularity": 520.748
+        },
+        {
+            "overview": "",
+            "release_date": "",
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                878
+            ],
+            "vote_count": 0,
+            "original_language": "en",
+            "original_title": "The Tomorrow War 2",
+            "id": 848890,
+            "title": "The Tomorrow War 2",
+            "video": false,
+            "vote_average": 0,
+            "poster_path": null,
+            "popularity": 1.978
+        }
+    ]
+}

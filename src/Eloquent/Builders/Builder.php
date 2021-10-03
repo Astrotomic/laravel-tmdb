@@ -6,7 +6,6 @@ use Astrotomic\Tmdb\Models\Model;
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 use Illuminate\Database\Eloquent\Collection;
-use Illuminate\Support\Facades\DB;
 
 /**
  * @method Model|Collection findOrFail(int|int[]|string|string[]|Arrayable $id, string[] $columns = ['*'])
@@ -21,19 +20,17 @@ abstract class Builder extends EloquentBuilder
      */
     public function find($id, $columns = ['*']): Model|Collection|null
     {
-        return DB::transaction(function () use ($id, $columns): Model|Collection|null {
-            if (is_array($id) || $id instanceof Arrayable) {
-                return $this->findMany($id, $columns);
-            }
+        if (is_array($id) || $id instanceof Arrayable) {
+            return $this->findMany($id, $columns);
+        }
 
-            $model = $this->whereKey($id)->first($columns);
+        $model = $this->whereKey($id)->first($columns);
 
-            if ($model instanceof Model) {
-                return $model;
-            }
+        if ($model instanceof Model) {
+            return $model;
+        }
 
-            return $this->createFromTmdb($id);
-        });
+        return $this->createFromTmdb($id);
     }
 
     /**
@@ -44,26 +41,24 @@ abstract class Builder extends EloquentBuilder
      */
     public function findMany($ids, $columns = ['*']): Collection
     {
-        return DB::transaction(function () use ($ids, $columns): Collection {
-            $ids = array_unique($ids instanceof Arrayable ? $ids->toArray() : $ids);
+        $ids = array_unique($ids instanceof Arrayable ? $ids->toArray() : $ids);
 
-            if (empty($ids)) {
-                return $this->model->newCollection();
-            }
+        if (empty($ids)) {
+            return $this->model->newCollection();
+        }
 
-            $models = $this->whereKey($ids)->get($columns);
+        $models = $this->whereKey($ids)->get($columns);
 
-            if ($models->count() === count($ids)) {
-                return $models;
-            }
+        if ($models->count() === count($ids)) {
+            return $models;
+        }
 
-            return $models->merge(
-                collect($ids)
-                    ->reject(fn (int|string $id): bool => $models->contains($id))
-                    ->map(fn (int|string $id): ?Model => $this->createFromTmdb($id))
-                    ->filter()
-            );
-        });
+        return $models->merge(
+            collect($ids)
+                ->reject(fn (int|string $id): bool => $models->contains($id))
+                ->map(fn (int|string $id): ?Model => $this->createFromTmdb($id))
+                ->filter()
+        );
     }
 
     protected function createFromTmdb(int|string $id): ?Model

@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+    "belongs_to_collection": {
+        "id": 304378,
+        "name": "Independence Day Filmreihe",
+        "poster_path": "/bVRYVSLLgKTcUvAK8o8K2LtyJFR.jpg",
+        "backdrop_path": "/ou70x2658dVnbycIRaC37sEeafS.jpg"
+    },
+    "budget": 75000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 602,
+    "imdb_id": "tt0116629",
+    "original_language": "en",
+    "original_title": "Independence Day",
+    "overview": "Eine gewaltige außerirdische Armee bedroht die Existenz der Erde. Die Invasion beginnt mit dem Auftauchen gigantischer Raumschiffe, die sich über den wichtigsten Zentren der Welt positionieren. Die bedrohliche Faszination schlägt schnell in unvorstellbare Panik um, als die Raumschiffe angreifen und bedingungslos zerstören. Nun liegt das Schicksal der Menschheit in den Händen der wenigen Überlebenden, die sich für den alles entscheidenden Kampf gegen die Invasoren bereit machen…",
+    "popularity": 35.467,
+    "poster_path": "/olVF69tDeQIcxGluyOxNO5RXc95.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 347,
+            "logo_path": null,
+            "name": "Centropolis Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1996-06-25",
+    "revenue": 817400891,
+    "runtime": 145,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Jetzt wissen wir, dass wir nicht allein sind.",
+    "title": "Independence Day",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 7594
+}

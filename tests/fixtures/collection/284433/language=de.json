@@ -1,0 +1,71 @@
+{
+    "id": 284433,
+    "name": "Guardians of the Galaxy Filmreihe",
+    "overview": "Die Filmreihe basiert auf der gleichnamigen Comicreihe von Marvel und erzählt die Geschichte der interplanetarischen Outlaws, die sich zusammen tun, um die Galaxie vor Gefahren zu schützen. Begleitet den Star-Lord Peter Quill, Gamora, Drax den Zerstörer, Rocket und Groot auf ihren witzigen und Action-geladenen Abenteuern.",
+    "poster_path": "/w165sLOqpNrxeO1ocQ4hZV7Hikn.jpg",
+    "backdrop_path": "/jdyyjulTBU8YUYAUvQFj6U1g2Pj.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 7.9,
+            "overview": "Nachdem der Abenteurer Peter Quill eine geheimnisvolle Kugel gestohlen hat, wird er das Opfer einer unerbittlichen Kopfgeldjagd mit Ronan the Accuser. Die Ziele des mächtigen Bösewichts bedrohen die Sicherheit des Universums. Um dem hartnäckigen Ronan und seinen Schergen zu entgehen, ist Quill gezwungen, einen nicht gerade einfach einzuhaltenden Waffenstillstand mit einem Quartett von ungleichen Außenseitern einzugehen - dazu gehört der waffenliebende Waschbär Rocket, der Baummensch Groot, die tödliche und rätselhafte Gamora und der rachsüchtige Drax the Destroyer. Als Peter dann die wahre Macht der Kugel und dessen Bedrohung für den Kosmos bewusst wird, muss er sein Bestes geben, um die bunt zusammengewürfelten Rivalen für einen letzten, verzweifelten Widerstand zu vereinen und eine Helden-Truppe aus ihnen machen - denn das Schicksal der Galaxie steht auf dem Spiel.",
+            "release_date": "2014-07-30",
+            "adult": false,
+            "backdrop_path": "/ko4N6wWp0UYlMmsVyfIfLyRAZtP.jpg",
+            "vote_count": 23154,
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "title": "Guardians of the Galaxy",
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy",
+            "poster_path": "/1YI54saM67SsvIOmYbdBdnsuLH7.jpg",
+            "id": 118340,
+            "popularity": 45.916
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878,
+                35
+            ],
+            "id": 283995,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 2",
+            "overview": "Gerade erst sind in Guardians of the Galaxy aus Feinden Freunde geworden und schon machen die fünf Verbündeten gemeinsam das All unsicher. Peter Quill, Gamora, Rocket Raccoon, Groot und Drax the Destroyer bereisen als Weltraum-Abenteurer diesmal nicht nur bereits bekannte Orte, sondern stoßen auch in neue Winkel der Galaxie vor.  Nachdem die vergangenen Erlebnisse ihnen einige Rätsel aufgegeben haben, machen sie sich nun daran, diese zu lösen. ‘Star-Lord’ Peter Quill hat beispielsweise gerade entdeckt, dass er nicht rein menschlicher Herkunft ist, und - auch wenn er es noch nicht weiß - rückt ein Zusammentreffen mit seinem Vater nun in greifbare Nähe.",
+            "poster_path": "/eS8QdTazpsaYbldW9KqyZlsOcEO.jpg",
+            "release_date": "2017-04-19",
+            "title": "Guardians of the Galaxy Vol. 2",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 17186,
+            "popularity": 77.723
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i9gxB3HjLNcWZzMD0vle41o4M3n.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                35
+            ],
+            "id": 447365,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 3",
+            "overview": "",
+            "poster_path": "/1neAtYqPFfuyzpOnj3ZVDXtGXLf.jpg",
+            "release_date": "2023-05-03",
+            "title": "Guardians of the Galaxy Vol. 3",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 34.917
+        }
+    ]
+}

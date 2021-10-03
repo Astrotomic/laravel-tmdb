@@ -1,0 +1,51 @@
+{
+    "id": 591028,
+    "name": "Bailey Filmreihe",
+    "overview": "",
+    "poster_path": "/mDth3M2i5bgBZu57h7QE6onG2E.jpg",
+    "backdrop_path": "/7QtTnJQDnRnRu2FvCTJoPMPN8hp.jpg",
+    "parts": [
+        {
+            "vote_average": 7.6,
+            "overview": "Bailey wird eines Tages von dem achtjährigen Ethan und dessen Mutter aus dem Tierheim geholt, um fortan bei der Familie zu leben. Einige Jahre später ist Bailey erwachsen und Ethan  ein Teenager geworden und der treue Hund hilft seinem Herrchen dabei, das Herz von Ethans Mitschülerin Hannah zu erobern. Als Bailey eines Tages im hohen Hundealter stirbt, landet er zu seiner eigenen Überraschung jedoch nicht im Hundehimmel, sondern wird als eine deutsche Schäferhündin namens Ellie wiedergeboren, die gemeinsam mit ihrem menschlichen Partner Carlos bei der Chicagoer Polizei arbeitet. Und auch als Ellie eines Tages in Ausübung ihrer Pflicht stirbt, ist Baileys Kreislauf an Wiedergeburten noch nicht beendet...",
+            "release_date": "2017-01-19",
+            "adult": false,
+            "backdrop_path": "/2ddVTlMyATZdvUHE7DPExA2X6xF.jpg",
+            "vote_count": 2551,
+            "genre_ids": [
+                35,
+                18,
+                10751,
+                14,
+                12
+            ],
+            "title": "Bailey – Ein Freund fürs Leben",
+            "original_language": "en",
+            "original_title": "A Dog's Purpose",
+            "poster_path": "/snB1zT7XZ33yn3gPeTwrhI06D73.jpg",
+            "id": 381289,
+            "video": false,
+            "popularity": 44.652
+        },
+        {
+            "original_language": "en",
+            "original_title": "A Dog's Journey",
+            "poster_path": "/hLXDmLcwIuNdPZVThuRA3OO5S6E.jpg",
+            "id": 522518,
+            "video": false,
+            "vote_average": 8.1,
+            "overview": "Nach seinen vielen Abenteuern hat es sich Bailey schwanzwedelnd auf der Farm von Ethan und Hannah gemütlich gemacht, feiert mit seiner neuen besten Freundin CJ, Ethans Enkeltochter, Teeparties oder tollt im Garten herum. Alles scheint perfekt, bis CJ eines Tages gemeinsam mit ihrer Mutter wegzieht und spurlos aus Baileys Leben verschwindet. Während Baileys Seele sich darauf vorbereitet, erneut dieses Leben für ein neues zu verlassen, verspricht er Ethan, CJ zu finden und sie um jeden Preis zu schützen. Für die treue Fellnase beginnt nun wieder die abenteuerliche Reise durch diverse Hundeleben, voll von unzähligen aufregenden Begegnungen mit Zweibeinern und der Suche nach seiner geliebten Spielfreundin.",
+            "release_date": "2019-05-03",
+            "vote_count": 987,
+            "adult": false,
+            "backdrop_path": "/52bVQBX0szmltMe5pfcmpqYk1KX.jpg",
+            "title": "Bailey - Ein Hund kehrt zurück",
+            "genre_ids": [
+                10751,
+                12,
+                18
+            ],
+            "popularity": 40.258
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/54yOImQgj8i85u9hxxnaIQBRUuo.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://vvs.ca/fr/film/vvs3282-ava-vf/",
+    "id": 539885,
+    "imdb_id": "tt8784956",
+    "original_language": "en",
+    "original_title": "Ava",
+    "overview": "Ava ist jung, attraktiv – und professionelle Auftragskillerin. Ihre Opfer: Zumeist hochkarätige Zielpersonen aus höheren Kreisen, an die es auch wirklich nur ein Rankommen gibt, wenn man zu den Besten gehört. Doch das Blatt wendet sich für die Berufsmörderin, als einer ihrer Jobs schiefläuft. Um Gras über die Sache wachsen zu lassen, schickt ihr Boss Simon seine Top-Killerin in Zwangsurlaub – das glaubt zumindest Ava. Was die rothaarige Femme fatale allerdings nicht weiß: Simon hat ihr eine Reihe ihrer Kollegen auf den Hals gehetzt, um sie ein für alle mal auszuschalten. Und plötzlich ist sie die Gejagte, die nun Hilfe bei ihrem Ex-Verlobten Michael und ihrem Mentor Duke sucht...",
+    "popularity": 382.879,
+    "poster_path": "/dPNvCeOcdbi7BMh9utuJTfW9R1Q.jpg",
+    "production_companies": [
+        {
+            "id": 83210,
+            "logo_path": null,
+            "name": "Freckle Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 88606,
+            "logo_path": "/3w49QoRwptUujWxSjcR3iEr1XSU.png",
+            "name": "Vertical Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2020-07-02",
+    "revenue": 2987741,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Töten, oder getötet werden.",
+    "title": "Code Ava - Trained to Kill",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 1734
+}

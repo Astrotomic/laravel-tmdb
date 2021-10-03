@@ -1,0 +1,68 @@
+{
+    "id": 448150,
+    "name": "Deadpool Filmreihe",
+    "overview": "Eine Filmreihe über den gleichnamigen Anti-Superhelden. Eine lustige und humorvolle Seite der X-Men.",
+    "poster_path": "/ccC5pr4s8BtDPt5VtIEUKKn5z3u.jpg",
+    "backdrop_path": "/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 293660,
+            "original_language": "en",
+            "original_title": "Deadpool",
+            "overview": "Um seinem sicheren Tod durch Krebs zu entkommen, willigt Wade Wilson in ein riskantes Experiment ein, das ihn heilen und in einen Supersöldner verwandeln soll. Doch den Preis für sein Überleben bezahlt Wilson am Ende mit schweren Qualen und körperlicher Entstellung. Getrieben von Rache und durch Selbstheilungskräfte nahezu unsterblich geworden, jagt Wilson nun als Mutant Deadpool seine Peiniger und gefährdet damit seine große Liebe Vanessa, die er nach seiner Verwandlung voller Scham aus seinem Leben verbannte.",
+            "poster_path": "/VEfCqkbK062Egob26rYQWAJoE7.jpg",
+            "release_date": "2016-02-09",
+            "title": "Deadpool",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 25544,
+            "popularity": 128.981
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Deadpool 2",
+            "poster_path": "/uC7YwWcXusYgpWHSxl6njJDiFfk.jpg",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 13747,
+            "overview": "Nach einem weiteren herben Schicksalsschlag ist Deadpool des Lebens überdrüssig und versucht sich mithilfe von Benzinkanistern und einer Zigarette umzubringen. Doch der unkaputtbare Antiheld wird von seinem X-Men-Kumpanen Colossus gerettet und mit auf das abgeschiedene Anwesen der Mutanten genommen. Durch einen Zwischenfall mit dem Teenager-Mutanten Russell lernt Deadpool den Superschurken Cable kennen, der es auf den wütenden Halbstarken abgesehen hat. Zunächst kann Deadpool die Situation entschärfen – doch dann landen Russell und er plötzlich im Knast. Nun stellt er sich seine eigene Superheldencrew zusammen und rekrutiert unter anderem Domino und Zeitgeist um es mit Cable aufzunehmen…",
+            "release_date": "2018-05-10",
+            "title": "Deadpool 2",
+            "id": 383498,
+            "popularity": 101.249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cmjxiHqQL3cwkhb8A1HQBIaLc39.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Deadpool 3",
+            "poster_path": "/1SlhjVF0QYYd3c8fJehGDrFfrQI.jpg",
+            "vote_count": 0,
+            "video": false,
+            "id": 533535,
+            "vote_average": 0,
+            "overview": "",
+            "title": "Deadpool 3",
+            "popularity": 68.986
+        }
+    ]
+}

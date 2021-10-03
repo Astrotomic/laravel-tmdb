@@ -1,0 +1,49 @@
+{
+    "id": 217704,
+    "name": "Chronik der Vampire Filmreihe",
+    "overview": "Filmreihe US-amerikanischer Fantasyfilme basierend auf den Romanen von Anne Rice. Im Mittelpunkt der Filme und Romane steht der Vampir Lestat.",
+    "poster_path": "/2ebHBToHZZyAf8R9Eg3OZIdDkx3.jpg",
+    "backdrop_path": "/5margBoJC97ZrciVpAUc0PiY6Rc.jpg",
+    "parts": [
+        {
+            "id": 628,
+            "overview": "Der Vampir Louis erzählt in der Jetztzeit dem Journalisten Malloy die Geschichte seiner Existenz: Als Plantagenbesitzer wird er, nachdem er im Anschluß an den Tod seiner Frau jeden Lebensmut verloren hat, im Jahre 1791 von dem Vampir Lestat auf eigenen Wunsch gebissen und selbst zu einem Vampir gemacht. Doch Louis fängt schon bald an, seine Existenz zu hassen und will schon bald keine Menschen mehr töten. Damit Louis wie in einer Familie leben kann, macht Lestat auch ein kleines Mädchen zu einem Vampir. Doch Konflikte sind vorprogrammiert, während die Zeit vergeht und Louis und Lestat werden zu Feinden.",
+            "release_date": "1994-11-11",
+            "adult": false,
+            "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+            "genre_ids": [
+                27,
+                18,
+                14
+            ],
+            "vote_count": 4329,
+            "original_language": "en",
+            "original_title": "Interview with the Vampire",
+            "poster_path": "/6I0YePV2dowtoxZ2COHja17h6Uk.jpg",
+            "title": "Interview mit einem Vampir",
+            "video": false,
+            "vote_average": 7.4,
+            "popularity": 22.585
+        },
+        {
+            "backdrop_path": "/xPNqj8HMdl8872Zg6mTt4LBZnzE.jpg",
+            "title": "Die Königin der Verdammten",
+            "genre_ids": [
+                18,
+                14,
+                27
+            ],
+            "original_language": "en",
+            "original_title": "Queen of the Damned",
+            "poster_path": "/aIf2n989vgLbj5TYPIu0iEnMgpp.jpg",
+            "video": false,
+            "vote_average": 6,
+            "overview": "Der legendäre Vampir Lestat erwacht nach jahrzehntelangem Schlaf durch die Klänge einer Amateur-Rockband. Er schließt sich den Musikern an und wird selbst Rockstar. Seine Musik wiederum erweckt Akasha, die Mutter aller Vampire.",
+            "release_date": "2002-02-10",
+            "vote_count": 753,
+            "id": 11979,
+            "adult": false,
+            "popularity": 12.229
+        }
+    ]
+}

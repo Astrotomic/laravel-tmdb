@@ -17,10 +17,10 @@ use Astrotomic\Tmdb\Requests\Movie\TopRated;
 use Astrotomic\Tmdb\Requests\Movie\Upcoming;
 use Astrotomic\Tmdb\Requests\Movie\WatchProviders;
 use Carbon\CarbonInterval;
-use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Database\Eloquent\Collection as EloquentCollection;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
-use Illuminate\Support\Facades\DB;
 use Illuminate\Support\LazyCollection;
 
 /**
@@ -49,13 +49,14 @@ use Illuminate\Support\LazyCollection;
  * @property \Carbon\Carbon|null $created_at
  * @property \Carbon\Carbon|null $updated_at
  * @property-read array $translations
+ * @property-read \Astrotomic\Tmdb\Models\Collection|null $collection
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\MovieGenre[] $genres
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $credits
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $cast
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $crew
  *
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newModelQuery()
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newModelQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder query()
  *
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder
@@ -87,6 +88,7 @@ class Movie extends Model
         'tagline',
         'title',
         'status',
+        'collection_id',
     ];
 
     protected $casts = [
@@ -103,6 +105,7 @@ class Movie extends Model
         'production_countries' => 'array',
         'spoken_languages' => 'array',
         'status' => MovieStatus::class.':nullable',
+        'collection_id' => 'int',
     ];
 
     public array $translatable = [
@@ -113,7 +116,7 @@ class Movie extends Model
         'homepage',
     ];
 
-    public static function popular(?int $limit): Collection
+    public static function popular(?int $limit): EloquentCollection
     {
         $ids = Popular::request()
             ->cursor()
@@ -123,7 +126,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public static function toprated(?int $limit): Collection
+    public static function toprated(?int $limit): EloquentCollection
     {
         $ids = TopRated::request()
             ->cursor()
@@ -133,7 +136,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public static function upcoming(?int $limit): Collection
+    public static function upcoming(?int $limit): EloquentCollection
     {
         $ids = Upcoming::request()
             ->cursor()
@@ -146,6 +149,11 @@ class Movie extends Model
     public function genres(): BelongsToMany
     {
         return $this->belongsToMany(MovieGenre::class, 'movie_movie_genre');
+    }
+
+    public function collection(): BelongsTo
+    {
+        return $this->belongsTo(Collection::class);
     }
 
     /**
@@ -229,38 +237,42 @@ class Movie extends Model
             return false;
         }
 
-        return DB::transaction(function () use ($data, $locale, $with): bool {
-            if (! $this->fillFromTmdb($data, $locale)->save()) {
-                return false;
-            }
+        if (! $this->fillFromTmdb($data, $locale)->save()) {
+            return false;
+        }
 
-            $this->genres()->sync(
-                collect($data['genres'] ?: [])
-                    ->map(static function (array $data) use ($locale): MovieGenre {
-                        $genre = MovieGenre::query()->findOrNew($data['id']);
-                        $genre->fillFromTmdb($data, $locale)->save();
+        $this->genres()->sync(
+            collect($data['genres'] ?: [])
+                ->map(static function (array $data) use ($locale): MovieGenre {
+                    $genre = MovieGenre::query()->findOrNew($data['id']);
+                    $genre->fillFromTmdb($data, $locale)->save();
 
-                        return $genre;
-                    })
-                    ->pluck('id')
-            );
+                    return $genre;
+                })
+                ->pluck('id')
+        );
 
-            if (isset($data['credits'])) {
-                if (in_array('credits', $with) || in_array('cast', $with)) {
-                    foreach ($data['credits']['cast'] as $cast) {
-                        Credit::query()->find($cast['credit_id']);
-                    }
-                }
+        if ($data['belongs_to_collection']) {
+            $this->collection()->associate(
+                Collection::query()->findOrFail($data['belongs_to_collection']['id'])
+            )->save();
+        }
 
-                if (in_array('credits', $with) || in_array('crew', $with)) {
-                    foreach ($data['credits']['crew'] as $crew) {
-                        Credit::query()->find($crew['credit_id']);
-                    }
+        if (isset($data['credits'])) {
+            if (in_array('credits', $with) || in_array('cast', $with)) {
+                foreach ($data['credits']['cast'] as $cast) {
+                    Credit::query()->findOrFail($cast['credit_id']);
                 }
             }
 
-            return true;
-        });
+            if (in_array('credits', $with) || in_array('crew', $with)) {
+                foreach ($data['credits']['crew'] as $crew) {
+                    Credit::query()->findOrFail($crew['credit_id']);
+                }
+            }
+        }
+
+        return true;
     }
 
     public function newEloquentBuilder($query): MovieBuilder
@@ -293,7 +305,7 @@ class Movie extends Model
         );
     }
 
-    public function recommendations(?int $limit): Collection
+    public function recommendations(?int $limit): EloquentCollection
     {
         $ids = Recommendations::request($this->id)
             ->cursor()
@@ -303,7 +315,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public function similars(?int $limit): Collection
+    public function similars(?int $limit): EloquentCollection
     {
         $ids = Similars::request($this->id)
             ->cursor()
@@ -313,7 +325,7 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public function watchProviders(?string $region = null, ?WatchProviderType $type = null): Collection
+    public function watchProviders(?string $region = null, ?WatchProviderType $type = null): EloquentCollection
     {
         return WatchProvider::query()->findMany(
             WatchProviders::request($this->id)->send()->collect(sprintf(

@@ -1,0 +1,67 @@
+{
+    "adult": false,
+    "backdrop_path": "/hDC6IpSg01T3QukfF9qkslQvWUF.jpg",
+    "belongs_to_collection": {
+        "id": 126209,
+        "name": "Halloween (Remake) Filmreihe",
+        "poster_path": "/gpFh3wieLjNVU6Q67EFyQZTTh4H.jpg",
+        "backdrop_path": "/tXXPOkcFLcDiJ4OU5SOU3JnhQrg.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "http://www.halloweenmovies.com/",
+    "id": 2082,
+    "imdb_id": "tt0373883",
+    "original_language": "en",
+    "original_title": "Halloween",
+    "overview": "Als der zehnjährige Michael Myers in der Nacht von Halloween zum ersten Mal mordet, sind die Bewohner der Kleinstadt Haddonfield in Illinois fassungslos. Nur zu gern möchte man diesen schrecklichen Vorfall schnell vergessen. Michael wird in eine geschlossene Anstalt gesteckt, wo Dr. Loomis jahrelang versucht, mit dem Jungen zu kommunizieren. Während sich Haddonfields Teenager Jahre später auf ein neues Halloween vorbereiten, flieht der inzwischen 25-jährige Michael aus der Anstalt. Und nun ist niemand mehr vor dem eiskalten Maskenmörder sicher.",
+    "popularity": 40.838,
+    "poster_path": "/9zsbtHyesDB3pLZ143KIHaLSIKo.jpg",
+    "production_companies": [
+        {
+            "id": 7405,
+            "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+            "name": "Dimension Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 21438,
+            "logo_path": null,
+            "name": "Nightfall Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 10370,
+            "logo_path": null,
+            "name": "Spectacle Entertainment Group",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-08-31",
+    "revenue": 80253908,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Halloween",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 1595
+}

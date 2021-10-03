@@ -1,0 +1,67 @@
+{
+    "id": 52760,
+    "name": "Düstere Legenden Filmreihe",
+    "overview": "Filmreihe US-amerikanischer Horror-Thriller über einen Serienkiller, der seine Mordmethoden aus alten Legenden bezieht.",
+    "poster_path": "/s3Hig0DwncXYnuHR8iCr0jmFFKG.jpg",
+    "backdrop_path": "/hSMhHSKOXLe0VGiDSbTwBbX55xv.jpg",
+    "parts": [
+        {
+            "id": 9877,
+            "vote_average": 5.7,
+            "overview": "Pendelton College, New England. Der Jahrestag des brutalen Serienkiller-Massakers in der Stanley Hall der Traditions-Uni soll mit einer makabren Party gefeiert werden. Doch die düstere Legende, die vor 25 Jahren mit der Klinge eines irren Mörders geschaffen wurde, streckt ihre Krallen in die Gegenwart. Ein Psychopath geht um und mordet scheinbar wahllos. Schulleitung und Studenten sind hilflos und entsetzt. Doch Natalie und ihre Freunde Parker, Brenda, Sasha, Damon und Paul wollen nicht wie die Kaninchen vor der Schlange erstarren. Viel können sie gegen das Morden nicht ausrichten. Und sie können sich gegenseitig nicht trauen.",
+            "release_date": "1998-09-25",
+            "adult": false,
+            "backdrop_path": "/kB2RfRIIvQ8l7uMtLKl7cmwEUyu.jpg",
+            "vote_count": 912,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "Urban Legend",
+            "poster_path": "/qdwdjN6MYg3ThNdZcaGDGoZYjMg.jpg",
+            "title": "Düstere Legenden",
+            "popularity": 10.707
+        },
+        {
+            "video": false,
+            "vote_average": 4.8,
+            "overview": "Die Studentin Amy Mayfield versucht, ihre Dokumentation über “Düstere Legenden” fertigzustellen und an der Orson-Welles-Filmhochschule herrscht Hochstimmung, steht doch der Wettbewerb um den Alfred-Hitchcock-Preis bevor, dessen Gewinner nicht nur 15.000 Dollar, sondern obendrein einen Dreh in Hollywood ergattert. Schon kurz nach Beginn des Wettbewerbes häufen sich mysteriöse Todesfälle, von denen insbesondere das Set der Filmstudentin Amy Mayfield betroffen ist. Als Amy, ihrerseits Erbin einer traditionsreichen Filmdynastie, auf eigene Faust den Täter zu ermitteln trachtet, ist sie erfolgreicher, als ihr lieb sein kann.",
+            "release_date": "2000-09-22",
+            "vote_count": 327,
+            "adult": false,
+            "backdrop_path": "/sOn1tOLzvhRaEtOdRP4dxmweNBN.jpg",
+            "title": "Düstere Legenden 2",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 12212,
+            "original_language": "en",
+            "original_title": "Urban Legends: Final Cut",
+            "poster_path": "/AefV65dQckaD9gzJJWdbdyrbyJr.jpg",
+            "popularity": 13.939
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4hcrR3rTNFLxTc7Vt7gCf1IFx3i.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "vote_count": 186,
+            "original_language": "en",
+            "original_title": "Urban Legends: Bloody Mary",
+            "poster_path": "/fJXpKZuORlmDGYIV9n25BmDDaKb.jpg",
+            "id": 10292,
+            "video": false,
+            "vote_average": 5,
+            "title": "Düstere Legenden 3",
+            "overview": "Samantha und zwei ihrer Freundinnen sind durch einen Zeitungsartikel, den sie für die Studentenzeitung verfasst haben, bei den Burschen des Football-Teams ihrer Uni in Misskredit geraten. Statt Partys zu feiern, sitzen die drei nun bei Sam und erzählen sich legendäre Schauergeschichten. Als sie dabei den Geist der in jungen Jahren gewaltsam ums Leben gekommenen ‚Bloody Mary‘ erwecken, treten sie eine mysteriöse Mordserie los.",
+            "release_date": "2005-07-19",
+            "popularity": 14.585
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/3emtmbHAp145frh3Pps1bZCCEHY.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://disney.de/filme/raya-und-der-letzte-drache",
+    "id": 527774,
+    "imdb_id": "tt5109280",
+    "original_language": "en",
+    "original_title": "Raya and the Last Dragon",
+    "overview": "In einem Land namens Kumandra sucht ein Krieger namens Raya nach dem letzten Drachen der Welt. Kumandra besteht aus fünf verschiedenen Clans und ist durch Süd-Ost-Asien inspiriert worden. In Kumandra lebten auch einst Drachen, die jedoch durch eine dunkle, finstere Macht verschwunden sind.  Die Kriegerin Raya lebt in Kumandra, die sich dort zusammen mit einer Gruppe von Außenseitern auf eine Reise begibt, um den letzten Drachen zu finden. Der Drache soll Licht und Einheit in die Welt zurückbringen. Sie finden den Drachen namens Sisu letztendlich, welcher jedoch ihnen in menschlicher Form begegnet. Raya hilft dem Drachen wieder seine Kräfte wiederzuerlangen, damit er sich in seine Drachenform zurückverwandeln kann.",
+    "popularity": 377.311,
+    "poster_path": "/5HG92OaqBXXKAlFx5ZDHD8mT29Z.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6125,
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-03-03",
+    "revenue": 130000000,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Eine Aufgabe ihre Welt zu retten",
+    "title": "Raya und der letzte Drache",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 4355
+}

@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/2kSgmFpvHaktkNFwf9a5zyFRtLs.jpg",
+    "belongs_to_collection": {
+        "id": 90863,
+        "name": "Rush Hour Filmreihe",
+        "poster_path": "/pEvK2AoBnhC1RgqB7VRbBCMDq23.jpg",
+        "backdrop_path": "/uoDt3eCCKpcxSQVWjPTgN8T0gjm.jpg"
+    },
+    "budget": 33000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 2109,
+    "imdb_id": "tt0120812",
+    "original_language": "en",
+    "original_title": "Rush Hour",
+    "overview": "Um dem FBI zu helfen, seine entführte Tochter wieder zu bekommen, wird Inspektor Lee von seinem Freund Konsul Han aus Hong Kong nach Los Angeles gerufen. Das FBI hat allerdings kein Interesse an ausländischer Hilfe, deshalb soll James Carter, Polizist des LAPD, der kurz vor der Suspendierung steht, ihnen den Asiaten vom Hals halten.",
+    "popularity": 37.761,
+    "poster_path": "/c37V8Gj41dzXEnmWKiQJEyc2yEO.jpg",
+    "production_companies": [
+        {
+            "id": 961,
+            "logo_path": null,
+            "name": "Roger Birnbaum Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-09-18",
+    "revenue": 244721064,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rush Hour",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 3399
+}

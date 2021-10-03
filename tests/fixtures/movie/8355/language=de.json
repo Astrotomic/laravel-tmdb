@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg",
+    "belongs_to_collection": {
+        "id": 8354,
+        "name": "Ice Age Filmreihe",
+        "poster_path": "/5YdZLglqbXKjozGZO8z2emX4XKl.jpg",
+        "backdrop_path": "/2Mb92Ssoe1eUecvrCe2pEvgAlmv.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://www.fox.de/ice-age-3-die-dinosaurier-sind-los",
+    "id": 8355,
+    "imdb_id": "tt1080016",
+    "original_language": "en",
+    "original_title": "Ice Age: Dawn of the Dinosaurs",
+    "overview": "Die drei \"Ice Age\"-Helden Diego, Sid und Manni haben die grosse Schmelze aus dem zweiten Teil überstanden. Ellie und Manni, die beiden Mammuts, erwarten Nachwuchs und Sid hegt ebenfalls den Gedanken, die Familiengründung so langsam zu beginnen. Dass er sich dazu die Eier eines T-Rex Weibchens zu eigen macht, stösst bei dieser nicht gerade auf Wohlwollen. Kurzum wird Sid verschleppt und findet sich einer schier ausweglosen Situation in einer grossen Dinosaurier-Welt wieder. Nun sind seine Freunde gefragt, denn nur sie können das Faultier befreien.",
+    "popularity": 81.755,
+    "poster_path": "/lIbYpUjwGTk0FZOSB3UfGZtNsJc.jpg",
+    "production_companies": [
+        {
+            "id": 9383,
+            "logo_path": "/ppeMh4iZJQUMm1nAjRALeNhWDfU.png",
+            "name": "Blue Sky Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 11749,
+            "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+            "name": "20th Century Fox Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-06-26",
+    "revenue": 886686817,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Eiszeit-Helden sind zurück!",
+    "title": "Ice Age 3 - Die Dinosaurier sind los",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 6500
+}

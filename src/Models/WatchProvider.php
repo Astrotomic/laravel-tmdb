@@ -8,8 +8,19 @@ use Astrotomic\Tmdb\Images\Logo;
 use Astrotomic\Tmdb\Requests\WatchProvider\MovieListAll;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Support\Collection;
-use Illuminate\Support\Facades\DB;
 
+/**
+ * @property int $id
+ * @property string|null $name
+ * @property string|null $logo_path
+ * @property int $display_priority
+ *
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\WatchProviderBuilder newModelQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\WatchProviderBuilder newQuery()
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\WatchProviderBuilder query()
+ *
+ * @mixin \Astrotomic\Tmdb\Eloquent\Builders\WatchProviderBuilder
+ */
 class WatchProvider extends Model
 {
     protected $fillable = [
@@ -31,22 +42,20 @@ class WatchProvider extends Model
 
     public static function all($columns = ['*']): EloquentCollection
     {
-        return DB::transaction(function () use ($columns): EloquentCollection {
-            $data = rescue(fn () => MovieListAll::request()->send()->collect('results'));
+        $data = rescue(fn () => MovieListAll::request()->send()->collect('results'));
 
-            if ($data instanceof Collection) {
-                $data->each(fn (array $provider) => static::query()->updateOrCreate(
-                    ['id' => $provider['provider_id']],
-                    [
-                        'display_priority' => $provider['display_priority'],
-                        'name' => $provider['provider_name'],
-                        'logo_path' => $provider['logo_path'],
-                    ],
-                ));
-            }
+        if ($data instanceof Collection) {
+            $data->each(fn (array $provider) => static::query()->updateOrCreate(
+                ['id' => $provider['provider_id']],
+                [
+                    'display_priority' => $provider['display_priority'],
+                    'name' => $provider['provider_name'],
+                    'logo_path' => $provider['logo_path'],
+                ],
+            ));
+        }
 
-            return parent::all($columns);
-        });
+        return parent::all($columns);
     }
 
     public function fillFromTmdb(array $data, ?string $locale = null): static

@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/pVNXmfZvQKFdUKVYNJxZAiy69DC.jpg",
+    "belongs_to_collection": {
+        "id": 579873,
+        "name": "Major Grom Filmreihe",
+        "poster_path": "/oZXDFCajhnoTSxkRzQfW4B813bJ.jpg",
+        "backdrop_path": "/wAS75CgE26EvSER1t9hGUUIYyqj.jpg"
+    },
+    "budget": 5000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://majorgrom.com/",
+    "id": 529106,
+    "imdb_id": "tt7601480",
+    "original_language": "ru",
+    "original_title": "Майор Гром: Чумной Доктор",
+    "overview": "Polizeimajor Igor Grom (Tikhon Zhiznevskiy) ist in ganz St. Petersburg für seinen durchdringenden Charakter und seine gnadenlose Haltung gegenüber Kriminellen aller Art bekannt. Alles ändert sich dramatisch mit dem Erscheinen einer Person in der Maske eines Pestarztes. Nachdem er erklärt hat, seine Stadt sei an der „Plage der Gesetzlosigkeit“ erkrankt, nimmt er seine Art von „Behandlung“ auf und tötet Menschen, die einst dank viel Geld und einem hohem Status in der Gesellschaft der Bestrafung entkommen sind. Die Bevölkerung ist unruhig. Die Polizisten sind machtlos. Zum ersten Mal hat Igor Schwierigkeiten bei einem Fall, dessen Aufklärung das Schicksal der ganzen Stadt bestimmen kann.",
+    "popularity": 376.326,
+    "poster_path": "/yBkZlG55CprznYxwUcGY6r3ZXP6.jpg",
+    "production_companies": [
+        {
+            "id": 86050,
+            "logo_path": null,
+            "name": "Bubble Studios",
+            "origin_country": "RU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+        }
+    ],
+    "release_date": "2021-04-01",
+    "revenue": 4493306,
+    "runtime": 136,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Major Grom: Der Pestdoktor",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 316
+}

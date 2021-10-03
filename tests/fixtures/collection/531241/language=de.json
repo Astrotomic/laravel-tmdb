@@ -1,0 +1,71 @@
+{
+    "id": 531241,
+    "name": "Spider-Man (Avengers) Filmreihe",
+    "overview": "Spider-Man alias Peter Parker ist eine von Stan Lee und Steve Ditko erfundene Comicfigur, die 1962 in der Reihe „Amazing Fantasy“ erstmals auftauchte und heute zu den populärsten Superhelden der Welt gehört.",
+    "poster_path": "/9yIugFpGBsZJLC634HS7ynFpgAD.jpg",
+    "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                18
+            ],
+            "id": 315635,
+            "original_language": "en",
+            "original_title": "Spider-Man: Homecoming",
+            "overview": "Nach seinem Aufeinandertreffen mit den Avengers ist Peter Parker alias Spider-Man wieder zurück in New York, wo er bei seiner Tante May wohnt. Seitdem er mit bzw. gegen die anderen Helden kämpfte, fragt er sich, ob er mit seinen herausragenden Fähigkeiten nicht mehr machen sollte, als nur die freundliche Spinne aus der Nachbarschaft zu sein, die den einen oder anderen Einbruch verhindert und Taschendiebe stoppt. Doch daneben muss der von seinem neuen Mentor Tony Stark geförderte Jugendliche auch noch den Alltag auf die Reihe bekommen, den Alltag als Teenager an einer Highschool, wo er sich in Liz verguckt hat. Blöd, dass ausgerechnet in dieser Situation ein Bösewicht für Unruhe sorgt, der technisch bestens ausgestattet ist und von Rachedurst getrieben: der Vogelmann Vulture ...",
+            "poster_path": "/uPXHsm21SBajNnbrSOGf67l9iFc.jpg",
+            "release_date": "2017-07-05",
+            "title": "Spider-Man: Homecoming",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 16877,
+            "popularity": 176.376
+        },
+        {
+            "original_title": "Spider-Man: Far From Home",
+            "poster_path": "/4dgAnH5LSiQZkon2OhyjflatEU.jpg",
+            "video": false,
+            "vote_average": 7.5,
+            "overview": "Nach der epischen Schlacht gegen Thanos und den schicksalshaften Ereignissen um die Avengers ist Peter zurück an seiner alten Schule. Um vom Superheldendasein etwas auszuruhen, kommt ihm eine Klassenfahrt nach Europa gerade recht, auch um seiner heimlichen Liebe \"MJ\" endlich seine Gefühle gestehen zu können. Die erste Station ist Venedig in Italien. Nach einer entspannten Gondelfahrt mit der Reisegruppe bricht aber plötzlich das Chaos los: Ein riesiges Monster kommt aus dem Wasser und greift die Stadt an. Dem stellt sich ein bisher unbekannter Superheld namens Mysterio entgegen. Und als wäre das nicht genug, taucht dann noch Nick Fury auf, um Spider-Man für eine Mission zu rekrutieren...",
+            "release_date": "2019-06-28",
+            "vote_count": 10684,
+            "adult": false,
+            "backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+            "title": "Spider-Man: Far From Home",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 429617,
+            "original_language": "en",
+            "popularity": 188.045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRNMwIvEnYEMwGHLCAACyuq2I1K.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                14
+            ],
+            "id": 634649,
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "",
+            "poster_path": "/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.jpg",
+            "release_date": "2021-12-15",
+            "title": "Spider-Man No Way Home",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 262.384
+        }
+    ]
+}

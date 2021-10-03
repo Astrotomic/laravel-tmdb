@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/rNyd1KsZUUf8K4fk22FJ4MrLabV.jpg",
+    "belongs_to_collection": null,
+    "budget": 4000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 153,
+    "imdb_id": "tt0335266",
+    "original_language": "en",
+    "original_title": "Lost in Translation",
+    "overview": "Bob Harris und Charlotte sind zwei ziellose Amerikaner in Tokio. Bob, ein Schauspieler, der gerade in der Stadt einen Werbespot für Whiskey dreht und Charlotte, eine junge, frisch verheiratete Frau, die ihren Mann, einen vielbeschäftigten Fotografen, begleitet. In einer schlaflosen Nacht lernen sich Bob und Charlotte an der Bar eines Luxushotels kennen. Was als eine zufällige Begegnung beginnt, entwickelt sich überraschend schnell zu einer ungewöhnlichen Freundschaft. Ihre gemeinsamen Streifzüge durch die fremde Metropole führen sie nicht nur in amüsant bizarre Situationen, sondern eröffnen den beiden ungeahnte Perspektiven und einen überraschenden Blick auf ein Leben, das sie bisher nicht kannten.",
+    "popularity": 17.093,
+    "poster_path": "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
+    "production_companies": [
+        {
+            "id": 70,
+            "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+            "name": "American Zoetrope",
+            "origin_country": "US"
+        },
+        {
+            "id": 10146,
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "origin_country": "US"
+        },
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113241,
+            "logo_path": "/5VTEPsdFToSv89HyCtUTAElsnQk.png",
+            "name": "Elemental Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-09-18",
+    "revenue": 119723856,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Zwischen den Welten",
+    "title": "Lost in Translation",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 5585
+}

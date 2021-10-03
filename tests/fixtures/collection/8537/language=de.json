@@ -1,0 +1,110 @@
+{
+    "id": 8537,
+    "name": "Superman Filmreihe",
+    "overview": "Er ist der amerikanische Superheld: Superman. In Cleveland in dem US-Bundesstaat Ohio kreierten der amerikanische Autor Jerry Siegel und der aus Kanada stammende Künstler Joe Shuster bereits 1932 die spätere Popikone. 1938 erschien der mutige Held erstmals in einem Comic und tauchte anschließend auch in Radioserien, im Fernsehen, Filmen, Comicscripts in Tageszeitungen und in Videospielen auf.",
+    "poster_path": "/iun7YRHwTWG6bqm1j5N8Q5wTO7l.jpg",
+    "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg",
+    "parts": [
+        {
+            "original_title": "Superman",
+            "poster_path": "/k3JcogZOGWZWuTXJZrjqgMVxUjG.jpg",
+            "video": false,
+            "vote_average": 7.1,
+            "overview": "Kurz vor der Zerstörung seines Heimatplaneten Krypton wird der kleine Kal-El von seinen Eltern in einer Raumkapsel Richtung Erde geschickt. Dort findet ihn das Farmerehepaar Kent, das ihm den Namen Clark gibt. Schon früh stellt sich heraus, dass ihr Ziehsohn außergewöhnliche Fähigkeiten besitzt. Erwachsen geworden, arbeitet Clark als unscheinbarer Reporter beim Daily Planet, wo er sich in seine Kollegin Lois Lane verliebt. Die hat jedoch nur Augen für Superman, nicht ahnend, dass der Held und Clark Kent ein und dieselbe Person sind.",
+            "release_date": "1978-12-13",
+            "id": 1924,
+            "adult": false,
+            "backdrop_path": "/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg",
+            "vote_count": 2802,
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "title": "Superman",
+            "original_language": "en",
+            "popularity": 29.941
+        },
+        {
+            "genre_ids": [
+                35,
+                878,
+                28,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Superman III",
+            "poster_path": "/O2ArdmW04KHFxHbz800b7WhknE.jpg",
+            "video": false,
+            "vote_average": 5.5,
+            "overview": "Der wohlhabende Geschäftsmann Ross Webster engagiert den Computerfreak Gus Gorman, um seine Talente zum Zusammenbruch der Weltwirtschaft zu nutzen. Als Superman dazwischenfunkt, setzt Webster synthetisches Kryptonit gegen den Mann aus Stahl ein, was den Superhelden in einen Bösewicht verwandelt. Jetzt liegt es an Clark Kent, die Welt zu retten.",
+            "release_date": "1983-06-17",
+            "vote_count": 1253,
+            "title": "Superman III - Der stählerne Blitz",
+            "adult": false,
+            "backdrop_path": "/qvBt5JJKX3rnmAU3CIZOGrOaq8m.jpg",
+            "id": 9531,
+            "popularity": 10.747
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3KAZQXUJn1MG8QTIfzgHrZcpF4V.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 8536,
+            "original_language": "en",
+            "original_title": "Superman II",
+            "overview": "Zweiter Teil der erfolgreichen Comicverfilmungen. Terroristen besetzen den Eiffelturm und drohen, eine Wasserstoffbombe zu zünden. Superman schafft es, die Bombe im Weltall zu entsorgen. Die Explosion befreit General Zod, Ursa und Non, die in der Phantomzone gefangen waren. Clark Kent, der inzwischen für Lois Lane seine Superkräfte aufgegeben hat, nimmt den Kampf gegen die Verbrecher auf.",
+            "poster_path": "/jw0tYFCbzjBN8SIhvRC2kdh7pzh.jpg",
+            "release_date": "1980-12-04",
+            "title": "Superman II - Allein gegen alle",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1676,
+            "popularity": 18.336
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "vote_count": 3221,
+            "original_language": "en",
+            "original_title": "Superman Returns",
+            "poster_path": "/319jLYLTuOME7xRWExjKFfP8pnN.jpg",
+            "title": "Superman Returns",
+            "video": false,
+            "vote_average": 5.7,
+            "release_date": "2006-06-28",
+            "overview": "Während der fünf Jahre, in denen Superman seinen Heimatplaneten suchte, änderten sich die Dinge auf seinem adoptierten Planeten. Nationen entwickelten sich ohne ihn weiter. Lois Lane hat jetzt einen Sohn, einen Verlobten und den Pulitzerpreis für \"Warum die Welt Superman nicht braucht.\" Und Lex Luthor hat einen Plan, der Milliarden von Leben zerstören wird.",
+            "id": 1452,
+            "popularity": 20.471
+        },
+        {
+            "original_title": "Superman IV: The Quest for Peace",
+            "poster_path": "/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg",
+            "video": false,
+            "vote_average": 4.5,
+            "overview": "Lex Luther, Supermans ständiger Gegner, hat einen neuen Anschlag auf Superman vor: Er stiehlt ihm ein Haar und benutzt es, um mit seiner Hilfe den “Nuclear-Man” herzustellen, der seine Energie aus der Sonne bezieht. Dieser soll Superman töten, damit Lex seine finsteren Pläne in die Tat umsetzen kann.",
+            "id": 11411,
+            "vote_count": 880,
+            "adult": false,
+            "backdrop_path": "/5VdpO1zWqritRhZnulbbhprBatW.jpg",
+            "title": "Superman IV - Die Welt am Abgrund",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "release_date": "1987-07-23",
+            "original_language": "en",
+            "popularity": 13.078
+        }
+    ]
+}

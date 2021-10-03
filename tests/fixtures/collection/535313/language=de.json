@@ -1,0 +1,68 @@
+{
+    "id": 535313,
+    "name": "Godzilla Filmreihe",
+    "overview": "Das MonsterVerse ist ein US-amerikanisches Filmfranchise und geteiltes Universum, mit Fokus auf Monsterfilme rund um Godzilla und King Kong. Die Filme werden von Legendary Pictures und Warner Bros. produziert, wobei letztere hier auch als Vertrieb fungiert. Der erste Film war das Reboot zu Godzilla, welches am 15. Mai 2014 in die deutschen Kinos kam. Mit Kong: Skull Island folgte am 9. März 2017 ein Zweiter Film, welcher ebenfalls ein Reboot zu King Kong darstellt. Am 30. Mai 2019 folgte mit der Veröffentlichung von Godzilla II: King of the Monsters ein Sequel zu Godzilla, welches in der Veröffentlichung von Godzilla vs. Kong 2021 münden wird.",
+    "poster_path": "/inNN466SKHNjbGmpfhfsaPQNleS.jpg",
+    "backdrop_path": "/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/30BxobPLvzTp3ziDDPDnKLQUzi8.jpg",
+            "id": 373571,
+            "original_language": "en",
+            "original_title": "Godzilla: King of the Monsters",
+            "poster_path": "/xVSfmpNmKs7pH7ejaGjQlN5dwRH.jpg",
+            "vote_count": 4410,
+            "video": false,
+            "vote_average": 6.7,
+            "title": "Godzilla II: King of the Monsters",
+            "overview": "Nachdem der Nuklearwissenschaftler Joe Brody und sein beim US-Militär stationierter Sohn Ford herausfanden, dass der skrupellose Ichiro Serizawa nach einer Beinahe-Reaktorkatastrophe im japanischen Janjira an einer riesigen, urzeitlichen Kreatur herumexperimentiert, konnte gegen das \"Muto\" getaufte Wesen nur einer etwas ausrichten: Godzilla. Jetzt müssen die Krypto-Zoologen von Monarch allerdings einen Weg finden, gleich mit einer Reihe von Urzeit-Monstern fertig zu werden. Eine entscheidende Rolle dabei spielt die Paleo-Biologin Emma Russell, die einen Weg gefunden hat, via Sonar mit den gigantischen Wesen zu kommunizieren. Neben Godzilla, mit dem vor allem Russells Ex-Ehemann Mark eine Rechnung offen hat, sind es vor allem dessen Feinde Mothra, Rodan sowie der dreiköpfige King Ghidorah, die den Lebensraum der Menschen für immer zerstören könnten …",
+            "release_date": "2019-05-29",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "popularity": 63.794
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg",
+            "genre_ids": [
+                28,
+                18,
+                878
+            ],
+            "vote_count": 7185,
+            "original_language": "en",
+            "original_title": "Godzilla",
+            "poster_path": "/3kA8fyXc6jBWfNxW5m76ODDq2dd.jpg",
+            "title": "Godzilla",
+            "video": false,
+            "id": 124905,
+            "vote_average": 6.2,
+            "overview": "In einem japanischen Atomkraftwerk, in dem der amerikanische Ingenieur Joe Brody und seine Frau Sandra beschäftigt sind, kommt es zu einer Katastrophe. Noch Jahre später versucht Joe, der als einer der wenigen überlebt hat, die wahren Ursachen des Unglücks aufzuklären. Und seine Intuition gibt ihm Recht. Zusammen mit seinem Sohn Ford und dem Wissenschaftler Ichiro Serizawa findet er heraus, dass ein riesiges Monster für die Katastrophe von damals verantwortlich war. Und jetzt schlägt es wieder zu! Das Militär ist machtlos. Kann der sagenumwobene Godzilla helfen?",
+            "release_date": "2014-05-14",
+            "popularity": 58.552
+        },
+        {
+            "id": 399566,
+            "original_language": "en",
+            "original_title": "Godzilla vs. Kong",
+            "poster_path": "/vNKXuyL30bwFIafvg2ouKK0KDk9.jpg",
+            "video": false,
+            "vote_average": 7.9,
+            "overview": "Seit die Erde von riesigen Kreaturen, den sogenannten Titanen, heimgesucht wird, ist nichts mehr wie vorher. Die Menschheit kämpft um ihr Überleben und sorgt im Rahmen dieses Überlebenskampfes dafür, dass Godzilla und King Kong aufeinandertreffen und sich eine wahrlich titanische Schlacht liefern. Unterdessen versucht die Geheimorganisation Monarch die Ursprünge der Titanen herauszufinden und beginnt eine gefährliche Mission. Und eine andere Gruppierung will die riesigen Kreaturen ein für allemal auslöschen, egal ob diese gut oder böse sind.",
+            "release_date": "2021-03-24",
+            "title": "Godzilla vs. Kong",
+            "adult": false,
+            "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+            "vote_count": 7008,
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 501.412
+        }
+    ]
+}

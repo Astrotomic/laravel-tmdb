@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 1417,
+    "imdb_id": "tt0457430",
+    "original_language": "es",
+    "original_title": "El laberinto del fauno",
+    "overview": "Spanien, 1944: Nachdem der Bürgerkrieg schon seit fünf Jahren vorbei ist, kämpfen in den Bergen Nordspaniens immer noch republikanische Partisanen gegen das faschistische Franco-Regime. Die elfjährige Ofelia zieht mit ihrer schwangeren Mutter Carmen in die umkämpfte Region, da ihr Stiefvater Hauptmann Vidal seine neue Frau bei sich haben will, wenn sie das Kind bekommt. Der sadistische Hauptmann ist von der Regierung mit der Zerschlagung des Widerstandes beauftragt worden und geht mit grausamen Methoden gegen die Rebellen und vermeintliche Sympathisanten vor. Ofelia flüchtet sich währenddessen in die Fantasiewelt ihrer Bücher, die von Elfen und andere Kreaturen bevölkert ist. Eines Tages erscheint ihr in einem Labyrinth in der Nähe des Landsitzes ein Pan, der ihr offenbart, dass sie in Wirklichkeit eine Königstochter aus einem unterirdischen Königreich sei. Er erlegt Ofelia drei Mutproben auf, die sie bestehen muss, um in das Reich ihres Vaters zurückkehren zu können…",
+    "popularity": 27.648,
+    "poster_path": "/1MMCuEPfaXzSjvuGizyHLRu5Fer.jpg",
+    "production_companies": [
+        {
+            "id": 2029,
+            "logo_path": null,
+            "name": "Estudios Picasso",
+            "origin_country": "ES"
+        },
+        {
+            "id": 7470,
+            "logo_path": null,
+            "name": "Esperanto Filmoj",
+            "origin_country": "US"
+        },
+        {
+            "id": 11628,
+            "logo_path": null,
+            "name": "Tequila Gang",
+            "origin_country": "MX"
+        },
+        {
+            "id": 1182,
+            "logo_path": "/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png",
+            "name": "Telecinco Cinema",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-08-25",
+    "revenue": 83258226,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pans Labyrinth",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 8445
+}

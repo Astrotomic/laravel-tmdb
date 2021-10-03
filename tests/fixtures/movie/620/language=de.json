@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+    "belongs_to_collection": {
+        "id": 2980,
+        "name": "Ghostbusters Filmreihe",
+        "poster_path": "/j666ISmITIYsWMo3UsZBKP9WoBQ.jpg",
+        "backdrop_path": "/6Jnlhr2ac8OuDJEowsFLzZY3SXd.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.ghostbusters.com/",
+    "id": 620,
+    "imdb_id": "tt0087332",
+    "original_language": "en",
+    "original_title": "Ghostbusters",
+    "overview": "So ein Pech. Da haben die Parapsychologie-Professoren Peter Venkman, Ray Stantz und Egon Spengler endlich den Beweis für paranormale Aktivitäten in Form einer waschechten Geistererscheinung vor den Augen, da werden sie auch schon vom Campus der Uni geworfen. Zu unwichtig und kostenintensiv seien ihre Forschungen. Frisch in der Arbeitslosigkeit angekommen, aber mit dem Wissen um die Existenz übernatürlicher Phänomene und Geisterwesen angereichert beschließen sie aus der Not eine zukunftsweisende Idee umzusetzen: Sie gründen ein Geisterjäger-Unternehmen! Mit selbst entworfenem Equipment und mit einem alten Feuerwehrgebäude als Hauptquartier stellen sie sich den lästigen Bedrohungen aus der Zwischenwelt. Und auch wenn die braven Bürger von New York der ganzen Sache etwas skeptisch gegenüberstehen, werd sie bald merken, wie nötig ihre Stadt diese geisterjagenden Jungs hat ...",
+    "popularity": 28.004,
+    "poster_path": "/tq7bIjfcPYodhyoB9W1iJqTimY.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 4267,
+            "logo_path": "/cw6C1E64Ckf5jV8ppAIz9gHaho4.png",
+            "name": "Delphi Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 47565,
+            "logo_path": "/vNZAiHv12oO3Wfoo9qL9AD6x8xE.png",
+            "name": "Black Rhino Productions",
+            "origin_country": "LB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1984-06-08",
+    "revenue": 296187079,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie sind gekommen, um die Welt zu retten.",
+    "title": "Ghostbusters - Die Geisterjäger",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 6729
+}

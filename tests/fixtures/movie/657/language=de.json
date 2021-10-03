@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/8uNjWHsSW3TSOWDU4EY76H5MzAG.jpg",
+    "belongs_to_collection": {
+        "id": 645,
+        "name": "James Bond Filmreihe",
+        "poster_path": "/nVev2bGfTLfesj7Sg3wZM856SY3.jpg",
+        "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
+    },
+    "budget": 2000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://www.mgm.com/title_title.do?title_star=FROMRUSS",
+    "id": 657,
+    "imdb_id": "tt0057076",
+    "original_language": "en",
+    "original_title": "From Russia with Love",
+    "overview": "James Bond soll in Istanbul eine russische Dechiffriermaschine von einer übergelaufenen Agentin erhalten. Das verlockende Angebot entpuppt sich jedoch als tödliche Falle.",
+    "popularity": 27.542,
+    "poster_path": "/vmrQOory7HiGII0cZqZLMGpbsUD.jpg",
+    "production_companies": [
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 7576,
+            "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
+            "name": "Eon Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 10761,
+            "logo_path": null,
+            "name": "Danjaq",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1963-10-11",
+    "revenue": 78898765,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        },
+        {
+            "english_name": "Romanian",
+            "iso_639_1": "ro",
+            "name": "Română"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "James Bond 007 - Liebesgrüße aus Moskau",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 2082
+}

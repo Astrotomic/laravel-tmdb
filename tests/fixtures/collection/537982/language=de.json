@@ -1,0 +1,48 @@
+{
+    "id": 537982,
+    "name": "Zombieland Filmreihe",
+    "overview": "Filmreihe der Zombieland Filme",
+    "poster_path": "/csnEGucfTUi6rj0TgitNucQfAYD.jpg",
+    "backdrop_path": "/n6XNnXTMZVTttt338CrBkfKPuOd.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "Zombieland",
+            "poster_path": "/dJbTZfRRJByAF5YKMJHZCnFH5Fz.jpg",
+            "title": "Zombieland",
+            "vote_average": 7.3,
+            "overview": "Der junge Computer-Fan Columbus hat als einer der wenigen eine verheerende Zombie-Epidemie überlebt und schlägt sich seit einiger Zeit erfolgreich im Alleingang durch ein postapokalyptisches „Zombieland“. Die Städte und Highways der Vereinigten Staaten sind verwüstet und leer gefegt - inmitten dieser Einöde trifft Columbus auf den wortkargen Zyniker Tallahassee. Dieser moderne Cowboy hat die Kunst der Zombie-Jagd perfektioniert und genießt die gewalttätigen Auseinandersetzungen mit den Untoten sichtlich. Als das ungleiche Duo auf ihrer ziellosen Fahrt die hübsche Wichita und ihre kleine Schwester in einer äußerst verzweifelten Situation kennen lernt, wendet sich das Blatt auf unangenehme Weise…",
+            "release_date": "2009-10-07",
+            "vote_count": 9763,
+            "adult": false,
+            "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+            "video": false,
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 19908,
+            "popularity": 68.065
+        },
+        {
+            "original_title": "Zombieland: Double Tap",
+            "id": 338967,
+            "video": false,
+            "vote_average": 7,
+            "overview": "Wichita, Little Rock, Columbus  und Tallahassee sind zurück und schlagen sich weiter durch eine Welt, die nach einer Zombieapokalypse brachliegt. Das hat auch so seine Vorteile, kann man es sich nun im verwaisten Weißen Haus gemütlich machen. Doch die bunte Truppe wird auch vor Herausforderungen gestellt, helfen ihre selbst aufgestellten Regeln doch nicht in jeder Situation. Als Little Rock den Kiffer Berkeley trifft und mit ihm durchbrennt, überredet Wichita die beiden Männer sie zu suchen. Dabei treffen sie nicht nur auf Zombies, die sich weiterentwickelt haben, sondern auch auf andere Überlebende. Vor allem aber müssen sie sich den wachsenden Problemen ihrer eigenen, bunt zusammengewürfelten, Zwangsfamilie stellen.",
+            "release_date": "2019-10-09",
+            "vote_count": 3980,
+            "adult": false,
+            "backdrop_path": "/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+            "title": "Zombieland 2: Doppelt hält besser",
+            "genre_ids": [
+                27,
+                28,
+                35
+            ],
+            "poster_path": "/lz0sEOSpELFXDInIazCyp5CDPLb.jpg",
+            "original_language": "en",
+            "popularity": 59.732
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 558216,
+    "name": "Venom Filmreihe",
+    "overview": "",
+    "poster_path": "/670x9sf0Ru8y6ezBggmYudx61yB.jpg",
+    "backdrop_path": "/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg",
+    "parts": [
+        {
+            "release_date": "2018-09-28",
+            "title": "Venom",
+            "id": 335983,
+            "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "original_language": "en",
+            "original_title": "Venom",
+            "poster_path": "/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg",
+            "vote_count": 11445,
+            "video": false,
+            "vote_average": 6.8,
+            "adult": false,
+            "overview": "Als Dr. Carlton, Chef der mysteriösen Life Foundation, in den Besitz eines Organismus außerirdischen Ursprungs kommt, benutzt er diese sogenannten Symbionten, um mit ihnen Experimente an Menschen durchzuführen. Dank des Tipps einer Konzern-Insiderin bekommt der Reporter Eddie Brock Wind von Drakes fragwürdigen Machenschaften und beschließt – entgegen der Warnung seiner Freundin Anne– der Sache auf den Grund zu gehen. Bei seinen Nachforschungen in den Labors der Life Foundation kommt Eddie jedoch selbst mit einem Symbionten in Kontakt, der mit ihm zu einem neuen Wesen verschmilzt: dem mit übermenschlichen Kräften ausgestatteten Venom.",
+            "popularity": 1073.972
+        },
+        {
+            "video": false,
+            "vote_average": 7.4,
+            "overview": "Fortsetzung zum erfolgreichen „Spider-Man“-Spin-off „Venom“, in der der titelgebende Symbiont und sein Wirt Eddie Brock (Tom Hardy) es mit dem Serienkiller Cletus Kasady (Woody Harrelson) zu tun bekommen, der sich in den blutrünstigen Carnage verwandelt, nachdem er ebenfalls mit einer außerirdischen Lebensform in Kontakt gekommen ist. Kasady trat bereits in der Abspannszene von „Venom“ auf, wo er zwar im Gefängnis saß, aber davor warnte, dass es nach seinem Ausbruch ein Gemetzel geben würde. In den Comics infiziert sich Kasady bei seinem Ausbruch mit dem Carnage-Symbionten. Außerdem soll auch die Schurkin Frances Barrison alias Shriek (Naomie Harris) mitspielen. Venom bekommt es also mit gleich zwei Gegenspieler*innen zu tun...",
+            "release_date": "2021-09-30",
+            "adult": false,
+            "backdrop_path": "/t9nyF3r0WAlJ7Kr6xcRYI4jr9jm.jpg",
+            "title": "Venom 2: Let There Be Carnage",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 580489,
+            "original_language": "en",
+            "original_title": "Venom: Let There Be Carnage",
+            "poster_path": "/jNd6tx7FL2h7wtZgLUsLvzD0kFN.jpg",
+            "vote_count": 71,
+            "popularity": 2538.591
+        }
+    ]
+}

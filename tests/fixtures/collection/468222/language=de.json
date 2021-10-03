@@ -1,0 +1,51 @@
+{
+    "id": 468222,
+    "name": "Die Unglaublichen Filmreihe",
+    "overview": "Unglaubliche Abenteuer von Bob als Mr. Incredible, seiner treusorgenden Gattin Helen als Elastigirl und ihren drei Kindern.",
+    "poster_path": "/2GTQf1BesM8ipCQPoKhSCKWlVgd.jpg",
+    "backdrop_path": "/6oi6V1O9MJRNnfV8E9JMntmFqBD.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 7.7,
+            "overview": "Einmal den Falschen gerettet und schon ist’s passiert! Der Superheld Mr. Incredible hat eine Klage wegen „unerwünschter Lebensrettung“ am Hals und muss fortan sein Dasein als Versicherungsangestellter fristen – gut getarnt hinter wachsendem Bauchansatz. Als er die Gelegenheit wittert, wieder aktiv zu werden, hängt nicht nur der Haussegen schief, sondern auch der Weltfrieden ist in höchster Gefahr! Zum Glück ist seine Frau Helen flexibel. Mit ihrem außergewöhnlichen Nachwuchs, dem kleinen Flitzer Flash und der scheinbar unscheinbaren Violetta, macht sie sich auf, mal eben die Welt zu retten …",
+            "release_date": "2004-10-27",
+            "vote_count": 14364,
+            "adult": false,
+            "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+            "title": "Die Unglaublichen",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751
+            ],
+            "id": 9806,
+            "original_language": "en",
+            "original_title": "The Incredibles",
+            "poster_path": "/tLcIGje9lDE0J4FyYGJoQShlK7X.jpg",
+            "popularity": 74.512
+        },
+        {
+            "video": false,
+            "vote_average": 7.5,
+            "overview": "Allmählich kehrt der Alltag bei den Unglaublichen ein, nachdem sie mit vereinter Familienpower dem Schurken Syndrome das Handwerk gelegt haben. Doch von Ruhe ist keine Rede, denn jetzt muss Mutter Helen Parr es mit dem einen oder anderen Rabauken aufnehmen. Das bedeutet natürlich, dass Vater Bob Zuhause den Kochlöffel schwingen und den Familienalltag mit den drei Kindern Violetta, Flash und Baby Jack-Jack organisieren muss. Doch das ist natürlich leichter gesagt als getan, zumal noch nicht so ganz klar ist, welche außergewöhnlichen Fähigkeiten der kleine Jack-Jack entwickeln wird. Chaos ist also vorprogrammiert! Als ein zwielichtiger Bösewicht auftaucht und die Bürger von Metroville mit einem perfiden Plan bedroht, müssen die Unglaublichen doch wieder in ihre unglaublichen Outfits schlüpfen, um gemeinsam mit Freund Frozone das Schlimmste zu verhindern...",
+            "release_date": "2018-06-14",
+            "adult": false,
+            "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+            "title": "Die Unglaublichen 2",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751
+            ],
+            "id": 260513,
+            "original_language": "en",
+            "original_title": "Incredibles 2",
+            "poster_path": "/mKsc2byKwZYZ1FptvtM5rD3uNXK.jpg",
+            "vote_count": 10291,
+            "popularity": 82.7
+        }
+    ]
+}

@@ -8,7 +8,6 @@ use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\Person\Details;
 use Illuminate\Database\Eloquent\Relations\HasMany;
-use Illuminate\Support\Facades\DB;
 
 /**
  * @property int $id
@@ -31,8 +30,8 @@ use Illuminate\Support\Facades\DB;
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $credits
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $movie_credits
  *
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder newModelQuery()
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder newQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder newModelQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder query()
  *
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\PersonBuilder
@@ -136,22 +135,20 @@ class Person extends Model
             return false;
         }
 
-        return DB::transaction(function () use ($data, $locale): bool {
-            if (! $this->fillFromTmdb($data, $locale)->save()) {
-                return false;
-            }
+        if (! $this->fillFromTmdb($data, $locale)->save()) {
+            return false;
+        }
 
-            if (isset($data['movie_credits'])) {
-                foreach ($data['movie_credits']['cast'] as $cast) {
-                    Credit::query()->find($cast['credit_id']);
-                }
-                foreach ($data['movie_credits']['crew'] as $crew) {
-                    Credit::query()->find($crew['credit_id']);
-                }
+        if (isset($data['movie_credits'])) {
+            foreach ($data['movie_credits']['cast'] as $cast) {
+                Credit::query()->findOrFail($cast['credit_id']);
             }
+            foreach ($data['movie_credits']['crew'] as $crew) {
+                Credit::query()->findOrFail($crew['credit_id']);
+            }
+        }
 
-            return true;
-        });
+        return true;
     }
 
     public function newEloquentBuilder($query): PersonBuilder

@@ -1,0 +1,49 @@
+{
+    "id": 848690,
+    "name": "Mortal Kombat Legends Collection",
+    "overview": "",
+    "poster_path": "/unNaQGZyuvFWyUGtcL9i0CFxmkV.jpg",
+    "backdrop_path": "/cANyFSat8bE44dK9vOVk5jbEsov.jpg",
+    "parts": [
+        {
+            "backdrop_path": "/dssCw0mUmD4EriUmkwB3PnsGu4q.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Mortal Kombat Legends: Battle of the Realms",
+            "poster_path": "/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg",
+            "video": false,
+            "vote_average": 8.1,
+            "title": "Mortal Kombat Legends: Battle of the Realms",
+            "overview": "Die Earthrealm-Helden müssen in die Außenwelt reisen und um das Überleben ihrer Heimat kämpfen, die von den Mächten des bösen Kriegsherrn Shao Kahn angegriffen wird, um alle Turniere zu beenden: den letzten Mortal Kombat.",
+            "id": 841755,
+            "vote_count": 141,
+            "release_date": "2021-08-30",
+            "adult": false,
+            "popularity": 383.562
+        },
+        {
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "release_date": "2020-04-12",
+            "original_language": "en",
+            "original_title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "poster_path": "/mo5Zsj4twtixhyeYZshBOM62lcN.jpg",
+            "video": false,
+            "vote_average": 8.3,
+            "title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "vote_count": 1021,
+            "overview": "Nachdem seine Familie vom Söldner Sub-Zero eiskalt ermordet wurde, wird Hanzo Hasashi in das albtraumhafte Netherrealm verbannt. Dort erhält er vom teuflischen Quan Chi im Gegenzug für seine Dienste die Gelegenheit, seine Familie zu rächen, und wird als Scorpion wiedergeboren. Derweil stellt Lord Raiden in Earthrealm ein ungewöhnliches Team von Elitekämpfern zusammen, um die Menschheit vor dem Untergang zu retten: den Shaolin-Mönch Liu Kang, die Offizierin Sonya Blade und den Actionstar Johnny Cage. Ihre Mission ist es, Shang Tsungs Horden von Outworld-Gladiatoren zu besiegen und das Mortal Kombat zu gewinnen.",
+            "adult": false,
+            "backdrop_path": "/vw3zNfzvnVNF7nIjpiEgcdznfeC.jpg",
+            "id": 664767,
+            "popularity": 44.448
+        }
+    ]
+}

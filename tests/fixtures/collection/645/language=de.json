@@ -1,0 +1,531 @@
+{
+    "id": 645,
+    "name": "James Bond Filmreihe",
+    "overview": "James Bond, auch bekannt als 007, ist ein Geheimagent des britischen Geheimdienstes MI6, der 1952 vom Schriftsteller Ian Fleming erfunden und vor allem durch die seit den 1960er-Jahren erfolgreiche Filmreihe weltbekannt wurde.",
+    "poster_path": "/nVev2bGfTLfesj7Sg3wZM856SY3.jpg",
+    "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/v28YYcN5p9hD8PKGAeWLz0ugsfX.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 253,
+            "original_language": "en",
+            "original_title": "Live and Let Die",
+            "overview": "James Bond soll in New York mysteriöse Mordfälle an mehreren britischen Agenten untersuchen. Doch bald schon gerät er selbst in das Visier des Gangsterbosses Mr. Big.",
+            "poster_path": "/suFU9xpyZYtJaTjUyOHbgELuqj7.jpg",
+            "release_date": "1973-07-05",
+            "title": "James Bond 007 - Leben und sterben lassen",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1399,
+            "popularity": 22.28
+        },
+        {
+            "original_language": "en",
+            "original_title": "Dr. No",
+            "id": 646,
+            "video": false,
+            "vote_average": 7,
+            "overview": "Der mysteriöse Wissenschaftler Dr. No sabotiert von seiner geheimen Basis auf Jamaica aus das amerikanische Raumfahrtprogramm. Der Secret Service setzt seinen besten Agenten auf den Wissenschaftler an.",
+            "release_date": "1962-10-07",
+            "vote_count": 2566,
+            "adult": false,
+            "backdrop_path": "/srgq7bzZsuDw7NoGXdazRXp7Hl6.jpg",
+            "poster_path": "/1NN9uwOnZiw4rj3drWHo0JVGZuq.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "title": "James Bond 007 jagt Dr. No",
+            "popularity": 36.42
+        },
+        {
+            "original_language": "en",
+            "original_title": "From Russia with Love",
+            "id": 657,
+            "video": false,
+            "vote_average": 7.1,
+            "overview": "James Bond soll in Istanbul eine russische Dechiffriermaschine von einer übergelaufenen Agentin erhalten. Das verlockende Angebot entpuppt sich jedoch als tödliche Falle.",
+            "release_date": "1963-10-11",
+            "vote_count": 2082,
+            "adult": false,
+            "backdrop_path": "/8uNjWHsSW3TSOWDU4EY76H5MzAG.jpg",
+            "poster_path": "/vmrQOory7HiGII0cZqZLMGpbsUD.jpg",
+            "genre_ids": [
+                28,
+                53,
+                12
+            ],
+            "title": "James Bond 007 - Liebesgrüße aus Moskau",
+            "popularity": 27.542
+        },
+        {
+            "video": false,
+            "vote_average": 7.3,
+            "overview": "Die teuerste Art zu töten. James Bond, der Superagent seiner Majestät, wird auf die Fährte eines verbrecherischen Genies gesetzt, das die Goldreserven von Fort Knox in seinen Besitz bringen will. Bonds Gegner Goldfinger ist der Mann, der seine abtrünnig gewordene Geliebte einem tödlichen Veredelungsprozeß aussetzte, indem er sie mit Gold überzog. Männliche Rivalen barbiert Odd-Job, der Leibwächter des exzentrischen Mulitmillionärs, mit seiner rasiermesserscharfen Hutkrempe aus Metall. Mit Hilfe von Pussy Galore will Bond den Raub des Goldes vereiteln...",
+            "release_date": "1964-09-20",
+            "adult": false,
+            "backdrop_path": "/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg",
+            "title": "James Bond 007 - Goldfinger",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 658,
+            "original_language": "en",
+            "original_title": "Goldfinger",
+            "poster_path": "/okCBHoGLpyvZq8WRUZo9cKtox2I.jpg",
+            "vote_count": 2603,
+            "popularity": 28.354
+        },
+        {
+            "original_language": "en",
+            "original_title": "Thunderball",
+            "poster_path": "/hCpoPK2sxnkbg2D4ov7JExhyM42.jpg",
+            "video": false,
+            "vote_average": 6.6,
+            "id": 660,
+            "overview": "Die Verbrecherorganisation Phantom bringt zwei Atombomben in ihre Gewalt und verlangt nun innerhalb von sieben Tagen 100 Millionen Pfund in Form lupenreiner Diamanten als Lösegeld. Der Secret Service schickt James Bond auf die Bahamas, um wieder einmal die Welt zu retten.",
+            "release_date": "1965-12-11",
+            "adult": false,
+            "backdrop_path": "/7mn0IFuByr9bsmlprotTdeO71Km.jpg",
+            "vote_count": 1568,
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "title": "James Bond 007 - Feuerball",
+            "popularity": 25.8
+        },
+        {
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1478,
+            "overview": "Ein mysteriöses Raumschiff entführt eine russische und eine amerikanische Raumkapsel und bringt die Welt an den Rand eines Weltkrieges. James Bond ermittelt in Japan, trifft auf seinen Erzfeind Blofeld und die raffinierte Helga Brandt.",
+            "release_date": "1967-06-13",
+            "id": 667,
+            "adult": false,
+            "backdrop_path": "/cpZAXIYA0lkZMpAt7d1MmH8ojNV.jpg",
+            "genre_ids": [
+                28,
+                53,
+                12
+            ],
+            "title": "James Bond 007 - Man lebt nur zweimal",
+            "original_language": "en",
+            "original_title": "You Only Live Twice",
+            "poster_path": "/ytGRF5H5A5VNBUZqUv6rsVPqqpm.jpg",
+            "popularity": 21.713
+        },
+        {
+            "original_title": "On Her Majesty's Secret Service",
+            "poster_path": "/6DBLzErXDrPSqUEXSUDk0IQslLv.jpg",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1273,
+            "overview": "Im Urlaub kann James Bond die junge Tracy Draco gerade noch davon abbringen, sich umzubringen. Ihr Vater, ein mächtiger Gangsterboss macht daraufhin 007 ein Angebot. Er erhält wichtige Informationen über seinen Erzfeind Blofeld, sollte er Tracy heiraten.",
+            "release_date": "1969-12-12",
+            "title": "James Bond 007 - Im Geheimdienst Ihrer Majestät",
+            "adult": false,
+            "backdrop_path": "/1kdyLiE2Mqt7cxnivdPX3qckvfW.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 668,
+            "original_language": "en",
+            "popularity": 18.959
+        },
+        {
+            "release_date": "1971-12-13",
+            "adult": false,
+            "backdrop_path": "/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "vote_count": 1436,
+            "original_language": "en",
+            "original_title": "Diamonds Are Forever",
+            "poster_path": "/2HJYuNpFZG5YGaZGNV4vAJM8mop.jpg",
+            "title": "James Bond 007 - Diamantenfieber",
+            "video": false,
+            "vote_average": 6.4,
+            "id": 681,
+            "overview": "Große Mengen Diamanten verschwinden, ohne auf dem internationalen Markt wieder aufzutauchen. James Bond wird in einen Schmugglerring infiltriert, um der Sache nachzugehen. Die Spur führt nach Las Vegas und zu keinem Geringeren als Bonds Erzfeind Ernst Stavro Blofeld.",
+            "popularity": 20.659
+        },
+        {
+            "id": 682,
+            "release_date": "1974-12-01",
+            "adult": false,
+            "backdrop_path": "/vcj47nTm1fDlkxUwDb2GgYbKDDW.jpg",
+            "vote_count": 1400,
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "overview": "Eine goldene Pistolenkugel, auf der 007 eingraviert ist, trifft im Hauptquartier des Secret Service ein. Absender ist der Profikiller Scaramanga, und Scaramanga hat noch nie ein Ziel verfehlt. James Bond versucht den Killer rechtzeitig zu stoppen.",
+            "original_language": "en",
+            "original_title": "The Man with the Golden Gun",
+            "poster_path": "/pBS0mJTBAFmdzn0UNV4uNe9M4u5.jpg",
+            "title": "James Bond 007 - Der Mann mit dem goldenen Colt",
+            "video": false,
+            "vote_average": 6.4,
+            "popularity": 20.915
+        },
+        {
+            "original_title": "The Spy Who Loved Me",
+            "poster_path": "/3z50Zw7ryke1e8BZOoCqTmlfsLt.jpg",
+            "id": 691,
+            "video": false,
+            "vote_average": 6.8,
+            "overview": "Ein russisches und ein amerikanisches U-Boot mit Atomraketen an Bord verschwinden spurlos von der Bildfläche. Amerikaner und Russen beschuldigen sich gegenseitig. James Bond soll das Rätsel der verschwundenen U-Boote lösen. Aber auch der KGB hat schon einen Agenten losgeschickt.",
+            "release_date": "1977-07-07",
+            "adult": false,
+            "backdrop_path": "/8lRdfsmJjUXQU3DMOOB3vVIhJxP.jpg",
+            "vote_count": 1345,
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "title": "James Bond 007 - Der Spion, der mich liebte",
+            "original_language": "en",
+            "popularity": 20.028
+        },
+        {
+            "id": 698,
+            "backdrop_path": "/tBB2mLE6u939vbmOPgWWmamLSIQ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                878
+            ],
+            "vote_count": 1365,
+            "original_language": "en",
+            "original_title": "Moonraker",
+            "poster_path": "/p9zYOfnCrUk0s0JeokCEmB18GYe.jpg",
+            "title": "James Bond 007 - Moonraker - Streng geheim",
+            "video": false,
+            "vote_average": 6.1,
+            "adult": false,
+            "overview": "Während des Transportes auf dem Rücken einer Boeing 747 wird ein Space Shuttle entführt und das Flugzeug vernichtet. Seine Nachforschungen führen James Bond zu der Herstellerfirma des Shuttles. Schon bald merkt er, dass deren Besitzer Hugo Drax die gesamte Menschheit vernichten will. Es kommt zum Showdown im Weltall.",
+            "release_date": "1979-06-26",
+            "popularity": 24.177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "For Your Eyes Only",
+            "poster_path": "/d1oag1lJECK8GYellrjyDeOHyHh.jpg",
+            "vote_count": 1276,
+            "video": false,
+            "vote_average": 6.5,
+            "id": 699,
+            "overview": "Ein als Fischkutter getarntes Spionageschiff der Engländer sinkt im ionischen Meer. An Bord befindet sich ein strenggeheimes Steuer- und Verschlüsselungsgerät ATAC. In feindlichen Händen könnte es zum Abschuss von Atomraketen auf westliche Städte verwendet werden. James Bond muss das Gerät finden, bevor es dem Feind in die Hände gerät.",
+            "release_date": "1981-06-23",
+            "title": "James Bond 007 - In tödlicher Mission",
+            "popularity": 19.151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aqvospM52NFtgFkrIbzk5nSy7Sh.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Octopussy",
+            "poster_path": "/sN8NuRgFed3LvwHg84nl0iQsPr0.jpg",
+            "id": 700,
+            "title": "James Bond 007 - Octopussy",
+            "vote_count": 1363,
+            "overview": "Um die wahren Hintergründe einer gigantischen Juwelenschieberei aufzuspüren, ist James Bond der geheimnisvollen Octopussy auf den Fersen. Sie ahnt nicht, dass sie von einem Wahnsinnigen hinters Licht geführt wird. Der russische General Orlov benutzt ihren Octopussy-Zirkus vorgeblich, mit ihm den geraubten Kreml-Schatz durch Europa zu schmuggeln. Tatsächlich dient er ihm nur als trojanisches Pferd für einen atomaren Sprengkörper, der auf dem Gelände der US-Airforce in Feldberg detonieren soll.",
+            "release_date": "1983-06-05",
+            "vote_average": 6.3,
+            "video": false,
+            "popularity": 21.119
+        },
+        {
+            "original_language": "en",
+            "original_title": "A View to a Kill",
+            "poster_path": "/1q95oXKELFwEpqkPkNdKpY40BKN.jpg",
+            "video": false,
+            "vote_average": 6.1,
+            "overview": "Ein im Westen entwickelter Mikrochip, der unempfindlich gegen elektromagnetische Strahlung durch Nuklearexplosionen ist, fällt dem KGB in die Hände. James Bond soll die undichte Stelle finden. Schnell fällt sein Verdacht auf den Großindustriellen Max Zorin.",
+            "release_date": "1985-05-24",
+            "id": 707,
+            "vote_count": 1351,
+            "adult": false,
+            "backdrop_path": "/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
+            "title": "James Bond 007 - Im Angesicht des Todes",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "popularity": 18.511
+        },
+        {
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1350,
+            "overview": "James Bond und sein amerikanischer Kollege Felix Leiter verhaften den Drogenbaron Sanchez. Als diesem die Flucht gelingt, rächt er sich auf furchtbare Weise an Leiter und seiner Frau. Bond kennt nur noch ein Ziel: Rache.",
+            "release_date": "1989-07-07",
+            "id": 709,
+            "adult": false,
+            "backdrop_path": "/p6VFbg5lhWj0RCgXf5dj6IDMPvt.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "title": "James Bond 007 - Lizenz zum Töten",
+            "original_language": "en",
+            "original_title": "Licence to Kill",
+            "poster_path": "/aySVdIiW2IrqSA59TghVMwbp9Dh.jpg",
+            "popularity": 21.379
+        },
+        {
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "GoldenEye",
+            "poster_path": "/trtANqAEy9dxRCeIe7YEDVeGkLw.jpg",
+            "video": false,
+            "id": 710,
+            "vote_count": 2891,
+            "overview": "Die russische Mafia-Gruppe Janus hat “Goldeneye”, zwei Satelliten, deren elektromagnetische Strahlen alle elektrischen Geräte im Umkreis eines anvisierten Ziels zerstören, in ihre Kontrolle gebracht. Der Chef dieser kriminellen Bande ist Ex-”006″ Alec Trevelyan, James Bonds ehemaliger Kollege. Zusammen mit der Computerspezialistin Natalya Simonova setzt sich 007 auf die Spuren des Verräters.",
+            "release_date": "1995-11-16",
+            "vote_average": 6.9,
+            "title": "James Bond 007 - GoldenEye",
+            "adult": false,
+            "backdrop_path": "/mRCbnW0etR9UcL7OFFZudTAf56y.jpg",
+            "popularity": 28.914
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yUHP5AectnhcG4dWJ53L3uQvOgu.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Tomorrow Never Dies",
+            "poster_path": "/tDfR8AXJO1MglZm1o1BewO22Y7u.jpg",
+            "video": false,
+            "vote_average": 6.3,
+            "title": "James Bond 007 - Der Morgen stirbt nie",
+            "overview": "Der britische Medienmogul Carver will durch Manipulation und Intrigen England in einen Krieg mit China stürzen, denn schlechte Nachrichten bringen Geld. Nur James Bond kann ihn davon abhalten, durch seine Medienpräsenz einer der mächtigsten Männer der Welt zu werden.",
+            "release_date": "1997-12-11",
+            "vote_count": 2262,
+            "id": 714,
+            "popularity": 25.523
+        },
+        {
+            "backdrop_path": "/3CqMIX3ZlrD0pU3fpBL6DM0Cneb.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                80
+            ],
+            "original_language": "en",
+            "original_title": "Quantum of Solace",
+            "poster_path": "/tpKgFYq0RZS1yEaLoDOJTJ2Gglc.jpg",
+            "video": false,
+            "vote_average": 6.3,
+            "title": "James Bond 007 - Ein Quantum Trost",
+            "overview": "Nach dem Tod von Vesper Lynd versucht James Bond an die Hintermänner des Komplotts gegen Lynd zu kommen. Beim MI6 wird dazu Mr. White verhört, dem durch einen internen Verrat während des Verhörs die Flucht gelingt. Die Spur führt Bond nach Haiti. Dort gelangt er durch die attraktive Camille an den zwielichtigen Dominic Greene, der mit dem Komplott in Verbindung zu stehen scheint. Bond muss fortan nicht nur einmal um sein Leben bangen...",
+            "id": 10764,
+            "vote_count": 6072,
+            "release_date": "2008-10-31",
+            "adult": false,
+            "popularity": 78.208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 36557,
+            "original_language": "en",
+            "original_title": "Casino Royale",
+            "overview": "Sein erster Auftrag, nachdem er die Lizenz zum Töten erhalten hat, führt den MI6-Agenten James Bond nach Madagaskar, wo er auf den Terroristen Mollaka angesetzt wird. Zwar verläuft nicht alles nach Plan, doch als Bond auf eigene Faust weiter ermittelt kommt er auf die Spur von Le Chiffre, dem Bankier einer weltweit operierenden Terror-Organisation. Dieser plant, das Vermögen seiner Organisation durch ein illegales Pokerspiel im „Casino Royale“ von Montenegro um ein vielfaches zu erhöhen, wofür natürlich auch ein hoher Einsatz nötig ist. Der MI6 sieht daher die Chance, die Terroristen in den finanziellen Ruin zu treiben und beauftragt James Bond, die Pläne von Le Chiffre zunichte zu machen.",
+            "poster_path": "/uvigE215SzXdsEFPN0XRFR9RPiA.jpg",
+            "release_date": "2006-11-14",
+            "title": "James Bond 007 - Casino Royale",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 8261,
+            "popularity": 114.831
+        },
+        {
+            "video": false,
+            "id": 36643,
+            "overview": "Im Hauptquartier des britischen Geheimdienstes kommt Öl-Multi Sir Robert King bei einem Bombenanschlag ums Leben. Agent 007 soll den Mörder entlarven und gleichzeitig Elektra, die bildhübsche Erbin des Milliarden-Imperiums, vor berüchtigten internationalen Terroristen beschützen.",
+            "release_date": "1999-11-17",
+            "adult": false,
+            "backdrop_path": "/n2jVDMcBEWsLFooO7W1ZkcMUtWS.jpg",
+            "vote_count": 2126,
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "vote_average": 6.3,
+            "original_language": "en",
+            "original_title": "The World Is Not Enough",
+            "poster_path": "/fdWolbQxwloXsoAlTpn9NlbwrO3.jpg",
+            "title": "James Bond 007 - Die Welt ist nicht genug",
+            "popularity": 26.366
+        },
+        {
+            "original_title": "Die Another Day",
+            "poster_path": "/vAsPr9ZflIen1rszmEq2VUFDvfr.jpg",
+            "id": 36669,
+            "video": false,
+            "vote_average": 6,
+            "overview": "Auf der Jagd nach dem größenwahnsinnigen Schurken Gustav Graves und seinem gnadenlosen Erfüllungsgehilfen Zao reist Bond in die Höhle des Löwen bis nach Island. In einem fantastischen, vollkommen aus Eis erbauten Palast muss er am eigenen Leib die durchschlagende Wirkung einer neuen Superwaffe kennen lernen. Das Geschehen spitzt sich zu, bis es schließlich, wieder am Ausgangsort Korea angelangt, zu einem explosiven Showdown – und einem unvergesslichen Schlussakt – kommt.",
+            "release_date": "2002-11-17",
+            "adult": false,
+            "backdrop_path": "/orI5mvpksYIlhJqzdmeipys6sHQ.jpg",
+            "vote_count": 2626,
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "title": "James Bond 007 - Stirb an einem anderen Tag",
+            "original_language": "en",
+            "popularity": 29.313
+        },
+        {
+            "release_date": "2012-10-25",
+            "id": 37724,
+            "adult": false,
+            "backdrop_path": "/hoQhlAskVNgLQhArnH7reWP4pUp.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Skyfall",
+            "poster_path": "/AkpcDSA2NQb0tlNyOs2h00qX0K0.jpg",
+            "vote_count": 12787,
+            "video": false,
+            "vote_average": 7.2,
+            "title": "James Bond 007 - Skyfall",
+            "overview": "Auf der Jagd nach einer Liste von Undercoveragenten, die mit diesem Dokument enttarnt und in den sicheren Tod geschickt werden könnten, stürzt James Bond, von einer Kugel getroffen, in eine tiefe Schlucht. Von Freund und Feind für tot gehalten, hält sich 007 versteckt, bis ihn ein Bombenanschlag auf seinen Geheimdienst zum Handeln zwingt. So kehrt Bond zum MI6 zurück, kämpft gegen einen unbekannten Gegner, der nur ein Ziel kennt: Dem britischen Geheimdienst empfindlich zu schaden und dessen Chefin M zu töten.",
+            "popularity": 144.927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "vote_count": 8507,
+            "original_language": "en",
+            "original_title": "Spectre",
+            "poster_path": "/uI0pQ8IBkanrqcIY7Q7TJTQiZAz.jpg",
+            "title": "James Bond 007 - Spectre",
+            "video": false,
+            "id": 206647,
+            "vote_average": 6.5,
+            "overview": "James Bond erhält eine kryptische Nachricht aus seiner Vergangenheit, die ihn auf die Spur einer finsteren Organisation bringt. Bond muss immer mehr entdecken, dass es viele Täuschungen und Lügen gibt, die er entschlüsseln muss. Während sein Boss M mit anderen Problemen kämpft, mit politischen Kräften konfrontiert ist, die den ganzen Geheimdienst gefährden, erkennt Bond erst nach und nach die schreckliche Wahrheit hinter Spectre.",
+            "release_date": "2015-10-26",
+            "popularity": 136.899
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8TPStgzHahi6Cx3wimpipAV8BnN.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 708,
+            "original_language": "en",
+            "original_title": "The Living Daylights",
+            "overview": "James Bond verhilft einem russischen General zur Flucht in den Westen. Von ihm erfährt er, dass der KGB in einer groß angelegten Aktion alle feindlichen Agenten töten will. Wenig später wird der General vor den Augen des Secret Service entführt. 007 schöpft einen Verdacht.",
+            "poster_path": "/9jPMRCz9cLo7GV7cbSvksmlR3ew.jpg",
+            "release_date": "1987-06-29",
+            "title": "James Bond 007 - Der Hauch des Todes",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1202,
+            "popularity": 19.584
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kcvKEvTWqIGMjpVJdbDVRHdIt4C.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 370172,
+            "original_language": "en",
+            "original_title": "No Time to Die",
+            "overview": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
+            "poster_path": "/ep4eNdF37uhadB2UzdL8IDU6IxO.jpg",
+            "release_date": "2021-09-29",
+            "title": "James Bond 007 - Keine Zeit zu sterben",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 91,
+            "popularity": 724.041
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/45uCcAUB8Ljz3uKb1y1JHtT5aCT.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Never Say Never Again",
+            "poster_path": "/aTl0RFfKuSMUipgw1Q5eA9hPVQJ.jpg",
+            "title": "Sag niemals nie",
+            "video": false,
+            "vote_average": 6,
+            "id": 36670,
+            "overview": "Von einem Nato-Stützpunkt in England werden auf spektakuläre Weise zwei Atomraketen gestohlen. Als die Nato damit erpresst werden soll, schicken die Briten ihren Topagenten James Bond, um die nukleare Bedrohung abzuwenden, und die Gangster dingfest zu machen.",
+            "release_date": "1983-10-07",
+            "vote_count": 989,
+            "popularity": 17.643
+        }
+    ]
+}

@@ -3,7 +3,7 @@
     "backdrop_path": "/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
     "belongs_to_collection": {
         "id": 861415,
-        "name": "Free Guy Collection",
+        "name": "Free Guy gyűjtemény",
         "poster_path": "/o9iYeSBx7lwWRDEt8QPWbKZZlJm.jpg",
         "backdrop_path": null
     },
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "Free Guy",
     "overview": "Guy führt ein Leben als Kassierer in einer Bank, das vor allem von der täglichen Routine und dem Chaos und der Gewalt um ihn herum geprägt ist. Jeden Tag wird seine Bank aufs Neue überfallen, aber damit hat sich Guy abgefunden. Eines Tages findet er dann jedoch heraus, dass er in Wahrheit in einem brutalen Open-World-Videospiel namens „Free City“ lebt und ein sogenannter NPC ist – eine Videospielfigur, die nicht von einem menschlichen Spieler gesteuert wird. Verantwortlich für diese Erkenntnis sind die Programmierer Milly und Keys, die „Free City“ gehackt haben. Guy verliebt sich in Millys Avatar Molotovgirl, doch die Tatsache, dass sich ein NPC merkwürdig verhält, bleibt den Köpfen hinter dem Spiel natürlich nicht verborgen. Der Publisher Antwan möchte „Free City“ abschalten und nun ist es an Guy, sich und die anderen Videospielfiguren zu retten...",
-    "popularity": 7586.342,
+    "popularity": 11660.794,
     "poster_path": "/zYuYU9tYqJ6Q27aRCsfrr8ghhKg.jpg",
     "production_companies": [
         {
@@ -86,5 +86,5 @@
     "title": "Free Guy",
     "video": false,
     "vote_average": 8,
-    "vote_count": 1536
+    "vote_count": 1787
 }

@@ -1,0 +1,49 @@
+{
+    "id": 579873,
+    "name": "Major Grom Filmreihe",
+    "overview": "",
+    "poster_path": "/oZXDFCajhnoTSxkRzQfW4B813bJ.jpg",
+    "backdrop_path": "/wAS75CgE26EvSER1t9hGUUIYyqj.jpg",
+    "parts": [
+        {
+            "genre_ids": [
+                28,
+                12
+            ],
+            "original_language": "ru",
+            "id": 529106,
+            "poster_path": "/yBkZlG55CprznYxwUcGY6r3ZXP6.jpg",
+            "video": false,
+            "vote_average": 6.9,
+            "overview": "Polizeimajor Igor Grom (Tikhon Zhiznevskiy) ist in ganz St. Petersburg für seinen durchdringenden Charakter und seine gnadenlose Haltung gegenüber Kriminellen aller Art bekannt. Alles ändert sich dramatisch mit dem Erscheinen einer Person in der Maske eines Pestarztes. Nachdem er erklärt hat, seine Stadt sei an der „Plage der Gesetzlosigkeit“ erkrankt, nimmt er seine Art von „Behandlung“ auf und tötet Menschen, die einst dank viel Geld und einem hohem Status in der Gesellschaft der Bestrafung entkommen sind. Die Bevölkerung ist unruhig. Die Polizisten sind machtlos. Zum ersten Mal hat Igor Schwierigkeiten bei einem Fall, dessen Aufklärung das Schicksal der ganzen Stadt bestimmen kann.",
+            "release_date": "2021-04-01",
+            "vote_count": 316,
+            "title": "Major Grom: Der Pestdoktor",
+            "adult": false,
+            "backdrop_path": "/pVNXmfZvQKFdUKVYNJxZAiy69DC.jpg",
+            "original_title": "Майор Гром: Чумной Доктор",
+            "popularity": 376.326
+        },
+        {
+            "id": 438597,
+            "overview": "",
+            "release_date": "2017-02-11",
+            "vote_average": 6.7,
+            "vote_count": 40,
+            "adult": false,
+            "backdrop_path": "/1A4v69sePHbWdbZHDnqTB9ZWbra.jpg",
+            "video": false,
+            "genre_ids": [
+                28,
+                12,
+                878,
+                18
+            ],
+            "title": "Майор Гром",
+            "original_language": "ru",
+            "original_title": "Майор Гром",
+            "poster_path": "/o2whGyj5zn3uSnBjefSiMIElIUO.jpg",
+            "popularity": 2.789
+        }
+    ]
+}

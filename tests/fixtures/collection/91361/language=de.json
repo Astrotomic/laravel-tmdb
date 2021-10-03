@@ -1,0 +1,218 @@
+{
+    "id": 91361,
+    "name": "Halloween Filmreihe",
+    "overview": "Halloween ist eine kommerziell erfolgreiche Horrorfilm-Reihe, die auf den Film Halloween – Die Nacht des Grauens (1978) von John Carpenter zurückgeht. Bis heute sind sieben Fortsetzungen, ein Remake und dessen Fortsetzung erschienen. Mit Ausnahme eines Films begleiten alle Teile der Reihe den Serienmörder Michael Myers bei seiner Geschichte. Insgesamt existieren zehn Filme der Halloween-Reihe.",
+    "poster_path": "/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg",
+    "backdrop_path": "/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Halloween",
+            "poster_path": "/pJONnx9OaQ6aWzQq0AO3qsnwyZo.jpg",
+            "id": 948,
+            "vote_average": 7.6,
+            "vote_count": 3716,
+            "overview": "1963, Halloween-Nacht im Kaff Haddonfield: Die Teenagerin Judith Myers wird in ihrem Elternhaus von ihrem sechsjährigen Bruder brutal erstochen - Michael Myers hat das erste Mal zugeschlagen! Der Junge kommt daraufhin in das Smith’s Grove Warren County Sanatorium in die Obhut von Psychiater Sam Loomis. Schon bald ist dieser davon überzeugt, dass sich in der Gestalt des Kindes das absolut Böse verbirgt. 15 Jahre danach, am Vorabend von Halloween, gelingt Michael die Flucht aus der Heilanstalt. Der maskierte Killer macht sich auf den Weg nach Haddonfield, wo sich arglose Teenager wie Laurie Strode auf ein bisschen Horrorspaß freuen...",
+            "release_date": "1978-10-24",
+            "video": false,
+            "title": "Halloween - Die Nacht des Grauens",
+            "popularity": 40.871
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rRUZMxzNqVem03J9266sx1lnCQ0.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "vote_count": 1291,
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "id": 11281,
+            "title": "Halloween II - Das Grauen kehrt zurück",
+            "video": false,
+            "vote_average": 6.5,
+            "poster_path": "/89iML62xpGfacIZd76TpBwIyL6l.jpg",
+            "overview": "Es ist noch immer Halloween... Obwohl Dr. Loomis mehrfach auf den wahnsinnigen Michael Myers gefeuert hat, schafft es der Killer doch, auf mysteriöse Weise zu entkommen. Die Junge Laurie Strode wird mit einem Schock erstmal in ein Krankenhaus eingeliefert. Doch der wahre Horror fängt jetzt erst an, denn Michael Myers verfolgt Laurie fanatisch weiter und tötet jeden, der sich ihm in den Weg stellt. Die Nacht des Grauens erreicht ihren blutigen Höhepunkt...",
+            "release_date": "1981-10-30",
+            "popularity": 23.683
+        },
+        {
+            "release_date": "1982-10-22",
+            "adult": false,
+            "backdrop_path": "/eyOKqtgNeEEIp7zYMHnpISpsaS3.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "vote_count": 845,
+            "original_language": "en",
+            "original_title": "Halloween III: Season of the Witch",
+            "poster_path": "/aDIYeofYcKzhRsS0NcLDWwdAL6l.jpg",
+            "title": "Halloween III - Die Nacht der Entscheidung",
+            "video": false,
+            "vote_average": 5.1,
+            "id": 10676,
+            "overview": "Ein Mann wird von Unbekannten durch eine Stadt irgendwo in Nordkalifornien gehetzt, schließlich bricht er mit einer seltsamen Halloween Maske in der Hand zusammen. Kurz darauf wird er auf bestialische Weise im Krankenhaus durch die Unbekannten ermordet. All dies scheint mit dem Spielzeughersteller Silver Shamrock zusammenzuhängen, der seine Monster-Masken durch eine riesige Werbekampagne überall im Land vertreibt. Der mysteriöse Boss der Spielzeugfirma hat jedoch teuflisches im Sinn, das ganze Grauen wird erst in der Halloween-Nacht deutlich ...",
+            "popularity": 28.292
+        },
+        {
+            "id": 11357,
+            "video": false,
+            "vote_average": 6.1,
+            "overview": "Dem stoischen Mörder mit der weißen Maske gelingt die blutige Flucht aus seiner Klinik in Richmond. Dr. Loomis weiß sofort, was Sache ist, als er von dem Unfall des Krankentransports hört. Doch es dauert eine Weile, bis ihm die Polizei von Haddonfield glaubt - dem Heimatort von Michael, zu dem er nun zurückkehrt. Er mordet, was ihm vor das Messer läuft. Seine Nichte Jamie und ihre Stiefschwester Rachel können gerade noch von Dr. Loomis gerettet werden. Sie fliehen in Begleitung von vier Männern aus der Stadt, werden aber vom diabolischen Killer verfolgt. Es vergeht nicht viel Zeit, dann gibt es vier weitere Leichen...",
+            "release_date": "1988-10-21",
+            "adult": false,
+            "backdrop_path": "/j0g1176cyn4IrjPNvuEzwZraZf8.jpg",
+            "vote_count": 944,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "title": "Halloween IV - Michael Myers kehrt zurück",
+            "original_language": "en",
+            "original_title": "Halloween 4: The Return of Michael Myers",
+            "poster_path": "/qhJg3ESSAvUqvT1iaD82l7gc5gX.jpg",
+            "popularity": 43.955
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jCgPIpNbJF7lm0YIo3xY10A3R74.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11361,
+            "original_language": "en",
+            "original_title": "Halloween 5: The Revenge of Michael Myers",
+            "overview": "Michael Myers hat den Sturz in einen tiefen Schacht und die darauf folgende Explosion schwer verletzt überlebt. Mit letzter Kraft schleppt er sich zum nahegelegenen Fluss und lässt sich stromabwärts treiben. Ein Obdachloser findet den zusammengebrochenen Serienmörder und pflegt ihn wieder gesund, doch Michael Myers kennt keine Gnade. Knapp ein Jahr später erwacht der zu neuen Kräften gekommene Psychopath aus seinem Koma und kennt nur einen Gedanken: Rache. Jamie die Nichte und letzte lebende Verwandte des Killers, ist seit den letzten, schrecklichen Ereignissen in einem Kinderkrankenhaus untergebracht und wird dort auch von Dr. Loomis betreut, der nicht an den Tod von Michael glaubt. Und wie er zu Halloween miterleben muss, wird er recht behalten, denn schon bald gibt es in Haddonfield wieder die ersten Leichen...",
+            "poster_path": "/pDGQ9OyBsFH81uepet0xKSp4Adt.jpg",
+            "release_date": "1989-10-12",
+            "title": "Halloween V - Die Rache des Michael Myers",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 729,
+            "popularity": 39.037
+        },
+        {
+            "genre_ids": [
+                27,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Halloween: The Curse of Michael Myers",
+            "poster_path": "/2296NbOIsfH99QH43KC5pLFWYwd.jpg",
+            "id": 10987,
+            "vote_average": 5.2,
+            "video": false,
+            "vote_count": 678,
+            "overview": "32 Jahre ist es her, dass Michael Myers im Alter von sechs Jahren seine Schwester mit einem Messer erstach. Dieser Mord und Michaels Bluttaten danach haben dazu geführt, dass Haddonfield seit einigen Jahren kein Halloween mehr gefeiert hat, denn an diesem Festtag kehrte der maskierte Killer für gewöhnlich zurück. Jetzt wird die Feier wieder begangen, doch die Vorzeichen stehen nicht gut: Nacht für Nacht hört der kleine Danny seltsame Stimmen. Er und seine Eltern sind erst vor kurzer Zeit in das leerstehende Haus gezogen, in dem Michael Myers vor 32 Jahren zum ersten Mal mordete. Fließt bald vielleicht Blut durch Haddonfields Straßen und Häuser, ohne dass es Michael persönlich dafür braucht?",
+            "title": "Halloween VI - Der Fluch des Michael Myers",
+            "release_date": "1995-09-29",
+            "adult": false,
+            "backdrop_path": "/c0XKcEX1IvqDUkOlt8XrmKh1AtI.jpg",
+            "popularity": 23.971
+        },
+        {
+            "genre_ids": [
+                27,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Halloween H20: 20 Years Later",
+            "poster_path": "/8ilpwuzLj6K8834s2UdfE3ibqmG.jpg",
+            "video": false,
+            "vote_average": 6,
+            "title": "Halloween H20 - 20 Jahre später",
+            "overview": "Genau zwanzig Jahre ist es her, daß Laurie Strode ihrem mordenden Bruder Michael Myers in der Halloween-Nacht entkommen konnte. Jetzt lebt sie unter dem Namen Keri Tate als Direktorin eines exklusiven Internats in Nordkalifornien. Doch den Fluch ihrer Existenz konnte sie nicht abschütteln: ihr Trauma und ihre Alkoholsucht entfremden sie von ihrem Sohn John. Will Brennan, ihr Kollege und Geliebter, weiß noch nichts von ihrer schmerzhaften Vergangenheit. Laurie ahnt: ihr Martyrium ist noch nicht vorbei. Lauries schlimmste Befürchtungen werden wahr. Ihr Bruder lebt. Und er hat seine Schwester ausfindig gemacht.",
+            "release_date": "1998-08-05",
+            "vote_count": 1095,
+            "id": 11675,
+            "adult": false,
+            "backdrop_path": "/o1Rn4j1PPcJUXsRL02mWXUw3BrF.jpg",
+            "popularity": 22.496
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9QLbm8pncT3jHjVjyYfHrbqrht.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11442,
+            "original_language": "en",
+            "original_title": "Halloween: Resurrection",
+            "overview": "6 junge Studenten lassen sich für das Projekt \"Dangertainment\" anwerben, um für eine Internet-Aktion spezielle Schockeffekte zu inszenieren. Als ihnen jedoch bewusst wird, dass sie genau in dem Haus mit dem Tode spielen, in dem mit Michael Myers einst der blanke Horror regierte, wird ihnen merklich unwohl. Erst das Versprechen eines College-Stipendiums, das jeder der jungen Leute nach erfolgreicher Durchführung des gefährlichen Projektes erhalten soll, überzeugt die Crew zu bleiben. Also werden Kameras installiert und die makabersten Inszenierungen eingeübt. Was die Gruppe jedoch nicht weiß: Es ist Halloween und Michael Myers ist heimgekehrt, um mitzuspielen! Und sein Spiel ist echt!",
+            "poster_path": "/3AHn9Yfyf1KIQmFdAdUm20hi66G.jpg",
+            "release_date": "2002-07-01",
+            "title": "Halloween: Resurrection",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 828,
+            "popularity": 31.985
+        },
+        {
+            "overview": "Der Film knüpft an die Geschehnisse des Films \"Halloween - Die Nacht des Grauens\" an, jedoch wird Michael Myers nach dem Beschuss von Psychiater Dr. Loomis in Laurie Strodes Haus in Haddonfield verhaftet, statt wie im ursprünglichen zweiten Teil die Flucht zu ergreifen, um weiter morden zu können. So wird Michael erneut in einer Psychiatrie inhaftiert, bis es ihm 40 Jahre später zu Halloween gelingt, aus der Anstalt zu entkommen und sich wieder nach Haddonfield zu begeben. Laurie Strode, die erneut Myers Ziel darstellt, hat sich allerdings während der letzten vier Jahrzehnte auf seinen Ausbruch vorbereitet.",
+            "release_date": "2018-10-18",
+            "vote_average": 6.5,
+            "vote_count": 3419,
+            "adult": false,
+            "backdrop_path": "/czRXzKy5YcvoVhRUb8RQsFHUDi1.jpg",
+            "id": 424139,
+            "genre_ids": [
+                27,
+                53
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "poster_path": "/57WcsHTRulO6Kh3zXZoDcVqbwad.jpg",
+            "title": "Halloween - Stelle dich deinem Schicksal",
+            "popularity": 70.868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIG81E0H4CxuYIRgyNyD0z3KSlM.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Halloween Kills",
+            "poster_path": "/1hT1HXhSgLHW3XEAcsgsZNfhbiY.jpg",
+            "vote_count": 0,
+            "video": false,
+            "title": "Halloween Kills",
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "2021-10-14",
+            "id": 610253,
+            "popularity": 108.303
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oak26GugtlmnYkJW4UwO2flmFsc.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 616820,
+            "original_language": "en",
+            "original_title": "Halloween Ends",
+            "overview": "",
+            "poster_path": "/tfnVnSV9Y24VWBoglBptMb1F7vy.jpg",
+            "release_date": "2022-10-13",
+            "title": "Halloween Ends",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 14.42
+        }
+    ]
+}

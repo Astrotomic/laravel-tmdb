@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/7PR2yMwXuXelAcp3qpJ3isZCdd0.jpg",
+    "belongs_to_collection": {
+        "id": 10522,
+        "name": "Starship Troopers Filmreihe",
+        "poster_path": "/cR3EiPp8zUbtOSOsQIMlhpConEa.jpg",
+        "backdrop_path": "/hwZXCuY6GVw50o17nDGbSR8WMFJ.jpg"
+    },
+    "budget": 105000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 563,
+    "imdb_id": "tt0120201",
+    "original_language": "en",
+    "original_title": "Starship Troopers",
+    "overview": "In ferner Zukunft herrscht endlich Frieden auf der Erde. Einzig und allein die Einteilung in Soldaten und Zivilisten unterscheidet Menschen. Trotzdem lauert Gefahr: Killer-Insekten aus einer anderen Galaxie haben der Menschheit den Krieg erklärt. Ihr Ziel ist es, alles Leben auf der Erde zu zerstören, und ihre Angreifer scheinen unbesiegbar. Eine Armee junger Soldaten wird auf den feindlichen Planeten geschickt, um in einer letzten großen Schlacht die Menschheit vor ihrer Ausrottung zu bewahren. Unter ihnen befindet sich auch der junge Johnny Rico. Er, der einst zum Militär ging, um seiner Freundin zu imponieren, steht nun zusammen mit seinen Freunden vor einem Kampf, den keiner der Beteiligten jemals vergessen wird, denn die Starship Troopers haben ihren Gegner mehr als unterschätzt...",
+    "popularity": 19.988,
+    "poster_path": "/uQK6ABWeIqHiWIFvJngStUtW3cR.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 559,
+            "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+            "name": "TriStar Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 23434,
+            "logo_path": null,
+            "name": "Big Bug Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 76068,
+            "logo_path": null,
+            "name": "Digital Image Associates",
+            "origin_country": ""
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-11-07",
+    "revenue": 121214377,
+    "runtime": 129,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Bis heute regieren Menschen die Welt. Bis heute...",
+    "title": "Starship Troopers",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 3514
+}

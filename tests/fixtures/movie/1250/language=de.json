@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/ohfWCHT65P7b3kQvZnoy2BL95MB.jpg",
+    "belongs_to_collection": {
+        "id": 90306,
+        "name": "Ghost Rider Filmreihe",
+        "poster_path": "/bZBasloaMhjxCwH6tV0eziNMqut.jpg",
+        "backdrop_path": "/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg"
+    },
+    "budget": 110000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.sonypictures.com/movies/ghostrider/",
+    "id": 1250,
+    "imdb_id": "tt0259324",
+    "original_language": "en",
+    "original_title": "Ghost Rider",
+    "overview": "Um seinen todkranken Vater zu retten, überschreibt der junge Motorradfahrer Johnny Blaze seine Seele Mephistopheles. Jahre später ist er zum gefeierten Stuntstar aufgestiegen, doch die Liebe seines Lebens, Roxanne, mußte er damals aufgeben. Doch eines Tages ist Roxanne, inzwischen Reporterin, wieder da - und Mephistopheles offeriert Blaze, die Möglichkeit, seine Seele zurückzugewinnen, wenn er als der Ghost Rider gegen den machthungrigen Sohn des Teufels, Blackheart antritt, der eine neue Hölle auf Erden errichten will. Ghost Riders Zeichen ist eine höllische Maschine und ein Gesicht, das einem flammenden Totenschädel gleicht...",
+    "popularity": 38.574,
+    "poster_path": "/qCCo807zQcj4kaSGn5H6LTqK2dh.jpg",
+    "production_companies": [
+        {
+            "id": 20241,
+            "logo_path": null,
+            "name": "Crystal Sky Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 11370,
+            "logo_path": null,
+            "name": "Michael De Luca Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 20475,
+            "logo_path": null,
+            "name": "GH One",
+            "origin_country": ""
+        },
+        {
+            "id": 20476,
+            "logo_path": null,
+            "name": "Vengeance Productions Pty. Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2007-01-15",
+    "revenue": 228738393,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ghost Rider",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4555
+}

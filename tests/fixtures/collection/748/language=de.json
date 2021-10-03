@@ -1,0 +1,153 @@
+{
+    "id": 748,
+    "name": "X-Men Filmreihe",
+    "overview": "Die X-Men Sammlung basiert auf den gleichnamigen Comic Büchern von Stan Lee. Diese Sammlung enthält die Kinoversionen dieser Filme von der Blockbuster-Trilogie über die Sequels bis hin zum neuesten Abenteuer der Superhelden. Spektakuläre Action, nicht weniger spektakuläre Spezialeffekte, actiongeladene Extras und ein einmaliges Aufgebot internationaler Stars.",
+    "poster_path": "/qvFWLm9LtzYZrci0WqhyKWFaL7f.jpg",
+    "backdrop_path": "/roZFGw3Rg6VOYty9y4r5WvgvXoC.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "X-Men",
+            "poster_path": "/acVlKGAN8kepDVK1YrKF69zrtjt.jpg",
+            "video": false,
+            "vote_average": 7,
+            "overview": "Die Ausreißerin Rogue, die aufgrund ihrer wachsenden Mutantenkräfte, nämlich die Fähigkeit, durch Berührung die Persönlichkeiten, Erinnerungen und Kräfte anderer Menschen kurzzeitig zu absorbieren, von zu Hause weggelaufen ist, trifft bei ihrer Flucht in Kanada auf den Einzelgänger Logan, der geschärfte Sinne und die Fähigkeit besitzt, eigene Verletzungen in Sekunden zu heilen. Dazu ist sein Skelett vollständig mit einem schier unzerstörbarem Metall (Adamantium) überzogen und mit sechs ausfahrbaren Klauen bewaffnet; Logan kann sich aber nicht erinnern, wann und wo sein Skelett derart behandelt worden ist, noch hat er irgendeine Erinnerung an seine eigene Vergangenheit.",
+            "release_date": "2000-07-13",
+            "vote_count": 9062,
+            "adult": false,
+            "backdrop_path": "/A9fpAjZLqsODM96aI6kx147LPM9.jpg",
+            "title": "X-Men",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 36657,
+            "popularity": 1.603
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/loixNIKBURXfPcND4noz7E8FqCS.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878,
+                53
+            ],
+            "id": 36658,
+            "original_language": "en",
+            "original_title": "X2",
+            "overview": "Sie sind das nächste Glied in der Evolutionskette. Jeder von ihnen kam mit einer einzigartigen genetischen Mutation auf die Welt, jeder mit einer anderen außergewöhnlichen Fähigkeit, die sich erstmals in der Jugend zeigt.In einer zunehmend von Vorurteilen und Hass beherrschten Welt interessieren sie jedoch nur als wissenschaftliche Kuriositäten ... als Launen der Natur ... als Ausgestoßene, gefürchtet und verachtet, weil Andersartigkeit nicht akzeptiert wird.Trotz der weit verbreiteten Ignoranz der Gesellschaft schaffen es die X-Men, und mit ihnen weltweit Tausende anderer Mutanten zu überleben. Unter den Fittichen des mächtigsten Telepathen der Welt, Professor Charles Xavier, lernen diese \"begabten\" Studenten, ihre Kräfte zu kontrollieren und sie zum Vorteil der Menschheit einzusetzen. Sie kämpfen für den Schutz einer Welt, die sie fürchtet.",
+            "poster_path": "/gkpuNoaVrgz0003t4b4kgviZgGQ.jpg",
+            "release_date": "2003-04-24",
+            "title": "X-Men 2",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 8115,
+            "popularity": 1.315
+        },
+        {
+            "title": "X-Men: Der letzte Widerstand",
+            "adult": false,
+            "backdrop_path": "/5ho0a0fcJRUOhdg9h98NvsNRvzu.jpg",
+            "id": 36668,
+            "genre_ids": [
+                12,
+                28,
+                878,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "X-Men: The Last Stand",
+            "poster_path": "/lYPzWz4EbNkOZRM2XFJYzIss86t.jpg",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 7752,
+            "overview": "Die Veröffentlichung eines \"Heilmittels\" für Mutanten schreckt die bisher friedlich mit den Menschen lebende Gesellschaft auf. Magneto nimmt das zum Anlaß einen Kriegszug gegen die Menschen zu führen, um endlich die Herrschaft zu erlangen. Doch die X-Men um Professor Xavier versuchen dem Treiben ein Ende zu bereiten, das Gleichgewicht und den Frieden wieder herzustellen.",
+            "release_date": "2006-05-24",
+            "popularity": 1.465
+        },
+        {
+            "video": false,
+            "vote_average": 7.3,
+            "overview": "Der junge Professor Charles Xavier, in seinen Zwanzigern, mit üppiger Haarpracht und zu Beginn des Films noch nicht im Rollstuhl, studiert in Oxford und trifft auf den gleichaltrigen Erik Lensherr. Beide sind Mutanten mit außergewöhnlichen Fähigkeiten. Gemeinsam erdenken sie eine Zukunft, in der Mutanten und Menschen vereint leben können. Als das Wohl der Welt auf dem Spiel steht, kämpfen sie mit vereinten Kräften und der Hilfe von anderen Mutanten gegen die drohende Gefahr des Hellfire Clubs mit Emma Frost und Sebastian Shaw. Erst im Laufe dieses Kampfes werden die beiden zu den Todfeinden der vorherigen Filme.",
+            "release_date": "2011-06-01",
+            "adult": false,
+            "backdrop_path": "/4Ky8OcB0F7x3PRZQIiFFZyf3eIX.jpg",
+            "title": "X-Men: Erste Entscheidung",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "vote_count": 10509,
+            "original_language": "en",
+            "original_title": "X-Men: First Class",
+            "poster_path": "/y8uIHiqTDBaslcYtyUp19Gf9nC.jpg",
+            "id": 49538,
+            "popularity": 4.19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 127585,
+            "original_language": "en",
+            "original_title": "X-Men: Days of Future Past",
+            "overview": "In der Zukunft stehen die Mutanten kurz vor dem Aussterben, weil sie von Killer-Robotern gejagt und getötet werden: den Sentinels. Aufgrund der Bedrohung arbeiten die Gegner Magneto und Charles Xavier zusammen - ihr Plan sieht vor, den Terror durch die Sentinels gar nicht erst zuzulassen. Dazu schicken sie Wolverines Bewusstsein mit Hilfe von Kitty Pryde in die Vergangenheit, da sich sein Geist von den Folgen einer solchen Zeitreise erholen kann. In der Vergangenheit soll Wolverine eine Tat Mystiques verhindern, die den Bau der Sentinels erst möglich machte; der Eingriff würde also die Zukunft im Sinne der Mutanten verändern. Doch dafür muss Wolverine erst ein Team aus Mutanten zusammenstellen – was sich als schwierig erweist. Der junge Charles Xavier etwa ist in einem miserablen psychischen Zustand…",
+            "poster_path": "/pPS6I2Fp8oSMCwMctHLmXntUvqP.jpg",
+            "release_date": "2014-05-15",
+            "title": "X-Men: Zukunft ist Vergangenheit",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 12769,
+            "popularity": 48.786
+        },
+        {
+            "release_date": "2016-05-18",
+            "adult": false,
+            "backdrop_path": "/pCssRYbILVduCYDgrcRG0T8W4FN.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                14
+            ],
+            "vote_count": 10752,
+            "original_language": "en",
+            "id": 246655,
+            "poster_path": "/vsv91Fj4pxOEm2QJ96jq2EXS7QT.jpg",
+            "title": "X-Men: Apocalypse",
+            "video": false,
+            "vote_average": 6.5,
+            "original_title": "X-Men: Apocalypse",
+            "overview": "Der Motor für das Fortbestehen einer Art ist die Mutation, die unter bestimmten sich ändernden Umweltbedingungen sich von größtem Vorteil erweist. Noch sah sich immer der Mensch, der Homo sapiens, als die Krone der Schöpfung. Doch nun – mit dem Auftritt der Mutanten – sehen sich die Menschen in ihrer Alleinstellung bedroht vom Homo sapiens superior. Und tatsächlich sollen sie von ihrem Thron gestürzt werden. Denn keiner Vertritt mehr die Maxime des Survival of the Fittest als Apocalypse, der erste der Mutanten.  Doch Apocalypse ist wenig zimperlich im Kampf ums Überleben, auch Mutanten, die Schwäche zeigen, müssen ausgetilgt und vernichtet werden.  Und so müssen die Menschen und die Mutanten um Professor Xavier und Magneto Seite an Seite stehen, um gegen Apocalypse und seinen Selektionsdruck eine Chance zu haben.",
+            "popularity": 61.537
+        },
+        {
+            "release_date": "2019-06-05",
+            "adult": false,
+            "backdrop_path": "/1wJafZSiQ55h0W86mhmFxGLEpdN.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "vote_count": 4810,
+            "original_language": "en",
+            "id": 320288,
+            "poster_path": "/6NbUEHvqnYljIR8dicOubDMJrEs.jpg",
+            "title": "X-Men: Dark Phoenix",
+            "video": false,
+            "vote_average": 6,
+            "original_title": "Dark Phoenix",
+            "overview": "Etwa zehn Jahre nachdem sie es mit dem mächtigen Mutanten Apocalypse aufgenommen haben, sind die X-Men rund um Charles Xavier zu Helden geworden. Doch der damit einhergehende Ruhm steigt dem an den Rollstuhl gefesselten Telepathen zu Kopf, so dass er seine Schützlinge auf immer gefährlichere Missionen schickt. Für ihren jüngsten Auftrag schickt er die X-Men ins Weltall, wo sie verunglückte Astronauten retten sollen. Doch dabei wird ihr Raumschiff von einer Sonneneruption getroffen, die Jean Grey zwar absorbieren und umlenken kann, doch durch die enorme Energie erwacht eine mysteriöse Macht in ihr: die Phoenix Force. Jeans neue Kräfte lassen sich nur schwer kontrollieren und rufen schließlich auch eine außerirdische Gestaltwandlerin auf den Plan, die Jagd auf sie macht…",
+            "popularity": 44.009
+        }
+    ]
+}

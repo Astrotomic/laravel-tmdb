@@ -18,7 +18,7 @@
         },
         {
             "id": 80,
-            "name": "Crime"
+            "name": "Krimi"
         }
     ],
     "homepage": "https://www.malignantmovie.net/",
@@ -26,8 +26,8 @@
     "imdb_id": "tt3811906",
     "original_language": "en",
     "original_title": "Malignant",
-    "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.",
-    "popularity": 744.281,
+    "overview": "Madison wurde einst als traumatisiertes Mächen von einer liebevollen Pflegefamilie adoptiert. Als erwachsene Frau wird sie nun von ihrer tragischen Vergangenheit eingeholt, denn Gabriel, ihr vermeintlich imaginärer bester Freund aus Kindheitstagen, scheint sehr wohl zu existieren. Allerdings verfolgt ihr einstiger Wegbegleiter keineswegs gute Absichten, sondern reißt Madison vielmehr mit in einen dunklen Strudel hinab: Gabriel begeht nämlich eine Reihe brutaler Morde, die Madison aufgrund ihrer besonderen Verbindung zu ihm mitansieht, als wäre sie live selbst mit dabei. Aber geschehen die Taten wirklich oder existieren die blutigen Vorfälle nur in ihren Gedanken? Die Grenze zwischen Wahrheit und Einbildung sind längst verschwommen.",
+    "popularity": 758.072,
     "poster_path": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
     "production_companies": [
         {
@@ -88,9 +88,9 @@
         }
     ],
     "status": "Released",
-    "tagline": "A new vision of terror.",
+    "tagline": "",
     "title": "Malignant",
     "video": false,
     "vote_average": 7.1,
-    "vote_count": 641
+    "vote_count": 654
 }

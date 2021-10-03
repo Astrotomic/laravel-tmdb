@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/aSXqVCYz3FYuDRjihoqQiXtAVa6.jpg",
+    "belongs_to_collection": {
+        "id": 528,
+        "name": "Terminator Filmreihe",
+        "poster_path": "/vxiKtcxAJxHhlg2H1X8y7zcM3k6.jpg",
+        "backdrop_path": "/cpmbkwSxZnKO69V82A9a34tvk2E.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.terminatorsalvation.com",
+    "id": 534,
+    "imdb_id": "tt0438488",
+    "original_language": "en",
+    "original_title": "Terminator Salvation",
+    "overview": "Im Jahr 2018 hat die Apokalypse längst ihren Lauf genommen und die Welt, wie wir sie kennen, existiert nicht mehr. Die Menschen werden von den Maschinen Skynets geknechtet und nur ein kleiner Teil unter der Führung von John Connor führt erbittert Widerstand gegen die Riege der Terminatoren. Unterstützung erhält die Gruppe um Connor von dem mysteriösen Fremden Marcus Wright.",
+    "popularity": 172.29,
+    "poster_path": "/rdPUxt7sflq5tXd8hyM8pSWlw4B.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 4021,
+            "logo_path": null,
+            "name": "The Halcyon Company",
+            "origin_country": ""
+        },
+        {
+            "id": 4022,
+            "logo_path": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+            "name": "Wonderland Sound and Vision",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-05-20",
+    "revenue": 371353001,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Ende beginnt",
+    "title": "Terminator: Die Erlösung",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 5065
+}

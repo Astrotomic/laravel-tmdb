@@ -1,0 +1,76 @@
+{
+    "id": 1582,
+    "name": "Turtles Filmreihe",
+    "overview": "Die erste Zeichentrickserie steigerte die Beliebt- und Bekanntheit des Turtles-Franchise so weit, dass Anfang der 1990er-Jahre drei Realverfilmungen entstanden, welche die Comicvorlage unabhängig von der parallel laufenden Zeichentrickserie neu adaptierten. Dank des Engagements von Regisseur Steve Barron orientierte sich die erste Realverfilmung wieder mehr am ursprünglichen Comic.  1990: Turtles (Originaltitel: Teenage Mutant Ninja Turtles)  1991: Turtles II – Das Geheimnis des Ooze (Originaltitel: Teenage Mutant Ninja Turtles II: The Secret of the Ooze)  1993: Turtles III (Originaltitel: Teenage Mutant Ninja Turtles III)",
+    "poster_path": "/hxcTQ9aR9U2hOWyy7S1HoBDFprA.jpg",
+    "backdrop_path": "/7dusELv6x1ANRGorNvqbKhKIUPY.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28,
+                35,
+                10751
+            ],
+            "id": 1497,
+            "original_language": "en",
+            "original_title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+            "overview": "Die Turtles dachten, ihren Erzfeind Shredder ein für alle Mal vernichtet zu haben. Falsch gedacht: Der Schurke erfreut sich nämlich bester Gesundheit und ist drauf und dran, die „Foot Gang“ neu aufzubauen. Um Rache an seinen verhassten Widersachern zu nehmen, erschafft er außerdem mithilfe des geheimnisvollen Ooze, das auch einst die Turtles hervorbrachte, 2 andere Mutanten, gegen die das Schildkröten-Quartett praktisch chancenlos ist. Die einzige Hoffnung, dieser Übermacht noch bei zu kommen, liegt in dem Wissenschaftler Jordan Perry, der sich zur Zeit aber selber in Shredders Gewalt befindet...",
+            "poster_path": "/2O4d3xDCwCODayzFk1Mr2m4K3rS.jpg",
+            "release_date": "1991-03-22",
+            "title": "Turtles II - Das Geheimnis des Ooze",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 784,
+            "popularity": 14.398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vVDPB2bU5qFpjI6xx9DipgfRfT0.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                35,
+                10751
+            ],
+            "id": 1498,
+            "original_language": "en",
+            "original_title": "Teenage Mutant Ninja Turtles",
+            "overview": "In New York ist eine Bande krimineller Jugendlicher, angeführt von dem japanischen Ninja-Meister Shredder, durch ihre ständig wachsende Mitgliederzahl so einflussreich geworden, dass die Polizei kaum noch Macht über die Lage hat. Die einzigen, die dem Chaos Einhalt gebieten können, sind 4 mutierte Schildkröten, die dank der weisen Ratte Splinter, ebenfalls ein Mutationsprodukt, über hervorragende Ninjitsu-Kenntnisse verfügen. Bei ihren Kampfeinsätzen für das Gute machen die grünen Helden eines Tages sogar persönliche Bekanntschaft mit ihrem größten Schwarm, der Reporterin April O’Neil. Diese lang ersehnte Erfahrung bringt leider auch einen schweren Schlag mit sich: Ihre Gegenspieler haben ihr Versteck in der Kanalisation ausfindig gemacht und Splinter entführt...",
+            "poster_path": "/auBa6QqcjXKj5QvFLTgPHw0A8gB.jpg",
+            "release_date": "1990-03-30",
+            "title": "Turtles",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1251,
+            "popularity": 19.63
+        },
+        {
+            "video": false,
+            "vote_average": 5.4,
+            "overview": "Nach ihrem endgültigen Sieg über den bösen Schredder haben sich die vier Ninja-Kampfschildkröten mit ihrem Meister Splinter abermals in der heimischen New Yorker Metro zurückgezogen. Dort trainieren sie tagein, tagaus ihre Kampfsportübungen und gehen vor Langerweile beinahe zugrunde. Umso mehr freuen sie sich, als ihre Freundin April zu Besuch kommt und ein antikes Zepter aus dem feudalen Japan mitbringt. Eigentlich als Geschenk gedacht, entpuppt sich das Utensil schnell als ein Zeitreiseapparat, der April zurück ins Japan des 17. Jahrhunderts befördert und an ihrer Stelle einen japanischen Feudalherren nach New York transportiert. Die vier Jungs zögern natürlich nicht lange und reisen ebenfalls durch die Zeit, um April zu retten. Auf die zum Tausch in New York gelandeten Japaner müssen derweil Splinter und ihr guter Freund Casey Jones aufpassen...",
+            "release_date": "1993-03-17",
+            "adult": false,
+            "backdrop_path": "/iY8P5N4ENtE05ngDbY2k2TTmL3I.jpg",
+            "vote_count": 554,
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751,
+                14,
+                878
+            ],
+            "id": 1499,
+            "original_language": "en",
+            "original_title": "Teenage Mutant Ninja Turtles III",
+            "poster_path": "/tJz144tRs65VfmOQpoa9pwBnTiJ.jpg",
+            "title": "Turtles III",
+            "popularity": 12.228
+        }
+    ]
+}

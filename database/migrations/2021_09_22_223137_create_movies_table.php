@@ -1,5 +1,6 @@
 <?php
 
+use Astrotomic\Tmdb\Models\Collection;
 use Astrotomic\Tmdb\Models\Movie;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
@@ -27,6 +28,7 @@ return new class() extends Migration {
             $table->json('production_countries')->nullable();
             $table->json('spoken_languages')->nullable();
             $table->string('status')->nullable();
+            $table->foreignId('collection_id')->nullable()->constrained(Collection::table());
 
             $table->json('title')->nullable();
             $table->json('tagline')->nullable();

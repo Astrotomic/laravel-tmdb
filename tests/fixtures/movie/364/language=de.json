@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+    "belongs_to_collection": {
+        "id": 120794,
+        "name": "Batman Filmreihe",
+        "poster_path": "/aUFuAsWPGw1QfWoKlk19oNZ513s.jpg",
+        "backdrop_path": "/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 364,
+    "imdb_id": "tt0103776",
+    "original_language": "en",
+    "original_title": "Batman Returns",
+    "overview": "Batman hat es mit dem Pinguin zu tun, einem amphibisch/menschlichem Wesen, das durch den Ansporn des fiesen Geschäftsmanns Max Schreck sogar Ambitionen hegt, es bis zum Bürgermeister Gotham Citys zu bringen. Die beiden wollen Batman in Verruf bringen, doch dann gibt es da noch die ehemalige Sekretärin Schrecks, Melina Kyle, die als undurchsichtige Catwoman durch Gothams Strassen zieht ...",
+    "popularity": 25.623,
+    "poster_path": "/rshX1A5w3lUbVOdTHXPpFLBM2zX.jpg",
+    "production_companies": [
+        {
+            "id": 1382,
+            "logo_path": "/sOg7LGESPH5vCTOIdbMhLuypoLL.png",
+            "name": "PolyGram Filmed Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1992-06-19",
+    "revenue": 280000000,
+    "runtime": 126,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Eine Fledermaus, Katze und ein Pinguin",
+    "title": "Batmans Rückkehr",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 4797
+}

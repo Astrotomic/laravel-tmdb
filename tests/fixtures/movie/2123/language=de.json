@@ -1,0 +1,61 @@
+{
+    "adult": false,
+    "backdrop_path": "/dnPlfegMivDT2YrDKKblr1dLQL8.jpg",
+    "belongs_to_collection": null,
+    "budget": 51000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 2123,
+    "imdb_id": "tt0183505",
+    "original_language": "en",
+    "original_title": "Me, Myself & Irene",
+    "overview": "Ein Staatspolizist leidet unter einer gespaltenen Persönlichkeit – in dem einen Leben ist er verrückt und aggressiv, in dem anderen freundlich und ausgeglichen. Dummerweise verlieben sich seine beiden Alter Egos in dieselbe Frau, was natürlich zu einigen Komplikationen führt…",
+    "popularity": 24.452,
+    "poster_path": "/9DsPLiPQJnpqvA0yjG6EzEWwcj5.jpg",
+    "production_companies": [
+        {
+            "id": 1156,
+            "logo_path": null,
+            "name": "Conundrum Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-06-22",
+    "revenue": 149270999,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ich, beide & sie",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 2909
+}

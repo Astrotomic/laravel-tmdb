@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/e0bcpqGUNnlUfw42AMFumIXYHYh.jpg",
+    "belongs_to_collection": {
+        "id": 33059,
+        "name": "Wild Things Filmreihe",
+        "poster_path": "/4OI3VZMXFMcTmpyzg9RlN4vsIro.jpg",
+        "backdrop_path": "/uE47SwTt7uHyVwpMzcCQ92Q7FsQ.jpg"
+    },
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 617,
+    "imdb_id": "tt0120890",
+    "original_language": "en",
+    "original_title": "Wild Things",
+    "overview": "Sam Lombardo ist ein junger Lehrer an der High School in Blue Bay, Florida. Die attraktive Schülerin Kelly van Ryan himmelt ihn an und versucht, ihn zu verführen, aber er widersteht ihr. Daraufhin beschuldigt sie ihn, sie vergewaltigt zu haben, und Kellys reiche, einflussreiche Mutter sorgt dafür, dass Lombardo vom Dienst suspendiert wird. Als sich ein weiteres Mädchen bei der Polizei meldet und behauptet, Lombardo habe sie vor einem Jahr vergewaltigt, wird er festgenommen und muss sich vor Gericht verantworten ...",
+    "popularity": 15.323,
+    "poster_path": "/NQgGPlw05qHxLaBnqlPBiAZNzE.jpg",
+    "production_companies": [
+        {
+            "id": 1236,
+            "logo_path": null,
+            "name": "Mandalay Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-03-20",
+    "revenue": 67200000,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wild Things",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 1213
+}

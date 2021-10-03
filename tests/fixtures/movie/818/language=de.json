@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/CxkMHYV3pEKAyUJK34gkd9uiM.jpg",
+    "belongs_to_collection": {
+        "id": 1006,
+        "name": "Austin Powers Filmreihe",
+        "poster_path": "/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg",
+        "backdrop_path": "/3QJMI8nqQcwU5JBPy26m8TUXtTN.jpg"
+    },
+    "budget": 63000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.austinpowers.com/",
+    "id": 818,
+    "imdb_id": "tt0295178",
+    "original_language": "en",
+    "original_title": "Austin Powers in Goldmember",
+    "overview": "Dr. Evil und seinem Komplizen Mini-Me gelingt es, aus dem Gefängnis zu fliehen. Das ruft den \"Swinging International Man of Mystery\" auf den Plan. Als Austin Powers tritt er in Aktion, um seine beiden Widersacher wieder hinter Gitter zu wissen. Aber der schrille Agent hat es nicht nur mit Dr. Evil zu tun. Denn sein Vater Nigel Powers, ein altgedienter Agent, wurde von dem holländischen Bösewicht Goldständer entführt. Der unberechenbare Schurke plant eine Teufelei, die den Fortbestand des Planeten gefährdet. Sowohl die Sorge um die Erde als auch die persönliche Schmach, dass sich Goldständer an der Familie Austin Powers' vergreifen konnte, will der Agent nicht ungesühnt lassen. Passenderweise arbeiten Goldständer und Dr. Evil zusammen, so dass Austin Powers mit einem Kampf gleich zwei Gegner in die Schranken weisen kann.",
+    "popularity": 20.741,
+    "poster_path": "/xtDejB4o3gWjRucPmnklZbLFCRY.jpg",
+    "production_companies": [
+        {
+            "id": 595,
+            "logo_path": null,
+            "name": "Eric's Boy",
+            "origin_country": ""
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 598,
+            "logo_path": null,
+            "name": "Team Todd",
+            "origin_country": ""
+        },
+        {
+            "id": 52943,
+            "logo_path": null,
+            "name": "Gratitude International",
+            "origin_country": ""
+        },
+        {
+            "id": 15888,
+            "logo_path": null,
+            "name": "Moving Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-07-26",
+    "revenue": 296655431,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Austin Powers in Goldständer",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2402
+}

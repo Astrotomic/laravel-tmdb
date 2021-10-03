@@ -8,7 +8,6 @@ use Astrotomic\Tmdb\Requests\Credit\Details;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\MorphTo;
 use Illuminate\Support\Arr;
-use Illuminate\Support\Facades\DB;
 
 /**
  * @property string $id
@@ -24,8 +23,8 @@ use Illuminate\Support\Facades\DB;
  * @property-read \Astrotomic\Tmdb\Models\Movie|\Astrotomic\Tmdb\Models\Model $media
  * @property-read \Astrotomic\Tmdb\Models\Person $person
  *
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder newModelQuery()
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder newQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder newModelQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder newQuery()
  * @method static \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder query()
  *
  * @mixin \Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
@@ -71,9 +70,9 @@ class Credit extends Model
             'character' => Arr::get($data, 'media.character') ?: null,
         ]);
 
-        $this->person()->associate(Person::query()->find($data['person']['id']));
+        $this->person()->associate(Person::query()->findOrFail($data['person']['id']));
         if ($data['media_type'] === 'movie') {
-            $this->media()->associate(Movie::query()->find($data['media']['id']));
+            $this->media()->associate(Movie::query()->findOrFail($data['media']['id']));
         }
 
         return $this;
@@ -91,9 +90,7 @@ class Credit extends Model
             return false;
         }
 
-        return DB::transaction(function () use ($data, $locale): bool {
-            return $this->fillFromTmdb($data, $locale)->save();
-        });
+        return $this->fillFromTmdb($data, $locale)->save();
     }
 
     public function newEloquentBuilder($query): CreditBuilder

@@ -1,0 +1,167 @@
+{
+    "id": 87359,
+    "name": "Mission: Impossible Filmreihe",
+    "overview": "Mission: Impossible ist ein US-Agententhriller des Regisseurs Brian De Palma mit Tom Cruise und Jon Voight aus dem Jahre 1996, der auf der Fernsehserie Kobra, übernehmen Sie bzw. deren Ableger In geheimer Mission basiert. Mittlerweile gibt es drei Fortsetzungen. Im Jahr 2000 erschien Mission: Impossible II, 2006 folgte Mission: Impossible III und im Dezember 2011 schließlich Mission: Impossible - Phantom Protokoll.",
+    "poster_path": "/2v3dCcB5qxArSrty55nby6FMY6P.jpg",
+    "backdrop_path": "/jYl0UuJFcmhymv9ZNO14lPLDY1Z.jpg",
+    "parts": [
+        {
+            "id": 954,
+            "original_title": "Mission: Impossible",
+            "poster_path": "/khFoxN9ixR7vhu6Pkk7OzePb80E.jpg",
+            "title": "Mission: Impossible",
+            "overview": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
+            "release_date": "1996-05-22",
+            "vote_count": 6587,
+            "vote_average": 6.9,
+            "adult": false,
+            "backdrop_path": "/pbaAkR1FDvgndTVFgGRIzf9o49r.jpg",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "video": false,
+            "popularity": 22.552
+        },
+        {
+            "id": 955,
+            "original_title": "Mission: Impossible II",
+            "poster_path": "/2oHQ1yRaEFUgEmVqzd3y0D3p38c.jpg",
+            "title": "Mission: Impossible II",
+            "overview": "Agent Ethan Hunt genießt gerade seinen Urlaub beim Freiklettern, als ihn eine vom Hubschrauber überbrachte Nachricht zur Arbeit zurückruft: Der kriminelle Ex-Kollege Sean Ambrose hat mit seiner Gang ein todbringendes Virus in seinen Besitz gebracht. Nun gilt es, den Verräter schleunigst ausfindig und dingfest zu machen. Deshalb macht sich Ethan gemeinsam mit dem Computer-Genie Luther, dem Australier Billy und der attraktiven Meisterdiebin Nyah an die unmöglich scheinende Mission, das Virus zurückzuholen.",
+            "release_date": "2000-05-24",
+            "vote_count": 4963,
+            "vote_average": 6.1,
+            "adult": false,
+            "backdrop_path": "/u819Obji086jtXzPfEDZbG1GEBt.jpg",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "video": false,
+            "popularity": 20.241
+        },
+        {
+            "overview": "Ethan Hunt hat sich zur Ruhe gesetzt und möchte mit der süßen Julia eine Familie gründen. Doch dann ruft man ihn zu einer allerletzten Mission. Hunts Kollegin Lindsey ist in die Fänge des gemeingefährlichen Psychopathen Owen Davian geraten. Die folgende interkontinentale Hatz führt den Superagenten über Berlin und den Vatikan bis ins fernöstliche Schanghai, wo es zum Showdown kommt. Dort muss Hunt seine inzwischen von Davian entführte Julia befreien und eine Zeitbombe, die unter seiner Schädeldecke tickt, deaktivieren.",
+            "release_date": "2006-05-03",
+            "adult": false,
+            "backdrop_path": "/mOyF7rHVLF6uLbyb18FWTmcrjJe.jpg",
+            "vote_count": 5040,
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 956,
+            "original_language": "en",
+            "original_title": "Mission: Impossible III",
+            "poster_path": "/4Oj92MjrBC6HlbT8GXbwSkb0zRT.jpg",
+            "title": "Mission: Impossible III",
+            "video": false,
+            "vote_average": 6.7,
+            "popularity": 26.547
+        },
+        {
+            "overview": "Bei einem Einsatz des IMF im Kreml kommt es zu einem folgenschweren Zwischenfall: IMF-Anführer Ethan Hunt wird Zeuge eines verheerenden Bombenattentats, das der IMF in die Schuhe geschoben wird. Die Regierung verleugnet die Elite-Abteilung und initiiert das Phantom-Protokoll, ihr einziger Kontakt zur Kommandostruktur wird ermordet. Mit seinen Leuten geht Ethan in den Untergrund, um auf eigene Faust den Drahtzieher zu stellen. Die Spur führt nach Dubai, wo sie dem undurchschaubaren Hendricks auf die Schliche kommen.",
+            "release_date": "2011-12-07",
+            "adult": false,
+            "backdrop_path": "/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg",
+            "vote_count": 7875,
+            "genre_ids": [
+                28,
+                53,
+                12
+            ],
+            "id": 56292,
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Ghost Protocol",
+            "poster_path": "/jE6fxW1l7Of8CTb9A0gxVsbC3w7.jpg",
+            "title": "Mission: Impossible - Phantom Protokoll",
+            "video": false,
+            "vote_average": 7,
+            "popularity": 65.433
+        },
+        {
+            "video": false,
+            "vote_average": 7.2,
+            "overview": "Nachdem das Pentagon die Impossible Missions Force aufgelöst hat, ist Ethan Hunt auf sich allein gestellt. Doch gerade jetzt hat der ehemalige IMF-Agent die Spur der geheimnisvollen und hochgefährlichen Organisation „Syndikat“ aufgenommen, die sich schon bald als sein mächtigster Gegner erweist. Aus dem Untergrund heraus operiert das „Syndikat“ mit bestens ausgebildeten Spezialagenten und diese scheinen Hunt immer einen Schritt voraus zu sein – und ihre Mission ist teuflisch: Sie wollen durch gezielte Anschläge eine neue Weltordnung schaffen und alle ehemaligen Mitglieder der IMF auslöschen, um ihre Pläne ungestört verwirklichen zu können. In offizieller Mission der Regierung oder nicht, Ethan Hunt kann nicht zusehen, wie der Terror immer weiter um sich greift, und reaktiviert sein einzigartiges Team. Unerwartete Hilfe bekommt das Quartett von der geheimnisvollen Agentin Ilsa Faust – doch auf welcher Seite steht sie wirklich?",
+            "release_date": "2015-07-23",
+            "adult": false,
+            "backdrop_path": "/eR20N1flPCQyp9HzpxlTcxgDAO7.jpg",
+            "title": "Mission: Impossible - Rogue Nation",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 177677,
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Rogue Nation",
+            "poster_path": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+            "vote_count": 6917,
+            "popularity": 38.005
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aw4FOsWr2FY373nKSxbpNi3fz4F.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "title": "Mission: Impossible - Fallout",
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Fallout",
+            "poster_path": "/bT6dC9f3ppOHhip9GSenSL3rjK3.jpg",
+            "video": false,
+            "vote_average": 7.4,
+            "overview": "Mit der Wiederbeschaffung gestohlenen Plutoniums beauftragt, stellt Ethan Hunt das Wohl seines Teams über die Vollendung der Mission, wodurch die Nuklearwaffen in die Hände der Apostel, einem tödlichen Netzwerk hochspezialisierter Terroristen, gelangen. Um den drohenden atomaren Holocaust zu verhindern, sind Ethan und sein IMF-Team zur Zusammenarbeit mit dem draufgängerisch agierenden CIA-Agenten Walker gezwungen. Es beginnt ein tödlicher Wettlauf gegen die Zeit ...",
+            "release_date": "2018-07-13",
+            "vote_count": 6139,
+            "id": 353081,
+            "popularity": 42.804
+        },
+        {
+            "overview": "",
+            "original_language": "en",
+            "original_title": "Mission: Impossible 7",
+            "poster_path": "/tO2JanZX3bg3QrSJBCiU5owbQwG.jpg",
+            "adult": false,
+            "backdrop_path": null,
+            "vote_average": 0,
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "vote_count": 0,
+            "video": false,
+            "title": "Mission: Impossible 7",
+            "release_date": "2022-09-01",
+            "id": 575264,
+            "popularity": 14.402
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Mission: Impossible 8",
+            "poster_path": "/mRhEg5hBCSi2aOdercqLC3AmT0A.jpg",
+            "video": false,
+            "vote_average": 0,
+            "id": 575265,
+            "overview": "",
+            "release_date": "2023-07-06",
+            "vote_count": 0,
+            "title": "Mission: Impossible 8",
+            "popularity": 13.621
+        }
+    ]
+}

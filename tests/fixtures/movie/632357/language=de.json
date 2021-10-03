@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/theunholy",
+    "id": 632357,
+    "imdb_id": "tt9419056",
+    "original_language": "en",
+    "original_title": "The Unholy",
+    "overview": "Alice ist ein junges hörgeschädigtes Mädchen, das nach einer angeblichen Heimsuchung durch die Jungfrau Maria auf unerklärliche Weise wieder hören, sprechen und sogar Kranke heilen kann. Ein in Verruf geratener Journalist hofft, seine Karriere wieder in Schwung zu bringen und reist in die kleine Stadt in Neuengland, um Nachforschungen anzustellen.  Als rundherum erschreckende Ereignisse geschehen, beginnt er sich zu fragen, ob diese Phänomene das Werk der Jungfrau Maria sind, oder ob etwas viel unheilvolleres dahinter steckt.",
+    "popularity": 380.811,
+    "poster_path": "/bShgiEQoPnWdw4LBrYT5u18JF34.jpg",
+    "production_companies": [
+        {
+            "id": 768,
+            "logo_path": null,
+            "name": "Ghost House Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3287,
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "origin_country": "US"
+        },
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6951,
+            "logo_path": null,
+            "name": "Chapman/Leonard Studio Equipment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-03-31",
+    "revenue": 30763855,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Unholy",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 1358
+}

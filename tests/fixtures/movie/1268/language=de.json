@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/pJ1jm5sJbcQC731JYF06rDAkZEZ.jpg",
+    "belongs_to_collection": {
+        "id": 103372,
+        "name": "Mr. Bean Filmreihe",
+        "poster_path": "/61Jcc1Gwc2KE7sIJ1HPqqdt67ji.jpg",
+        "backdrop_path": "/aIXcqHz5VKRLXHPsNo0dFoK7YP5.jpg"
+    },
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://movies.universal-pictures-international-germany.de/mrbeanmachtferien/",
+    "id": 1268,
+    "imdb_id": "tt0453451",
+    "original_language": "en",
+    "original_title": "Mr. Bean's Holiday",
+    "overview": "Der tollpatschige aber sympathische Engländer Mr. Bean gewinnt einen Urlaub in Südfrankreich. Dabei bereiten ihm nicht nur er selbst, sondern auch seine mangelnden Sprachenkenntnisse sowie exotische und kulinarische Genüsse Schwierigkeiten. Das Unglück nimmt seinen Lauf und gipfelt schließlich in den Filmfestspielen von Cannes, wo seine Urlaubsvideos durch eine Verkettung von Missverständnissen gezeigt werden.",
+    "popularity": 18.383,
+    "poster_path": "/cwepJOEvIJnXDisaPjsH3M6dUPc.jpg",
+    "production_companies": [
+        {
+            "id": 686,
+            "logo_path": "/qMVjV8YFbxXrGVF4wD6hRjllVbr.png",
+            "name": "Tiger Aspect Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "2007-03-22",
+    "revenue": 232225908,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mr. Bean macht Ferien",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 2178
+}

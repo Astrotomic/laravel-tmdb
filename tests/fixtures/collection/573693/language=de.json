@@ -1,0 +1,49 @@
+{
+    "id": 573693,
+    "name": "Aquaman Filmreihe",
+    "overview": "Filmreihe in deren Fokus der DC Charakter Aquaman steht.",
+    "poster_path": "/rNQompSTfAG5O2iXSH8Phay4L45.jpg",
+    "backdrop_path": "/5iidzov8DrsSyZdefeo7jBLDNUW.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 297802,
+            "original_language": "en",
+            "original_title": "Aquaman",
+            "overview": "Arthur Curry besser bekannt unter seinem Alias \"Aquaman\",  ist der rechtmäßige Erbe des Thrones von Atlantis.  Doch bisher ist dem Sohn eines menschlichen Vaters und einer atlantischen Mutter die Herrschaft über das mystische Unterwasserkönigreich verwehrt. Aquamans Halbbruder Orm herrscht über Atlantis und möchte auch die anderen sechs Königreiche der Meere um sich scharen, um vereint einen Krieg gegen die Menschen an der Erdoberfläche zu führen.  Um seinen Anspruch auf den Thron zu beweisen, macht sich Aquaman gemeinsam mit Mera auf die Suche nach dem Dreizack des ersten Königs von Atlantis. Als Orm von diesem Plan erfährt, hetzt er den beiden den Piraten Black Manta auf den Hals, welcher mit Aquaman selbst noch eine Rechnung zu begleichen hat.",
+            "poster_path": "/wBWqoRHBLhTULH4HvrMJeBzvvL7.jpg",
+            "release_date": "2018-07-06",
+            "title": "Aquaman",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 10927,
+            "popularity": 57.697
+        },
+        {
+            "genre_ids": [
+                12,
+                28,
+                14
+            ],
+            "title": "Aquaman and The Lost Kingdom",
+            "original_language": "en",
+            "original_title": "Aquaman and The Lost Kingdom",
+            "poster_path": "/xTgnUrym4IkriXTesP8UvbbDBOz.jpg",
+            "video": false,
+            "vote_average": 0,
+            "id": 572802,
+            "overview": "",
+            "release_date": "2022-12-16",
+            "vote_count": 0,
+            "adult": false,
+            "backdrop_path": "/n3szjJi8IGF8jHCb0TnDZ6yzLxG.jpg",
+            "popularity": 26.748
+        }
+    ]
+}

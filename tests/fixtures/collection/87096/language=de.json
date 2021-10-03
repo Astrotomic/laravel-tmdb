@@ -1,0 +1,115 @@
+{
+    "id": 87096,
+    "name": "Avatar Filmreihe",
+    "overview": "Avatar (auch bekannt als James Cameron’s Avatar) ist ein US-amerikanischer Science-Fiction-Filmreihe des Regisseurs James Cameron, der weltweit am 17. und 18. Dezember 2009 startete. Die Filme vermischen real gedrehte und computeranimierte Szenen. Große Teile des Films wurden in einem virtuellen Studio und mit neu entwickelten digitalen 3D-Kameras gedreht.  Die Filmreihe soll eine Pentalogie werden. Avatar 2 wurde für den 18. Dezember 2020 angekündigt, gefolgt von 17. Dezember 2021 für Avatar 3, der 20. Dezember 2024 für Avatar 4 sowie der 19. Dezember 2025 für Avatar 5.",
+    "poster_path": "/7NgQdgKi2cMkMy2zLDCswkQRwkf.jpg",
+    "backdrop_path": "/syGPZuzcHBBHMLiNDN0x0Tms4Fk.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/z3ElnHwcf1g56Qlp53yGbPsGXL7.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Avatar 2",
+            "poster_path": "/uh4xY5eWCy20DjhCpfesjhdilhK.jpg",
+            "video": false,
+            "vote_average": 0,
+            "title": "Avatar 2",
+            "overview": "Fortsetzung des erfolgreichsten Films aller Zeiten \"Avatar – Aufbruch nach Pandora\".",
+            "release_date": "2022-12-14",
+            "vote_count": 0,
+            "id": 76600,
+            "popularity": 66.362
+        },
+        {
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                18,
+                878,
+                12,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Avatar 3",
+            "poster_path": "/ocmG9jo7aorZtjmewSbfwQuJr95.jpg",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "overview": "",
+            "id": 83533,
+            "title": "Avatar 3",
+            "release_date": "2024-12-18",
+            "adult": false,
+            "popularity": 24.932
+        },
+        {
+            "original_language": "en",
+            "original_title": "Avatar 4",
+            "poster_path": "/pHxxkaRtiCTDX3tOi1V7aZfOPKO.jpg",
+            "video": false,
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "2026-12-16",
+            "vote_count": 0,
+            "adult": false,
+            "backdrop_path": null,
+            "title": "Avatar 4",
+            "genre_ids": [
+                28,
+                878,
+                12,
+                14
+            ],
+            "id": 216527,
+            "popularity": 23.879
+        },
+        {
+            "id": 19995,
+            "adult": false,
+            "backdrop_path": "/AmHOQ7rpHwiaUMRjKXztnauSJb7.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Avatar",
+            "poster_path": "/8x4TSGxaIIzTgQXyplBn1Y8mjlX.jpg",
+            "vote_count": 24061,
+            "video": false,
+            "title": "Avatar - Aufbruch nach Pandora",
+            "vote_average": 7.5,
+            "overview": "Ex-Marine Jake Sully nimmt auf dem Planeten Pandora an einem Experiment unter der Leitung der Wissenschaftlerin Dr. Grace Augustine teil. Als er sich im genetisch manipulierten Körper der Ureinwohner in die schöne Neytiri verliebt, gerät er zwischen die Fronten eines skrupellosen Konzerns und dem naturverbundenen Volk der Na'vi. Jake muss sich entscheiden, auf welcher Seite er steht - in einem ungleichen Kampf, in dem es um das Schicksal einer einzigartigen Welt geht ...",
+            "release_date": "2009-12-10",
+            "popularity": 488.985
+        },
+        {
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Avatar 5",
+            "poster_path": "/qeAknsrFRHRvjIq2HrlBsmYy2KL.jpg",
+            "video": false,
+            "title": "Avatar 5",
+            "vote_count": 0,
+            "overview": "",
+            "release_date": "2028-12-20",
+            "vote_average": 0,
+            "id": 393209,
+            "adult": false,
+            "backdrop_path": null,
+            "popularity": 31.492
+        }
+    ]
+}

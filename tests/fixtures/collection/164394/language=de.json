@@ -1,0 +1,47 @@
+{
+    "id": 164394,
+    "name": "If these walls could talk Filmreihe",
+    "overview": "",
+    "poster_path": "/5wSm1oLALhweqGpOWXjV14dJucP.jpg",
+    "backdrop_path": "/tcX8RszOuTf0QJ34zI2oKXSURwq.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/xrYhlUYsZtJCayXxuCDUIJ2U98E.jpg",
+            "genre_ids": [
+                10770,
+                18
+            ],
+            "id": 35203,
+            "original_language": "en",
+            "original_title": "If These Walls Could Talk",
+            "overview": "Episodenfilm über Frauen, die in drei verschiedenen Generationen leben: Im Abstand von jeweils 22 Jahren – in den Jahren 1952, 1974 und 1996 – werden drei Frauen, die im selben Haus leben, ungewollt schwanger, und alle wollen das Kind abtreiben lassen. Der Film beschreibt, wie diese Frauen in ihrer jeweiligen Zeit sowohl mit der Gesellschaft als auch mit der entsprechenden juristischen Situation in ihrer Lage klarkommen müssen.",
+            "poster_path": "/5foda9jN8pAM9zvKP5iFdITepWj.jpg",
+            "release_date": "1996-10-13",
+            "title": "Haus der stummen Schreie",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 42,
+            "popularity": 3.406
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AuzHbhkKF9p8fQbuzW2pIkScboP.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 28031,
+            "original_language": "en",
+            "original_title": "If These Walls Could Talk 2",
+            "overview": "Der Film erzählt die Geschichte dreier weiblicher Paare in unterschiedlichen Dekaden.",
+            "poster_path": "/1bwmJfLJVoxmj96qKVuE9oSmEUS.jpg",
+            "release_date": "2000-03-05",
+            "title": "Women Love Women",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 72,
+            "popularity": 6.346
+        }
+    ]
+}

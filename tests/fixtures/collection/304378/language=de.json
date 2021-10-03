@@ -1,0 +1,49 @@
+{
+    "id": 304378,
+    "name": "Independence Day Filmreihe",
+    "overview": "Eine Reihe von Science-Fiction-Actionfilmen, die sich um Außerirdische drehen, die auf die Erde eindringen und versuchen, die Menschheit auszurotten, während der verbleibende menschliche Widerstand alles daran setzt um die Invasoren zurück zu drängen",
+    "poster_path": "/bVRYVSLLgKTcUvAK8o8K2LtyJFR.jpg",
+    "backdrop_path": "/ou70x2658dVnbycIRaC37sEeafS.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 6.8,
+            "overview": "Eine gewaltige außerirdische Armee bedroht die Existenz der Erde. Die Invasion beginnt mit dem Auftauchen gigantischer Raumschiffe, die sich über den wichtigsten Zentren der Welt positionieren. Die bedrohliche Faszination schlägt schnell in unvorstellbare Panik um, als die Raumschiffe angreifen und bedingungslos zerstören. Nun liegt das Schicksal der Menschheit in den Händen der wenigen Überlebenden, die sich für den alles entscheidenden Kampf gegen die Invasoren bereit machen…",
+            "release_date": "1996-06-25",
+            "adult": false,
+            "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+            "title": "Independence Day",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 602,
+            "original_language": "en",
+            "original_title": "Independence Day",
+            "poster_path": "/olVF69tDeQIcxGluyOxNO5RXc95.jpg",
+            "vote_count": 7594,
+            "popularity": 35.467
+        },
+        {
+            "video": false,
+            "vote_average": 5.2,
+            "overview": "20 Jahre ist es her, dass Aliens die Erde attackierten und die Hälfte der Bevölkerung auslöschten. Vor allem der mutigen Mission des Piloten Steven Hiller und des Satellitentechnikers David Levinson verdanken wir es, dass die Außerirdischen 1996 besiegt wurden – tragischerweise kam Hiller dann 2007 ums Leben, als er einen Alien-Hybrid-Fighter testete. Und 2016 wird er umso mehr vermisst, als sich die Warnung des Ex-Präsidenten Whitmore bewahrheitet und die Außerirdischen einen neuen, noch verheerenderen Angriff starten! Die Menschheit, die in bis dato nie gekannter Einigkeit ein mit Alien-Technologie erweitertes Verteidigungssystem schuf, steht vor ihrer größten Herausforderung. Die Hoffnungen ruhen auf den jungen Kampfpiloten Jake und Dylan, dem Sohn des verstorbenen Steven Hiller …",
+            "release_date": "2016-06-22",
+            "adult": false,
+            "backdrop_path": "/ou70x2658dVnbycIRaC37sEeafS.jpg",
+            "vote_count": 5008,
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Independence Day - Wiederkehr",
+            "original_language": "en",
+            "original_title": "Independence Day: Resurgence",
+            "poster_path": "/6Eg7AvTjGhv4GYQtLpYO9UuqI1G.jpg",
+            "id": 47933,
+            "popularity": 45.352
+        }
+    ]
+}

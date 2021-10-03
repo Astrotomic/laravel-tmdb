@@ -1,0 +1,42 @@
+{
+    "adult": false,
+    "backdrop_path": "/leDpP52W54kQvIxBd93G8lgTLCx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 861057,
+    "imdb_id": "tt14973630",
+    "original_language": "en",
+    "original_title": "Swim",
+    "overview": "",
+    "popularity": 492.726,
+    "poster_path": "/pBSqH6avxduNAnXhyIkcAfcUMJ0.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-08-13",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Swim",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 3
+}

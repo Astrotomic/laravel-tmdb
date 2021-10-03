@@ -1,0 +1,89 @@
+{
+    "id": 33059,
+    "name": "Wild Things Filmreihe",
+    "overview": "",
+    "poster_path": "/4OI3VZMXFMcTmpyzg9RlN4vsIro.jpg",
+    "backdrop_path": "/uE47SwTt7uHyVwpMzcCQ92Q7FsQ.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/e0bcpqGUNnlUfw42AMFumIXYHYh.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "original_language": "en",
+            "original_title": "Wild Things",
+            "poster_path": "/NQgGPlw05qHxLaBnqlPBiAZNzE.jpg",
+            "vote_count": 1213,
+            "video": false,
+            "title": "Wild Things",
+            "vote_average": 6.3,
+            "overview": "Sam Lombardo ist ein junger Lehrer an der High School in Blue Bay, Florida. Die attraktive Schülerin Kelly van Ryan himmelt ihn an und versucht, ihn zu verführen, aber er widersteht ihr. Daraufhin beschuldigt sie ihn, sie vergewaltigt zu haben, und Kellys reiche, einflussreiche Mutter sorgt dafür, dass Lombardo vom Dienst suspendiert wird. Als sich ein weiteres Mädchen bei der Polizei meldet und behauptet, Lombardo habe sie vor einem Jahr vergewaltigt, wird er festgenommen und muss sich vor Gericht verantworten ...",
+            "release_date": "1998-03-20",
+            "id": 617,
+            "popularity": 15.323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nmly11JCqU9WhbjYwKWXoWDsCgI.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 10367,
+            "original_language": "en",
+            "original_title": "Wild Things 2",
+            "overview": "Nach dem Tod ihres reichen Stiefvaters droht dem Luxusleben von Brittney Havers das endgültige Aus. Obendrein nehmen die Dinge eine gänzlich unerwartete Wendung, nachdem eine attraktive Mitschülerin Anspruch auf das Geld des Verstorbenen erhebt. Für die beiden Teenager steht alles auf dem Spiel, als sie einander in einem Kampf gegenüberstehen, der sie aus dem Gerichtssaal ins Schlafzimmer und schließlich in die gefährlichen Abgründe eines Mordkomplotts katapultiert. - Noch sinnlicher und erotischer als der erste Teil, zeigt Wild Things 2, wie weit zwei junge Frauen zu gehen bereit sind, um das Ziel ihrer Wünsche zu erreichen.",
+            "poster_path": "/qFd6MS16M8cWv7ypCi16StERiZ0.jpg",
+            "release_date": "2004-02-19",
+            "title": "Wild Things 2",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 122,
+            "popularity": 11.651
+        },
+        {
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "original_language": "en",
+            "original_title": "Wild Things: Diamonds in the Rough",
+            "poster_path": "/1O01MpwB6eV0ars0Jxk0yh4x5ED.jpg",
+            "title": "Wild Things 3",
+            "video": false,
+            "vote_average": 5,
+            "overview": "Die attraktive, reiche Marie Clifton,  hat das große Los gezogen. An ihrem 18. Geburtstag erbt sie das Vermögen ihrer Mutter, darunter ein Paar unbezahlbare Diamanten. Als ihr Stiefvater Jay Clifton ,  wegen der Vergewaltigung der berüchtigten Elena Sandoval  angeklagt wird, muss sich Marie entscheiden, ob sie die Diamanten für seine Verteidigung einsetzen will. Doch damit löst sie eine Verkettung aus Verrat, Täuschung, Erpressung und schließlich Mord aus. Die FBI-Agentin Kirsten Richards  muss herausfinden, wer unschuldig, wer schuldig und wer der rechtmäßige Besitzer der Diamanten ist...",
+            "release_date": "2005-02-19",
+            "vote_count": 89,
+            "id": 17124,
+            "adult": false,
+            "backdrop_path": "/y6RgcWzVDiSGuWpKU0O45C2e72w.jpg",
+            "popularity": 9.243
+        },
+        {
+            "poster_path": "/llgJrTRV2a2ct5V4xrVwOEamDZW.jpg",
+            "title": "Wild Things 4",
+            "video": false,
+            "vote_average": 5.4,
+            "overview": "“Wild Things 4” ist der verführerische jüngste Film in der heißen, sexy Wild-Things-Serie. Großhotelier Ted Wheetly springt hart mit seinem arroganten Sohn und Partylöwen Carson um, der glaubt, dass sein reicher Vater, ein Frauenheld, seine Mutter in den Tod getrieben hat. Als Ted bei einem Motorbootsunfall stirbt, soll Detective Frank Walker den Fall aufklären. Doch je intensiver er nachforscht, desto klarer zeichnen sich Intrigen, Verführung, Gier und sogar kaltblütiger Mord ab.",
+            "release_date": "2010-06-01",
+            "adult": false,
+            "backdrop_path": "/mSo8b06NvUMtnI1D5g2JciHxqdg.jpg",
+            "id": 37708,
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "vote_count": 63,
+            "original_language": "en",
+            "original_title": "Wild Things: Foursome",
+            "popularity": 12.144
+        }
+    ]
+}

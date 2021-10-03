@@ -1,0 +1,49 @@
+{
+    "id": 529892,
+    "name": "Black Panther Filmreihe",
+    "overview": "Wakanda und seine von modernen Hochhäusern geprägte Metropole ist eine von der Außenwelt abgeschnittene, jedoch technisch fortgeschrittene Nation in Afrika, die vorgibt, ein armes Dritte-Welt-Land zu sein. Dank eines Meteoriteneinschlags und einer dadurch entstandenen Rohstoffquelle, des nur dort vorkommenden Metalls Vibranium, kann sich das afrikanische Land unter einer riesigen Tarnvorrichtung für die restliche Welt unsichtbar machen. Auch weil die Quelle des Fortschritts in den falschen Händen großen Schaden anrichten könnte, haben sich die ersten Führer von Wakanda für die Isolation entschieden, die bis heute aufrecht erhalten bleibt.",
+    "poster_path": "/uVnN6KnfDuHiC8rsVsSc7kk0WRD.jpg",
+    "backdrop_path": "/1Jj7Frjjbewb6Q6dl6YXhL3kuvL.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/1xaib1Y52yZPvu4oyiZu6LNC1uj.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Black Panther: Wakanda Forever",
+            "poster_path": "/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.jpg",
+            "video": false,
+            "vote_average": 0,
+            "title": "Black Panther: Wakanda Forever",
+            "overview": "",
+            "release_date": "2022-07-06",
+            "vote_count": 0,
+            "id": 505642,
+            "popularity": 15.792
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Black Panther",
+            "poster_path": "/daKUTgrMnsMLFrRv3a7s6yUyXf1.jpg",
+            "id": 284054,
+            "title": "Black Panther",
+            "vote_count": 17952,
+            "overview": "Aufgrund von Bodenschätzen außerirdischen Ursprungs ist das afrikanische Königreich Wakanda unermesslich reich. Nur hier kommt das Vibrationen jeder Art und Stärke absorbierende Mineral Vibranium vor. Den Bewohnern von Wakanda ist sehr daran gelegen, vor den Augen Fremder verborgen zu bleiben.  Reichtum weckt Begehrlichkeiten, und es braucht einen starken Führer, ihn zu verteidigen: Den Black Panther! Die Verantwortung des Black Panther wird vom König Wakandas an den jeweiligen Nachfolger weitergegeben. Und so nimmt T’Challa die Bürde und die Würde des ihm vorbestimmten Schicksals von seinem Vater T’Chaka nach dessen tragischen Tod entgegen.",
+            "release_date": "2018-02-13",
+            "vote_average": 7.4,
+            "video": false,
+            "popularity": 81.635
+        }
+    ]
+}

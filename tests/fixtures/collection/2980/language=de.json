@@ -1,0 +1,66 @@
+{
+    "id": 2980,
+    "name": "Ghostbusters Filmreihe",
+    "overview": "Die beiden von Ivan Reitman (\"Evolution\") inszenierten Geisterkomödien, in denen sich Bill Murray, Dan Aykroyd und Harold Ramis mit Gespensterabsaugern und Protonenkanonen gegen allerhand unappetitliche Spukgestalten zur Wehr setzen müssen. Ursprünglich für sich und seinen \"Blues Brother\" John Belushi konzipiert, schrieb Aykroyd das Drehbuch nach dessen Tod um und besetzte Belushis Part mit Murray. Teil eins mauserte sich zu einer der erfolgreichsten Komödien aller Zeiten, der eingängige Titelsong von Ray Parker wurde zum Superhit.",
+    "poster_path": "/j666ISmITIYsWMo3UsZBKP9WoBQ.jpg",
+    "backdrop_path": "/6Jnlhr2ac8OuDJEowsFLzZY3SXd.jpg",
+    "parts": [
+        {
+            "video": false,
+            "vote_average": 7.4,
+            "overview": "So ein Pech. Da haben die Parapsychologie-Professoren Peter Venkman, Ray Stantz und Egon Spengler endlich den Beweis für paranormale Aktivitäten in Form einer waschechten Geistererscheinung vor den Augen, da werden sie auch schon vom Campus der Uni geworfen. Zu unwichtig und kostenintensiv seien ihre Forschungen. Frisch in der Arbeitslosigkeit angekommen, aber mit dem Wissen um die Existenz übernatürlicher Phänomene und Geisterwesen angereichert beschließen sie aus der Not eine zukunftsweisende Idee umzusetzen: Sie gründen ein Geisterjäger-Unternehmen! Mit selbst entworfenem Equipment und mit einem alten Feuerwehrgebäude als Hauptquartier stellen sie sich den lästigen Bedrohungen aus der Zwischenwelt. Und auch wenn die braven Bürger von New York der ganzen Sache etwas skeptisch gegenüberstehen, werd sie bald merken, wie nötig ihre Stadt diese geisterjagenden Jungs hat ...",
+            "release_date": "1984-06-08",
+            "adult": false,
+            "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+            "vote_count": 6728,
+            "genre_ids": [
+                35,
+                14
+            ],
+            "title": "Ghostbusters - Die Geisterjäger",
+            "original_language": "en",
+            "original_title": "Ghostbusters",
+            "poster_path": "/tq7bIjfcPYodhyoB9W1iJqTimY.jpg",
+            "id": 620,
+            "popularity": 28.004
+        },
+        {
+            "genre_ids": [
+                35,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Ghostbusters II",
+            "poster_path": "/AhzsP80eCe6QlQKUJMlmmLN1uVB.jpg",
+            "video": false,
+            "id": 2978,
+            "vote_count": 3115,
+            "overview": "Die Ghostbusters sind wieder in Action! Diesmal haben gleich zwei Spukgestalten aus dem Reich des Übersinnlichen New York den Kampf angesagt. Zum einen der Geist des bösen Karpatenfürsten Vigo, der unbedingt in Gestalt eines Babys wieder auf die Welt kommen möchte. Zum anderen dieser rosarote Schleim, der am liebsten die ganze Stadt mit seinen “bad vibrations” überziehen würde. Das schreit geradezu nach den Doktoren Venkman, Stantz und Spengler, den Spezialisten für Unglaubliches. Schade nur, dass den Geisterjägern nach ihrem letzten Chaos-Auftritt das Geisterjagen strengstens untersagt wurde. Zum Glück jedoch sind die Ghostbusters die letzten, die sich an derlei unsinnige Vorschriften halten.",
+            "release_date": "1989-06-16",
+            "vote_average": 6.5,
+            "title": "Ghostbusters II",
+            "adult": false,
+            "backdrop_path": "/nENlPgXascVC71RDw5lCOTaPMHS.jpg",
+            "popularity": 25.818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Lj0O8A49S6mdIFME0OHdovEA6H.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 425909,
+            "original_language": "en",
+            "original_title": "Ghostbusters: Afterlife",
+            "overview": "Da sie mit finanziellen Schwierigkeiten zu kämpfen hat, zieht die alleinerziehende Mutter Callie (Carrie Coon) mit ihren Kindern Trevor (Finn Wolfhard) und Phoebe (Mckenna Grace) auf das heruntergekommene Anwesen ihres verstorbenen Vaters in ein kleines Provinznest in Oklahoma. Der anfangs total genervte Trevor macht bald in den alten Hinterlassenschaften seines Großvaters die spannende Entdeckung einiger merkwürdiger Utensilien - Waffen und Gerätschaften, die wie sein Lehrer Grooberson (Paul Rudd) meint darauf deuten, dass sein Opa einst Mitglied der legendären, aber weitgehend vergessenen \"Ghostbusters\" war. Während Trevor und Phoebe damit beginnen, die Technik mit einigen neuen Klassenkameraden auszuprobieren, braut sich eine mystische Bedrohung unterhalb der verschlafenen Kleinstadt zusammen.",
+            "poster_path": "/fMyCgXLYehlbiQPlcu7nG98GFZU.jpg",
+            "release_date": "2021-11-11",
+            "title": "Ghostbusters: Legacy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 30.209
+        }
+    ]
+}

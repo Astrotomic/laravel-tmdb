@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+    "belongs_to_collection": null,
+    "budget": 116000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.venom.movie/site/",
+    "id": 335983,
+    "imdb_id": "tt1270797",
+    "original_language": "en",
+    "original_title": "Venom",
+    "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "popularity": 1073.972,
+    "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "production_companies": [
+        {
+            "id": 31828,
+            "logo_path": null,
+            "name": "Avi Arad Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 53462,
+            "logo_path": null,
+            "name": "Matt Tolmach Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 84041,
+            "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
+            "name": "Pascal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 81620,
+            "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+            "name": "Tencent Pictures",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-09-28",
+    "revenue": 855013954,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Malay",
+            "iso_639_1": "ms",
+            "name": "Bahasa melayu"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The world has enough Superheroes.",
+    "title": "Venom",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 11458
+}

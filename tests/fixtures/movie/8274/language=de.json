@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/efzyOI3chXCPBgn6XA0IXXD7Fel.jpg",
+    "belongs_to_collection": {
+        "id": 298820,
+        "name": "American Pie (Spin-off) Filmreihe",
+        "poster_path": "/mE0oCbit0aUd4F7T1Fz538mSmSn.jpg",
+        "backdrop_path": "/au9AnpVPqjFfTZIGGuV94276KaL.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.americanreunionmovie.com/",
+    "id": 8274,
+    "imdb_id": "tt0436058",
+    "original_language": "en",
+    "original_title": "American Pie Presents: Band Camp",
+    "overview": "Matt Stifler will seinem älteren Bruder, dem legendären Stiffmeister nacheifern. Als er bei einem klassischen Stiffmeister-Streich erwischt wird, schickt ihn Sherman, ehemaliger Mitschüler Steves und inzwischen Schülerberater, zur Strafe mit allen Langweilern des Schulorchesters ins “Band Camp”. Matt installiert überall im Camp versteckte Kameras, um die knackigen Rundungen der sogenannten “Bandies” zu filmen. Dass er sich zu diesem Zweck mit einigen von ihnen anfreunden muss und sich dann auch noch in seine alte Schulfreundin Elyse verliebt, passt ihm gar nicht in den Kram. Während dieser schwierigen Zeit hilft ihm Jims Dad, der mittlerweile der Manieren- und Konfliktregelungsoffizier des Camps ist. Allerdings hat es sich dieser auch zur persönlichen Aufgabe gemacht, Matt auf den rechten Weg zurückzubringe",
+    "popularity": 34.047,
+    "poster_path": "/dWSdIyto1AcJwA3np64Ovwa5wsI.jpg",
+    "production_companies": [
+        {
+            "id": 134,
+            "logo_path": null,
+            "name": "Rogue Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-10-30",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Dieses Mal im Band Camp...",
+    "title": "American Pie präsentiert - Die nächste Generation",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 1645
+}

@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/cmyDcJLkWjIBsB74K7BMA5DL5QU.jpg",
+    "belongs_to_collection": {
+        "id": 10194,
+        "name": "Toy Story Filmreihe",
+        "poster_path": "/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg",
+        "backdrop_path": "/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "http://toystory.disney.com/toy-story-2",
+    "id": 863,
+    "imdb_id": "tt0120363",
+    "original_language": "en",
+    "original_title": "Toy Story 2",
+    "overview": "Als Woody von einem fiesen Sammler entführt wird macht sich die Puppen-Clique auf, ihren Freund zu befreien - aber schon auf die andere Straßenseite zu gelangen, gestaltet sich schwierig, ganz zu schweigen von den lauernden Gefahren im Spielzeugladen gegenüber: Doppelgänger stellen sich Buzz Lightyear in den Weg, durchgeknallte Barbie-Sirenen drohen die edlen Ritter vom rechten Weg abzubringen, und obendrein entkommt Zurg, der böse Imperator, aus seiner Plastikbox...",
+    "popularity": 101.804,
+    "poster_path": "/qbIzxJnCDjpXeTMSZmGcpXtcYpz.jpg",
+    "production_companies": [
+        {
+            "id": 3,
+            "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+            "name": "Pixar",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-10-30",
+    "revenue": 497366869,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Toy Story 2",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 10897
+}

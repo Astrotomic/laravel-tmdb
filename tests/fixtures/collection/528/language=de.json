@@ -1,0 +1,130 @@
+{
+    "id": 528,
+    "name": "Terminator Filmreihe",
+    "overview": "Die Terminator-Reihe behandelt in mehreren Science-Fiction-Filmen den futuristischen Konflikt zwischen den Menschen, angeführt von John Connor, und den Cyborgs, welche von Skynet, einem intelligenten Supercomputersystem, hergestellt und kontrolliert werden. Die Reihe besteht aus den drei Original-Terminator-Filmen (1-3), in denen Arnold Schwarzenegger mitspielt, und einer vierten Verfilming von 2009, in der Christian Bale den erwachsenen John Connor spielt. Der fünfte Teil der Reihe bietet eine alternative Zeitlinie zu den Handlungen der ersten vier Teile.",
+    "poster_path": "/vxiKtcxAJxHhlg2H1X8y7zcM3k6.jpg",
+    "backdrop_path": "/cpmbkwSxZnKO69V82A9a34tvk2E.jpg",
+    "parts": [
+        {
+            "backdrop_path": "/lXCYLnSTYV2scEgc7KDDdcrqwps.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 218,
+            "original_language": "en",
+            "original_title": "The Terminator",
+            "poster_path": "/rVOo8IHLGLS12rsDUAJ8jFZGhzp.jpg",
+            "video": false,
+            "vote_average": 7.6,
+            "overview": "Ein Cyborg aus der Zukunft wird auf eine tödliche Mission in die heutige Gegenwart geschickt. Er soll Sarah Connor töten, eine junge Frau, die eine entscheidende Rolle für die Zukunft der Menschheit spielen wird. Sie hat nur eine Chance, Kyle Reese, ein Freiheitskämpfer, der ebenfalls aus der Zukunft kommt.",
+            "release_date": "1984-10-26",
+            "vote_count": 9782,
+            "title": "Terminator",
+            "adult": false,
+            "popularity": 33.509
+        },
+        {
+            "video": false,
+            "vote_average": 8.1,
+            "id": 280,
+            "overview": "Zehn Jahre nach der Terrorherrschaft des ersten Terminators kehrt ein neuer Killer-Cyborg auf die Erde zurück. Der Auftrag des T-1000 lautet: John Connor muss sterben. Der zwölfjährige John ist der einzige, der eines fernen Tages die Menschheit vor der Übernahme der Weltherrschaft durch die Maschinen retten könnte. Doch die Rebellen aus der Zukunft sind wachsam. Zum Schutz für John entsenden sie einen umprogrammierten Terminator der alten Generation, den T-800, auf die Erde.",
+            "release_date": "1991-07-03",
+            "adult": false,
+            "backdrop_path": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "vote_count": 9702,
+            "original_language": "en",
+            "original_title": "Terminator 2: Judgment Day",
+            "poster_path": "/bG4zGgFs7mN1WHTNfTmT22BKxlV.jpg",
+            "title": "Terminator 2 - Tag der Abrechnung",
+            "popularity": 46.305
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A26TdP8JVUgwGTJGjwH8zS8dpPO.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "vote_count": 5084,
+            "original_language": "en",
+            "original_title": "Terminator 3: Rise of the Machines",
+            "poster_path": "/69rigvDIyNeVwaKpZO9xDcPUfP6.jpg",
+            "title": "Terminator 3 - Rebellion der Maschinen",
+            "video": false,
+            "vote_average": 6.1,
+            "id": 296,
+            "overview": "Zehn Jahre sind vergangen, seit mit John Connors Hilfe der Weltuntergang verhindert und die Menschheit vor ihrer Zerstörung bewahrt wurde. Heute, im Alter von 25 Jahren, führt Connor ein Leben am Rande der Gesellschaft – ohne Wohnung, Kreditkarten, Mobiltelefon und ohne Job. Es gibt keinen Hinweis auf seine Existenz: er hinterlässt keine Spur, die von “Skynet” verfolgt werden könnte – dem hoch entwickelten Netzwerk von Maschinen, die einst versucht hatten, ihn zu töten und Krieg gegen die Menschen zu führen. Bis der T-X aus dem Schatten der Zukunft tritt: Skynets bisher am höchsten entwickelte, tödliche Menschmaschine, ebenso sexy wie gnadenlos. T-X soll vollenden, was ihr Vorgänger T-1000 nicht ausführen konnte. Connors einzige Überlebenschance ist der Terminator, die legendäre, einst auf ihn angesetzte Killermaschine. Ihnen bleibt nur wenig Zeit: Sie müssen T-X ausschalten – sonst ist die Apokalypse nicht aufzuhalten.",
+            "release_date": "2003-07-02",
+            "popularity": 26.276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aSXqVCYz3FYuDRjihoqQiXtAVa6.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Terminator Salvation",
+            "poster_path": "/rdPUxt7sflq5tXd8hyM8pSWlw4B.jpg",
+            "id": 534,
+            "video": false,
+            "title": "Terminator: Die Erlösung",
+            "vote_count": 5065,
+            "overview": "Im Jahr 2018 hat die Apokalypse längst ihren Lauf genommen und die Welt, wie wir sie kennen, existiert nicht mehr. Die Menschen werden von den Maschinen Skynets geknechtet und nur ein kleiner Teil unter der Führung von John Connor führt erbittert Widerstand gegen die Riege der Terminatoren. Unterstützung erhält die Gruppe um Connor von dem mysteriösen Fremden Marcus Wright.",
+            "release_date": "2009-05-20",
+            "vote_average": 6,
+            "popularity": 172.29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4a5YLWwi6OCp8TcvxsUNrXMbN5.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Terminator Genisys",
+            "poster_path": "/lZffqHVVwmEwWHMSnSA7FNd67Rk.jpg",
+            "id": 87101,
+            "title": "Terminator: Genisys",
+            "vote_count": 6853,
+            "overview": "Im Jahr 2029 kämpft der Rebellenanführer John Connor gegen die Übermacht des Skynet-Maschinenimperiums. Er schickt seinen loyalen Freund Kyle Reese zurück ins Jahr 1983, um seine Mutter Sarah Connor vor einem Killer-Roboter zu beschützen und so die Zukunft der Menschheit sicherzustellen. Doch als Kyle Reese im Los Angeles der 1980er ankommt, muss er feststellen, dass die erwartete Vergangenheit nicht mehr existiert. Sarahs Eltern wurden von einem durch die Zeit gereisten Terminator ermordet, ein Android des Modells T-800 hatte das 9-jährige Mädchen danach beschützt und großgezogen. Kyle erklärt Sarah, was in der Zukunft geschehen wird, doch sie wehrt sich entschieden gegen die Vorstellung, dass ihre Geschichte schon vorherbestimmt ist – und nimmt den Kampf mit Gegnern wie dem T-1000 auf…",
+            "release_date": "2015-06-23",
+            "vote_average": 5.9,
+            "video": false,
+            "popularity": 78.603
+        },
+        {
+            "original_language": "en",
+            "original_title": "Terminator: Dark Fate",
+            "poster_path": "/82HDCTyZodnquPmX1dmGlfDVysL.jpg",
+            "video": false,
+            "id": 290859,
+            "overview": "Dani Ramos lebt mit ihrem Bruder und ihrem Vater ein einfaches Leben in Mexiko, bis jedoch ein hoch entwickelter und tödlicher neuer Terminator namens Rev-9 durch die Zeit reist, um sie zu jagen und zu töten. Danis Überleben hängt davon ab, dass sie sich mit zwei Kriegern zusammenschließen muss: Grace, eine verbesserte Supersoldatin der Zukunft, und eine kampferprobte Sarah Connor. Als der Rev-9 auf der Suche nach Dani rücksichtslos alles und jeden zerstört, werden die drei zu einem T-800 aus Sarahs Vergangenheit geführt, der möglicherweise ihre letzte große Hoffnung sein könnte...",
+            "release_date": "2019-10-23",
+            "vote_count": 3718,
+            "vote_average": 6.5,
+            "adult": false,
+            "backdrop_path": "/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+            "title": "Terminator: Dark Fate",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 67.023
+        }
+    ]
+}

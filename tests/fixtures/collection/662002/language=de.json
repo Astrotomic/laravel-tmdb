@@ -1,0 +1,73 @@
+{
+    "id": 662002,
+    "name": "My Hero Academia Filmreihe",
+    "overview": "",
+    "poster_path": "/o1HPwiDPWRlm9LnHWqqCLrnGpoY.jpg",
+    "backdrop_path": "/45ugfrqKgSIrTSdJIw6kwABztq8.jpg",
+    "parts": [
+        {
+            "id": 505262,
+            "original_language": "ja",
+            "original_title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
+            "poster_path": "/rwLuZhDcLbtC8VKW8Z2xnNKTsAJ.jpg",
+            "video": false,
+            "vote_average": 8,
+            "overview": "Die Yuuei-Academia macht sich bereit fürs Training im Sommercamp, da bekommen Izuku und All Might eine Einladung zu einem Trip auf die „I-Insel“. Auf dieser von Menschen geschaffenen Insel forschen die besten Wissenschaftler der Welt an den Macken der Superhelden. Dort treffen sie auf Melissa, die – wie einst auch Izuku selbst – keine Macke besitzt. Izuku freundet sich natürlich sofort mit ihr an. Doch schon bald wird die Insel von dem Bösewicht Wolfram übernommen, der damit droht, alle Menschen auf der Insel umzubringen. Das können Izuku und All Might natürlich nicht zulassen!",
+            "release_date": "2018-08-03",
+            "title": "My Hero Academia: Two Heroes",
+            "adult": false,
+            "backdrop_path": "/uicia399gyMGE1smatJ41M0CtFx.jpg",
+            "vote_count": 667,
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14
+            ],
+            "popularity": 183.082
+        },
+        {
+            "video": false,
+            "vote_average": 8.5,
+            "overview": "Endlich richtige Superheldenarbeit – und das ganz ohne Lehrer! Im Rahmen eines Vermittlungsprojekts sollen die Schüler der Klasse 1a der Yuei-Oberschule auf der abseits gelegenen Insel Nabu den in die Jahre gekommenen örtlichen Superhelden vertreten und übergangsweise die Bevölkerung unterstützen. Was zunächst ganz harmlos beginnt, entwickelt sich jedoch schnell zu einem gefährlichen Einsatz: Schurken haben es auf den kleinen Katsuma und dessen Spezialität abgesehen und fallen auf der Insel ein. Abgeschnitten von der Außenwelt muss die ganze Klasse zusammenhalten und zeigen, was sie bisher gelernt hat. Vor allem Izuku und Katsuki wachsen gemeinsam über sich hinaus, um Katsuma und die anderen Einwohner zu beschützen. Doch wird das gegen den superstarken Nine, der genau wie All for One mehrere Spezialitäten besitzt, wirklich ausreichen?",
+            "id": 592350,
+            "title": "My Hero Academia - The Movie: Heroes Rising",
+            "adult": false,
+            "backdrop_path": "/9guoVF7zayiiUq5ulKQpt375VIy.jpg",
+            "vote_count": 804,
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "release_date": "2019-12-20",
+            "original_language": "ja",
+            "original_title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+            "poster_path": "/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg",
+            "popularity": 292.506
+        },
+        {
+            "release_date": "2021-08-06",
+            "adult": false,
+            "backdrop_path": "/2RHjd10wqv57xYzZkNK8Sl09Ddt.jpg",
+            "genre_ids": [
+                16,
+                28,
+                35,
+                14,
+                12
+            ],
+            "id": 768744,
+            "original_language": "ja",
+            "original_title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+            "poster_path": "/yjdOpEtlzlAnw4Kw0NGw25VrbIb.jpg",
+            "vote_count": 11,
+            "video": false,
+            "vote_average": 6.9,
+            "title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+            "overview": "",
+            "popularity": 129.98
+        }
+    ]
+}

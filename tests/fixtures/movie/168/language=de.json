@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+    "belongs_to_collection": {
+        "id": 151,
+        "name": "Star Trek-Filmreihe: Raumschiff Enterprise",
+        "poster_path": "/snLmGlECug4auT20j4vKigHe62E.jpg",
+        "backdrop_path": "/9BQj9hq0aK6yM9Tm2NJ28jg572y.jpg"
+    },
+    "budget": 24000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.startrek.com/shows/star-trek-iv-the-voyage-home",
+    "id": 168,
+    "imdb_id": "tt0092007",
+    "original_language": "en",
+    "original_title": "Star Trek IV: The Voyage Home",
+    "overview": "Obwohl sie als Abtrünnige gelten, kehrt die Mannschaft der U.S.S. Enterprise zur Erde zurück. Sie stellen sich der Anklagen für die Taten, die sie im Laufe von Spocks Rettung begangen haben. Während sie noch im Anflug sind, wird die Erde von einer außerirdischen Sonde verwüstet. Sie verlangt Antwort von einer Lebensform, die nicht länger existiert. Kirk und seine Crew begeben sich an Bord eines gekaperten klingonischen Bird of Prey auf eine Reise durch Raum und Zeit, um die Erde zu retten. Sie entdecken dabei die wahre Bedeutung von Freundschaft wieder.",
+    "popularity": 15.929,
+    "poster_path": "/1tCOUUxDBgZ4M8yuG85RCL34R9C.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-11-26",
+    "revenue": 133000000,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Finnish",
+            "iso_639_1": "fi",
+            "name": "suomi"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Nur die Gegenwart kann die Zukunft retten",
+    "title": "Star Trek IV - Zurück in die Gegenwart",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 1045
+}

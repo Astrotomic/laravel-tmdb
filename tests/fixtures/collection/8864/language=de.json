@@ -1,0 +1,121 @@
+{
+    "id": 8864,
+    "name": "Final Destination Filmreihe",
+    "overview": "Filmreihe US-amerikanischer Horrorfilme über eine Gruppe von Menschen, die durch eine Vision einem schrecklichen Unfall entgehen. Stets wird dadurch der Tod verschiedener Personen zunächst verhindert, da aber das Sterben vorbestimmt war, holt sich der Tod nacheinander alle ihm zugedachten Opfer.",
+    "poster_path": "/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg",
+    "backdrop_path": "/y3aWOInifbGKXM34KjtcMITrZRZ.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/iiKTyL7jTw5FzVBlhLCu9I7M86w.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 9286,
+            "original_language": "en",
+            "original_title": "Final Destination 3",
+            "overview": "Wendy feiert ihren Highschool-Abschluss mit Freunden im Freizeitpark. Kurz bevor eine Achterbahn-Fahrt beginnen soll, hat sie die Vorahnung eines schrecklichen Unfalls. Während sie und einige Freunde aussteigen, wird der Unfall Realität - alle Fahrgäste finden den Tod. Doch das ist erst der Anfang. Ihr und ihren Freunden war der Tod vorbestimmt. Wendy entdeckt nach der Tragödie, dass Fotos aus dem Freizeitpark Hinweise enthalten, auf welche Art der Tod die Überlebenden heimsuchen wird. Während sie versucht die Hinweise zu deuten, stirbt einer nach dem anderen auf grausame Weise, bis auch ihre Zeit gekommen scheint.",
+            "poster_path": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+            "release_date": "2006-02-09",
+            "title": "Final Destination 3",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 2828,
+            "popularity": 37.255
+        },
+        {
+            "video": false,
+            "vote_average": 6.2,
+            "overview": "Ein Jahr, nachdem eine Gruppe Teenager dem Tod auf ebenso rätselhafte Weise enteilte, wie sie später von jenem wieder eingeholt wurde, droht sich das Geschehen zu wiederholen: nach einer Vorahnung verhindert die junge Kimberly, dass sie selbst, ihre Freunde sowie ein paar weitere Autofahrer auf dem Highway von einem Baumtransport aus dem Leben gerissen werden. Als schon wenige Tage darauf der erste Glückspilz einem seltsamen Unfall erliegt, wird Kimberly mulmig. Sie sucht Hilfe bei der letzten Überlebenden vom Vorjahr.",
+            "release_date": "2003-01-31",
+            "adult": false,
+            "backdrop_path": "/iLN37GdxMT9FXWQRiwlZw9hxgpJ.jpg",
+            "id": 9358,
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "vote_count": 2939,
+            "original_language": "en",
+            "original_title": "Final Destination 2",
+            "poster_path": "/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",
+            "title": "Final Destination 2",
+            "popularity": 34.593
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qwtgsc5pWRdWOgD6OCFIVkqSDPn.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9532,
+            "original_language": "en",
+            "original_title": "Final Destination",
+            "overview": "Auf dem Weg zum Schüleraustausch nach Europa hat Alex Browning im wartenden Flugzeug plötzlich eine Vision, dass der Flieger abstürzen wird. Er bekommt einen hysterischen Anfall, woraufhin er des Flugzeugs verwiesen wird. Einige seiner Freunde und eine Lehrerin folgen. Tatsächlich explodiert die Maschine nach dem Start und macht Alex plötzlich zum Hauptverdächtigen. Viel schlimmer ist allerdings der Nebeneffekt, dass sein schicksalswidriges Verhalten den Tod offensichtlich nötigt, nachzuarbeiten, so dass die Überlebenden einer nach dem anderen eines plötzlichen Todes sterben. Alex ahnt den Plan, der dahinter steckt und macht sich so noch verdächtiger, entwickelt aber schnell einen Plan, den Tod auch bei der nächsten Runde auszutricksen ...",
+            "poster_path": "/g4dkGtWdc1eQ9JL1kta6LC0DlGS.jpg",
+            "release_date": "2000-03-17",
+            "title": "Final Destination",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 4056,
+            "popularity": 36.807
+        },
+        {
+            "original_language": "en",
+            "original_title": "The Final Destination",
+            "poster_path": "/4syyknAj3A2EZhSZGrMGKzqJP2n.jpg",
+            "id": 19912,
+            "video": false,
+            "vote_average": 5.6,
+            "overview": "Nick O’Bannon besucht mit seiner Freundin Lori und den gemeinsamen Freunden Hunt und Janet ein NASCAR-Autorennen. Plötzlich wird Nick von einer mysteriösen Vorahnung gepackt. Er bricht in Panik aus und glaubt, dass ein Unfall auf der Rennstrecke eine Kettenreaktion auslösen wird, die in einer Katastrophe endet. Obwohl sein Anhang Nick für verrückt erklärt, kann er seine Leute gerade noch rechtzeitig dazu bewegen, aus dem Stadion zu fliehen. Als dann tatsächlich alles so eintritt, wie Nick es beschrieben hat, ist die Verwunderung groß.",
+            "release_date": "2009-08-26",
+            "adult": false,
+            "backdrop_path": "/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
+            "vote_count": 2388,
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "title": "Final Destination 4",
+            "popularity": 38.474
+        },
+        {
+            "id": 55779,
+            "overview": "Der Tod ist allgegenwärtig - und wird entfesselt, nachdem die Vorahnung eines Mannes eine Gruppe Arbeiter vor dem katastrophalen Einsturz einer Hängebrücke rettet. Doch deren ahnungslosen Seelen war es nicht vorbestimmt zu überleben, und in einem unbarmherzigen Wettlauf gegen die Zeit versuchen die Todgeweihten nun verzweifelt, einen Weg aus der finsteren Agenda des Todes zu finden.",
+            "release_date": "2011-08-12",
+            "adult": false,
+            "backdrop_path": "/8kpqu1JyFErn1v5wJoNTZ1hRx1R.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "vote_count": 2503,
+            "original_language": "en",
+            "original_title": "Final Destination 5",
+            "poster_path": "/5uRF7zATPr0hIMfDcMEfnhMGw6a.jpg",
+            "title": "Final Destination 5",
+            "video": false,
+            "vote_average": 6,
+            "popularity": 37.892
+        },
+        {
+            "original_language": "en",
+            "original_title": "Final Destination 6",
+            "poster_path": null,
+            "video": false,
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "",
+            "vote_count": 0,
+            "adult": false,
+            "backdrop_path": null,
+            "title": "Final Destination 6",
+            "genre_ids": [
+                27
+            ],
+            "id": 574475,
+            "popularity": 2.463
+        }
+    ]
+}

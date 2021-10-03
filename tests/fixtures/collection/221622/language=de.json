@@ -1,0 +1,68 @@
+{
+    "id": 221622,
+    "name": "Zwölf Runden Filmreihe",
+    "overview": "",
+    "poster_path": "/lBnqdYPeFwivCWFNlGGXiHAZTsR.jpg",
+    "backdrop_path": "/cPNJRFgk1EtdqUAOSZ5gPigj741.jpg",
+    "parts": [
+        {
+            "original_language": "en",
+            "original_title": "12 Rounds",
+            "poster_path": "/m4iKMFsPy6EtWajq4BoGK8Tzrbc.jpg",
+            "video": false,
+            "vote_average": 5.9,
+            "overview": "Polizist Danny gelingt es, den genialen Verbrecherkönig Miles bei einem spektakulären Millionen-Raub zu verknacken. Dabei kommt die Freundin des Gangsterbosses durch ein Unglück um. Der macht dafür Danny verantwortlich und schwört im Gefängnis Rache. Als Miles aus dem Knast ausbricht und Dannys Verlobte Molly entführt, muss dieser zwölf schier unlösbare Aufgaben bewältigen, sonst wird sie sterben.",
+            "release_date": "2009-03-19",
+            "vote_count": 555,
+            "title": "Zwölf Runden",
+            "adult": false,
+            "backdrop_path": "/c2EpOiIhpMtGCnG6HyHgbpyryPd.jpg",
+            "id": 17134,
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 110.043
+        },
+        {
+            "original_language": "en",
+            "original_title": "12 Rounds 2: Reloaded",
+            "poster_path": "/umM2BwaAIn1hkwqaBqpblrEY6NQ.jpg",
+            "title": "Zwölf Runden 2",
+            "vote_average": 5.6,
+            "overview": "Der Sanitäter Nick Malloy rettet an einem grauenvollen Unfallort das Leben eines betrunkenen Fahrers. Damit beginnt für ihn allerdings ein gefährliches Spiel. Als seine Frau entführt wird, hat der Berufsretter keine andere Wahl, als an einem perfiden Katz-und-Maus-Spiel teilzunehmen: Es geht schließlich ums Überleben. Der Entführer verlangt von ihm, eine Reihe von Aufträgen zu erfüllen, die nicht nur ihn selbst, sondern auch seine Freunde und Bekannte in Lebensgefahr bringen. Nur wenn er die zwölf Aufgaben erfolgreich löst, kann er das Leben seiner Frau retten. Während er von der einen zur nächsten eilt, versucht Nick nebenbei auch noch herauszufinden, warum gerade er von dem Verbrecher für dieses Psycho-Spiel ausgewählt wurde und stößt schließlich in seiner eigenen Vergangenheit auf den entscheidenden Hinweis.",
+            "release_date": "2013-06-01",
+            "id": 195269,
+            "adult": false,
+            "backdrop_path": "/uLFfEoBQGFYUUakNFHowddAArzV.jpg",
+            "vote_count": 210,
+            "genre_ids": [
+                28,
+                12
+            ],
+            "video": false,
+            "popularity": 10.74
+        },
+        {
+            "id": 351901,
+            "vote_average": 5.9,
+            "overview": "Der Polizist John Shaw kehrt nach einer längeren Auszeit in seinen Dienst zurück. Bei einem Einsatz wurde er von einer Kugel getroffen und schwer verletzt, seinem Partner kostete der Zwischenfall sogar das Leben. Zurück am Arbeitsplatz realisiert John, dass eine Menge belastendes Beweismaterial vorliegt, das ihn des Mordes an seinem ehemaligen Kollegen überführen soll, den er niemals begangen hat. Das brisante Material stammt aus den eigenen Reihen. Schnell stellt der Unschuldige fest, dass eine Verschwörung gegen ihn im vollen Gange ist. John muss schleunigst zusehen, dass er herausfindet, welche seiner Kollegen ihm diesen Strick gedreht haben. Die brenzlige Lage spitzt sich zu, als John auf der Dienstwache eingesperrt und umstellt wird. Es gibt nur eine Chance, um aus dem Hinterhalt zu entkommen: John muss sich den Weg frei schießen.",
+            "release_date": "2015-09-11",
+            "vote_count": 131,
+            "adult": false,
+            "backdrop_path": "/xgZMrOPgZcy8FXFOSULoZYM6Ktd.jpg",
+            "title": "Zwölf Runden 3: Lockdown",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "12 Rounds 3: Lockdown",
+            "poster_path": "/3wAIu7q72mINXVplVnU6pMbZmQQ.jpg",
+            "popularity": 15.581
+        }
+    ]
+}

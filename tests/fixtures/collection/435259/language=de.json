@@ -1,0 +1,102 @@
+{
+    "id": 435259,
+    "name": "Phantastische Tierwesen Filmreihe",
+    "overview": "Bei der Filmreihe Phantastische Tierwesen handelt es sich um eine geplante fünfteilige Fantasy-Filmreihe, die 2016 mit dem Film Phantastische Tierwesen und wo sie zu finden sind begonnen wurde. Ihre Handlung soll insgesamt eine Zeitspanne von 19 Jahren umfassen und als Vorgeschichte zur Harry-Potter-Filmreihe dienen. Die Filmreihe enthält Elemente aus dem gleichnamigen Buch, das von der Autorin der Harry-Potter-Romane, Joanne K. Rowling, als Begleitwerk zur Roman-Serie geschrieben wurde.",
+    "poster_path": "/mqBpOHH4khsOa5awxBMWJOByZDZ.jpg",
+    "backdrop_path": "/2Iripuf9j5vbROHNpkUUiWIIDxE.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 259316,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts and Where to Find Them",
+            "overview": "Der exzentrische und einzigartig begabte britische Zauberer Newt Scamander erforscht magische Wesen auf dem ganzen Planeten. In seinem unscheinbaren, aber im Inneren durch Magie vergrößerten Koffer beherbergt er eine ganze Sammlung seltener und gefährdeter magischer Kreaturen samt ihrer Lebensräume. 1926 reist er schließlich in das magie-phobische Amerika. Schnell wird ihm klar, dass sich die magische Gemeinschaft in den USA regelrecht vor den No-Maj, gewöhnlichen Menschen, versteckt. Und die Zauberer und Hexen dort sorgen sich sogar noch mehr um die öffentliche Enthüllung der Magie als im Vereinigten Königreich. Vor Ort trifft er dann auf die rechtschaffende Porpetina „Tina“ Goldstein, Mitarbeiterin der US-Zaubereibehörde Magical Congress of the United States of America, kurz MACUSA. Als eine Vielfalt seiner teils gefährlichen Geschöpfe aus seinem Koffer kommen, ist Chaos Programm.",
+            "poster_path": "/9fTueAwk3btPHxFhi0PlcS2P9mb.jpg",
+            "release_date": "2016-11-16",
+            "title": "Phantastische Tierwesen und wo sie zu finden sind",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 15685,
+            "popularity": 71.343
+        },
+        {
+            "video": false,
+            "vote_average": 0,
+            "overview": "",
+            "adult": false,
+            "backdrop_path": null,
+            "vote_count": 0,
+            "genre_ids": [
+                12,
+                14
+            ],
+            "title": "Fantastic Beasts 4",
+            "original_language": "en",
+            "original_title": "Fantastic Beasts 4",
+            "poster_path": "/hRHkrmHx3wamc1cSazepEoyBays.jpg",
+            "id": 422641,
+            "popularity": 24.723
+        },
+        {
+            "video": false,
+            "vote_average": 0,
+            "overview": "",
+            "adult": false,
+            "backdrop_path": null,
+            "vote_count": 0,
+            "genre_ids": [
+                12,
+                14
+            ],
+            "title": "Fantastic Beasts 5",
+            "original_language": "en",
+            "original_title": "Fantastic Beasts 5",
+            "poster_path": "/how9ENsi7XCYvF6ncaXmIAoNXn5.jpg",
+            "id": 422642,
+            "popularity": 23.366
+        },
+        {
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "id": 338953,
+            "video": false,
+            "vote_average": 0,
+            "overview": "Eine der Hauptörtlichkeiten des Films wird die brasilianische Stadt Rio de Janeiro sein. Es ist sehr wahrscheinlich, dass der Film auch zumindest teilweise in Berlin spielt. Außerdem wurde berichtet, dass ein größerer Fokus auf Albus Dumbledore und Hogwarts gelegt wird, da diese im letzten Film ein großer Erfolg waren.",
+            "release_date": "2022-04-14",
+            "vote_count": 0,
+            "title": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+            "adult": false,
+            "backdrop_path": "/ic8VAa8yQTk93c0d8rUKrmRVwlw.jpg",
+            "poster_path": "/63rXKrhZzn0zljYEpPgNFEOcxBs.jpg",
+            "genre_ids": [
+                14
+            ],
+            "popularity": 41.316
+        },
+        {
+            "genre_ids": [
+                12,
+                14,
+                18
+            ],
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+            "poster_path": "/wNGupBYMeUCmXCT3nUUQzIVLmuf.jpg",
+            "video": false,
+            "vote_average": 6.9,
+            "id": 338952,
+            "release_date": "2018-11-14",
+            "vote_count": 8403,
+            "title": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+            "adult": false,
+            "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
+            "overview": "Gellert Grindelwald für dessen Verhaftung Newt Scamander gesorgt hatte, ist die Flucht gelungen. Und nicht nur das: Der Schurke hat zwischenzeitlich eine noch größere Anhängerschaft aus Zauberern um sich geschart, um seinen düsteren Plan umzusetzen, der die Vorherrschaft der reinblütigen Magier vorsieht. Einzig Grindelwalds ehemals bester Freund Albus Dumbledore wäre in der Lage, ihn zu stoppen, aber dazu wiederum benötigt dieser die Hilfe seines früheren Schülers Scamander, der so in sein nächstes Abenteuer stürzt – und dieses Mal verschlägt es ihn nach Europa, genauer gesagt nach Paris.",
+            "popularity": 58.744
+        }
+    ]
+}

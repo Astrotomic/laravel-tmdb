@@ -1,0 +1,110 @@
+{
+    "id": 8650,
+    "name": "Transformers Filmreihe",
+    "overview": "Die Transformers-Filmreihe ist eine US-amerikanische Action- und Science-Fiction-Saga über dem Kampf zwischen den Autobots und den Decepticons. Diese Sammlung enthält ausschließlich die im Kino erschienenen Transformer-Filme.",
+    "poster_path": "/giURBCO3r4LVbhywEjIuYz92fEv.jpg",
+    "backdrop_path": "/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg",
+    "parts": [
+        {
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "original_language": "en",
+            "original_title": "Transformers",
+            "poster_path": "/7IOE8Ewl1x1nrMTsHgHmReVwNPP.jpg",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 8775,
+            "overview": "Zwei außerirdische Roboterrassen, die den Menschen gut gesinnten Autobots und die zerstörerischen Decepticons, kommen auf die Erde und tragen dort ihren Kampf gegeneinander aus. Es stellen sich ihnen nur wenige mutige Menschen in den Weg - wie Teenager Sam, der zum Geburtstag einen Autobot \"geschenkt\" bekam. Zusammen mit dem Militär, einigen Zivilisten und seiner Freundin Mikaela beginnt ein verzweifelter Kampf ums Schicksal der Menschheit...",
+            "release_date": "2007-06-27",
+            "title": "Transformers",
+            "id": 1858,
+            "adult": false,
+            "backdrop_path": "/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+            "popularity": 16.988
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z0Q4R2h9Z94PXUpjPXL7HpjvvMF.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Transformers: Revenge of the Fallen",
+            "poster_path": "/gTxxxbMc8rnL8AaOcpJzuRVTkpR.jpg",
+            "vote_count": 6659,
+            "id": 8373,
+            "vote_average": 6.1,
+            "video": false,
+            "overview": "Nachdem Sam Witwicky die Welt mit Hilfe der gutmütigen Autobots vor den bösartigen Decepticons gerettet hat, freut er sich auf ein normales Leben. Als er aufs College geht, lässt er nicht nur Freundin Mikaela zurück, sondern auch Roboter-Kumpel Bumblebee. Doch bald wird Sam von seltsamen Visionen heimgesucht. Erneut steht ein Kampf der außerirdischen Roboter bevor, bei dem das Schicksal der Menschheit auf dem Spiel steht. Sam scheint den Schlüssel zu ihrer Rettung in der Hand zu halten, doch diesmal bekommen es er, Mikaela und die Autobots mit einem noch mächtigeren Gegner zu tun...",
+            "release_date": "2009-06-19",
+            "title": "Transformers - Die Rache",
+            "popularity": 63.048
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/af2duhAt9evRkxzkhxjgQ1naOM6.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 38356,
+            "original_language": "en",
+            "original_title": "Transformers: Dark of the Moon",
+            "overview": "Am 20. Juli 1969 landet Apollo 11 auf dem Mond. Auf der dunklen Seite des Mondes stoßen die Astronauten auf das Wrack eines Raumschiffs. 40 Jahre lang hält die Regierung die Entdeckung geheim. Dann überschlagen sich die Ereignisse: Ein bislang unentdeckter Transformer wird an Bord des Raumschiffs reaktiviert. Es ist der verschollen geglaubte Herrscher von Cybertron, Shockwave. Seine Rückkehr entfacht den erbitterten Krieg zwischen den Autobots und den Decepticons aufs Neue. Jetzt geht es nicht mehr nur um die Zukunft und das Überleben der Erde, sondern des ganzen Universums… damit hatten weder Sam Witwicky noch die Autobots gerechnet!",
+            "poster_path": "/88EItC5L9RLub7lqNcOg1WNmXbH.jpg",
+            "release_date": "2011-06-28",
+            "title": "Transformers 3",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 6547,
+            "popularity": 30.048
+        },
+        {
+            "id": 91314,
+            "original_title": "Transformers: Age of Extinction",
+            "poster_path": "/yu37pALP6mpJ9fvtt79sMoD84AX.jpg",
+            "video": false,
+            "vote_average": 5.9,
+            "overview": "Die Menschheit hat sich gerade von der großen Schlacht zwischen Autobots und Decepticons auf unserem Planeten erholt. Alle Transformers sind vom Antlitz der Erde verschwunden, doch geldgierige und mächtige Geschäftsmänner und Wissenschaftler hoffen von ihrer Hinterlassenschaft profitieren zu können. Sie experimentieren mit der Technologie der Transformers – weit über ein Maß hinaus, das sie kontrollieren können. Gleichzeitig hat ein alter und mächtiger Transformer von weit her, sein Augenmerk auf die Erde gerichtet, die er versklaven will. Ein neuer Kampf um die Freiheit der Menschen beginnt…",
+            "release_date": "2014-06-25",
+            "vote_count": 6321,
+            "adult": false,
+            "backdrop_path": "/alItugxBbjNC10ezLSisplhSKJ.jpg",
+            "title": "Transformers: Ära des Untergangs",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "original_language": "en",
+            "popularity": 99.468
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Transformers: The Last Knight",
+            "poster_path": "/x2NX7aagFBTnKKFcjbqHDIudyNv.jpg",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 4645,
+            "overview": "Der mächtige Anführer der Autobots, Optimus Prime hat die Erde verlassen. Fernab unserer Welt merkt er, dass seine Heimat Cybertron zerstört wurde. Um sie wiederaufzubauen, braucht Optimus Prime ein Artefakt, das zu Zeiten von König Artus auf unserem Planeten versteckt wurde. Und die brutale Wahrheit lautet: Nur eine der beiden Welten kann leben – entweder Cybertron oder die Erde. Um letztere zu retten, bildet sich eine ungewöhnliches Bündnis: Cade Yaeger  der Transformer Bumblebee, der englische Lord Edmund Burton die Geschichtsprofessorin Vivien Wembley und die junge Izabella  versuchen gemeinsam, den Untergang abzuwenden – in einem Kampf, in dem aus Freunden Feinde werden…",
+            "release_date": "2017-06-16",
+            "title": "Transformers: The Last Knight",
+            "id": 335988,
+            "popularity": 85.719
+        }
+    ]
+}

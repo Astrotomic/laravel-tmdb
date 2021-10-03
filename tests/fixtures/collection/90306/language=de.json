@@ -1,0 +1,49 @@
+{
+    "id": 90306,
+    "name": "Ghost Rider Filmreihe",
+    "overview": "Ghost Rider ist eine amerikanische Superhelden-Horrorfilmserie, die auf dem gleichnamigen Charakter basiert, der in Marvel Comics zu sehen ist. Der Filmstar Nicolas Cage ist Johnny Blaze, ein Stunt-Motorradfahrer, der seine Seele an den Teufel verkauft und sich dadurch in den Ghost Rider verwandelt.",
+    "poster_path": "/bZBasloaMhjxCwH6tV0eziNMqut.jpg",
+    "backdrop_path": "/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/ohfWCHT65P7b3kQvZnoy2BL95MB.jpg",
+            "genre_ids": [
+                53,
+                28,
+                14
+            ],
+            "id": 1250,
+            "original_language": "en",
+            "original_title": "Ghost Rider",
+            "overview": "Um seinen todkranken Vater zu retten, überschreibt der junge Motorradfahrer Johnny Blaze seine Seele Mephistopheles. Jahre später ist er zum gefeierten Stuntstar aufgestiegen, doch die Liebe seines Lebens, Roxanne, mußte er damals aufgeben. Doch eines Tages ist Roxanne, inzwischen Reporterin, wieder da - und Mephistopheles offeriert Blaze, die Möglichkeit, seine Seele zurückzugewinnen, wenn er als der Ghost Rider gegen den machthungrigen Sohn des Teufels, Blackheart antritt, der eine neue Hölle auf Erden errichten will. Ghost Riders Zeichen ist eine höllische Maschine und ein Gesicht, das einem flammenden Totenschädel gleicht...",
+            "poster_path": "/qCCo807zQcj4kaSGn5H6LTqK2dh.jpg",
+            "release_date": "2007-01-15",
+            "title": "Ghost Rider",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4553,
+            "popularity": 38.574
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aHc765LRg5d5DtoS4LKiGEROWrq.jpg",
+            "genre_ids": [
+                28,
+                14,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Ghost Rider: Spirit of Vengeance",
+            "poster_path": "/igai6kKoGxbLeliqCQr1feLDqJT.jpg",
+            "id": 71676,
+            "video": false,
+            "title": "Ghost Rider: Spirit of Vengeance",
+            "vote_count": 2885,
+            "overview": "Vom Teufel persönlich aufs Kreuz gelegt – Eigentlich wollte der junge Johnny Blaze nur seinen Vater retten, doch statt dessen wurde er zu einem machtvollen Diener des Teufels. Nur mit Mühe hat er es geschafft, dem Teufel zu entkommen und versteckt sich nun seit Jahren in Osteuropa – immer darum bemüht ihm nicht nachzugeben, dem Ghost Rider: Spirit of Vengeance. Doch der Teufel hat vor, mithilfe des jungen Danny in neuer Gestalt auf Erden zu wandeln, weshalb eine Sekte Johnny Blaze bittet, als Ghost Rider wieder auf sein brennendes Motorad zu steigen. Johnny ist gezwungen, wieder seinen inneren Dämon zu wecken. Doch wird er ihn unter Kontrolle halten können?",
+            "release_date": "2011-12-11",
+            "vote_average": 5,
+            "popularity": 82.246
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 573436,
+    "name": "Spider-Man: Spider-Verse Filmreihe",
+    "overview": "Spider-Man Animationsfilmreihe mit dem Fokus auf der Geschichte von Miles Morales.",
+    "poster_path": "/eD4bGQNfmqExIAzKdvX5gDHhI2.jpg",
+    "backdrop_path": "/14F6gMaRjzgsN6EEpiwH87R1I00.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/6qVF0gnLnbKCgcMfCpCB8GH7B5I.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878,
+                35
+            ],
+            "original_language": "en",
+            "original_title": "Spider-Man: Into the Spider-Verse",
+            "poster_path": "/vOpV6HrtAkNQxCWAgtU4NmQ1KPe.jpg",
+            "vote_count": 9972,
+            "video": false,
+            "title": "Spider-Man: A New Universe",
+            "vote_average": 8.4,
+            "overview": "Miles Morales wurde von einer genetisch veränderten Spinne gebissen. Das macht ihn schnell zum neuen Spider-Man mit den bekannten Fähigkeiten. Aber Miles ist ein Teenager ohne Ahnung von der verantwortungsvollen Nutzung seiner eigenen Kräfte. Doch Hilfe naht, denn durch eine scheinbar zufällig auftretende Verkettung mehrerer Paralleluniversen trifft Miles auf Spider-Man aka Peter Parker und dieser unterweist ihn in den neuen Superkräften und überträgt ihm Verantwortung. Während beide einen Reifeprozess durchmachen, der eine als Schüler, der andere als Lehrer, treffen immer mehr Superhelden mit ähnlichen Kräften ein - ihre bösen Gegenspieler aber auch ...",
+            "release_date": "2018-12-06",
+            "id": 324857,
+            "popularity": 123.831
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ppehJ5HlIcqFpH9erwjwFGKdIoe.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878,
+                35,
+                12
+            ],
+            "id": 569094,
+            "original_language": "en",
+            "original_title": "Spider-Man: Into the Spider-Verse 2",
+            "overview": "",
+            "poster_path": "/8ycplQbTU6DRRwiG95lQEpYkOVg.jpg",
+            "release_date": "2022-10-06",
+            "title": "Spider-Man: Into the Spider-Verse 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 92.168
+        }
+    ]
+}

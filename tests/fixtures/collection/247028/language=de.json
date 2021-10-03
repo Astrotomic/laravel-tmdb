@@ -1,0 +1,112 @@
+{
+    "id": 247028,
+    "name": "Rurouni Kenshin Filmreihe",
+    "overview": "",
+    "poster_path": "/yBYLuwZ1zbRBEKaZmwiThsEqUbC.jpg",
+    "backdrop_path": "/jqmQLcdn3aEyc30nesZn7qixfoP.jpg",
+    "parts": [
+        {
+            "vote_average": 7.6,
+            "adult": false,
+            "backdrop_path": "/oLPxM7Zx2tsilktqrxCUz5M99cc.jpg",
+            "vote_count": 521,
+            "video": false,
+            "overview": "Japan, 1878: Das Land öffnet sich nach jahrhundertelanger Isolation dem Westen. In diesen Zeiten des Aufruhrs zieht der einsame Samurai Kenshin durch das Land, geplagt von einem dunklen Geheimnis: Als gnadenloser Killer namens “Battosai” löschte er unzählige Leben aus. Jetzt greift der ausgezeichnete Schwertkämpfer nur noch zu seiner Waffe, um Unschuldige zu schützen. Seine Vergangenheit holt ihn wieder ein, als er erfährt, dass in Tokio ein unheimlicher Mörder unter seinem alten Decknamen reihenweise Menschen exekutiert! Auf seiner Suche nach dem wahren Täter stößt er auf alte Feinde und kommt einem Komplott auf die Spur, das ihn in tödliche Gefahr bringt…",
+            "genre_ids": [
+                12,
+                28,
+                18,
+                36
+            ],
+            "id": 127533,
+            "original_language": "ja",
+            "original_title": "るろうに剣心",
+            "poster_path": "/atUOYrbF8vdc45AU0lPnd5aNdKd.jpg",
+            "release_date": "2012-08-25",
+            "title": "Rurouni Kenshin",
+            "popularity": 43.421
+        },
+        {
+            "original_title": "るろうに剣心　伝説の最期編",
+            "id": 221732,
+            "video": false,
+            "vote_average": 7.8,
+            "overview": "Der letzte Kampf von Kenshin Himura (Takeru Satô) gegen den verbrannten und bandagierten Makoto Shishio (Tatsuya Fujiwara) und seiner Elitekampfgruppe Juppongatana steht nun kurz bevor. Eigentlich wollte Kenshin sein Schwert nie wieder erheben, aber nachdem er erfahren hat, dass die Mitglieder der Juppongatana die Segel ihres eisernen Schiffes gesetzt haben und sich auf dem Weg nach Japan befinden, um die Meiji-Regierung zu Fall zu bringen und das Land ins Chaos zu stürzen, musste er sein eigenes Versprechen brechen und wieder zu seinem Schwert greifen. Um aber eine Chance im Kampf zu haben, trainiert Kenshin mit seinem alten Meister. Er will die finale Technik von ihm erlernen.",
+            "release_date": "2014-09-13",
+            "vote_count": 295,
+            "adult": false,
+            "backdrop_path": "/4UXfZjqt0C5kHTROotrsnfDYCh.jpg",
+            "title": "Rurouni Kenshin 3: The Legend Ends",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                14
+            ],
+            "poster_path": "/k6t4z08YvZSokKrYf2pTH3SmK4O.jpg",
+            "original_language": "ja",
+            "popularity": 21.172
+        },
+        {
+            "id": 221731,
+            "adult": false,
+            "backdrop_path": "/q3jiq1PRpOGnRScbj3cur7RkZYv.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                14
+            ],
+            "original_language": "ja",
+            "original_title": "るろうに剣心 京都大火編",
+            "poster_path": "/mfF0HNPICul8QBHR7Si6gv5W5JA.jpg",
+            "vote_count": 367,
+            "video": false,
+            "title": "Rurouni Kenshin 2: Kyoto Inferno",
+            "vote_average": 7.7,
+            "overview": "Der bösartige Schwertkämpfer Makoto Shishio (Tatsuya Fujiwara) will Japan in die Katastrophe stürzen. Er verfolgt den radikalen Plan, die Meiji-Regierung in Kyoto zu stürzen und kann sich auf seinem blutigen Streifzug durch die politische Vertikale auf seine außerordentlichen Fähigkeiten als Meister der Schwertkunst verlassen. Das Land hat nur eine Hoffnung: Kenshin Himura (Takeru Satô). Der hat aber geschworen, nie wieder zum Schwert zu greifen. Als jedoch auch er merkt, dass die Situation in Japan zunehmend außer Kontrolle gerät, zwingen ihn die Aktionen Makoto Shishios dazu, sich gegen seinen Schwur und die Einwände seiner Freundin (Hiroko Yashiki) zu entscheiden und wieder zum Schwert zu greifen. Das Schicksal Japans wird im Kampf zwischen Makoto Shishio und Kenshin Himura entschieden.",
+            "release_date": "2014-08-01",
+            "popularity": 24.212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nR6tcBslmfpC6tHW6GPs7fcHV8g.jpg",
+            "id": 602063,
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "original_language": "ja",
+            "original_title": "るろうに剣心 最終章 The Final",
+            "poster_path": "/51RcNHA3QdoJox2ewtpzPSDyEVR.jpg",
+            "video": false,
+            "title": "Rurouni Kenshin: The Final",
+            "overview": "Der legendäre Schwertkämpfer Kenshin Himura hat nach der Meiji-Restauration hat er aufgehört, mit dem Schwert zu töten. Er versucht ein friedliches Leben mit Kaoru Kamiya zu führen, die im Dorf eine Schwertkampfschule betreibt. Doch dieses nimmt ein jähes Ende, als sein Lieblingsrestaurant Akabeko zerstört wird. Kenshin Himura findet dort eine Notiz mit der Aufschrift \"Junchu\", die Unheil verspricht.",
+            "release_date": "2021-04-23",
+            "vote_count": 257,
+            "vote_average": 7.9,
+            "popularity": 174.034
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/heMC3jAjQPNSlr1n9mZKUQ58EOE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "original_language": "ja",
+            "original_title": "るろうに剣心 最終章 The Beginning",
+            "poster_path": "/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg",
+            "video": false,
+            "id": 672322,
+            "title": "Rurouni Kenshin: The Beginning",
+            "overview": "Der legendäre Schwertkämpfer Kenshin Himura (Takeru Satoh) muss weiter dem mysteriösen chinesischen Waffenhändler Enishi Yukishiro (Mackenyu Arata), seinem ehemaligen Schwager, entgegentreten...",
+            "release_date": "2021-06-04",
+            "vote_count": 179,
+            "vote_average": 7.8,
+            "popularity": 496.695
+        }
+    ]
+}

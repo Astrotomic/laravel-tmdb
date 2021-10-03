@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/92mpNNg6v2PN2HN2C2Z4g0v3Tya.jpg",
+    "belongs_to_collection": null,
+    "budget": 34000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/tmnt",
+    "id": 1273,
+    "imdb_id": "tt0453556",
+    "original_language": "en",
+    "original_title": "TMNT",
+    "overview": "Nachdem sie ihren größten Feind Shredder in die Schranken gewiesen haben, leben sich die vier Ninja-Turtles zunehmend auseinander. Als der Großindustrielle Max Winters damit beginnt, eine Armee von Monstern um sich zu scharen, muss Meister Splinter seine Schützlinge Donatello, Raphael, Michelangelo und Leonardo wieder vereinen, um nicht nur New York, sondern die ganze Welt zu retten.",
+    "popularity": 18.103,
+    "poster_path": "/ksguZE9rTtsRJlhTO59WNmPNjOR.jpg",
+    "production_companies": [
+        {
+            "id": 138907,
+            "logo_path": null,
+            "name": "Image Comics",
+            "origin_country": ""
+        },
+        {
+            "id": 3463,
+            "logo_path": null,
+            "name": "Imagi Animation Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 70995,
+            "logo_path": null,
+            "name": "Imagi Production",
+            "origin_country": ""
+        },
+        {
+            "id": 308,
+            "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+            "name": "The Weinstein Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-03-23",
+    "revenue": 95608995,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "TMNT",
+    "title": "Teenage Mutant Ninja Turtles",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 783
+}

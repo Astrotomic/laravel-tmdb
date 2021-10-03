@@ -10,7 +10,7 @@
         },
         {
             "id": 10751,
-            "name": "Familie"
+            "name": "Family"
         },
         {
             "id": 14,
@@ -18,15 +18,15 @@
         },
         {
             "id": 35,
-            "name": "Komödie"
+            "name": "Comedy"
         },
         {
             "id": 10402,
-            "name": "Musik"
+            "name": "Music"
         },
         {
             "id": 12,
-            "name": "Abenteuer"
+            "name": "Adventure"
         }
     ],
     "homepage": "",
@@ -34,8 +34,8 @@
     "imdb_id": "tt10101702",
     "original_language": "en",
     "original_title": "My Little Pony: A New Generation",
-    "overview": "Die Magie ist weg und deswegen leben Erdponys, Einhörner und Pegasoi nun getrennt voneinander. Befreundet sind sie nicht mehr. Zum Glück will das engagierte Erdpony Sunny (Stimme im Original: Vanessa Hudgens) diesen traurigen neuen Zustand nicht hinnehmen. Sie ist fest entschlossen, einen Weg zu finden, damit die Magie und der Frieden ins Land Equestria zurückkehren. Sunny und das offenherzige Einhorn Izzy (Kimiko Glenn) reisen weit und treffen unterwegs Pipp (Sofia Carson), Zipp (Liza Koshy) und Hitch (James Marsden). Jeder und jede von ihnen hat einzigartige Fähigkeiten, sodass es den neuen Freunden gemeinsam bestimmt gelingen wird, die Magie nach Equestria zurückzuholen.",
-    "popularity": 671.77,
+    "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+    "popularity": 1316.669,
     "poster_path": "/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg",
     "production_companies": [
         {
@@ -87,9 +87,9 @@
         }
     ],
     "status": "Released",
-    "tagline": "",
-    "title": "My little Pony - Eine neue Generation",
+    "tagline": "Ride or Fly",
+    "title": "My Little Pony: A New Generation",
     "video": false,
-    "vote_average": 8,
-    "vote_count": 58
+    "vote_average": 7.9,
+    "vote_count": 65
 }

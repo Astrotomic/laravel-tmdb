@@ -1,0 +1,72 @@
+{
+    "id": 809185,
+    "name": "Army of the Dead Filmreihe",
+    "overview": "",
+    "poster_path": "/e4cjn4DcEUORp1fg1c3chk3SBD5.jpg",
+    "backdrop_path": "/kU1h9uMbobOjPc9gE2Fsyw7zDVN.jpg",
+    "parts": [
+        {
+            "title": "Army of the Dead",
+            "video": false,
+            "vote_average": 6.4,
+            "overview": "Bei einer Zombieplage in Las Vegas stellt sich eine Truppe Söldner der ultimativen Gefahr und wagt sich für den größten Coup aller Zeiten in die Höhle des Löwen.",
+            "release_date": "2021-05-14",
+            "adult": false,
+            "backdrop_path": "/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+            "vote_count": 2353,
+            "genre_ids": [
+                28,
+                12,
+                27,
+                80
+            ],
+            "id": 503736,
+            "original_language": "en",
+            "original_title": "Army of the Dead",
+            "poster_path": "/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
+            "popularity": 354.811
+        },
+        {
+            "backdrop_path": "/lxLiKYM4laorYKMxyaWrSVbLIjr.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Army of Thieves",
+            "poster_path": "/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "overview": "In diesem Prequel zu „Army of the Dead“ wird Kleinstadt-Banker Dieter von einer mysteriösen Frau rekrutiert, um bei einem legendären Raubzug in Europa Safes zu knacken.",
+            "id": 796499,
+            "title": "Army of Thieves",
+            "release_date": "2021-10-29",
+            "adult": false,
+            "popularity": 14.315
+        },
+        {
+            "video": false,
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "",
+            "adult": false,
+            "backdrop_path": null,
+            "vote_count": 0,
+            "genre_ids": [
+                28,
+                12,
+                27,
+                80
+            ],
+            "title": "Army of the Dead 2",
+            "original_language": "en",
+            "original_title": "Army of the Dead 2",
+            "poster_path": "/16LRjAva8B83872338eXow1uTi4.jpg",
+            "id": 852779,
+            "popularity": 0.84
+        }
+    ]
+}

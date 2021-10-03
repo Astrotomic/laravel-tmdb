@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "No Time to Die",
     "overview": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
-    "popularity": 422.948,
+    "popularity": 724.041,
     "poster_path": "/ep4eNdF37uhadB2UzdL8IDU6IxO.jpg",
     "production_companies": [
         {
@@ -84,6 +84,10 @@
         {
             "iso_3166_1": "GB",
             "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
         }
     ],
     "release_date": "2021-09-29",
@@ -94,6 +98,11 @@
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
         },
         {
             "english_name": "French",
@@ -109,12 +118,17 @@
             "english_name": "Russian",
             "iso_639_1": "ru",
             "name": "Pусский"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
         }
     ],
     "status": "Released",
-    "tagline": "",
+    "tagline": "Die Mission, die alles verändert, beginnt …",
     "title": "James Bond 007 - Keine Zeit zu sterben",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 31
+    "vote_average": 7.1,
+    "vote_count": 111
 }

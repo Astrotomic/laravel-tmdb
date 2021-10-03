@@ -1,0 +1,50 @@
+{
+    "id": 519457,
+    "name": "The Boss Baby Filmreihe",
+    "overview": "",
+    "poster_path": "/jsywd2Ie8K7LRZU1PZCaQBCCLv8.jpg",
+    "backdrop_path": "/n2opkcFxIGc0plZJs45CAH8IjiF.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/l4t6QYcDEIXep6C5Vmjna8Fl5Vy.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "original_language": "en",
+            "original_title": "The Boss Baby",
+            "poster_path": "/y63mn0Djzhh6wAwTpeT9Xn1zTJW.jpg",
+            "vote_count": 5937,
+            "video": false,
+            "title": "The Boss Baby",
+            "vote_average": 6.5,
+            "overview": "Das Leben des siebenjährigen Tim gerät völlig aus den Fugen, als seine Eltern eines Tages mit seinem neuen kleinen Bruder nach Hause kommen. Das Baby genießt in der Familie fortan nicht nur die ganze Aufmerksamkeit, sondern entpuppt sich bald auch als sprechendes und Anzug tragendes Business-Kind. Während seine Eltern davon jedoch nichts mitkriegen, muss sich Tim mit den verborgenen Seiten seines abgebrühten Bruders herumschlagen. Obwohl sich die Geschwister nicht ausstehen können, raufen sie sich schließlich zusammen, um dem dubiosen Geschäftsmann Francis E. Francis das Handwerk zu legen. Der ist nämlich dafür zuständig, dass sich die Liebe der Menschen von kleinen Babys zunehmend in Richtung süße Hundewelpen verlagert.",
+            "release_date": "2017-03-23",
+            "id": 295693,
+            "popularity": 27.404
+        },
+        {
+            "video": false,
+            "vote_average": 7.8,
+            "id": 459151,
+            "overview": "",
+            "release_date": "2021-07-01",
+            "adult": false,
+            "backdrop_path": "/akwg1s7hV5ljeSYFfkw7hTHjVqk.jpg",
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "vote_count": 1451,
+            "original_language": "en",
+            "original_title": "The Boss Baby: Family Business",
+            "poster_path": "/w6yaiuIFPKTCx93LHeRAMXK72jh.jpg",
+            "title": "The Boss Baby: Family Business",
+            "popularity": 931.838
+        }
+    ]
+}

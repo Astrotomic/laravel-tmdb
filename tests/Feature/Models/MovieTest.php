@@ -5,36 +5,47 @@ use Astrotomic\Tmdb\Enums\MovieStatus;
 use Astrotomic\Tmdb\Enums\WatchProviderType;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
+use Astrotomic\Tmdb\Models\Collection;
 use Astrotomic\Tmdb\Models\Movie;
+use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
 use Carbon\CarbonInterval;
 use PHPUnit\Framework\Assert;
 use Spatie\Enum\Phpunit\EnumAssertions;
 
 it('maps data from tmdb', function (): void {
-    $movie = new Movie(['id' => 335983]);
+    $movie = new Movie(['id' => 284054]);
     $movie->updateFromTmdb();
 
-    Assert::assertSame(335983, $movie->id);
-    Assert::assertSame('Venom', $movie->original_title);
+    Assert::assertSame(284054, $movie->id);
+    Assert::assertSame('Black Panther', $movie->original_title);
     Assert::assertFalse($movie->adult);
     Assert::assertFalse($movie->video);
-    Assert::assertSame('/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg', $movie->backdrop_path);
-    Assert::assertSame('/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg', $movie->poster_path);
-    Assert::assertSame(116000000, $movie->budget);
-    Assert::assertSame(855013954, $movie->revenue);
-    Assert::assertSame('http://www.venom.movie/site/', $movie->homepage);
-    Assert::assertSame('tt1270797', $movie->imdb_id);
+    Assert::assertSame('/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg', $movie->backdrop_path);
+    Assert::assertSame(200000000, $movie->budget);
+    Assert::assertSame(1346739107, $movie->revenue);
+    Assert::assertSame('https://marvel.com/movies/movie/224/black_panther', $movie->homepage);
+    Assert::assertSame('tt1825683', $movie->imdb_id);
     Assert::assertSame('en', $movie->original_language);
-    Assert::assertSame(532.923, $movie->popularity);
-    ArrayAssertions::assertEquals(['US', 'CN'], $movie->production_countries);
-    ArrayAssertions::assertEquals(['zh', 'en', 'ms'], $movie->spoken_languages);
-    Assert::assertTrue($movie->release_date?->isSameDay('2018-09-28'));
-    Assert::assertSame(112, $movie->runtime);
+    Assert::assertSame(81.635, $movie->popularity);
+    ArrayAssertions::assertEquals(['US'], $movie->production_countries);
+    ArrayAssertions::assertEquals(['en', 'ko', 'sw', 'xh'], $movie->spoken_languages);
+    Assert::assertTrue($movie->release_date?->isSameDay('2018-02-13'));
+    Assert::assertSame(134, $movie->runtime);
     EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
 
-    Assert::assertCount(2, $movie->genres);
-    ArrayAssertions::assertEquals([28, 878], $movie->genres->pluck('id')->all());
+    Assert::assertSame('/daKUTgrMnsMLFrRv3a7s6yUyXf1.jpg', $movie->poster_path);
+    Assert::assertSame('Black Panther', $movie->title);
+    Assert::assertSame('Lang lebe der König', $movie->tagline);
+    Assert::assertSame('Aufgrund von Bodenschätzen außerirdischen Ursprungs ist das afrikanische Königreich Wakanda unermesslich reich. Nur hier kommt das Vibrationen jeder Art und Stärke absorbierende Mineral Vibranium vor. Den Bewohnern von Wakanda ist sehr daran gelegen, vor den Augen Fremder verborgen zu bleiben.  Reichtum weckt Begehrlichkeiten, und es braucht einen starken Führer, ihn zu verteidigen: Den Black Panther! Die Verantwortung des Black Panther wird vom König Wakandas an den jeweiligen Nachfolger weitergegeben. Und so nimmt T’Challa die Bürde und die Würde des ihm vorbestimmten Schicksals von seinem Vater T’Chaka nach dessen tragischen Tod entgegen.', $movie->overview);
+
+    Assert::assertCount(3, $movie->genres);
+    Assert::assertContainsOnly(MovieGenre::class, $movie->genres);
+    ArrayAssertions::assertEquals([12, 28, 878], $movie->genres->pluck('id')->all());
+
+    Assert::assertSame(529892, $movie->collection_id);
+    Assert::assertInstanceOf(Collection::class, $movie->collection);
+    Assert::assertSame(529892, $movie->collection->id);
 });
 
 it('movie provides a poster', function (): void {
@@ -145,7 +156,7 @@ it('loads several pages of similar movies', function (): void {
     $movies = Movie::query()->findOrFail(335983)->similars(60);
 
     expect($movies)
-        ->toHaveCount(55)
+        ->toHaveCount(52)
         ->each->toBeInstanceOf(Movie::class);
 
     expect(requests('movie/335983/similar'))

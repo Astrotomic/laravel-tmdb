@@ -10,7 +10,7 @@
         },
         {
             "id": 12,
-            "name": "Abenteuer"
+            "name": "Adventure"
         },
         {
             "id": 14,
@@ -22,9 +22,9 @@
     "imdb_id": "tt7587604",
     "original_language": "cn",
     "original_title": "真·三国无双",
-    "overview": "",
-    "popularity": 517.145,
-    "poster_path": "/tZ5XIM5wGCRV3InRkE772qsHgqF.jpg",
+    "overview": "Warlords, warriors and statesmen wage a battle for supremacy in this fantasy tale based on the hit video games and the \"Romance of the Three Kingdoms.\"",
+    "popularity": 555.056,
+    "poster_path": "/7BCTdek5LFHglcgl7shsm7igJAH.jpg",
     "production_companies": [
         {
             "id": 156668,
@@ -61,7 +61,7 @@
     ],
     "status": "Released",
     "tagline": "",
-    "title": "真·三国无双",
+    "title": "Dynasty Warriors",
     "video": false,
     "vote_average": 6.7,
     "vote_count": 66

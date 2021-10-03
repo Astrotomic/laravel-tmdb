@@ -1,0 +1,70 @@
+{
+    "id": 1006,
+    "name": "Austin Powers Filmreihe",
+    "overview": "Austin Powers ist eine Parodie auf James Bond.",
+    "poster_path": "/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg",
+    "backdrop_path": "/3QJMI8nqQcwU5JBPy26m8TUXtTN.jpg",
+    "parts": [
+        {
+            "original_title": "Austin Powers: International Man of Mystery",
+            "poster_path": "/qSvfLwdDBLjZaPwA7qdn0yYePq5.jpg",
+            "video": false,
+            "vote_average": 6.5,
+            "overview": "London, 1967: Die Swinging Sixties erleben gerade ihren Höhepunkt. Mittendrin: Austin Powers. Fotograf, Geheimagent und immer am Puls der Zeit. Im Namen ihrer Majestät bekämpft er das Verbrechen, nur der glatzköpfige und bösartige Dr. Evil geht dem schrillen Agenten immer wieder durch die Lappen. Als sich sein Gegenspieler einfrieren lässt, um sein Unwesen auf die 90er Jahre zu vertagen, begibt sich Austin in den Gefrierschrank des Secret Service und lässt sich ebenfalls auf Eis legen. Nach 30 Jahren wird er wieder aufgetaut um Dr. Evil endgültig das Handwerk zu legen. Dieser hat die Welt als Geisel genommen und droht mit ihrer Vernichtung, sollten seine Forderungen nicht erfüllt werden. Gemeinsam mit der Tochter seiner ehemaligen Sekretärin, Miss Kensington, macht sich der britische Geheimagent ans Werk.",
+            "release_date": "1997-05-02",
+            "title": "Austin Powers - Das Schärfste, was Ihre Majestät zu bieten hat",
+            "adult": false,
+            "backdrop_path": "/3tSCdgdUpXmkpHtAoQJgTt1LSI0.jpg",
+            "vote_count": 2506,
+            "genre_ids": [
+                878,
+                35,
+                80
+            ],
+            "id": 816,
+            "original_language": "en",
+            "popularity": 20.656
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xtwd01AAujdLTsnlfzVSEsyRXIC.jpg",
+            "genre_ids": [
+                12,
+                35,
+                80,
+                878
+            ],
+            "id": 817,
+            "original_language": "en",
+            "original_title": "Austin Powers: The Spy Who Shagged Me",
+            "overview": "Und ein neues Abenteuer des unwiderstehlichen - hust! - Spions Austin Powers: Dr. Evil reist mit einer Zeitmaschine zurück in die sechziger Jahre und raubt Austin sein Lustempfinden. Jetzt fehlt dem smarten Agenten mit den schrillen Klamotten jegliche Anziehungskraft auf das weibliche Geschlecht. Das findet er verständlicherweise gar nicht gut und gelangt mittels eines Zeitportals des britischen Geheimdienstes in Form eines neuen VW Käfers in das Jahr 1969. Dort versucht er, seine Libido zurückzugewinnen und mit Hilfe der Agentin Felicity Schickfick Evils Plan zur Übernahme der Weltherrschaft zu stoppen. Denn Evil hat eine mächtige Erfindung des Wissenschaftlers Alan Parson in seinem Besitz. Es handelt sich um einen gigantischen Laser, mit dem die Erde zerstört werden kann. Powers und Schickfick müssen vollen Einsatz zeigen, um Evil in die Schranken zu weisen.",
+            "poster_path": "/mV8qt2Irt2vYViMivsuxyD2xI1b.jpg",
+            "release_date": "1999-06-08",
+            "title": "Austin Powers - Spion in geheimer Missionarsstellung",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2536,
+            "popularity": 19.133
+        },
+        {
+            "backdrop_path": "/CxkMHYV3pEKAyUJK34gkd9uiM.jpg",
+            "genre_ids": [
+                35,
+                80,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Austin Powers in Goldmember",
+            "poster_path": "/xtDejB4o3gWjRucPmnklZbLFCRY.jpg",
+            "title": "Austin Powers in Goldständer",
+            "video": false,
+            "vote_average": 6,
+            "overview": "Dr. Evil und seinem Komplizen Mini-Me gelingt es, aus dem Gefängnis zu fliehen. Das ruft den \"Swinging International Man of Mystery\" auf den Plan. Als Austin Powers tritt er in Aktion, um seine beiden Widersacher wieder hinter Gitter zu wissen. Aber der schrille Agent hat es nicht nur mit Dr. Evil zu tun. Denn sein Vater Nigel Powers, ein altgedienter Agent, wurde von dem holländischen Bösewicht Goldständer entführt. Der unberechenbare Schurke plant eine Teufelei, die den Fortbestand des Planeten gefährdet. Sowohl die Sorge um die Erde als auch die persönliche Schmach, dass sich Goldständer an der Familie Austin Powers' vergreifen konnte, will der Agent nicht ungesühnt lassen. Passenderweise arbeiten Goldständer und Dr. Evil zusammen, so dass Austin Powers mit einem Kampf gleich zwei Gegner in die Schranken weisen kann.",
+            "id": 818,
+            "vote_count": 2402,
+            "release_date": "2002-07-26",
+            "adult": false,
+            "popularity": 20.741
+        }
+    ]
+}

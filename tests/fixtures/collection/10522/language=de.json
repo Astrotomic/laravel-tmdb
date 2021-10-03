@@ -1,0 +1,111 @@
+{
+    "id": 10522,
+    "name": "Starship Troopers Filmreihe",
+    "overview": "Starship Troopers ist ein amerikanischer Science-Fiction-Actionfilm des Regisseurs Paul Verhoeven aus dem Jahr 1997, der lose auf dem gleichnamigen Roman von Robert A. Heinlein basiert. Im Jahr 2004 erschien eine Fortsetzung des Films mit dem Titel Starship Troopers 2: Held der Föderation unter der Regie von Phil Tippett. Er wurde auf DVD und Video veröffentlicht. 2008 erschien die zweite Fortsetzung mit dem Titel Starship Troopers 3: Marauder. Die Regie übernahm Edward Neumeier, der das Drehbuch für die ersten beiden Teile verfasste. Wie der zweite Teil ist auch dieser Film eine Direct-to-DVD-Produktion. Im Juli 2012 erschien ein computeranimierter Spielfilm von Shinji Aramaki mit dem Titel Starship Troopers: Invasion.",
+    "poster_path": "/cR3EiPp8zUbtOSOsQIMlhpConEa.jpg",
+    "backdrop_path": "/hwZXCuY6GVw50o17nDGbSR8WMFJ.jpg",
+    "parts": [
+        {
+            "overview": "In ferner Zukunft herrscht endlich Frieden auf der Erde. Einzig und allein die Einteilung in Soldaten und Zivilisten unterscheidet Menschen. Trotzdem lauert Gefahr: Killer-Insekten aus einer anderen Galaxie haben der Menschheit den Krieg erklärt. Ihr Ziel ist es, alles Leben auf der Erde zu zerstören, und ihre Angreifer scheinen unbesiegbar. Eine Armee junger Soldaten wird auf den feindlichen Planeten geschickt, um in einer letzten großen Schlacht die Menschheit vor ihrer Ausrottung zu bewahren. Unter ihnen befindet sich auch der junge Johnny Rico. Er, der einst zum Militär ging, um seiner Freundin zu imponieren, steht nun zusammen mit seinen Freunden vor einem Kampf, den keiner der Beteiligten jemals vergessen wird, denn die Starship Troopers haben ihren Gegner mehr als unterschätzt...",
+            "release_date": "1997-11-07",
+            "vote_average": 6.9,
+            "vote_count": 3514,
+            "adult": false,
+            "backdrop_path": "/7PR2yMwXuXelAcp3qpJ3isZCdd0.jpg",
+            "id": 563,
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "Starship Troopers",
+            "poster_path": "/uQK6ABWeIqHiWIFvJngStUtW3cR.jpg",
+            "title": "Starship Troopers",
+            "popularity": 19.988
+        },
+        {
+            "id": 10304,
+            "adult": false,
+            "backdrop_path": "/kSEc72AYeZEgwPBHle8bGjmRnAC.jpg",
+            "genre_ids": [
+                12,
+                27,
+                28,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Starship Troopers 2: Hero of the Federation",
+            "poster_path": "/9iqrqOjLaFcGNnSQlJxYLfgrhqn.jpg",
+            "video": false,
+            "vote_average": 4.2,
+            "vote_count": 396,
+            "overview": "Im andauernden Krieg der Menschen gegen die Bugs gerät eine mobile Infanterieeinheit auf dem Planeten Angel Zulu in einen Hinterhalt und muss sich in einen verlassenen Außenposten der Föderation zurückziehen. Dort treffen sie auf Captain Dax, der zwar nicht gerade für seinen Respekt gegenüber Offizieren bekannt ist, aber große Erfahrung im Kampf gegen die Aliens hat. Mit seiner Hilfe gelingt es, die Verteidigungsanlage wieder in Gang zu bringen. Doch die Ruhe ist nur von kurzer Dauer, eine neue Gefahr droht… von innen!",
+            "release_date": "2004-04-20",
+            "title": "Starship Troopers 2: Held der Föderation",
+            "popularity": 12.528
+        },
+        {
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "original_language": "en",
+            "original_title": "Starship Troopers 3: Marauder",
+            "poster_path": "/ecYfG6EKwWiY9mrhZUreYZ9dn5w.jpg",
+            "title": "Starship Troopers 3: Marauder",
+            "video": false,
+            "vote_average": 4.7,
+            "overview": "Colonel Johnny Rico meldet sich zurück, um mit seinem Team in geheimer Mission eine kleine Crew von Troopers vom einsamen Planeten OM-1 zu retten. Im Gefecht gegen altbekannte und neue Bugs ist die brandneue “Marauder”-Waffentechnologie ihre letzte Hoffnung, um ein verräterisches Element zu besiegen, das innerhalb der Föderation selbst operiert. Während Captain Lola Beck und der Rest der Starship-Crew unter härtesten Bedingungen ums Überleben kämpfen, wird ihnen langsam klar, dass auf OM-1 etwas ganz und gar nicht in Ordnung ist. Die Bugs scheinen über eine Geheimwaffe zu verfügen, die die ganze menschliche Rasse auslöschen könnte.",
+            "release_date": "2008-07-19",
+            "id": 11127,
+            "adult": false,
+            "backdrop_path": "/a7CWuif2PyWtnXLj9CwXeqs31wH.jpg",
+            "vote_count": 342,
+            "popularity": 14.661
+        },
+        {
+            "overview": "Fort Casey, ein abgelegener Außenposten der Föderation, wird von den Bugs angegriffen. Das Team des Angriffsschiffs Alesia wird abkommandiert, um das dort stationierte Starship John A. Warden zu unterstützen und bei der Evakuierung von Fort Casey zu helfen. Carl Jenkins, der für das Ministerium für paranormale Kriegsführung arbeitet, begibt sich aber noch vor dem Zusammenkunft der beiden Raumschiffe mit der Warden auf eine geheime Mission und wird seitdem vermisst. Die kampferprobten Trooper sind nun mit einer Rettungsmission konfrontiert, die weit düsterere Konsequenzen haben könnte, als sie sich je vorstellen konnten.",
+            "release_date": "2012-07-21",
+            "id": 114478,
+            "adult": false,
+            "backdrop_path": "/uAJCrwsi9OWNOa2TeONdbYVBiuN.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Starship Troopers: Invasion",
+            "poster_path": "/4zQ5CDrhqB7mObwv5oYkGyh37Pl.jpg",
+            "vote_count": 280,
+            "video": false,
+            "title": "Starship Troopers: Invasion",
+            "vote_average": 5.9,
+            "popularity": 12.648
+        },
+        {
+            "backdrop_path": "/u3hiCBwJ2yGCiJb3kOoqXThTQ7Z.jpg",
+            "genre_ids": [
+                28,
+                16,
+                878
+            ],
+            "id": 460790,
+            "original_language": "en",
+            "original_title": "Starship Troopers: Traitor of Mars",
+            "poster_path": "/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg",
+            "video": false,
+            "vote_average": 5.8,
+            "overview": "20 Jahre ist es mittlerweile her, seit General Johnny Rico der Mobilen Infanterie beigetreten ist und sich zunächst als gewöhnlicher Soldat seine Sporen verdiente. Nach heftigen Gefechten und Verwundungen stieg er unter der Führung von seinem ehemaligen Lehrer Rasczak auf und nahm bei seinem Tod dessen Position ein. Heute ist Rico ein erfahrender Veteran, der scheinbar alles erlebt hat auf dem Schlachtfeld – oder doch nicht? Vor den ekligen und todbringenden Bugs hat die Menschheit jedenfalls noch keine Ruhe gefunden und nun haben die überdimensionalen Krabbelviecher auch noch eine Satellitenstation auf dem Mars eingenommen. Rico und eine Gruppe junger Rekruten werden auf den roten Planeten geschickt, um ihn von dem Bug-Befall zu säubern. Und überraschenderweise trifft Rico bei seiner Mission auf eine alte Bekannte: Dizzy Flores",
+            "release_date": "2017-08-21",
+            "vote_count": 186,
+            "title": "Starship Troopers: Traitor of Mars",
+            "adult": false,
+            "popularity": 11.317
+        }
+    ]
+}

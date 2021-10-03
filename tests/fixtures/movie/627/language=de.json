@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/Aw0z8bUhGljT0ots6udf1MTLEMi.jpg",
+    "belongs_to_collection": {
+        "id": 424202,
+        "name": "Trainspotting Filmreihe",
+        "poster_path": "/6W9nyZ3Daq4zHkfTRIzNgWg6ai6.jpg",
+        "backdrop_path": "/Ap1WbMPScADhMrtBRVp4taK6Ncw.jpg"
+    },
+    "budget": 4000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.miramax.com/movie/trainspotting",
+    "id": 627,
+    "imdb_id": "tt0117951",
+    "original_language": "en",
+    "original_title": "Trainspotting",
+    "overview": "Mark ist ein Junkie. Sein Revier ist ein trister Teil Edinburghs, und sein grauer Alltag dreht sich von morgens bis abends um den nächsten Schuss. Irgendwann, so glaubt er, wird er einmal davon loskommen, aber mit kaputten Freunden wie Sick Boy, Spud und Begbie ist daran gar nicht zu denken. Was immer er versucht, er scheitert kläglich, bis sich eines Tages die Chance seines Lebens bietet – in Form von zwei Kilo seines Lieblingspulvers allerfeinster Qualität…",
+    "popularity": 16.568,
+    "poster_path": "/84uIVeFz44PgXdS1N3Rk98wyW2r.jpg",
+    "production_companies": [
+        {
+            "id": 181,
+            "logo_path": "/zhQ77XOviCBuXd74IurqqjgLNe0.png",
+            "name": "Channel Four Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 358,
+            "logo_path": null,
+            "name": "Noel Gay Motion Picture Company",
+            "origin_country": ""
+        },
+        {
+            "id": 359,
+            "logo_path": null,
+            "name": "Figment Films",
+            "origin_country": ""
+        },
+        {
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+        },
+        {
+            "id": 6705,
+            "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+            "name": "Film4 Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1996-02-23",
+    "revenue": 16491080,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wähle das Leben.",
+    "title": "Trainspotting - Neue Helden",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 7684
+}

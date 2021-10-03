@@ -1,0 +1,93 @@
+{
+    "id": 131296,
+    "name": "Thor Filmreihe",
+    "overview": "Eine auf dem gleichnamigen Marvel Comic Charakter beruhende Superhelden Filmserie und Teil des Marvel Cinematic Universe (MCU). Im Fokus liegt Thor, der Kronprinz von Asgard.",
+    "poster_path": "/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg",
+    "backdrop_path": "/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg",
+    "parts": [
+        {
+            "vote_average": 6.8,
+            "overview": "Der mächtige Thor ist ein überragender Krieger im Königreich Asgard, dessen Überheblichkeit und Arroganz seine größte Schwäche ist. Wegen seiner Gedankenlosigkeit wird ein lange vergessen geglaubter Krieg neu entfacht. Die Strafe folgt umgehend: Unter den Menschen soll Thor auf der Erde Demut lernen, was dem Krieger zunächst nicht leicht fällt. Doch dann ist er zur Stelle, als es die Menschheit mit einem übermächtigen Gegner zu tun bekommt, der Unterstützung aus Asgard zu erhalten scheint.",
+            "release_date": "2011-04-21",
+            "adult": false,
+            "backdrop_path": "/239KWoUxiKT0bR3UsmsoX7GsDf9.jpg",
+            "vote_count": 17089,
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 10195,
+            "original_language": "en",
+            "original_title": "Thor",
+            "poster_path": "/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg",
+            "title": "Thor",
+            "video": false,
+            "popularity": 161.711
+        },
+        {
+            "vote_average": 6.6,
+            "overview": "Thor und Loki kehren in ihre Heimat Asgard zurück, wo Göttervater Odin darüber entscheidet, wie mit dem adoptierten Prinzen verfahren werden soll. Währenddessen erhebt sich eine andere Macht in einem der 9 Realms. Der Dunkelelf Malekith scharrt eine Armee uralter Wesen und Monster um sich, mit denen er nicht nur Asgard, sondern den ganzen Kosmos bedroht.  Der Donnergott trifft in Thor 2: The Dark Kingdom auf seine Angebetete Jane, die von einem Dämon besessen ist, dessen Verbingung mit den Dunkelelfen sehr nahe liegt. Thor muss also nicht nur seine Menschenfreundin retten, sondern auch eine eigene Streitkraft zusammenstellen, mit der er Malekith besiegen kann. Dafür muss er in die düstersten Ecken Asgards vordringen, wobei ihm jedoch nur eine Person helfen kann: Loki.",
+            "release_date": "2013-10-30",
+            "title": "Thor - The Dark Kingdom",
+            "adult": false,
+            "backdrop_path": "/90seuFwm25GWNbF1ydkaPa4DrdO.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "vote_count": 13908,
+            "original_language": "en",
+            "original_title": "Thor: The Dark World",
+            "poster_path": "/rB2eweljGVC5VPqgusHsVgFgDbU.jpg",
+            "id": 76338,
+            "video": false,
+            "popularity": 106.002
+        },
+        {
+            "overview": "Donnergott Thor wird auf der anderen Seite des Universums gefangengenommen. Ohne seinen nützlichen Hammer Mjölnir scheint eine Flucht nahezu ausgeschlossen. Dabei läuft ihm allmählich die Zeit davon. Denn die ebenso mächtige wie erbarmungslose Hela, die nach jahrtausendlanger Gefangenschaft aus ihrem Gefängnis freigekommen ist, macht sich daran, die Macht auf Thors Heimatwelt Asgard zu übernehmen. Um das zu verhindern, setzt Thor alles daran, nach Hause zurückzukehren. Zwischen ihm und seiner Freiheit stehen jedoch tödliche Gladiatorenkämpfe auf dem Planeten Sakaar, die Mülldeponie des Universums. Bei einem dieser Duelle trifft Thor auf den Ex-Avenger und seinen früheren Mitstreiter Hulk den beliebtesten und erfolgreichsten Kämpfer auf Sakaar…",
+            "release_date": "2017-10-25",
+            "adult": false,
+            "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+            "vote_count": 16513,
+            "genre_ids": [
+                28,
+                12,
+                35,
+                14,
+                878
+            ],
+            "id": 284053,
+            "original_language": "en",
+            "original_title": "Thor: Ragnarok",
+            "poster_path": "/uxxYhdSIsVOzmvUtDugBwEACbW9.jpg",
+            "title": "Thor: Tag der Entscheidung",
+            "video": false,
+            "vote_average": 7.6,
+            "popularity": 123.896
+        },
+        {
+            "overview": "",
+            "release_date": "2022-04-28",
+            "adult": false,
+            "backdrop_path": "/qB3HdCZKHWU33k9QYTIZaM4v5qo.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                35,
+                878
+            ],
+            "vote_count": 0,
+            "original_language": "en",
+            "original_title": "Thor: Love and Thunder",
+            "poster_path": "/ifx23jgqQ8ZjUb9eiGjwbKtf0qQ.jpg",
+            "id": 616037,
+            "video": false,
+            "vote_average": 0,
+            "title": "Thor: Love and Thunder",
+            "popularity": 23.934
+        }
+    ]
+}
