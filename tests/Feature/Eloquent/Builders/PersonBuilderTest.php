@@ -10,7 +10,7 @@ it('creates person with movie credits', function (): void {
     $person = Person::query()->with('movie_credits')->find(561);
 
     expect($person)
-        ->toBeCreatedModel(Person::class, 561)
+        ->toBeModel(Person::class, 561)
         ->credits->toHaveCount(128)->each->toBeInstanceOf(Credit::class)
         ->movie_credits->toHaveCount(128)->each->toBeInstanceOf(Credit::class);
 

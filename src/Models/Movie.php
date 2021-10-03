@@ -3,6 +3,7 @@
 namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder;
+use Astrotomic\Tmdb\Eloquent\Relations\MorphManyCredits;
 use Astrotomic\Tmdb\Enums\CreditType;
 use Astrotomic\Tmdb\Enums\MovieStatus;
 use Astrotomic\Tmdb\Enums\WatchProviderType;
@@ -20,7 +21,6 @@ use Carbon\CarbonInterval;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
-use Illuminate\Database\Eloquent\Relations\MorphMany;
 use Illuminate\Support\LazyCollection;
 
 /**
@@ -156,26 +156,26 @@ class Movie extends Model
         return $this->belongsTo(Collection::class);
     }
 
-    /**
-     * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
-     */
-    public function credits(): MorphMany
+    public function credits(): MorphManyCredits
     {
-        return $this->morphMany(Credit::class, 'media');
+        /** @var \Astrotomic\Tmdb\Models\Credit $instance */
+        $instance = $this->newRelatedInstance(Credit::class);
+
+        return new MorphManyCredits(
+            $instance->newQuery(),
+            $this,
+            $instance->qualifyColumn('media_type'),
+            $instance->qualifyColumn('media_id'),
+            $this->getKeyName()
+        );
     }
 
-    /**
-     * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
-     */
-    public function cast(): MorphMany
+    public function cast(): MorphManyCredits
     {
         return $this->credits()->whereCreditType(CreditType::CAST());
     }
 
-    /**
-     * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder
-     */
-    public function crew(): MorphMany
+    public function crew(): MorphManyCredits
     {
         return $this->credits()->whereCreditType(CreditType::CREW());
     }

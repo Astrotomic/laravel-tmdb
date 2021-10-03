@@ -6,6 +6,7 @@ use Astrotomic\Tmdb\Enums\WatchProviderType;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Collection;
+use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Movie;
 use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
@@ -286,4 +287,28 @@ it('loads german flatrate watch providers', function (): void {
     expect($providers)
         ->toHaveCount(1)
         ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('loads all credits for movie', function () {
+    $credits = Movie::query()->findOrFail(335983)->credits()->all();
+
+    expect($credits)
+        ->toHaveCount(121)
+        ->each->toBeInstanceOf(Credit::class);
+});
+
+it('loads all cast credits for movie', function () {
+    $credits = Movie::query()->findOrFail(335983)->cast()->all();
+
+    expect($credits)
+        ->toHaveCount(58)
+        ->each->toBeInstanceOf(Credit::class);
+});
+
+it('loads all crew credits for movie', function () {
+    $credits = Movie::query()->findOrFail(335983)->crew()->all();
+
+    expect($credits)
+        ->toHaveCount(63)
+        ->each->toBeInstanceOf(Credit::class);
 });

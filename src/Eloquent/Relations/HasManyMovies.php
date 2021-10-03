@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class HasManyMovies extends HasMany
 {
-    public function all($columns = ['*']): Collection
+    public function all(array $columns = ['*']): Collection
     {
         $ids = Details::request($this->getParentKey())->send()->json('parts.*.id');
 

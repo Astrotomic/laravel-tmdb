@@ -12,14 +12,14 @@ it('returns null when not found', function (string $class): void {
 it('creates movie from tmdb', function (string $class, int|string $id): void {
     $movie = $class::query()->find($id);
 
-    expect($movie)->toBeCreatedModel($class, $id);
+    expect($movie)->toBeModel($class, $id);
 })->with('Builder::find');
 
 it('finds movie in database', function (string $class, int|string $id): void {
     $class::query()->find($id);
     $movie = $class::query()->find($id);
 
-    expect($movie)->toBeRetrievedModel($class, $id);
+    expect($movie)->toBeModel($class, $id);
 })->with('Builder::find');
 
 it('delegates to findMany', function (string $class, array|Arrayable $ids): void {
@@ -28,6 +28,6 @@ it('delegates to findMany', function (string $class, array|Arrayable $ids): void
     expect($models)
         ->toBeInstanceOf(EloquentCollection::class)
         ->toHaveCount(2)
-        ->find($ids[0])->toBeCreatedModel($class, $ids[0])
-        ->find($ids[1])->toBeCreatedModel($class, $ids[1]);
+        ->find($ids[0])->toBeModel($class, $ids[0])
+        ->find($ids[1])->toBeModel($class, $ids[1]);
 })->with('Builder::findMany');

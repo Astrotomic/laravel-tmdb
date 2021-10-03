@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\ModelNotFoundException;
 it('creates movie from tmdb', function (string $class, int|string $id): void {
     $model = $class::query()->findOrFail($id);
 
-    expect($model)->toBeCreatedModel($class, $id);
+    expect($model)->toBeModel($class, $id);
 })->with('Builder::find');
 
 it('creates multiple movies from tmdb', function (string $class, array|Arrayable $ids): void {
@@ -16,8 +16,8 @@ it('creates multiple movies from tmdb', function (string $class, array|Arrayable
     expect($movies)
         ->toBeInstanceOf(EloquentCollection::class)
         ->toHaveCount(2)
-        ->find($ids[0])->toBeCreatedModel($class, $ids[0])
-        ->find($ids[1])->toBeCreatedModel($class, $ids[1]);
+        ->find($ids[0])->toBeModel($class, $ids[0])
+        ->find($ids[1])->toBeModel($class, $ids[1]);
 })->with('Builder::findMany');
 
 it('throws exception when not found', function (string $class): void {

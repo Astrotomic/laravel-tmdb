@@ -37,30 +37,13 @@ expect()->extend('toBeUrl', function (string $expected): Expectation {
     return $this->toBe($expected);
 });
 
-expect()->extend('toBeCreatedModel', function (?string $model = null, int|string|null $id = null): Expectation {
+expect()->extend('toBeModel', function (?string $model = null, int|string|null $id = null): Expectation {
     $this->toBeInstanceOf(Model::class);
     if ($model !== null) {
         $this->toBeInstanceOf($model);
     }
 
     $this->exists->toBeTrue();
-    $this->wasRecentlyCreated->toBeTrue();
-
-    if ($id !== null) {
-        $this->id->toBe($id);
-    }
-
-    return $this;
-});
-
-expect()->extend('toBeRetrievedModel', function (?string $model = null, int|string|null $id = null): Expectation {
-    $this->toBeInstanceOf(Model::class);
-    if ($model !== null) {
-        $this->toBeInstanceOf($model);
-    }
-
-    $this->exists->toBeTrue();
-    $this->wasRecentlyCreated->toBeFalse();
 
     if ($id !== null) {
         $this->id->toBe($id);
