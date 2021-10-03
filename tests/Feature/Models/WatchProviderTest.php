@@ -1,5 +1,6 @@
 <?php
 
+use Astrotomic\Tmdb\Images\Logo;
 use Astrotomic\Tmdb\Models\WatchProvider;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use PHPUnit\Framework\Assert;
@@ -19,4 +20,12 @@ it('loads all watch providers from tmdb', function (): void {
         ->toBeInstanceOf(EloquentCollection::class)
         ->toHaveCount(414)
         ->each->toBeInstanceOf(WatchProvider::class);
+});
+
+it('watch provider provides a logo', function (): void {
+    $provider = WatchProvider::query()->find(8);
+
+    expect($provider->logo())
+        ->toBeInstanceOf(Logo::class)
+        ->url()->toBeUrl('https://image.tmdb.org/t/p/w92/9A1JSVmSxsyaBK4SUFsYVqbAYfW.jpg');
 });
