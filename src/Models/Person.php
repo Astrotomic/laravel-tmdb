@@ -97,6 +97,7 @@ class Person extends Model
             'homepage' => $data['homepage'] ?: null,
             'imdb_id' => trim($data['imdb_id']) ?: null,
             'birthday' => $data['birthday'] ?: null,
+            'deathday' => $data['deathday'] ?: null,
             'gender' => $data['gender'] ?: 0,
             'known_for_department' => $data['known_for_department'] ?: null,
             'place_of_birth' => $data['place_of_birth'] ?: null,
