@@ -1,8 +1,8 @@
 <?php
 
-use Astrotomic\Tmdb\Requests\MovieGenre\ListAll;
+use Astrotomic\Tmdb\Requests\TvGenre\ListAll;
 
-it('responds with movie genres', function (): void {
+it('responds with tv genres', function (): void {
     $data = ListAll::request()->send()->json();
 
     expect($data)
