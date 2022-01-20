@@ -1,6 +1,7 @@
 <?php
 
-use Astrotomic\Tmdb\Models\Collection;
+use Astrotomic\Tmdb\Models\Tv;
+use Astrotomic\Tmdb\Models\TvSeason;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -8,14 +9,14 @@ use Illuminate\Support\Facades\Schema;
 return new class () extends Migration {
     public function up(): void
     {
-        Schema::connection(Collection::connection())->create(Collection::table(), static function (Blueprint $table): void {
+        Schema::connection(TvSeason::connection())->create(TvSeason::table(), static function (Blueprint $table): void {
             $table->bigInteger('id')->unsigned()->primary();
-
-            $table->string('backdrop_path')->nullable();
-
+            $table->date('air_date')->nullable();
             $table->json('name')->nullable();
             $table->json('overview')->nullable();
             $table->json('poster_path')->nullable();
+            $table->integer('season_number')->nullable();
+            $table->foreignId('tv_id')->nullable()->constrained(Tv::table());
 
             $table->timestamps();
         });
@@ -23,6 +24,6 @@ return new class () extends Migration {
 
     public function down(): void
     {
-        Schema::connection(Collection::connection())->dropIfExists(Collection::table());
+        Schema::connection(TvSeason::connection())->dropIfExists(TvSeason::table());
     }
 };

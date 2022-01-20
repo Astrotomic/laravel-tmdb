@@ -4,7 +4,6 @@ namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\NetworkBuilder;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
-
 use Astrotomic\Tmdb\Images\Logo;
 use Astrotomic\Tmdb\Requests\Network\Details;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
@@ -104,7 +103,7 @@ class Network extends Model
             return false;
         }
 
-        if (!$this->fillFromTmdb($data, $locale)->save()) {
+        if (! $this->fillFromTmdb($data, $locale)->save()) {
             return false;
         }
 
@@ -115,7 +114,6 @@ class Network extends Model
     {
         return new NetworkBuilder($query);
     }
-
 
     public function logo(): Logo
     {

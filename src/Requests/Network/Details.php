@@ -8,7 +8,6 @@ use Illuminate\Http\Client\Response;
 
 class Details extends Request
 {
-
     public function __construct(
         protected int $networkId,
     ) {

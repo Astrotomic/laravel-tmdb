@@ -6,7 +6,6 @@ use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\Person;
 use Astrotomic\Tmdb\Models\Tv;
 use Astrotomic\Tmdb\Models\TvGenre;
-use Astrotomic\Tmdb\Models\Network;
 use Astrotomic\Tmdb\Models\WatchProvider;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Fluent;
@@ -41,9 +40,9 @@ dataset('Builder::findMany', function (): Generator {
     ];
 
     foreach ($set as $model => $ids) {
-        yield $model::table() . ':array' => [$model, $ids];
-        yield $model::table() . ':collection' => [$model, new Collection($ids)];
-        yield $model::table() . ':fluent' => [$model, new Fluent($ids)];
+        yield $model::table().':array' => [$model, $ids];
+        yield $model::table().':collection' => [$model, new Collection($ids)];
+        yield $model::table().':fluent' => [$model, new Fluent($ids)];
     }
 });
 
@@ -60,9 +59,9 @@ dataset('Builder::findMany@incomplete', function (): Generator {
     ];
 
     foreach ($set as $model => $ids) {
-        yield $model::table() . ':array' => [$model, $ids];
-        yield $model::table() . ':collection' => [$model, new Collection($ids)];
-        yield $model::table() . ':fluent' => [$model, new Fluent($ids)];
+        yield $model::table().':array' => [$model, $ids];
+        yield $model::table().':collection' => [$model, new Collection($ids)];
+        yield $model::table().':fluent' => [$model, new Fluent($ids)];
     }
 });
 
@@ -79,8 +78,8 @@ dataset('Builder::findMany@empty', function (): Generator {
     ];
 
     foreach ($set as $model => $ids) {
-        yield $model::table() . ':array' => [$model, $ids];
-        yield $model::table() . ':collection' => [$model, new Collection($ids)];
-        yield $model::table() . ':fluent' => [$model, new Fluent($ids)];
+        yield $model::table().':array' => [$model, $ids];
+        yield $model::table().':collection' => [$model, new Collection($ids)];
+        yield $model::table().':fluent' => [$model, new Fluent($ids)];
     }
 });

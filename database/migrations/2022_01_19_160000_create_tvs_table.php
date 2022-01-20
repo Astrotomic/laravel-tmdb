@@ -5,7 +5,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-return new class() extends Migration {
+return new class () extends Migration {
     public function up(): void
     {
         Schema::connection(Tv::connection())->create(Tv::table(), static function (Blueprint $table): void {
@@ -28,7 +28,6 @@ return new class() extends Migration {
             $table->json('poster_path')->nullable();
             $table->json('production_companies')->nullable();
             $table->json('production_countries')->nullable();
-            $table->json('seasons')->nullable();
             $table->json('spoken_languages')->nullable();
             $table->string('status')->nullable();
             $table->json('tagline')->nullable();
