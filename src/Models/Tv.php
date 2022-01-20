@@ -82,8 +82,8 @@ class Tv extends Model
         'production_companies' => 'array',
         'seasons' => 'array',
         'spoken_languages' => 'array',
-        'status' => TvStatus::class.':nullable',
-        'type' => TvType::class.':nullable',
+        'status' => TvStatus::class . ':nullable',
+        'type' => TvType::class . ':nullable',
     ];
 
     public array $translatable = [
@@ -117,6 +117,11 @@ class Tv extends Model
     public function genres(): BelongsToMany
     {
         return $this->belongsToMany(TvGenre::class, 'tv_tv_genre');
+    }
+
+    public function networks(): BelongsToMany
+    {
+        return $this->belongsToMany(Network::class, 'network_tv');
     }
 
     public function collection(): BelongsTo
@@ -194,7 +199,7 @@ class Tv extends Model
     {
         $append = collect($with)
             ->map(fn (string $relation) => match ($relation) {
-                'cast', 'crew', 'credits' => Details::APPEND_CREDITS,
+                'networks' => Details::APPEND_NETWORKS,
                 default => null,
             })
             ->filter()
@@ -214,7 +219,7 @@ class Tv extends Model
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
+        if (!$this->fillFromTmdb($data, $locale)->save()) {
             return false;
         }
 
@@ -229,13 +234,25 @@ class Tv extends Model
                 ->pluck('id')
         );
 
+
+        $this->networks()->sync(
+            collect($data['networks'] ?: [])
+                ->map(static function (array $data) use ($locale): Network {
+                    $network = Network::query()->findOrNew($data['id']);
+                    $network->fillFromTmdb($data, $locale)->save();
+
+                    return $network;
+                })
+                ->pluck('id')
+        );
+
         /*if ($data['belongs_to_collection']) {
             $this->collection()->associate(
                 Collection::query()->findOrFail($data['belongs_to_collection']['id'])
             )->save();
         }*/
 
-        if (isset($data['credits'])) {
+        /*if (isset($data['credits'])) {
             if (in_array('credits', $with) || in_array('cast', $with)) {
                 foreach ($data['credits']['cast'] as $cast) {
                     Credit::query()->findOrFail($cast['credit_id']);
@@ -247,7 +264,7 @@ class Tv extends Model
                     Credit::query()->findOrFail($crew['credit_id']);
                 }
             }
-        }
+        }*/
 
         return true;
     }
