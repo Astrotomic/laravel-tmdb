@@ -3,6 +3,7 @@
 namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\TvBuilder;
+use Astrotomic\Tmdb\Eloquent\Relations\HasManyTvSeasons;
 use Astrotomic\Tmdb\Eloquent\Relations\MorphManyCredits;
 use Astrotomic\Tmdb\Enums\CreditType;
 use Astrotomic\Tmdb\Enums\TvStatus;
@@ -66,6 +67,7 @@ class Tv extends Model
 {
     use HasTranslations;
 
+    // TODO: Fill with all available fields in $fillable instead of $guarded
     protected $guarded = [];
 
     protected $casts = [
@@ -80,10 +82,9 @@ class Tv extends Model
         'last_air_date' => 'date',
         'production_countries' => 'array',
         'production_companies' => 'array',
-        'seasons' => 'array',
         'spoken_languages' => 'array',
-        'status' => TvStatus::class . ':nullable',
-        'type' => TvType::class . ':nullable',
+        'status' => TvStatus::class.':nullable',
+        'type' => TvType::class.':nullable',
     ];
 
     public array $translatable = [
@@ -153,6 +154,19 @@ class Tv extends Model
         return $this->credits()->whereCreditType(CreditType::CREW());
     }
 
+    public function seasons(): HasManyTvSeasons
+    {
+        /** @var \Astrotomic\Tmdb\Models\TvSeason $instance */
+        $instance = $this->newRelatedInstance(TvSeason::class);
+
+        return new HasManyTvSeasons(
+            $instance->newQuery(),
+            $this,
+            $instance->qualifyColumn($this->getForeignKey()),
+            $this->getKeyName()
+        );
+    }
+
     public function fillFromTmdb(array $data, ?string $locale = null): static
     {
         $this->fill([
@@ -175,7 +189,6 @@ class Tv extends Model
             'poster_path' => $data['poster_path'] ?: null,
             'production_companies' => array_column($data['production_companies'] ?? [], 'name'),
             'production_countries' => array_column($data['production_countries'] ?: [], 'iso_3166_1'),
-            'seasons' => $data['seasons'] ?: null,
             'spoken_languages' => array_column($data['spoken_languages'] ?: [], 'iso_639_1'),
             'status' => $data['status'] ?: null,
             'tagline' => $data['tagline'] ?: null,
@@ -197,7 +210,7 @@ class Tv extends Model
 
     public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
-        $append = collect($with)
+        /*$append = collect($with)
             ->map(fn (string $relation) => match ($relation) {
                 'networks' => Details::APPEND_NETWORKS,
                 default => null,
@@ -205,12 +218,12 @@ class Tv extends Model
             ->filter()
             ->unique()
             ->values()
-            ->all();
+            ->all();*/
 
         $data = rescue(
             fn () => Details::request($this->id)
                 ->language($locale)
-                ->append(...$append)
+                //->append(...$append)
                 ->send()
                 ->json()
         );
@@ -219,7 +232,7 @@ class Tv extends Model
             return false;
         }
 
-        if (!$this->fillFromTmdb($data, $locale)->save()) {
+        if (! $this->fillFromTmdb($data, $locale)->save()) {
             return false;
         }
 
@@ -234,7 +247,6 @@ class Tv extends Model
                 ->pluck('id')
         );
 
-
         $this->networks()->sync(
             collect($data['networks'] ?: [])
                 ->map(static function (array $data) use ($locale): Network {
@@ -245,6 +257,19 @@ class Tv extends Model
                 })
                 ->pluck('id')
         );
+
+        if (isset($data['seasons'])) {
+            $this->seasons()->saveMany(
+                (collect($data['seasons'])
+                    ->map(static function (array $data) use ($locale): TvSeason {
+                        $season = TvSeason::query()->findOrNew($data['id']);
+                        $season->fillFromTmdb($data, $locale)->save();
+
+                        return $season;
+                    })
+                    ->all())
+            );
+        }
 
         /*if ($data['belongs_to_collection']) {
             $this->collection()->associate(
@@ -318,6 +343,8 @@ class Tv extends Model
 
         return static::query()->findMany($ids);
     }
+
+    //TODO: Make TopRated, Popular, OnTheAir, AiringToday
 
     public function watchProviders(?string $region = null, ?WatchProviderType $type = null): EloquentCollection
     {
