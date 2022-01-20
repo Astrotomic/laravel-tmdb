@@ -54,10 +54,9 @@ class TvGenre extends Model
         return parent::all($columns);
     }
 
-    // TODO: Build Tvshow
-    public function movies(): BelongsToMany
+    public function tvs(): BelongsToMany
     {
-        return $this->belongsToMany(Movie::class, 'movie_movie_genre');
+        return $this->belongsToMany(Tv::class, 'tv_tv_genre');
     }
 
     public function fillFromTmdb(array $data, ?string $locale = null): static
@@ -83,7 +82,7 @@ class TvGenre extends Model
 
         $data = $data->keyBy('id');
 
-        if (! $data->has($this->id)) {
+        if (!$data->has($this->id)) {
             return false;
         }
 
