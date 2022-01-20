@@ -7,7 +7,7 @@ use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 
 use Astrotomic\Tmdb\Images\Logo;
 use Astrotomic\Tmdb\Requests\Network\Details;
-use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * @property int $id
@@ -54,6 +54,11 @@ class Network extends Model
         'homepage',
         'logo_path',
     ];
+
+    public function tvs(): BelongsToMany
+    {
+        return $this->belongsToMany(Tv::class, 'tv_network');
+    }
 
     public function fillFromTmdb(array $data, ?string $locale = null): static
     {
