@@ -83,8 +83,8 @@ class Tv extends Model
         'production_countries' => 'array',
         'production_companies' => 'array',
         'spoken_languages' => 'array',
-        'status' => TvStatus::class.':nullable',
-        'type' => TvType::class.':nullable',
+        'status' => TvStatus::class . ':nullable',
+        'type' => TvType::class . ':nullable',
     ];
 
     public array $translatable = [
@@ -232,7 +232,7 @@ class Tv extends Model
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
+        if (!$this->fillFromTmdb($data, $locale)->save()) {
             return false;
         }
 
@@ -258,12 +258,16 @@ class Tv extends Model
                 ->pluck('id')
         );
 
+
         if (isset($data['seasons'])) {
             $this->seasons()->saveMany(
                 (collect($data['seasons'])
                     ->map(static function (array $data) use ($locale): TvSeason {
                         $season = TvSeason::query()->findOrNew($data['id']);
                         $season->fillFromTmdb($data, $locale)->save();
+
+                        $seasonFetch = TvSeason::query()->updateFromTmdb($locale, [$season->tv_id, $season->season_number]);
+                        ray($seasonFetch);
 
                         return $season;
                     })

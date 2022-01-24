@@ -3,6 +3,7 @@
 namespace Astrotomic\Tmdb\Models;
 
 use Astrotomic\Tmdb\Eloquent\Builders\TvSeasonBuilder;
+use Astrotomic\Tmdb\Eloquent\Relations\HasManyTvEpisodes;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\TvSeason\Details;
@@ -51,6 +52,19 @@ class TvSeason extends Model
         'poster_path',
     ];
 
+    public function episodes(): HasManyTvEpisodes
+    {
+        /** @var \Astrotomic\Tmdb\Models\TvEpisode $instance */
+        $instance = $this->newRelatedInstance(TvEpisode::class);
+
+        return new HasManyTvEpisodes(
+            $instance->newQuery(),
+            $this,
+            $instance->qualifyColumn($this->getForeignKey()),
+            $this->getKeyName()
+        );
+    }
+
     public function fillFromTmdb(array $data, ?string $locale = null): static
     {
         $this->fill([
@@ -84,7 +98,7 @@ class TvSeason extends Model
             ->all();*/
 
         $data = rescue(
-            fn () => Details::request($this->tv_id, $this->id)
+            fn () => Details::request($this->tv_id, $this->season_number)
                 ->language($locale)
                 //->append(...$append)
                 ->send()
@@ -95,8 +109,21 @@ class TvSeason extends Model
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
+        if (!$this->fillFromTmdb($data, $locale)->save()) {
             return false;
+        }
+
+        if (isset($data['episodes'])) {
+            $this->seasons()->saveMany(
+                (collect($data['episodes'])
+                    ->map(static function (array $data) use ($locale): TvEpisode {
+                        $season = TvEpisode::query()->findOrNew($data['id']);
+                        $season->fillFromTmdb($data, $locale)->save();
+
+                        return $season;
+                    })
+                    ->all())
+            );
         }
 
         if ($data['belongs_to_tv']) {

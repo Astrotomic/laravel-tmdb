@@ -1,5 +1,7 @@
 ![](.github/banner.png)
 
+### Please do not use this package but instead use the official one.
+
 # Laravel TMDB
 
 [![Latest Version](http://img.shields.io/packagist/v/astrotomic/laravel-tmdb.svg?label=Release&style=for-the-badge)](https://packagist.org/packages/astrotomic/laravel-tmdb)
@@ -68,9 +70,11 @@ This will do one HTTP call per model and save multiple HTTP calls in the future.
 
 ```php
 use Astrotomic\Tmdb\Models\MovieGenre;
+use Astrotomic\Tmdb\Models\TvGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
 
 MovieGenre::all();
+TvGenre::all();
 WatchProvider::all();
 ```
 

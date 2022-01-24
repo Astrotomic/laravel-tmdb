@@ -15,6 +15,7 @@ class CreditType extends Enum
         return [
             'CAST' => 'cast',
             'CREW' => 'crew',
+            'GUEST_STARS' => 'guest_stars',
         ];
     }
 }
