@@ -113,7 +113,7 @@ class TvSeason extends Model
             return false;
         }
 
-        if (isset($data['episodes'])) {
+        /*if (isset($data['episodes'])) {
             $this->seasons()->saveMany(
                 (collect($data['episodes'])
                     ->map(static function (array $data) use ($locale): TvEpisode {
@@ -124,7 +124,7 @@ class TvSeason extends Model
                     })
                     ->all())
             );
-        }
+        }*/
 
         if ($data['belongs_to_tv']) {
             $this->tv()->associate(

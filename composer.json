@@ -1,5 +1,5 @@
 {
-    "name": "astrotomic/laravel-tmdb",
+    "name": "murdercode/laravel-tmdb",
     "description": "Interact with TMDB data in your Laravel application.",
     "homepage": "https://github.com/Astrotomic/laravel-tmdb",
     "license": "MIT",
@@ -15,11 +15,11 @@
         "php": "^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.5.5 || ^7.0.1",
-        "illuminate/database": "^8.0",
-        "illuminate/http": "^8.0",
-        "illuminate/support": "^8.0",
+        "illuminate/database": "^9.0",
+        "illuminate/http": "^9.0",
+        "illuminate/support": "^9.0",
         "nesbot/carbon": "^2.31",
-        "spatie/laravel-enum": "^2.5",
+        "spatie/laravel-enum": "^3.0",
         "spatie/laravel-translatable": "^5.0"
     },
     "require-dev": {

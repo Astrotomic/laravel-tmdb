@@ -104,7 +104,7 @@ class Movie extends Model
         'release_date' => 'date',
         'production_countries' => 'array',
         'spoken_languages' => 'array',
-        'status' => MovieStatus::class.':nullable',
+        'status' => MovieStatus::class . ':nullable',
         'collection_id' => 'int',
     ];
 
@@ -237,7 +237,7 @@ class Movie extends Model
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
+        if (!$this->fillFromTmdb($data, $locale)->save()) {
             return false;
         }
 
@@ -325,6 +325,10 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
+    public function getWatchProvidersAttribute()
+    {
+        return $this->watchProviders;
+    }
     public function watchProviders(?string $region = null, ?WatchProviderType $type = null): EloquentCollection
     {
         return WatchProvider::query()->findMany(

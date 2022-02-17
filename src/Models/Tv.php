@@ -247,7 +247,7 @@ class Tv extends Model
                 ->pluck('id')
         );
 
-        $this->networks()->sync(
+        /*$this->networks()->sync(
             collect($data['networks'] ?: [])
                 ->map(static function (array $data) use ($locale): Network {
                     $network = Network::query()->findOrNew($data['id']);
@@ -256,7 +256,7 @@ class Tv extends Model
                     return $network;
                 })
                 ->pluck('id')
-        );
+        );*/
 
 
         if (isset($data['seasons'])) {
@@ -266,8 +266,8 @@ class Tv extends Model
                         $season = TvSeason::query()->findOrNew($data['id']);
                         $season->fillFromTmdb($data, $locale)->save();
 
-                        $seasonFetch = TvSeason::query()->updateFromTmdb($locale, [$season->tv_id, $season->season_number]);
-                        ray($seasonFetch);
+                        //$seasonFetch = TvSeason::query()->updateFromTmdb($locale, [$season->tv_id, $season->season_number]);
+                        //ray($seasonFetch);
 
                         return $season;
                     })
