@@ -259,7 +259,7 @@ class Tv extends Model
         );*/
 
 
-        if (isset($data['seasons'])) {
+        /*if (isset($data['seasons'])) {
             $this->seasons()->saveMany(
                 (collect($data['seasons'])
                     ->map(static function (array $data) use ($locale): TvSeason {
@@ -273,7 +273,7 @@ class Tv extends Model
                     })
                     ->all())
             );
-        }
+        }*/
 
         /*if ($data['belongs_to_collection']) {
             $this->collection()->associate(
