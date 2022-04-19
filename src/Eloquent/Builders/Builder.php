@@ -53,19 +53,20 @@ abstract class Builder extends EloquentBuilder
             return $models;
         }
 
-        $models->merge(
-            collect($ids)
-                ->reject(fn (int|string $id): bool => $models->contains($id))
-                ->map(fn (int|string $id): ?Model => $this->createFromTmdb($id))
-                ->filter()
-        );
+        collect($ids)
+            ->reject(fn (int|string $id): bool => $models->contains($id))
+            ->map(fn (int|string $id): ?Model => $this->createFromTmdb($id));
 
         return $this->whereKey($ids)->get($columns);
     }
 
     protected function createFromTmdb(int|string $id): ?Model
     {
-        $model = $this->newModelInstance(['id' => $id]);
+        /** @var static $query */
+        $query = $this->getModel()->newQuery();
+
+        /** @var \Astrotomic\Tmdb\Models\Model $model */
+        $model = $query->firstOrNew(['id' => $id]);
 
         if (! $model->updateFromTmdb(with: array_keys($this->getEagerLoads()))) {
             return null;
