@@ -1,7 +1,6 @@
 {
     "name": "astrotomic/laravel-tmdb",
     "description": "Interact with TMDB data in your Laravel application.",
-    "homepage": "https://github.com/Astrotomic/laravel-tmdb",
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +10,10 @@
             "role": "Developer"
         }
     ],
+    "homepage": "https://github.com/Astrotomic/laravel-tmdb",
+    "support": {
+        "issues": "https://github.com/Astrotomic/laravel-tmdb/issues"
+    },
     "require": {
         "php": "^8.0",
         "ext-json": "*",
@@ -30,7 +33,21 @@
         "pestphp/pest": "^1.19",
         "pestphp/pest-plugin-laravel": "^1.1"
     },
+    "autoload": {
+        "psr-4": {
+            "Astrotomic\\Tmdb\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
     "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "infection/extension-installer": true
+        },
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true
@@ -46,16 +63,6 @@
             ]
         }
     },
-    "autoload": {
-        "psr-4": {
-            "Astrotomic\\Tmdb\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Tests\\": "tests/"
-        }
-    },
     "scripts": {
         "post-autoload-dump": [
             "@composer normalize --ansi --no-interaction --quiet",
@@ -66,8 +73,5 @@
         "normalize": "echo 'composer global require ergebnis/composer-normalize'",
         "test": "vendor/bin/pest",
         "thanks": "echo 'composer global require symfony/thanks'"
-    },
-    "support": {
-        "issues": "https://github.com/Astrotomic/laravel-tmdb/issues"
     }
 }
