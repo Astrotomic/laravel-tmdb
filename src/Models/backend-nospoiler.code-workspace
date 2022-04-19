@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"workbench.preferredDarkColorTheme": "Monokai Dimmed",
+		"workbench.colorTheme": "One Dark Pro Darker"
+	}
+}

@@ -2,22 +2,22 @@
 
 namespace Astrotomic\Tmdb\Models;
 
-use Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder;
+use Astrotomic\Tmdb\Eloquent\Builders\TvBuilder;
+use Astrotomic\Tmdb\Eloquent\Relations\HasManyTvSeasons;
 use Astrotomic\Tmdb\Eloquent\Relations\MorphManyCredits;
 use Astrotomic\Tmdb\Enums\CreditType;
-use Astrotomic\Tmdb\Enums\MovieStatus;
+use Astrotomic\Tmdb\Enums\TvStatus;
+use Astrotomic\Tmdb\Enums\TvType;
 use Astrotomic\Tmdb\Enums\WatchProviderType;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
-use Astrotomic\Tmdb\Requests\Movie\Details;
-use Astrotomic\Tmdb\Requests\Movie\Recommendations;
-use Astrotomic\Tmdb\Requests\Movie\Similars;
-use Astrotomic\Tmdb\Requests\Movie\Popular;
-use Astrotomic\Tmdb\Requests\Movie\TopRated;
-use Astrotomic\Tmdb\Requests\Movie\Trending;
-use Astrotomic\Tmdb\Requests\Movie\Upcoming;
-use Astrotomic\Tmdb\Requests\Movie\WatchProviders;
+use Astrotomic\Tmdb\Requests\Tv\Details;
+use Astrotomic\Tmdb\Requests\Tv\Recommendations;
+use Astrotomic\Tmdb\Requests\Tv\Similars;
+use Astrotomic\Tmdb\Requests\Tv\Popular;
+use Astrotomic\Tmdb\Requests\Tv\TopRated;
+use Astrotomic\Tmdb\Requests\Tv\WatchProviders;
 use Carbon\CarbonInterval;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -43,7 +43,8 @@ use Illuminate\Support\LazyCollection;
  * @property int $vote_count
  * @property string[]|null $production_countries
  * @property string[]|null $spoken_languages
- * @property \Astrotomic\Tmdb\Enums\MovieStatus|null $status
+ * @property \Astrotomic\Tmdb\Enums\TvStatus|null $status
+ * @property \Astrotomic\Tmdb\Enums\TvType|null $type
  * @property string|null $title
  * @property string|null $tagline
  * @property string|null $overview
@@ -51,66 +52,43 @@ use Illuminate\Support\LazyCollection;
  * @property \Carbon\Carbon|null $updated_at
  * @property-read array $translations
  * @property-read \Astrotomic\Tmdb\Models\Collection|null $collection
- * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\MovieGenre[] $genres
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\TvGenre[] $genres
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $credits
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $cast
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Credit[] $crew
  *
- * @method \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newModelQuery()
- * @method \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder newQuery()
- * @method static \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder query()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\TvBuilder newModelQuery()
+ * @method \Astrotomic\Tmdb\Eloquent\Builders\TvBuilder newQuery()
+ * @method static \Astrotomic\Tmdb\Eloquent\Builders\TvBuilder query()
  *
- * @mixin \Astrotomic\Tmdb\Eloquent\Builders\MovieBuilder
+ * @mixin \Astrotomic\Tmdb\Eloquent\Builders\TvBuilder
  */
-class Movie extends Model
+class Tv extends Model
 {
     use HasTranslations;
 
-    protected $fillable = [
-        'id',
-        'adult',
-        'backdrop_path',
-        'budget',
-        'homepage',
-        'imdb_id',
-        'original_language',
-        'original_title',
-        'overview',
-        'popularity',
-        'poster_path',
-        'release_date',
-        'revenue',
-        'video',
-        'runtime',
-        'vote_average',
-        'vote_count',
-        'production_countries',
-        'spoken_languages',
-        'tagline',
-        'title',
-        'status',
-        'collection_id',
-    ];
+    // TODO: Fill with all available fields in $fillable instead of $guarded
+    protected $guarded = [];
 
     protected $casts = [
         'id' => 'int',
-        'adult' => 'bool',
-        'video' => 'bool',
-        'budget' => 'int',
-        'revenue' => 'int',
-        'runtime' => 'int',
+        'episode_run_time' => 'array',
+        'languages' => 'array',
+        'origin_country' => 'array',
         'vote_count' => 'int',
         'popularity' => 'float',
         'vote_average' => 'float',
-        'release_date' => 'date',
+        'first_air_date' => 'date',
+        'last_air_date' => 'date',
         'production_countries' => 'array',
+        'production_companies' => 'array',
         'spoken_languages' => 'array',
-        'status' => MovieStatus::class . ':nullable',
-        'collection_id' => 'int',
+        'status' => TvStatus::class . ':nullable',
+        'type' => TvType::class . ':nullable',
     ];
 
     public array $translatable = [
-        'title',
+        'name',
         'tagline',
         'overview',
         'poster_path',
@@ -137,29 +115,14 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public static function upcoming(?int $limit): EloquentCollection
-    {
-        $ids = Upcoming::request()
-            ->cursor()
-            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
-            ->pluck('id');
-
-        return static::query()->findMany($ids);
-    }
-
-    public static function trending(?int $limit, string $window = 'day'): EloquentCollection
-    {
-        $ids = Trending::request(window: $window)
-            ->cursor()
-            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
-            ->pluck('id');
-
-        return static::query()->findMany($ids);
-    }
-
     public function genres(): BelongsToMany
     {
-        return $this->belongsToMany(MovieGenre::class, 'movie_movie_genre');
+        return $this->belongsToMany(TvGenre::class, 'tv_tv_genre');
+    }
+
+    public function networks(): BelongsToMany
+    {
+        return $this->belongsToMany(Network::class, 'network_tv');
     }
 
     public function collection(): BelongsTo
@@ -191,34 +154,55 @@ class Movie extends Model
         return $this->credits()->whereCreditType(CreditType::CREW());
     }
 
+    public function seasons(): HasManyTvSeasons
+    {
+        /** @var \Astrotomic\Tmdb\Models\TvSeason $instance */
+        $instance = $this->newRelatedInstance(TvSeason::class);
+
+        return new HasManyTvSeasons(
+            $instance->newQuery(),
+            $this,
+            $instance->qualifyColumn($this->getForeignKey()),
+            $this->getKeyName()
+        );
+    }
+
     public function fillFromTmdb(array $data, ?string $locale = null): static
     {
         $this->fill([
             'id' => $data['id'],
-            'adult' => $data['adult'],
             'backdrop_path' => $data['backdrop_path'] ?: null,
-            'budget' => $data['budget'] ?: null,
+            'episode_run_time' => $data['episode_run_time'] ?: null,
+            'first_air_date' => $data['first_air_date'] ?: null,
             'homepage' => $data['homepage'] ?: null,
-            'imdb_id' => trim($data['imdb_id']) ?: null,
+            'in_production' => $data['in_production'] ?: null,
+            'languages' => $data['languages'] ?: null,
+            'last_air_date' => $data['last_air_date'] ?: null,
+            'name' => $data['name'] ?: null,
+            'number_of_episodes' => $data['number_of_episodes'] ?: null,
+            'number_of_seasons' => $data['number_of_seasons'] ?: null,
+            'origin_country' => array_column($data['origin_country'] ?? [], 'iso_3166_1'),
             'original_language' => $data['original_language'] ?: null,
-            'original_title' => $data['original_title'] ?: null,
+            'original_name' => $data['original_name'] ?: null,
+            'overview' => $data['overview'] ?: null,
             'popularity' => $data['popularity'] ?: null,
-            'release_date' => $data['release_date'] ?: null,
-            'revenue' => $data['revenue'] ?: null,
-            'video' => $data['video'],
-            'runtime' => $data['runtime'] ?: null,
-            'vote_average' => $data['vote_average'] ?: null,
-            'vote_count' => $data['vote_count'] ?: 0,
+            'poster_path' => $data['poster_path'] ?: null,
+            'production_companies' => array_column($data['production_companies'] ?? [], 'name'),
             'production_countries' => array_column($data['production_countries'] ?: [], 'iso_3166_1'),
             'spoken_languages' => array_column($data['spoken_languages'] ?: [], 'iso_639_1'),
             'status' => $data['status'] ?: null,
+            'tagline' => $data['tagline'] ?: null,
+            'type' => $data['type'] ?: null,
+            'vote_average' => $data['vote_average'] ?: null,
+            'vote_count' => $data['vote_count'] ?: 0,
+
         ]);
 
         $locale ??= $this->getLocale();
 
         $this->setTranslation('overview', $locale, trim($data['overview']) ?: null);
         $this->setTranslation('tagline', $locale, trim($data['tagline']) ?: null);
-        $this->setTranslation('title', $locale, trim($data['title']) ?: null);
+        $this->setTranslation('name', $locale, trim($data['name']) ?: null);
         $this->setTranslation('poster_path', $locale, trim($data['poster_path']) ?: null);
 
         return $this;
@@ -226,20 +210,20 @@ class Movie extends Model
 
     public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
-        $append = collect($with)
+        /*$append = collect($with)
             ->map(fn (string $relation) => match ($relation) {
-                'cast', 'crew', 'credits' => Details::APPEND_CREDITS,
+                'networks' => Details::APPEND_NETWORKS,
                 default => null,
             })
             ->filter()
             ->unique()
             ->values()
-            ->all();
+            ->all();*/
 
         $data = rescue(
             fn () => Details::request($this->id)
                 ->language($locale)
-                ->append(...$append)
+                //->append(...$append)
                 ->send()
                 ->json()
         );
@@ -254,8 +238,8 @@ class Movie extends Model
 
         $this->genres()->sync(
             collect($data['genres'] ?: [])
-                ->map(static function (array $data) use ($locale): MovieGenre {
-                    $genre = MovieGenre::query()->findOrNew($data['id']);
+                ->map(static function (array $data) use ($locale): TvGenre {
+                    $genre = TvGenre::query()->findOrNew($data['id']);
                     $genre->fillFromTmdb($data, $locale)->save();
 
                     return $genre;
@@ -263,13 +247,41 @@ class Movie extends Model
                 ->pluck('id')
         );
 
-        if ($data['belongs_to_collection']) {
+        /*$this->networks()->sync(
+            collect($data['networks'] ?: [])
+                ->map(static function (array $data) use ($locale): Network {
+                    $network = Network::query()->findOrNew($data['id']);
+                    $network->fillFromTmdb($data, $locale)->save();
+
+                    return $network;
+                })
+                ->pluck('id')
+        );*/
+
+
+        /*if (isset($data['seasons'])) {
+            $this->seasons()->saveMany(
+                (collect($data['seasons'])
+                    ->map(static function (array $data) use ($locale): TvSeason {
+                        $season = TvSeason::query()->findOrNew($data['id']);
+                        $season->fillFromTmdb($data, $locale)->save();
+
+                        //$seasonFetch = TvSeason::query()->updateFromTmdb($locale, [$season->tv_id, $season->season_number]);
+                        //ray($seasonFetch);
+
+                        return $season;
+                    })
+                    ->all())
+            );
+        }*/
+
+        /*if ($data['belongs_to_collection']) {
             $this->collection()->associate(
                 Collection::query()->findOrFail($data['belongs_to_collection']['id'])
             )->save();
-        }
+        }*/
 
-        if (isset($data['credits'])) {
+        /*if (isset($data['credits'])) {
             if (in_array('credits', $with) || in_array('cast', $with)) {
                 foreach ($data['credits']['cast'] as $cast) {
                     Credit::query()->findOrFail($cast['credit_id']);
@@ -281,14 +293,14 @@ class Movie extends Model
                     Credit::query()->findOrFail($crew['credit_id']);
                 }
             }
-        }
+        }*/
 
         return true;
     }
 
-    public function newEloquentBuilder($query): MovieBuilder
+    public function newEloquentBuilder($query): TvBuilder
     {
-        return new MovieBuilder($query);
+        return new TvBuilder($query);
     }
 
     public function runtime(): ?CarbonInterval
@@ -336,10 +348,8 @@ class Movie extends Model
         return static::query()->findMany($ids);
     }
 
-    public function getWatchProvidersAttribute()
-    {
-        return $this->watchProviders;
-    }
+    //TODO: Make TopRated, Popular, OnTheAir, AiringToday
+
     public function watchProviders(?string $region = null, ?WatchProviderType $type = null): EloquentCollection
     {
         return WatchProvider::query()->findMany(

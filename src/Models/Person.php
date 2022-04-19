@@ -108,7 +108,7 @@ class Person extends Model
             'name' => $data['name'] ?: null,
             'also_known_as' => $data['also_known_as'] ?: [],
             'homepage' => $data['homepage'] ?: null,
-            'imdb_id' => trim($data['imdb_id']) ?: null,
+            'imdb_id' => $data['imdb_id'] ? trim($data['imdb_id']) : null,
             'birthday' => $data['birthday'] ?: null,
             'deathday' => $data['deathday'] ?: null,
             'gender' => $data['gender'] ?: 0,
@@ -149,7 +149,7 @@ class Person extends Model
             return false;
         }
 
-        if (! $this->fillFromTmdb($data, $locale)->save()) {
+        if (!$this->fillFromTmdb($data, $locale)->save()) {
             return false;
         }
 

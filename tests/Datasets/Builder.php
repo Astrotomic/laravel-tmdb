@@ -4,6 +4,8 @@ use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Movie;
 use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\Person;
+use Astrotomic\Tmdb\Models\Tv;
+use Astrotomic\Tmdb\Models\TvGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Fluent;
@@ -14,6 +16,8 @@ dataset('Builder::find', function (): Generator {
         MovieGenre::class => 35,
         Person::class => 561,
         Credit::class => '5a30d4a40e0a264cbe180b27',
+        TvGenre::class => 10751,
+        Tv::class => 63174,
         WatchProvider::class => 8,
         \Astrotomic\Tmdb\Models\Collection::class => 529892,
     ];
@@ -29,6 +33,8 @@ dataset('Builder::findMany', function (): Generator {
         MovieGenre::class => [35, 99],
         Person::class => [561, 10393],
         Credit::class => ['5a30d4a40e0a264cbe180b27', '5bb637c10e0a2633a7011036'],
+        TvGenre::class => [10751, 10759],
+        Tv::class => [63174, 71914],
         WatchProvider::class => [8, 9],
         \Astrotomic\Tmdb\Models\Collection::class => [529892, 748],
     ];
@@ -46,6 +52,8 @@ dataset('Builder::findMany@incomplete', function (): Generator {
         MovieGenre::class => [35, 0],
         Person::class => [561, 0],
         Credit::class => ['5a30d4a40e0a264cbe180b27', ''],
+        TvGenre::class => [10751, 0],
+        Tv::class => [63174, 0],
         WatchProvider::class => [8, 0],
         \Astrotomic\Tmdb\Models\Collection::class => [529892, 0],
     ];
@@ -63,6 +71,8 @@ dataset('Builder::findMany@empty', function (): Generator {
         MovieGenre::class => [],
         Person::class => [],
         Credit::class => [],
+        TvGenre::class => [],
+        Tv::class => [],
         WatchProvider::class => [],
         \Astrotomic\Tmdb\Models\Collection::class => [],
     ];

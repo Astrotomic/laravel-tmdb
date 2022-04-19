@@ -1,5 +1,5 @@
 {
-    "name": "astrotomic/laravel-tmdb",
+    "name": "murdercode/laravel-tmdb",
     "description": "Interact with TMDB data in your Laravel application.",
     "license": "MIT",
     "authors": [
