@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/43gM9MjHPeGktYIHMPvDov1sZcm.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://keanumovie.com/",
+    "id": 342521,
+    "imdb_id": "tt4139124",
+    "original_language": "en",
+    "original_title": "Keanu",
+    "overview": "Die Allentown Brothers schalten eine ganze hispanische Drogengang aus. Dabei kann das Kätzchen des Bosses in letzter Minute entkommen und läuft dem demoralisierten Rell zu. Er tauft das Tier Keanu und ihre Freundschaft baut ihn wieder auf. Doch nach wenigen Wochen ist Keanu verschwunden. Rells Cousin Clarence, ein braver Familienvater, hilft ihm bei der Suche nach Keanu. Die Spur führt sie in den Stripclub des gefährlichen Cheddar. Der will Keanu nur zurückgeben, wenn die Cousins eine Drogenlieferung für ihn abwickeln.",
+    "popularity": 11.852,
+    "poster_path": "/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-04-21",
+    "revenue": 20609977,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Keanu - Her mit dem Kätzchen!",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 870
+}

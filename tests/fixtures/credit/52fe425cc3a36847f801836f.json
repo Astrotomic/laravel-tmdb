@@ -1,0 +1,101 @@
+{
+    "credit_type": "cast",
+    "department": "Acting",
+    "job": "Actor",
+    "media": {
+        "adult": false,
+        "backdrop_path": "/YfMEwVRe1c5rhFYmL2P8153T8x.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            878
+        ],
+        "original_language": "en",
+        "original_title": "The Matrix Reloaded",
+        "poster_path": "/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+        "title": "The Matrix Reloaded",
+        "vote_average": 7,
+        "video": false,
+        "vote_count": 8956,
+        "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.",
+        "release_date": "2003-05-15",
+        "id": 604,
+        "popularity": 55.127,
+        "character": "Thomas A. Anderson / Neo"
+    },
+    "media_type": "movie",
+    "id": "52fe425cc3a36847f801836f",
+    "person": {
+        "gender": 2,
+        "known_for_department": "Acting",
+        "id": 6384,
+        "profile_path": "/rRdru6REr9i3WIHv2mntpcgxnoY.jpg",
+        "known_for": [
+            {
+                "video": false,
+                "vote_average": 8.2,
+                "id": 603,
+                "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+                "title": "The Matrix",
+                "popularity": 80.894,
+                "adult": false,
+                "backdrop_path": "/ncEsesgOJDNrTUED89hYbA117wo.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "vote_count": 21407,
+                "original_language": "en",
+                "original_title": "The Matrix",
+                "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+                "release_date": "1999-03-30"
+            },
+            {
+                "video": false,
+                "vote_average": 7.4,
+                "id": 245891,
+                "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                "release_date": "2014-10-22",
+                "popularity": 81.203,
+                "adult": false,
+                "backdrop_path": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "title": "John Wick",
+                "original_language": "en",
+                "original_title": "John Wick",
+                "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+                "vote_count": 15580
+            },
+            {
+                "video": false,
+                "vote_average": 7.3,
+                "id": 324552,
+                "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+                "release_date": "2017-02-08",
+                "popularity": 107.457,
+                "adult": false,
+                "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "media_type": "movie",
+                "genre_ids": [
+                    53,
+                    28,
+                    80
+                ],
+                "vote_count": 10108,
+                "original_language": "en",
+                "original_title": "John Wick: Chapter 2",
+                "poster_path": "/kL99FVq572hNPfMyfQCT7tGFNeQ.jpg",
+                "title": "John Wick: Chapter 2"
+            }
+        ],
+        "name": "Keanu Reeves",
+        "adult": false,
+        "popularity": 51.394
+    }
+}

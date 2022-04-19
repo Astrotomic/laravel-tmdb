@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/lDtmwXg6nknzViEQ5SDkk4D1WEZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 1921,
+    "imdb_id": "tt0230838",
+    "original_language": "en",
+    "original_title": "Sweet November",
+    "overview": "Nelson is a man devoted to his advertising career in San Francisco. One day, while taking a driving test at the DMV, he meets Sara. She is very different from the other women in his life. Nelson causes her to miss out on taking the test and later that day she tracks him down. One thing leads to another and Nelson ends up living with her through a November that will change his life forever.",
+    "popularity": 22.533,
+    "poster_path": "/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    "production_companies": [
+        {
+            "id": 788,
+            "logo_path": null,
+            "name": "Bel Air Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 787,
+            "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+            "name": "3 Arts Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-02-16",
+    "revenue": 65754228,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "She Just Needed A Month To Change His Life Forever.",
+    "title": "Sweet November",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 1055
+}

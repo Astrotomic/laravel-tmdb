@@ -1,0 +1,50 @@
+{
+    "id": 124881,
+    "name": "Street Kings Filmreihe",
+    "overview": "",
+    "poster_path": "/r0c2hR2KQsZO3vdhFQdUsnSuUef.jpg",
+    "backdrop_path": "/lKOSWtpAQZh7x8YuyYFDv0Y6LWo.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/zsotFMYDF6cBcXc7aEEf2ygu6UG.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 1266,
+            "title": "Street Kings",
+            "original_language": "en",
+            "original_title": "Street Kings",
+            "overview": "Detective Ludlow bringt Resultate, selten aber Überlebende vom Einsatz zurück. Als Gangsterkiller ist er längst im Visier der polizeiinternen Überwachung, wird aber von seinem Chef geschützt. Nachdem sein Ex-Partner als Spitzel enttarnt wird, sieht Ludlow rot, und gerät in eine Schießerei mit Ladendieben, die dem Maulwurf das Leben kostet. Dass es sich dabei um eine Hinrichtung handelt, deren Auftraggeber Polizeimarken tragen, lässt Ludlow elektrisiert Jagd auf die Mörder machen, bis sie und die Drahtzieher Gerechtigkeit durch die Kugel erfahren.",
+            "popularity": 17.529,
+            "poster_path": "/jHmcAGcsSCrI2wwOl2X8TWjFkRr.jpg",
+            "release_date": "2008-04-10",
+            "video": false,
+            "vote_average": 6.611,
+            "vote_count": 1093
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bqQKBFissy5v97GvKae5RapjPKK.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 58625,
+            "title": "Street Kings 2: Motor City",
+            "original_language": "en",
+            "original_title": "Street Kings 2: Motor City",
+            "overview": "Detective Marty Kingston aus Detroit führt ein Undercover-Team von Drogenermittlern, deren Mitglieder systematisch ermordet werden. Um den Killern auf die Spur zu kommen, verbündet er sich mit einem jungen Cop vom Morddezernat. Doch keiner der beiden ist darauf vorbereitet, was sie herausfinden werden.",
+            "popularity": 9.901,
+            "poster_path": "/z91mVJEv9XkryYGZ41OMlrB04BW.jpg",
+            "release_date": "2011-07-15",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 61
+        }
+    ]
+}

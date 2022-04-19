@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/k4DOdzmZjAzCS4s9zNho9o8Qfiv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 647808,
+    "imdb_id": "tt10398318",
+    "original_language": "en",
+    "original_title": "The Nan Movie",
+    "overview": "",
+    "popularity": 12.827,
+    "poster_path": "/cZOMFE8X5qWm41reqmgDevBkYdI.jpg",
+    "production_companies": [
+        {
+            "id": 125252,
+            "logo_path": null,
+            "name": "Warner Bros. Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2022-03-18",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Nan Movie",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 7
+}

@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
+    "belongs_to_collection": null,
+    "budget": 120000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.unchartedmovie.com",
+    "id": 335787,
+    "imdb_id": "tt1464335",
+    "original_language": "en",
+    "original_title": "Uncharted",
+    "overview": "Der Waisenjunge Nathan Drake hat sich schon seit frühester Kindheit für Schatzsuche begeistert. Als er als junger Erwachsener auf den erfahrenen Abenteurer Victor Sullivan trifft, wird aus den einstigen Tagträumen Realität. Gemeinsam wollen die beiden den riesigen Goldschatz des berühmten Entdeckers Ferdinand Magellan bergen, der seit 500 Jahren irgendwo auf der Welt verborgen liegt. Dafür müssen sie jedoch mit der schlagfertigen und undurchsichtigen Chloe Frazer zusammenarbeiten. Auch der skrupellose Moncada, dessen Familie vor vielen Jahrhunderten im Besitz des Schatzes war, erhebt Anspruch auf die Beute. Um das Erbe Magellans in seinen Besitz zu bringen, ist ihm jedes Mittel recht. Es beginnt ein Wettlauf um das Gold: Nate und Sully müssen ihr Kombiniergeschick beweisen, um den Schatz vor dem Schurken zu erreichen.",
+    "popularity": 757.013,
+    "poster_path": "/w1GL3Iwtq7jxV7h9kh5q0KRcQbO.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 125281,
+            "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+            "name": "PlayStation Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 23217,
+            "logo_path": "/kXBZdQigEf6QiTLzo6TFLAa7jKD.png",
+            "name": "Naughty Dog",
+            "origin_country": "US"
+        },
+        {
+            "id": 14439,
+            "logo_path": null,
+            "name": "Arad Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-02-10",
+    "revenue": 378000000,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Glück ist mit den Mutigen.",
+    "title": "Uncharted",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 965
+}

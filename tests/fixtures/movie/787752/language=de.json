@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.hulu.com/movie/fresh-3c0c50d1-17be-462c-aa61-c5b12b86d8bc",
+    "id": 787752,
+    "imdb_id": "tt13403046",
+    "original_language": "en",
+    "original_title": "Fresh",
+    "overview": "Frustriert vom Durchblättern von Dating-Apps, das nur in langweiligen Verabredungen endet, geht Noa ein Risiko ein, indem sie dem unbeholfenen, charmanten Steve ihre Nummer gibt, nachdem sie ihn im Lebensmittelgeschäft getroffen hat.",
+    "popularity": 85.965,
+    "poster_path": "/5wXWvynvZUE6wrYA2UwmkhNG7x6.jpg",
+    "production_companies": [
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 125055,
+            "logo_path": "/8iY66HqRqdQdwOjoS3sNvokcH9r.png",
+            "name": "Hyperobject Industries",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-03",
+    "revenue": 0,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fresh",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 399
+}

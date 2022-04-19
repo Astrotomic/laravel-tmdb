@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/7eVuMEhk3bklRSSIlDftSnpzUek.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 12656,
+    "imdb_id": "tt0116289",
+    "original_language": "en",
+    "original_title": "Feeling Minnesota",
+    "overview": "Sam Clayton's marriage to ex-stripper Freddie comes about when she's strong-armed into the match by Red, a club proprietor who once did her a favor. But Freddie falls in love with Jjaks, Sam's brother, and the pair tries to escape the situation together. It isn't long before both Sam and Red catch up with them, resulting in threats against the two of them -- although tension also starts to build between Sam and Red.",
+    "popularity": 8.828,
+    "poster_path": "/fCJ5eUZw6mGS53spQxGUu7rzFm1.jpg",
+    "production_companies": [
+        {
+            "id": 8,
+            "logo_path": "/78ilmDNTpdCfsakrsLqmAUkFTrO.png",
+            "name": "Fine Line Features",
+            "origin_country": ""
+        },
+        {
+            "id": 216,
+            "logo_path": null,
+            "name": "Jersey Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1996-09-13",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Just when she met the man of her dreams, along came her husband to ruin everything.",
+    "title": "Feeling Minnesota",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 121
+}

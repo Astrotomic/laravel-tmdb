@@ -1,0 +1,424 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 335787,
+            "original_language": "en",
+            "original_title": "Uncharted",
+            "overview": "Der Waisenjunge Nathan Drake hat sich schon seit frühester Kindheit für Schatzsuche begeistert. Als er als junger Erwachsener auf den erfahrenen Abenteurer Victor Sullivan trifft, wird aus den einstigen Tagträumen Realität. Gemeinsam wollen die beiden den riesigen Goldschatz des berühmten Entdeckers Ferdinand Magellan bergen, der seit 500 Jahren irgendwo auf der Welt verborgen liegt. Dafür müssen sie jedoch mit der schlagfertigen und undurchsichtigen Chloe Frazer zusammenarbeiten. Auch der skrupellose Moncada, dessen Familie vor vielen Jahrhunderten im Besitz des Schatzes war, erhebt Anspruch auf die Beute. Um das Erbe Magellans in seinen Besitz zu bringen, ist ihm jedes Mittel recht. Es beginnt ein Wettlauf um das Gold: Nate und Sully müssen ihr Kombiniergeschick beweisen, um den Schatz vor dem Schurken zu erreichen.",
+            "poster_path": "/w1GL3Iwtq7jxV7h9kh5q0KRcQbO.jpg",
+            "release_date": "2022-02-10",
+            "title": "Uncharted",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 965,
+            "popularity": 757.013,
+            "media_type": "movie"
+        },
+        {
+            "poster_path": "/wsvZXoQHmLvZtZG19HdZpSPOG7H.jpg",
+            "id": 752623,
+            "video": false,
+            "vote_average": 7.1,
+            "overview": "Es geht um eine zurückgezogen lebende Liebesromanautorin, die sich nichts Schlimmeres vorstellen konnte, als mit ihrem Covermodel auf einer Buchtournee festzusitzen, bis ein Entführungsversuch die beiden in ein knallhartes Dschungelabenteuer stürzt und beweist, dass das Leben viel seltsamer und romantischer sein kann als alle ihre Taschenbuchromane.",
+            "release_date": "2022-03-24",
+            "adult": false,
+            "backdrop_path": "/hw7foD5in5YCs7qY3Pap9pdc1Vc.jpg",
+            "vote_count": 100,
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10749
+            ],
+            "title": "The Lost City - Das Geheimnis der verlorenen Stadt",
+            "original_language": "en",
+            "original_title": "The Lost City",
+            "popularity": 444.952,
+            "media_type": "movie"
+        },
+        {
+            "title": "Scream",
+            "adult": false,
+            "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Scream",
+            "poster_path": "/xJwzKEpSUKyUGL29305xleARqsC.jpg",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1170,
+            "overview": "Der Killer mit dem Ghostface kehrt zurück nach Woodsboro! Diesmal hat es der psychopathische Mörder auf eine Gruppe junger Menschen abgesehen, die in einer Verbindung zu den Opfern und Überlebenden der vorherigen Woodsboro-Attentate stehen. Ein Teenager nach dem anderen wird niedergemetzelt und die Geheimnisse der Kleinstadt rücken immer mehr ins Zentrum der Öffentlichkeit. Für die Überlebenden Sidney Prescott (Neve Campbell), Journalistin Gale Weathers (Courteney Cox) und Ex-Sheriff Dewey (David Arquette) ist die Rückkehr des Killers ein Auseinandersetzen mit der Vergangenheit. Ihnen bleibt keine andere Wahl, als wieder miteinander in Kontakt zu treten und weitere Morde zu verhindern. Ob die Regeln zum Überleben, die ihnen zuvor das Leben gerettet haben, noch weiterhin gültig sind, müssen Sidney und ihre Freunde bald am eigenen Leib erfahren.",
+            "release_date": "2022-01-12",
+            "id": 646385,
+            "popularity": 890.08,
+            "media_type": "movie"
+        },
+        {
+            "release_date": "2022-04-15",
+            "adult": false,
+            "backdrop_path": "/msTBoaPEe9bE40cclJJRR76Ldla.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "vote_count": 4,
+            "original_language": "en",
+            "id": 949580,
+            "poster_path": "/iEJGBnZa9PnCXSTrcQGEqK9Y9yr.jpg",
+            "video": false,
+            "title": "Snoopy präsentiert: Es sind die kleinen Dinge Charlie Brown",
+            "vote_average": 6,
+            "original_title": "Snoopy Presents: It’s the Small Things, Charlie Brown",
+            "overview": "Charlie Brown ist entschlossen, das große Baseballspiel zu gewinnen. Aber die Dinge werden kurz vor dem Matchup zu einem Fiasko, als Sally sich mit einer kleinen Blume auf dem Hügel des Pitchers verbindet und schwört, sie um jeden Preis zu schützen.",
+            "popularity": 29.024,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 5.8,
+            "overview": "Dr. Michael Morbius leidet an einer seltenen Blutkrankheit und experimentiert mit biochemischen Elementen, um sich selbst zu heilen. Er infiziert sich jedoch versehentlich mit einer vampirähnlichen Krankheit.",
+            "release_date": "2022-03-30",
+            "adult": false,
+            "backdrop_path": "/tj4lzGgHrfjnjVqAKkLIjFqPSyO.jpg",
+            "vote_count": 473,
+            "genre_ids": [
+                28,
+                878,
+                14
+            ],
+            "title": "Morbius",
+            "original_language": "en",
+            "original_title": "Morbius",
+            "poster_path": "/2BTsd92vjFpRVkP1MlDC6RJzPk8.jpg",
+            "id": 526896,
+            "popularity": 1011.708,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xIDNawZ8TLCOpS6G4CUtxC429n.jpg",
+            "genre_ids": [
+                27,
+                12,
+                28,
+                35
+            ],
+            "id": 879957,
+            "original_language": "en",
+            "original_title": "Wyrmwood: Apocalypse",
+            "overview": "",
+            "poster_path": "/mlIRMqBqi7J9wXjlqtQ0jjYBZT3.jpg",
+            "release_date": "2022-02-10",
+            "title": "Wyrmwood: Apocalypse",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 16,
+            "popularity": 51.647,
+            "media_type": "movie"
+        },
+        {
+            "original_title": "Encanto",
+            "poster_path": "/zAC6fCnaOHMpPFpOpngTSmTDnLK.jpg",
+            "video": false,
+            "vote_average": 7.7,
+            "overview": "Die Geschichte der außergewöhnlichen Familie Madrigal, die versteckt in den Bergen Kolumbiens leben, in einem magischen Haus, in einer pulsierenden Stadt, an einem wundersamen, charmanten Ort namens Encanto. Die Magie des Amuletts hat jedes Kind in der Familie mit einem einzigartigen Geschenk von Superkraft bis hin zu heilender Kraft gesegnet – jedes Kind außer einem, Mirabel. Aber als sie entdeckt, dass die Magie um den Encanto in Gefahr ist, beschließt Mirabel, dass sie, die einzige gewöhnliche Madrigalin, möglicherweise die letzte Hoffnung ihrer außergewöhnlichen Familie ist.",
+            "release_date": "2021-11-24",
+            "vote_count": 6079,
+            "adult": false,
+            "id": 568124,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "title": "Encanto",
+            "original_language": "en",
+            "popularity": 2244.913,
+            "media_type": "movie"
+        },
+        {
+            "original_language": "en",
+            "original_title": "The Unbearable Weight of Massive Talent",
+            "poster_path": "/8JzPuj4lNQv0wmd38u0ee1dxzhn.jpg",
+            "title": "Massive Talent",
+            "video": false,
+            "vote_average": 6.5,
+            "overview": "Reativ unerfüllt und vor dem finanziellen Ruin muss Nick Cage ein 1-Millionen-Dollar-Angebot annehmen, um am Geburtstag eines gefährlichen Superfans teilzunehmen. Die Dinge nehmen eine völlig unerwartete Wendung, als Cage von einem CIA-Agenten rekrutiert und gezwungen wird, seiner eigenen Legende gerecht zu werden, indem er seine ikonischsten und beliebtesten Charaktere auf der Leinwand kanalisiert, um sich und seine Lieben zu retten.",
+            "release_date": "2022-04-20",
+            "id": 648579,
+            "adult": false,
+            "backdrop_path": "/m0YjB4VfghKey8Ppsmz8qCd0v1m.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "vote_count": 4,
+            "popularity": 64.934,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 6.9,
+            "overview": "Frustriert vom Durchblättern von Dating-Apps, das nur in langweiligen Verabredungen endet, geht Noa ein Risiko ein, indem sie dem unbeholfenen, charmanten Steve ihre Nummer gibt, nachdem sie ihn im Lebensmittelgeschäft getroffen hat.",
+            "release_date": "2022-03-03",
+            "vote_count": 398,
+            "adult": false,
+            "backdrop_path": "/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+            "title": "Fresh",
+            "genre_ids": [
+                53,
+                27,
+                10749
+            ],
+            "id": 787752,
+            "original_language": "en",
+            "original_title": "Fresh",
+            "poster_path": "/5wXWvynvZUE6wrYA2UwmkhNG7x6.jpg",
+            "popularity": 85.965,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k4DOdzmZjAzCS4s9zNho9o8Qfiv.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 647808,
+            "original_language": "en",
+            "original_title": "The Nan Movie",
+            "overview": "",
+            "poster_path": "/cZOMFE8X5qWm41reqmgDevBkYdI.jpg",
+            "release_date": "2022-03-18",
+            "title": "The Nan Movie",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 6,
+            "popularity": 12.827,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXTWVJMsI9BkxMLliqL1j0FT55t.jpg",
+            "genre_ids": [
+                28
+            ],
+            "vote_count": 39,
+            "original_language": "ko",
+            "original_title": "야차",
+            "poster_path": "/uvXucH8JBSBrmbdx9DB0i7iBwDA.jpg",
+            "video": false,
+            "id": 606402,
+            "vote_average": 6.2,
+            "title": "Yaksha: Ruthless Operations",
+            "overview": "Der skrupellose und nach einem Menschenfresser benannte Anführer eines Undercover-Teams in Übersee übernimmt in einer Stadt voller Spione eine gefährliche Mission.",
+            "release_date": "2022-04-08",
+            "popularity": 1515.993,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gnWFYFTTUC62NHSGcMuo4JGK0t4.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "id": 454626,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog",
+            "overview": "Sonic ist mit seinen 15 Jahren ein pubertierendes Powerpaket, aber dessen ist er sich selbst noch nicht wirklich bewusst. Zu seiner eigenen Sicherheit soll er sich auf dem Planeten Erde verstecken. Allerdings gibt es hierfür eine Bedingung: Die Welt soll niemals von seiner Existenz erfahren. Doch das erweist sich für den extrovertierten Igel als schier unmöglich, vor allem im Hinblick auf seine Super-Power, die er erst noch entdecken muss. Es ist also nur eine Frage der Zeit, bis jemand auf ihn aufmerksam wird. Zum Glück gerät Sonic an Tom, einen zynischen Polizisten, der aber das Herz am rechten Fleck hat. Gemeinsam nehmen es die beiden mit Sonics verrücktem Erzfeind Dr. Robotnik auf, der sie schon bald über den ganzen Planeten jagt. Eine atemberaubende Verfolgungsjagd in Schallgeschwindigkeit beginnt…",
+            "poster_path": "/rj1SNscG6hiHmAOpPrEsJaMpvos.jpg",
+            "release_date": "2020-02-12",
+            "title": "Sonic the Hedgehog",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7792,
+            "popularity": 1533.931,
+            "media_type": "movie"
+        },
+        {
+            "poster_path": "/qS9XAT4h3JrAgllEgxWfrpXO6cg.jpg",
+            "id": 438695,
+            "video": false,
+            "vote_average": 8.1,
+            "overview": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
+            "release_date": "2021-12-01",
+            "title": "Sing - Die Show deines Lebens",
+            "adult": false,
+            "backdrop_path": "/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "vote_count": 2578,
+            "original_language": "en",
+            "original_title": "Sing 2",
+            "popularity": 1141.783,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 6.9,
+            "overview": "Gellert Grindelwald für dessen Verhaftung Newt Scamander gesorgt hatte, ist die Flucht gelungen. Und nicht nur das: Der Schurke hat zwischenzeitlich eine noch größere Anhängerschaft aus Zauberern um sich geschart, um seinen düsteren Plan umzusetzen, der die Vorherrschaft der reinblütigen Magier vorsieht. Einzig Grindelwalds ehemals bester Freund Albus Dumbledore wäre in der Lage, ihn zu stoppen, aber dazu wiederum benötigt dieser die Hilfe seines früheren Schülers Scamander, der so in sein nächstes Abenteuer stürzt – und dieses Mal verschlägt es ihn nach Europa, genauer gesagt nach Paris.",
+            "release_date": "2018-11-14",
+            "adult": false,
+            "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
+            "vote_count": 9054,
+            "genre_ids": [
+                12,
+                14,
+                18
+            ],
+            "title": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+            "poster_path": "/wNGupBYMeUCmXCT3nUUQzIVLmuf.jpg",
+            "id": 338952,
+            "popularity": 556.922,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 438631,
+            "original_language": "en",
+            "original_title": "Dune",
+            "overview": "Die gefallene Adelsfamilie der Atreides versucht die Kontrolle über den Wüstenplaneten Arrakis und dessen kostbarste Exportware, das Spice (eine seltene bewusstseinserweiternde Droge), zu erlangen. Doch sie wird von dem galaktischen Imperator betrogen, und Paul Atreides, der junge Sohn des Herrschers dieser Familie, muss sich ins Ödland flüchten und mit den dort heimischen Nomadenstämmen verbünden, um schließlich zurückzuschlagen.",
+            "poster_path": "/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg",
+            "release_date": "2021-09-15",
+            "title": "Dune",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 6716,
+            "popularity": 522.979,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Der exzentrische und einzigartig begabte britische Zauberer Newt Scamander erforscht magische Wesen auf dem ganzen Planeten. In seinem unscheinbaren, aber im Inneren durch Magie vergrößerten Koffer beherbergt er eine ganze Sammlung seltener und gefährdeter magischer Kreaturen samt ihrer Lebensräume. 1926 reist er schließlich in das magie-phobische Amerika. Schnell wird ihm klar, dass sich die magische Gemeinschaft in den USA regelrecht vor den No-Maj, gewöhnlichen Menschen, versteckt. Und die Zauberer und Hexen dort sorgen sich sogar noch mehr um die öffentliche Enthüllung der Magie als im Vereinigten Königreich. Vor Ort trifft er dann auf die rechtschaffende Porpetina „Tina“ Goldstein, Mitarbeiterin der US-Zaubereibehörde Magical Congress of the United States of America, kurz MACUSA. Als eine Vielfalt seiner teils gefährlichen Geschöpfe aus seinem Koffer kommen, ist Chaos Programm.",
+            "release_date": "2016-11-16",
+            "title": "Phantastische Tierwesen und wo sie zu finden sind",
+            "adult": false,
+            "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Fantastic Beasts and Where to Find Them",
+            "poster_path": "/9fTueAwk3btPHxFhi0PlcS2P9mb.jpg",
+            "vote_count": 16450,
+            "video": false,
+            "vote_average": 7.3,
+            "id": 259316,
+            "popularity": 690.562,
+            "media_type": "movie"
+        },
+        {
+            "title": "Harry Potter und der Stein der Weisen",
+            "adult": false,
+            "backdrop_path": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "id": 671,
+            "vote_count": 22432,
+            "video": false,
+            "vote_average": 7.9,
+            "poster_path": "/hOmRlth9fPJ1YrCm2e5c6pRTupd.jpg",
+            "overview": "Harry Potter erfährt an seinem 11. Geburtstag, dass seine verstorbenen Eltern mächtige Zauberer waren und auch er selbst magische Kräfte besitzt. Als er von Hogwarts, der Schule für Hexerei und Zauberei, aufgenommen wird, erlebt Harry das Abenteuer seines Lebens. Er lernt Quidditch, das hoch in der Luft gespielt wird, und auf dem Weg, sich einem schwarzen Magier zu stellen, der ihn vernichten will, muss Harry eine spannende Schachpartie mit lebenden Figuren überstehen…",
+            "release_date": "2001-11-16",
+            "popularity": 353.494,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+            "genre_ids": [
+                28,
+                99,
+                35
+            ],
+            "vote_count": 260,
+            "original_language": "en",
+            "original_title": "Jackass Forever",
+            "poster_path": "/mngVoRTfXT2tV7zaC2Xnq3u8RAR.jpg",
+            "video": false,
+            "title": "Jackass Forever",
+            "vote_average": 6.9,
+            "id": 656663,
+            "overview": "Johnny Knoxville dreht zum letzten Mal durch! Der berühmte Draufgänger erlebt in diesem gigantischen Jackass-Spektakel den intensivsten Bullenritt seiner Karriere. Begleitet wird er bei seinen verrückten, Schmerz verursachenden Adrenalinkicks sowohl von Langzeitlegenden wie Steve-O als auch von neuen Gesichtern wie Stuntman Zach Holmes und Surfer Sean „Poopies“ McInerney.",
+            "release_date": "2022-02-01",
+            "popularity": 903.789,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                14,
+                16,
+                27,
+                28
+            ],
+            "original_language": "en",
+            "original_title": "Constantine: The House of Mystery",
+            "poster_path": "/kqYDoEb9PxLXM2ccoHInMMJalti.jpg",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "overview": "",
+            "id": 791348,
+            "title": "Constantine: The House of Mystery",
+            "release_date": "2022-05-02",
+            "adult": false,
+            "backdrop_path": null,
+            "popularity": 51.192,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Thomas Anderson  lebt ein normales Leben, arbeitet für eine große Firma und geht regelmäßig zur Therapie, wo sein Therapeut versucht, ihm seine Traumata auszutreiben. Denn Thomas hat Probleme damit, Realität und Fiktion auseinanderzuhalten. Er kann doch nicht wirklich einst als Auserwählter Neo in den Krieg gegen die Maschinen gezogen sein, oder?",
+            "release_date": "2021-12-16",
+            "title": "Matrix Resurrections",
+            "adult": false,
+            "backdrop_path": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "The Matrix Resurrections",
+            "poster_path": "/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg",
+            "vote_count": 3510,
+            "video": false,
+            "vote_average": 6.8,
+            "id": 624860,
+            "popularity": 795.527,
+            "media_type": "movie"
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

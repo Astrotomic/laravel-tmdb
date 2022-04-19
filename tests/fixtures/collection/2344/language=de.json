@@ -1,0 +1,90 @@
+{
+    "id": 2344,
+    "name": "Matrix Filmreihe",
+    "overview": "Matrix (Originaltitel: The Matrix) ist ein Science-Fiction-Film aus dem Jahr 1999. Regie führten die Wachowski-Geschwister, die auch das Drehbuch schrieben. Die Hauptrollen spielten Keanu Reeves, Laurence Fishburne und Carrie-Anne Moss. Im Mai 2003 folgte die Fortsetzung mit Matrix Reloaded und im November 2003 der dritte Teil Matrix Revolutions.",
+    "poster_path": "/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg",
+    "backdrop_path": "/bRm2DEgUiYciDw3myHuYFInD7la.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/ncEsesgOJDNrTUED89hYbA117wo.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 603,
+            "title": "Matrix",
+            "original_language": "en",
+            "original_title": "The Matrix",
+            "overview": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
+            "popularity": 80.894,
+            "poster_path": "/dL0n7ciODbtGj7V7i0X0PEaU8We.jpg",
+            "release_date": "1999-03-30",
+            "video": false,
+            "vote_average": 8.183,
+            "vote_count": 21410
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/YfMEwVRe1c5rhFYmL2P8153T8x.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 604,
+            "title": "Matrix Reloaded",
+            "original_language": "en",
+            "original_title": "The Matrix Reloaded",
+            "overview": "Die Wächter schwärmen aus. Smith klont sich. Neo fliegt … aber vielleicht kann selbst der Auserwählte mit seinen atemberaubenden neuen Fähigkeiten den Angriff der Maschinen nicht mehr aufhalten.  Neo. Morpheus. Trinity. Zurück im spannenden zweiten Kapitel der Matrix-Trilogie treffen sie auf außergewöhnliche Verbündete: Gemeinsam bekämpfen sie ihre Gegner, die sich klonen, durch Upgrades immer stärker werden und die letzte Festung der Menschheit belagern.",
+            "popularity": 55.127,
+            "poster_path": "/tdTDA9z2laqYJOHBIrMnEYI8Lg8.jpg",
+            "release_date": "2003-05-15",
+            "video": false,
+            "vote_average": 7.019,
+            "vote_count": 8958
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d9Lfy7Q6RUROpnd4bqlxZWBNphb.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 605,
+            "title": "Matrix Revolutions",
+            "original_language": "en",
+            "original_title": "The Matrix Revolutions",
+            "overview": "Die letzte Schlacht gegen die Maschinen kämpfen Neo, der Auserwählte, Rebellionsführer Morpheus und ihre Verbündeten – ein Krieg, der in den Ruinen der realen Welt geführt wird, der das Schicksal der Menschheit besiegelt und dessen Sieg in den Händen von Neo liegt, der seinerseits eine Reihe von Überraschungen zu erwarten hat.",
+            "popularity": 49.236,
+            "poster_path": "/8lVaiIfbyZ5Oe3nLJoeAVRUXKAb.jpg",
+            "release_date": "2003-11-05",
+            "video": false,
+            "vote_average": 6.695,
+            "vote_count": 8049
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 624860,
+            "title": "Matrix Resurrections",
+            "original_language": "en",
+            "original_title": "The Matrix Resurrections",
+            "overview": "Thomas Anderson  lebt ein normales Leben, arbeitet für eine große Firma und geht regelmäßig zur Therapie, wo sein Therapeut versucht, ihm seine Traumata auszutreiben. Denn Thomas hat Probleme damit, Realität und Fiktion auseinanderzuhalten. Er kann doch nicht wirklich einst als Auserwählter Neo in den Krieg gegen die Maschinen gezogen sein, oder?",
+            "popularity": 795.527,
+            "poster_path": "/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg",
+            "release_date": "2021-12-16",
+            "video": false,
+            "vote_average": 6.753,
+            "vote_count": 3512
+        }
+    ]
+}

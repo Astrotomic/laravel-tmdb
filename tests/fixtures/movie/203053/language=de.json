@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/nIdXwJtUvYWmfeWZKLGXHY4PeO3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        }
+    ],
+    "homepage": "",
+    "id": 203053,
+    "imdb_id": "tt0092134",
+    "original_language": "en",
+    "original_title": "Under the Influence",
+    "overview": "A hard-drinking family man has been successful in his business despite his alcoholism. His daughter, a professional, struggles to meet her father's high expectations while she becomes addicted to prescription drugs; his son, who works for him and who serves as both his whipping boy and his drinking buddy, is becoming an alcoholic like his dad. Then the father's drinking finally takes its toll on his health, and he demands that his son bring him liquor in the hospital as his son's life, and his daughter's, fall apart at home.",
+    "popularity": 1.417,
+    "poster_path": "/xUH6dNSOnlrEej6nTZqH8kgPSUr.jpg",
+    "production_companies": [
+        {
+            "id": 124448,
+            "logo_path": null,
+            "name": "CBS Entertainment Production",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-09-28",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Under the Influence",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 3
+}

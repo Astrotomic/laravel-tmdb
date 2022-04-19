@@ -1,0 +1,67 @@
+{
+    "adult": false,
+    "backdrop_path": "/2dWkRnMGd1TJYEaUUbbYUchNWzQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 413782,
+    "imdb_id": "tt4000670",
+    "original_language": "en",
+    "original_title": "Mifune: The Last Samurai",
+    "overview": "",
+    "popularity": 6.674,
+    "poster_path": "/kbw2XCXizwMu1YahePTLFX4LrJK.jpg",
+    "production_companies": [
+        {
+            "id": 7912,
+            "logo_path": null,
+            "name": "Sedic International",
+            "origin_country": ""
+        },
+        {
+            "id": 71095,
+            "logo_path": null,
+            "name": "Farallon Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 88543,
+            "logo_path": null,
+            "name": "C.A.L",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-11-25",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mifune: The Last Samurai",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 35
+}

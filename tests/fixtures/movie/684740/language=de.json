@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 684740,
+    "imdb_id": "tt5323558",
+    "original_language": "en",
+    "original_title": "The Matrix Revolutions: Neo Realism - Evolution of Bullet Time",
+    "overview": "",
+    "popularity": 2.05,
+    "poster_path": "/2US7uuM36El9pnk8WLdGh1XN39r.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2004-04-06",
+    "revenue": 0,
+    "runtime": 12,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Matrix Revolutions: Neo Realism - Evolution of Bullet Time",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 7
+}

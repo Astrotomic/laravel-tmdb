@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+    "belongs_to_collection": {
+        "id": 1241,
+        "name": "Harry Potter Filmreihe",
+        "poster_path": "/g9sAXf6fwVVDeBHF1oilW4lkTlt.jpg",
+        "backdrop_path": "/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg"
+    },
+    "budget": 125000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/harry-potter-and-sorcerers-stone/",
+    "id": 671,
+    "imdb_id": "tt0241527",
+    "original_language": "en",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter erfährt an seinem 11. Geburtstag, dass seine verstorbenen Eltern mächtige Zauberer waren und auch er selbst magische Kräfte besitzt. Als er von Hogwarts, der Schule für Hexerei und Zauberei, aufgenommen wird, erlebt Harry das Abenteuer seines Lebens. Er lernt Quidditch, das hoch in der Luft gespielt wird, und auf dem Weg, sich einem schwarzen Magier zu stellen, der ihn vernichten will, muss Harry eine spannende Schachpartie mit lebenden Figuren überstehen…",
+    "popularity": 353.494,
+    "poster_path": "/hOmRlth9fPJ1YrCm2e5c6pRTupd.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 437,
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 436,
+            "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+            "name": "1492 Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-11-16",
+    "revenue": 976475550,
+    "runtime": 152,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Lasst die Magie beginnen!",
+    "title": "Harry Potter und der Stein der Weisen",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 22434
+}

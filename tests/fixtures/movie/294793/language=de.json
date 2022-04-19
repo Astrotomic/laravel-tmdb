@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/6MwsrP7QHzLwqy6NXKEXvlUdlem.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://www.amazon.de/gp/video/detail/0M115SNFLC6LGZLI94H12UPXHW/ref=atv_dl_rdr?tag=justdersjd-21",
+    "id": 294793,
+    "imdb_id": "tt3706352",
+    "original_language": "en",
+    "original_title": "All the Old Knives",
+    "overview": "Zwei CIA-Agenten und Ex-Geliebte (Chris Pine und Thandiwe Newton) verabreden sich Jahre nach einem gescheiterten Einsatz zu einem Treffen in einem Restaurant, in dessen Verlauf die Grenzen zwischen Beruf und Leidenschaft in dieser zutiefst fesselnden Geschichte von weltweiter Spionage, moralischem Dilemma und tödlichem Verrat immer mehr verwischen..",
+    "popularity": 2029.209,
+    "poster_path": "/jJWQgGlZaXvbOggimRU52eKuAFJ.jpg",
+    "production_companies": [
+        {
+            "id": 161163,
+            "logo_path": null,
+            "name": "Barry Linen Motion Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 13649,
+            "logo_path": null,
+            "name": "Chockstone Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 171235,
+            "logo_path": null,
+            "name": "Jackson Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 8073,
+            "logo_path": null,
+            "name": "Nick Wechsler Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 8147,
+            "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+            "name": "Entertainment One",
+            "origin_country": "CA"
+        },
+        {
+            "id": 6831,
+            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+            "name": "Big Indie Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-08",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Anruf",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 126
+}

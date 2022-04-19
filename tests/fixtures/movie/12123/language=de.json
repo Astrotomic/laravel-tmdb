@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/aCF54i60qmTriWUAKbGDqzp52vm.jpg",
+    "belongs_to_collection": null,
+    "budget": 50000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 12123,
+    "imdb_id": "tt0115857",
+    "original_language": "en",
+    "original_title": "Chain Reaction",
+    "overview": "In einem Glas Wasser befindet sich genug Energie, um den Bedarf von 100.000 Menschen ein Jahr lang zu decken. Ein Forschungsteam der Chicagoer Universität versucht, diese Theorie zu beweisen. Das Unglaubliche gelingt – und ein junger Mitarbeiter des Projektes entdeckt die letzte fehlende Komponente des Energiepuzzles. Am nächsten Tag allerdings ist sein Professor tot und in seiner Wohnung wird Geld gefunden. Geld, das er angeblich von einem chinesischen Agenten dafür erhalten hat, dass er ihm das Geheimnis der Energiegewinnung verkauft hat. Dem jungen Mann und einer ebenfalls in die Geschichte verwickelten Kollegin bleibt nur die Flucht, um ihre Unschuld zu beweisen. Was nicht einfach ist, wenn das FBI, die Staatspolizei und jede Menge Kopfgeldjäger hinter einem her sind.",
+    "popularity": 15.805,
+    "poster_path": "/lS8nxXQTzd9mYdi8MX2DQrlskyw.jpg",
+    "production_companies": [
+        {
+            "id": 2377,
+            "logo_path": null,
+            "name": "Chicago Pacific Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 80,
+            "logo_path": null,
+            "name": "The Zanuck Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 787,
+            "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+            "name": "3 Arts Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1996-08-02",
+    "revenue": 60209334,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Kettenreaktion hat bereits begonnen.",
+    "title": "Außer Kontrolle",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 796
+}

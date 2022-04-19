@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/nyt0jlofZyjhRqiQkEp0cdoKaS3.jpg",
+    "belongs_to_collection": {
+        "id": 732461,
+        "name": "47 Ronin Filmreihe",
+        "poster_path": "/qg0ppX6dZBAcyiKQanNdLloTFo5.jpg",
+        "backdrop_path": "/qPu2XyOSTN05bxoHRoMm6v8Ayy6.jpg"
+    },
+    "budget": 175000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.47ronin-film.de/",
+    "id": 64686,
+    "imdb_id": "tt1335975",
+    "original_language": "en",
+    "original_title": "47 Ronin",
+    "overview": "Als ihr Fürst heimtückisch ermordet wird, bleibt 47 entehrten Ronin (herrenlose Samurai) nur die Verbannung - deshalb wollen sie Rache. Der Krieger Oishi und seine Gefährten sind dabei auf die Unterstützung des Halbbluts Kai angewiesen, müssen ihn aber zunächst aus der Sklaverei befreien. Kai wurde einst vom Fürsten aufgenommen und erzogen und liebt seit langem die Tochter seines Herren. Obwohl die Ronin das Halbblut ihre Abneigung spüren lassen, schließt Kai sich ihrer Gruppe an und steigt schließlich sogar zum Anführer auf. Gemeinsam versuchen sie die Festung des Feindes zu stürmen und die Ehre ihres Fürsten wieder herzustellen. Doch auf dem Weg dorthin müssen sie sich gegen ihre Feinde, zu denen nicht nur Fabelwesen und eine verführerische Hexe zählen, wehren.",
+    "popularity": 21.87,
+    "poster_path": "/kDm04TtHLGtLBxZSQ837N7aEf0i.jpg",
+    "production_companies": [
+        {
+            "id": 2735,
+            "logo_path": null,
+            "name": "Mid Atlantic Films",
+            "origin_country": "HU"
+        },
+        {
+            "id": 4403,
+            "logo_path": null,
+            "name": "Stuber Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 20478,
+            "logo_path": "/gSS2OBc6dRsK2ewRx5lcwnARrpl.png",
+            "name": "Moving Picture Company",
+            "origin_country": "GB"
+        },
+        {
+            "id": 20851,
+            "logo_path": null,
+            "name": "H2F Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7295,
+            "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+            "name": "Relativity Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HU",
+            "name": "Hungary"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-12-06",
+    "revenue": 150962475,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Weg zum ewigen Ruhm",
+    "title": "47 Ronin",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 3154
+}

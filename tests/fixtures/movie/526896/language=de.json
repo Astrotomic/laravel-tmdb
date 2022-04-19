@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/tj4lzGgHrfjnjVqAKkLIjFqPSyO.jpg",
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.morbius.movie/",
+    "id": 526896,
+    "imdb_id": "tt5108870",
+    "original_language": "en",
+    "original_title": "Morbius",
+    "overview": "Dr. Michael Morbius leidet an einer seltenen Blutkrankheit und experimentiert mit biochemischen Elementen, um sich selbst zu heilen. Er infiziert sich jedoch versehentlich mit einer vampirähnlichen Krankheit.",
+    "popularity": 1011.708,
+    "poster_path": "/2BTsd92vjFpRVkP1MlDC6RJzPk8.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-30",
+    "revenue": 126000000,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Morbius",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 474
+}

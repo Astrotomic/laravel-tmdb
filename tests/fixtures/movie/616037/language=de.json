@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/fT6IIbvEoO0E8Y3l8mMy90JXYNb.jpg",
+    "belongs_to_collection": {
+        "id": 131296,
+        "name": "Thor Filmreihe",
+        "poster_path": "/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg",
+        "backdrop_path": "/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/thor-love-and-thunder",
+    "id": 616037,
+    "imdb_id": "tt10648342",
+    "original_language": "en",
+    "original_title": "Thor: Love and Thunder",
+    "overview": "Nachden Thor sich den Guardians angeschlossen hat, wird der Staffelstab (bzw. Hammer) an seine Nachfolgerin und Ex-Freundin Dr. Jane Foster weitergereicht, die als weibliche Version des berühmten Donnergottes auftreten wird. Die Handlung basiert zum Teil auf der Comic-Storyline „The Mighty Thor“, in der eine krebskranke Jane Foster durch Thors Hammer Mjölnir die Fähigkeit erhält, zum Donnergott zu werden. Valkyrie soll unterstützen, den Bösewicht Gorr The God Butcher die Stirn zu bieten, der eine ernste Bedrohung darstellt.",
+    "popularity": 75.17,
+    "poster_path": "/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-07-06",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Thor: Love and Thunder",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

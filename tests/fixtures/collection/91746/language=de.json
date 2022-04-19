@@ -1,0 +1,69 @@
+{
+    "id": 91746,
+    "name": "Bill & Teds verrückte Reise Filmreihe",
+    "overview": "Bill & Teds verrückte Reise durch die Zeit (Bill & Ted’s excellent adventure) ist eine Science-Fiction-Komödie von Stephen Herek aus dem Jahr 1988. Der Film basiert auf der Idee von Zeitreisen. 1991 folgte die Fortsetzung unter dem Namen Bill & Ted’s verrückte Reise in die Zukunft (Bill & Ted’s Bogus Journey).",
+    "poster_path": "/ffCa2h3qW55YthUbz6gsGnkaCes.jpg",
+    "backdrop_path": "/cPjeCcWV9YzQcLtaxZOr6hnKwoP.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/siAdGxe2VrlemtZ30ONTmhvCLJh.jpg",
+            "genre_ids": [
+                12,
+                35,
+                878
+            ],
+            "id": 1648,
+            "title": "Bill & Teds verrückte Reise durch die Zeit",
+            "original_language": "en",
+            "original_title": "Bill & Ted's Excellent Adventure",
+            "overview": "Bunt ist das Dasein, und granatenstark! Bill und Ted werden von der Schule fliegen, wenn sie mit ihrem Abschlussreferat in Geschichte keine gute Note machen, was wohl ziemlich uncool wäre. Ein Kerl der sich selbst Rufus nennt, kommt mit einer Telefonzelle aus der Zukunft um ihnen bei dem scheinbar unlösbaren Problem zu helfen, denn das Schicksal der beiden hat einen entscheidenden Einfluss auf die Zukunft der ganzen Menschheit. Da Bücher viel zu trocken sind, reisen sie kurzerhand selbst in die Vergangenheit, um die großen Persönlichkeiten, die sie bei ihre Prüfung vorstellen müssen, persönlich kennenzulernen.",
+            "popularity": 13.021,
+            "poster_path": "/yucNmSVhfTgP0Sa4Ol0S0WcilMg.jpg",
+            "release_date": "1989-02-17",
+            "video": false,
+            "vote_average": 6.868,
+            "vote_count": 1397
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y5lidfqb4KCrPEwrq8fVmfaB5ul.jpg",
+            "genre_ids": [
+                12,
+                35,
+                878
+            ],
+            "id": 1649,
+            "title": "Bill & Ted's verrückte Reise in die Zukunft",
+            "original_language": "en",
+            "original_title": "Bill & Ted's Bogus Journey",
+            "overview": "Böse Bill- und Ted-Roboter werden aus der Zukunft geschickt, um Bill und Ted zu töten, bevor sie mit ihrer Band Wild Stallyns einen Talentwettbewerb gewinnen und mit ihrer Fanschar die Welt verändern können. Die Roboter stürzen Bill und Ted von einer Klippe und übernehmen ihre Rolle. Bill und Ted spielen derzeit in der Hölle mit dem Tod um ihre Zukunft und gewinnen. Mit dem Sensenmann im Schlepptau gelangen Bill und Ted zurück ins Diesseits. Dort haben die Roboter bereits für Chaos gesorgt. Mit der Hilfe von marsianischen Wissenschaftlern bauen Bill und Ted weitere Bill- und Ted-Roboter, die bei dem Talentwettbewerb gegen die bösen Alter egos antreten. Einer Karriere als Rockstars steht nun nichts mehr im Wege.",
+            "popularity": 13.842,
+            "poster_path": "/bk5AccWazQTjpb7WE50Mkk2Y7Zs.jpg",
+            "release_date": "1991-07-19",
+            "video": false,
+            "vote_average": 6.316,
+            "vote_count": 926
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oazPqs1z78LcIOFslbKtJLGlueo.jpg",
+            "genre_ids": [
+                35,
+                878,
+                12
+            ],
+            "id": 501979,
+            "title": "Bill & Ted retten das Universum",
+            "original_language": "en",
+            "original_title": "Bill & Ted Face the Music",
+            "overview": "Den potenziellen Rockstars Bill und Ted wurde einst prophezeit, sie würden mit abenteuerlichen Zeitreisen einmal das ganze Universum retten. Doch mittlerweile sind aus Bill und Ted Väter mittleren Alters geworden, die immer noch versuchen, einen Hit zu landen und ihr Schicksal zu finden.",
+            "popularity": 17.063,
+            "poster_path": "/9sMfVjz5yHz7s3iAtLpkN6lxG0f.jpg",
+            "release_date": "2020-08-27",
+            "video": false,
+            "vote_average": 6.018,
+            "vote_count": 611
+        }
+    ]
+}

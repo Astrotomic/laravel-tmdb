@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/9bZy1KwxiM8BVJlo93xwkdEo5Zj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 472838,
+    "imdb_id": "tt7296862",
+    "original_language": "en",
+    "original_title": "SPF-18",
+    "overview": "Die 18-jährige Penny Cooper läuft ihrem Schwarm Johnny Sanders jahrelang hinterher, kommt ihm aber erst nach dem Tod seines Vaters näher. Zur gleichen Zeit weckt ein mysteriöser Countrymusiker namens Ash Baker ihr Interesse. Die Jugendliche fühlt sich zwischen den beiden hin- und hergerissen und hofft darauf, dass ihre Mutter oder ihre Cousine ihr bei der Entscheidung helfen können. Mithilfe ihrer Kamera versucht sie schließlich, sich über ihre Gefühle klar zu werden.",
+    "popularity": 17.322,
+    "poster_path": "/mdsnV8HtJUDhwmCt0IDT0TwLbsz.jpg",
+    "production_companies": [
+        {
+            "id": 99626,
+            "logo_path": null,
+            "name": "Alex Israel",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-09-29",
+    "revenue": 0,
+    "runtime": 76,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "SPF-18",
+    "video": false,
+    "vote_average": 4.4,
+    "vote_count": 980
+}

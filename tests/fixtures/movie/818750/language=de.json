@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/i9rEpTqC6aIQOWOc4PDEEAE3hFe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81447264",
+    "id": 818750,
+    "imdb_id": "tt8851148",
+    "original_language": "en",
+    "original_title": "The In Between",
+    "overview": "Der tragische Unfalltod der Liebe ihres Lebens hat Teenagerin Tessa das Herz zerrissen. Doch dann scheint er plötzlich aus dem Jenseits mit ihr zu kommunizieren.",
+    "popularity": 1202.694,
+    "poster_path": "/bfywe2IRR9mEL0PEVTqkqowl06q.jpg",
+    "production_companies": [
+        {
+            "id": 96540,
+            "logo_path": "/AgYjTNeIKOh0yvegPLSjq8EOsif.png",
+            "name": "Paramount Players",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-02-11",
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The In Between",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 160
+}

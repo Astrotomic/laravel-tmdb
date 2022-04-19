@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/mcI5QGUNncahaDqsIJKmoPuGywY.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 9560,
+    "imdb_id": "tt0114887",
+    "original_language": "en",
+    "original_title": "A Walk in the Clouds",
+    "overview": "World War II vet Paul Sutton falls for a pregnant and unwed woman who persuades him -- during their first encounter -- to pose as her husband so she can face her family.",
+    "popularity": 20.955,
+    "poster_path": "/xencQzZnUWDRAOUydjf9PWet8Ae.jpg",
+    "production_companies": [
+        {
+            "id": 2851,
+            "logo_path": null,
+            "name": "Zucker Brothers Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1995-08-11",
+    "revenue": 50012507,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A man in search. A woman in need. A story of fate.",
+    "title": "A Walk in the Clouds",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 731
+}

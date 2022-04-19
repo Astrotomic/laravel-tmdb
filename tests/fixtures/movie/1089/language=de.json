@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
+    "belongs_to_collection": null,
+    "budget": 24000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 1089,
+    "imdb_id": "tt0102685",
+    "original_language": "en",
+    "original_title": "Point Break",
+    "overview": "Eine Bande von Bankräubern terrorisiert die Stadt. Mit Plastikmasken als Ex-Präsidenten der USA verkleidet, schlagen sie immer wieder blitzschnell zu. Die Polizei ist vollkommen ratlos, bis der junge FBI-Agent Johnny Utah auf die Idee kommt, sich als Undercover-Agent in das Surfer-Milieu einzuschleichen. Dort trifft er nicht nur auf die junge, attraktive Tyler, sondern auch auf den charismatischen Surf-Guru Bodhi und seine Clique, mit der er sich schnell anfreundet. Bald stellt er aber fest, dass sie die Gangster sind, die auf der Suche nach immer neuen \"Kicks\" auch Banküberfälle wie einen Sport betreiben.",
+    "popularity": 23.369,
+    "poster_path": "/wSo4hqGx8b3MNd8gxJFJSHkd6SX.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 1644,
+            "logo_path": null,
+            "name": "Largo Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 182,
+            "logo_path": null,
+            "name": "JVC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1991-01-31",
+    "revenue": 83531958,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gefährliche Brandung",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 2745
+}

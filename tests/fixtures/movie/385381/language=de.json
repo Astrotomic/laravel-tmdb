@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 385381,
+    "imdb_id": "tt1147571",
+    "original_language": "en",
+    "original_title": "In Camera: The Naïve Visual Effects of 'Bram Stoker's Dracula'",
+    "overview": "Director Francis Ford Coppola and production staff reveal the secrets behind the 1992 masterpiece.",
+    "popularity": 0.625,
+    "poster_path": "/3HjpCykuSEcZB8LXXiahoagLaNa.jpg",
+    "production_companies": [
+        {
+            "id": 25669,
+            "logo_path": null,
+            "name": "ZAP Zoetrope Aubry Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-10-02",
+    "revenue": 0,
+    "runtime": 19,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "In Camera: The Naïve Visual Effects of 'Bram Stoker's Dracula'",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1
+}

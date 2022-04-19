@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/i9lR2jLV0dHVfVs1u6QqqbQAE9I.jpg",
+    "belongs_to_collection": null,
+    "budget": 57000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 1813,
+    "imdb_id": "tt0118971",
+    "original_language": "en",
+    "original_title": "The Devil's Advocate",
+    "overview": "Der junge Staatsanwalt Kevin Lomax bekommt die Chance seines Lebens: Die größte und mächtigste Kanzlei des Landes holt ihn nach New York. Und damit nicht genug: Sein neuer Boß, der geheimnisvolle John Milton, nimmt ihn persönlich unter seine Fittiche. Unaufhaltsam verfällt Kevin dem Rausch von Macht, Ruhm, Sex und dem ganz großen Geld. Doch nach einer Serie unheimlicher Vorfälle wird Kevin klar, daß ihn der Leibhaftige persönlich unter Vertrag genommen hat.",
+    "popularity": 30.816,
+    "poster_path": "/9deaag4AgDAgo6sG2pBfeV8BOgG.jpg",
+    "production_companies": [
+        {
+            "id": 676,
+            "logo_path": null,
+            "name": "Monarchy Enterprises B.V.",
+            "origin_country": ""
+        },
+        {
+            "id": 508,
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 824,
+            "logo_path": null,
+            "name": "Kopelson Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 10104,
+            "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+            "name": "New Regency Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 20555,
+            "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+            "name": "Taurus Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-10-17",
+    "revenue": 152944660,
+    "runtime": 140,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Erfolg verführt. Ehrgeiz verblendet. Eitelkeit vernichtet. Erkenntnis kann die Hölle sein.",
+    "title": "Im Auftrag des Teufels",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 4645
+}

@@ -13,9 +13,11 @@ class Trending extends Request
     protected int $page = 1;
     protected ?string $region = null;
 
-    public static function request(): static
-    {
-        return new static();
+    public function __construct(
+        protected string $type = 'all',
+        protected string $window = 'day'
+    ) {
+        parent::__construct();
     }
 
     public function page(int $page): static
@@ -35,7 +37,7 @@ class Trending extends Request
     public function send(): Response
     {
         return $this->request->get(
-            '/trending/all/day',
+            "/trending/{$this->type}/{$this->window}",
             array_filter([
                 'language' => $this->language ?? Tmdb::language(),
                 'region' => $this->region ?? Tmdb::region(),

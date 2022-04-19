@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/iaAi3sv5zzm4PdgiVyVJh2TYEMo.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81572291",
+    "id": 952464,
+    "imdb_id": "tt14990030",
+    "original_language": "en",
+    "original_title": "The Man of God",
+    "overview": "",
+    "popularity": 64.973,
+    "poster_path": "/icx3Cu6ktIXgr5o2WOeekEFRCdM.jpg",
+    "production_companies": [
+        {
+            "id": 124270,
+            "logo_path": "/w30moDFz3SD3ZLTk4JEqNjgpDod.png",
+            "name": "BAP Productions",
+            "origin_country": "NG"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NG",
+            "name": "Nigeria"
+        }
+    ],
+    "release_date": "2022-04-16",
+    "revenue": 0,
+    "runtime": 140,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Man of God",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 5
+}

@@ -1,0 +1,33 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 437508,
+    "imdb_id": "tt6358260",
+    "original_language": "en",
+    "original_title": "Quantum Is Calling",
+    "overview": "Zoe Saldana enlists the help of Stephen Hawking to solve a quantum riddle in order to get Simon Pegg’s cat back. This follows Paul Rudd’s epic quantum chess match with Stephen Hawking.",
+    "popularity": 1.627,
+    "poster_path": "/29UoBZkxFlIE4XbkxOZz7jnXk73.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2016-12-12",
+    "revenue": 0,
+    "runtime": 11,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Quantum Is Calling",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 5
+}

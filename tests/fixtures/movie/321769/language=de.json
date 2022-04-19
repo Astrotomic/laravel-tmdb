@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/ayfUwTMNSYcra3IfYhP4Et8iRPb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "http://www.deepwebthemovie.com",
+    "id": 321769,
+    "imdb_id": "tt3312868",
+    "original_language": "en",
+    "original_title": "Deep Web",
+    "overview": "In den geheimen Ecken des Internets – Deep Web für die einen, Dark Web für die anderen wird mit gestohlenen Identitäten, illegalen Substanzen und geheimem Wissen gehandelt.- Die Silk Road, das „Ebay für Drogen“, wird innerhalb weniger Monate zum heiß umkämpften Umschlagsplatz für alles Verbotene. Das Gehirn hinter der von FBI und Europol ins Visier genommenen Webseite ist im Deep Web nur unter dem Pseudonym DPR – Dread Pirate Roberts – bekannt. Als das FBI im Oktober 2013 bekannt gibt, DPR alias Ross Ulbricht festgenommen zu haben, scheint die steile Karriere des Paten des Dark Webs beendet. Doch haben die Ermittler wirklich den echten DPR in Gewahrsam? Oder ist Ulbricht nur ein Bauernopfer sehr viel mächtigerer Interessen?",
+    "popularity": 12.025,
+    "poster_path": "/3FKXTCGJb9XfSCbukbDiedTK2TL.jpg",
+    "production_companies": [
+        {
+            "id": 43613,
+            "logo_path": null,
+            "name": "Trouper",
+            "origin_country": ""
+        },
+        {
+            "id": 45750,
+            "logo_path": null,
+            "name": "BOND/360",
+            "origin_country": "US"
+        },
+        {
+            "id": 55571,
+            "logo_path": "/xP0ixKUSDnGNcMlrfve6smvGkqI.png",
+            "name": "Zipper Bros Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 63267,
+            "logo_path": "/aBsWy0FMOCdtvGGxJFQl5CPR07i.png",
+            "name": "Exhibit A Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-03-15",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Deep Web - Der Untergang der Silk Road",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 219
+}

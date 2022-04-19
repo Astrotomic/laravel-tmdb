@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/tQX1d11beZc7hL4DEZyiIS3hMpD.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 53172,
+    "imdb_id": "tt1220888",
+    "original_language": "en",
+    "original_title": "Henry's Crime",
+    "overview": "Henry ist ein guter Kerl, der ohne Ehrgeiz und Ziel einer Flipperkugel gleich durchs Leben torkelt. Von alten Kumpels wird er als Fahrer für einen Banküberfall missbraucht, von der Polizei geschnappt und inhaftiert. Stoisch sitzt er seine Zeit ab und beschließt nach der Entlassung, dieselbe Bank tatsächlich zu überfallen. Unterstützung hierfür holt er sich von seinem Ex-Zellengenossen Max. Ihr Plan sieht vor, durch einen Tunnel, der direkt von einem Theater zum Bankgebäude führt, in den Tresorraum vorzudringen. Um möglichst unauffällig arbeiten zu können, gibt sich Henry als Schauspieler aus und wird tatsächlich als Hauptdarsteller für das aktuelle Stück besetzt. Kompliziert werden die Dinge als Henry sich in Kollegin Julie verliebt und seine Einbrecherkumpane sich wieder bei ihm melden...",
+    "popularity": 10.284,
+    "poster_path": "/yPsIu5e86HcRnx8cN0mQYczfbck.jpg",
+    "production_companies": [
+        {
+            "id": 7193,
+            "logo_path": null,
+            "name": "Company Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-01-14",
+    "revenue": 204940,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Gangster und die Diva",
+    "title": "Henry & Julie",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 262
+}

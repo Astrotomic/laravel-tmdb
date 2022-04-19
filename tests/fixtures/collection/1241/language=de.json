@@ -1,0 +1,163 @@
+{
+    "id": 1241,
+    "name": "Harry Potter Filmreihe",
+    "overview": "Harry Potter ist eine populäre Fantasy-Romanreihe der englischen Schriftstellerin Joanne K. Rowling.  Erzählt wird die Geschichte des Titelhelden Harry James Potter, eines Schülers des britischen Zaubererinternats Hogwarts, und seiner Konfrontationen mit dem bösen Magier Lord Voldemort und dessen Gefolgsleuten, den so genannten Todessern. Jeder der sieben Bände beschreibt ein Schul- und Lebensjahr von Harry Potter, beginnend kurz vor seinem elften Geburtstag. Band 1 erschien 1997 (deutsch 1998), Band 7 erschien am 21. Juli 2007 auf Englisch und am 27. Oktober 2007 auf Deutsch.  Die Reihe kann verschiedenen literarischen Genres zugeordnet werden. Neben der klaren Einordnung als Fantasy-Literatur weist die Harry-Potter-Heptalogie Eigenschaften eines Entwicklungsromans oder Bildungsromans auf und wird in der Regel als Jugendliteratur eingeordnet, obgleich die Leserschaft auch viele Erwachsene umfasst.",
+    "poster_path": "/g9sAXf6fwVVDeBHF1oilW4lkTlt.jpg",
+    "backdrop_path": "/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 671,
+            "title": "Harry Potter und der Stein der Weisen",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "overview": "Harry Potter erfährt an seinem 11. Geburtstag, dass seine verstorbenen Eltern mächtige Zauberer waren und auch er selbst magische Kräfte besitzt. Als er von Hogwarts, der Schule für Hexerei und Zauberei, aufgenommen wird, erlebt Harry das Abenteuer seines Lebens. Er lernt Quidditch, das hoch in der Luft gespielt wird, und auf dem Weg, sich einem schwarzen Magier zu stellen, der ihn vernichten will, muss Harry eine spannende Schachpartie mit lebenden Figuren überstehen…",
+            "popularity": 353.494,
+            "poster_path": "/hOmRlth9fPJ1YrCm2e5c6pRTupd.jpg",
+            "release_date": "2001-11-16",
+            "video": false,
+            "vote_average": 7.915,
+            "vote_count": 22434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zZhXaiJndrF6hoAnhUMJ5J0Y3hq.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 672,
+            "title": "Harry Potter und die Kammer des Schreckens",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Chamber of Secrets",
+            "overview": "Harry Potter könnte sich schönere Sommerferien vorstellen: Einerseits erträgt er nur schwer den herrischen Ton im Haus von Tante Petunia und Onkel Vernon Dursley, denen seine Zauberkunst nicht geheuer ist, andererseits haben ihn seine besten Freunde Ron Weasley und Hermine Granger offenbar vergessen, denn sie beantworten keinen seiner Briefe. Plötzlich taucht der geheimnisvolle Haus-Elf Dobby in Harrys Schlafzimmer auf und warnt ihn: Falls Harry nach Hogwarts zurückkehrt, schwebt er in großer Gefahr. Dobby will den jungen Gryffindor unbedingt davon abhalten, weiter auf die Schule für Hexerei und Zauberei zu gehen – deswegen hat er dafür gesorgt, dass Rons und Hermines Briefe nicht ankommen. Doch was der boshafte Elf auch anstellt – Harry lässt sich nicht beirren.",
+            "popularity": 307.279,
+            "poster_path": "/eZy8E8F85DXZX3yFk2bYzMNYJKG.jpg",
+            "release_date": "2002-11-13",
+            "video": false,
+            "vote_average": 7.73,
+            "vote_count": 18080
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qW5YRimHK1oVbCbQ4Q9CjSmZVKd.jpg",
+            "genre_ids": [
+                12,
+                14,
+                10751
+            ],
+            "id": 674,
+            "title": "Harry Potter und der Feuerkelch",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Goblet of Fire",
+            "overview": "Das große Abenteuer beginnt, als der Feuerkelch Harry Potters Namen freigibt und Harry damit Teilnehmer eines gefährlichen Wettbewerbs unter drei ruhmreichen Zauberschulen wird – des Trimagischen Turniers. Wer aber könnte Harrys Namen in den Feuerkelch geworfen haben? Jetzt muss er einen gefährlichen Drachen bezwingen, mit gespenstischen Wasserdämonen kämpfen und einem verzauberten Labyrinth entkommen – nur, um am Ende Dem-dessen-Name-nicht-genannt-werden-darf gegenüberzustehen.",
+            "popularity": 288.899,
+            "poster_path": "/y3n0fN5uL417gd6LVtReKbYowIt.jpg",
+            "release_date": "2005-11-16",
+            "video": false,
+            "vote_average": 7.821,
+            "vote_count": 17111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 767,
+            "title": "Harry Potter und der Halbblutprinz",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Half-Blood Prince",
+            "overview": "Der Zauber der Liebe beherrscht das sechste Schuljahr von Harry und seinen besten Freunden Hermine und Ron. Hormone und ein Liebestrank des neuen Professors Horace Slughorn sorgen für Gefühlsverwirrung, während sich die Anhänger Voldemorts mit Unterstützung von Severus Snape zu Attacken auf die jungen Helden und ihren größten magischen Verbündeten formieren. Als Harry und Professor Dumbledore das Geheimnis für Voldemorts ewiges Leben entdecken, hat der dunkle Lord bereits den Tod nach Hogwarts entsandt.",
+            "popularity": 267.268,
+            "poster_path": "/bQNaLipvCgPvbXnyrJcGVOQyifD.jpg",
+            "release_date": "2009-07-07",
+            "video": false,
+            "vote_average": 7.705,
+            "vote_count": 16020
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 673,
+            "title": "Harry Potter und der Gefangene von Askaban",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Prisoner of Azkaban",
+            "overview": "Während die abscheuliche Tante Magda über den Nachthimmel schwebt, kehrt Harry nach Hogwarts zurück, um sein drittes Ausbildungsjahr zu beginnen. Eine haarsträubende Busreise im Fahrenden Ritter bringt ihn zur Winkelgasse, wo er erfährt, dass der flüchtige Sträfling Sirius Black hinter ihm her ist. So beginnt das neue Schuljahr. In Hogwarts lernen Harry und seine Freunde die schwierige Kunst, mit einem Hippogreif umzugehen, die ständig ihre Gestalt verändernden Irrwichte in lustige Formen zu verwandeln und sogar die Zeit zurückzudrehen. Die Seelen aussaugenden Dementoren belauern die Schule und bedrohen Harry, während Der-dessen-Name-nicht-genannt-werden-darf einen Spitzel in der Burg untergebracht hat. Und Harry muss es mit allen aufnehmen.",
+            "popularity": 272.248,
+            "poster_path": "/ea3aGUyIFhvd4EqZKX5TkWzd9ml.jpg",
+            "release_date": "2004-05-31",
+            "video": false,
+            "vote_average": 8.021,
+            "vote_count": 17782
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sO2VWeJ8qagNtYoznyLRL8TeSkw.jpg",
+            "genre_ids": [
+                12,
+                14,
+                9648
+            ],
+            "id": 675,
+            "title": "Harry Potter und der Orden des Phönix",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Order of the Phoenix",
+            "overview": "Nach seinem letzten Abenteuer, das mit der dramatischen Rückkehr seines Erzfeindes Lord Voldemort endete, hat Harry Potter wieder der graue Alltag empfangen. Wie üblich muss er auch diese Sommerferien wieder bei seinen verhassten Verwandten, den Dursleys, verbringen. Das ändert sich jedoch schlagartig, als Harry eines Abends zusammen mit seinem Cousin Dudley von zwei Dementoren angegriffen wird. Er kann diese zwar mit Hilfe eines Zaubers vertreiben, handelt sich hierdurch aber ungerechterweise eine Vorladung vor das Zaubereigericht ein, da er in Gegenwart der Menschen gezaubert hat.",
+            "popularity": 256.299,
+            "poster_path": "/4Hg0ut5IcaTVGa4OR5Rhjak6R7H.jpg",
+            "release_date": "2007-06-28",
+            "video": false,
+            "vote_average": 7.692,
+            "vote_count": 16240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fXRXpzxUApE3OuXhIqsdavQjCVa.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 12444,
+            "title": "Harry Potter und die Heiligtümer des Todes - Teil 1",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+            "overview": "Harry sieht sich einer vollkommen veränderten Welt gegenüber. Die Todesser haben das Zauberministerium unter ihre Kontrolle gebracht und es tobt ein offener Kampf zwischen den Mächten des Guten und Bösen. Harry hat sich mit Hermine und Ron auf die Suche nach den “Horkruxen“ gemacht, magischen Objekten, die die Unsterblichkeit von Lord Voldemort garantieren und zerstört werden müssen. Der dunkle Lord hat seinerseits ein Kopfgeld auf Harry ausgesetzt, denn er will sich das Vergnügen den “Jungen der überlebte“ mit den eigenen Händen zu töten, nicht nehmen lassen. Unterdessen stößt Harry auf die Legende von den Heiligtümern des Todes, die ihm im Kampf gegen seinen Erzfeind das Leben retten könnte. Und so strebt alles unaufhaltsam der finalen Konfrontation zwischen den beiden Magiern entgegen, auf die Harry sich seit Beginn seiner Schullaufbahn vorbereitet hat.",
+            "popularity": 249.512,
+            "poster_path": "/vJDoCbIMudaFgy4UrFLuj0ScSwU.jpg",
+            "release_date": "2010-10-17",
+            "video": false,
+            "vote_average": 7.779,
+            "vote_count": 15899
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+            "genre_ids": [
+                14,
+                12
+            ],
+            "id": 12445,
+            "title": "Harry Potter und die Heiligtümer des Todes - Teil 2",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+            "overview": "Das Ende ist nah! Hogwarts hat als Zuflucht ausgedient, Voldemorts Schergen haben die Macht über ganz England an sich gerissen. Harry, Ron und Hermine sind auf der Flucht, die Lage scheint aussichtslos. Eine letzte Chance bleibt dem Trio noch, das Blatt zu wenden und die Welt der Menschen vor dem Untergang zu bewahren: Sie müssen die legendären Heiligtümer des Todes finden. Nur mit diesen magischen Artefakten kann Voldemort noch besiegt werden. Doch die Freunde haben keinen Schimmer, wo sich die vor langer Zeit verschollenen Objekte befinden...",
+            "popularity": 279.661,
+            "poster_path": "/AmcYjc7HtNGnelhCU2YYbbVdtBH.jpg",
+            "release_date": "2011-07-07",
+            "video": false,
+            "vote_average": 8.119,
+            "vote_count": 17128
+        }
+    ]
+}

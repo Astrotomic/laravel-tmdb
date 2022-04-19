@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/gacFeoGjwAJAsbrd90hD5ptcjoe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "http://www.netflix.com/title/80202874",
+    "id": 513576,
+    "imdb_id": "tt7374948",
+    "original_language": "en",
+    "original_title": "Always Be My Maybe",
+    "overview": "Bei ihrem Wiedersehen nach 15 Jahren fliegen zwischen Starköchin Sasha und dem Kleinstadtmusiker Marcus erneut die Funken. Doch sie leben in unterschiedlichen Welten.",
+    "popularity": 19.905,
+    "poster_path": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+    "production_companies": [
+        {
+            "id": 17393,
+            "logo_path": "/k28sCof6kheeOicLqL6EXX2GHov.png",
+            "name": "Good Universe",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-05-31",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Always Be My Maybe",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 1104
+}

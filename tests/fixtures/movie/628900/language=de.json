@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/kHd4rwdRtJXnYMraQSrlgPSCsIt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 628900,
+    "imdb_id": "tt10323676",
+    "original_language": "en",
+    "original_title": "The Contractor",
+    "overview": "Nachdem James Harper unfreiwillig aus den US-Spezialeinheiten entlassen wurde, beschließt er, seine Familie zu unterstützen, indem er sich zusammen mit seinem besten Freund und unter dem Kommando eines anderen Veteranen einer privaten Vertragsorganisation anschließt. Auf einer verdeckten Mission im Ausland muss Harper denen ausweichen, die versuchen, ihn zu töten, während er sich auf den Weg zurück nach Hause macht.",
+    "popularity": 104.224,
+    "poster_path": "/yjkmY23QhurUFyixDkObUOJF8wj.jpg",
+    "production_companies": [
+        {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+        },
+        {
+            "id": 104363,
+            "logo_path": "/jnmqDxwCVAbKJkne5TDSkhj7mzo.png",
+            "name": "30WEST",
+            "origin_country": "US"
+        },
+        {
+            "id": 47729,
+            "logo_path": "/5NRpQ7xxmODXAjt2pRWUFMLVzvP.png",
+            "name": "STX Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-10",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Contractor",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 124
+}

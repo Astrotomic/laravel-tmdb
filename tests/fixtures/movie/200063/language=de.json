@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://sunsetstripthemovie.com/",
+    "id": 200063,
+    "imdb_id": "tt1542485",
+    "original_language": "en",
+    "original_title": "Sunset Strip",
+    "overview": "A documentary on the famous Los Angeles street.",
+    "popularity": 6.163,
+    "poster_path": "/xiY7APXH6DrnpdMSU71nJqilfIs.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-03-16",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sunset Strip",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 24
+}

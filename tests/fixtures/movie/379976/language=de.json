@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/4WGsPX4FzldPPvXCyo4uA5BGf8P.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 379976,
+    "imdb_id": "tt5376424",
+    "original_language": "en",
+    "original_title": "Anyone Can Quantum",
+    "overview": "The game is real and the stakes are high as the future of humanity hangs in the balance.  Can Paul Rudd, an actor, beat Stephen Hawking, one of the greatest minds of our generation, in a game of chess that will determine the future of humanity?  Most likely not.  Unless...",
+    "popularity": 1.058,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 43613,
+            "logo_path": null,
+            "name": "Trouper",
+            "origin_country": ""
+        },
+        {
+            "id": 72605,
+            "logo_path": null,
+            "name": "Caltech",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-01-27",
+    "revenue": 0,
+    "runtime": 12,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A chess match for the ages!",
+    "title": "Anyone Can Quantum",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 10
+}

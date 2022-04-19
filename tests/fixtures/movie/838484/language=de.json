@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/iSsSvXsCTfDSOY8wvJWms616w3I.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81488262",
+    "id": 838484,
+    "imdb_id": "tt11514780",
+    "original_language": "en",
+    "original_title": "Choose or Die",
+    "overview": "Die bankrotte Studentin Layla (Iola Evans) spielt in der Hoffnung auf ein Preisgeld von 125.000 Dollar ein obskures Survival-Computerspiel aus den 1980er Jahren. Nach einer Reihe von unerwarteten Schreckensmomenten wird ihr bald klar, dass sie nicht mehr um das Geld spielt, sondern um ihr eigenes Leben. Denn das Spiel namens „Curs>r“ hat ein eigenes Bewusstsein und liebt es, Menschen auf abscheuliche Weise das Zeitliche segnen zu lassen. Jede Entscheidung, die Layla im Spiel trifft, hat Einfluss auf die echte Welt – und zwar teils sehr brutale. Doch die Studentin hat keine Wahl: Entscheidet sie sich nicht, muss sie selbst sterben. Layla holt sich Unterstützung vom Gamer Isaac (Asa Butterfield), aus dessen Fundus sie das Spiel erhalten hat. Gemeinsam versuchen sie das Spiel zu schlagen und dessen Fluch zu brechen, bevor noch mehr grausame Dinge geschehen...",
+    "popularity": 171.9,
+    "poster_path": "/2V4KfAG1hvi4YMfL2DpGS6j9G9B.jpg",
+    "production_companies": [
+        {
+            "id": 138743,
+            "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+            "name": "Anton",
+            "origin_country": "GB"
+        },
+        {
+            "id": 74390,
+            "logo_path": null,
+            "name": "Stigma Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2022-04-15",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Choose or Die",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 149
+}

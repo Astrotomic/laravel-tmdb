@@ -1,0 +1,66 @@
+{
+    "id": 829561,
+    "name": "365 Days Collection",
+    "overview": "",
+    "poster_path": "/h412C6U9PTtYrVHwbiQRHh7hjP8.jpg",
+    "backdrop_path": "/yxnx4pBJgUqrmygFmAKwnL4EVI7.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/27nn2YJBwY7a1etZ0AiIcOrIgu3.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 664413,
+            "title": "365 Tage",
+            "original_language": "pl",
+            "original_title": "365 dni",
+            "overview": "Eine leitende Angestellte in einer lieblosen Beziehung fällt einem dominanten Mafiaboss zum Opfer, der sie einsperrt und ihr ein Jahr Zeit gib, sich in ihn zu verlieben. Dabei begibt sich Laura in ein Sumpf von Begierde und sexueller Abhängigkeit zum Mafiaboss. Wird sich Laura in 365 Tagen verlieben können?",
+            "popularity": 89.449,
+            "poster_path": "/ibaDBJBAvWd4J5lzfbpq1PJ6ZU1.jpg",
+            "release_date": "2020-02-07",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 6630
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t9hNIUFcy0tYu55IPxjxRTTdZ6X.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 829557,
+            "title": "365 Days - Dieser Tag",
+            "original_language": "pl",
+            "original_title": "365 dni: Ten dzień",
+            "overview": "",
+            "popularity": 56.703,
+            "poster_path": "/ee7qhbFyw4adAHgDTAELuiskkht.jpg",
+            "release_date": "2022-04-27",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 829560,
+            "title": "Kolejne 365 DNI",
+            "original_language": "en",
+            "original_title": "Kolejne 365 DNI",
+            "overview": "",
+            "popularity": 4.218,
+            "poster_path": null,
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

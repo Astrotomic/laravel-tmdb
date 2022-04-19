@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/qtAvDDZgMlpN2HnByFZvZhGvlty.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 301365,
+    "imdb_id": "tt1974419",
+    "original_language": "en",
+    "original_title": "The Neon Demon",
+    "overview": "Teenagerin Jesse ist neu in Los Angeles. Sie zieht in ein heruntergekommenes Motel, das vom dubiosen Hank geführt wird, findet aber schnell Anschluss in der fremden Stadt: Stylistin Ruby  bemerkt, was für ein Talent in Jesse steckt und will ihr dabei helfen, den Traum von der Modelkarriere zu verwirklichen. Wenig später hat Jesse mit Jan dann auch schon eine Top-Agentin und wird von einem Fotografen zum nächsten geschickt. Die junge Frau, naiv und betont keusch im Auftreten, taucht immer tiefer in die Glitzerwelt aus dekadenten Partys und schicken Shootings ein. Konkurrentinnen wie den Models Sarah und Gigi bleibt nicht verborgen, wer da zum neuen Liebling der Szene aufsteigt. Bald wird es für Jesse sehr gefährlich…",
+    "popularity": 21.123,
+    "poster_path": "/6q8EqDdc9oq6XJ6xLUQAh5opUd8.jpg",
+    "production_companies": [
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2266,
+            "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
+            "name": "Bold Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 50481,
+            "logo_path": "/mBgGtJJQ9aOpKBnuKXM75kHYT6D.png",
+            "name": "Vendian Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 67574,
+            "logo_path": null,
+            "name": "Space Rocket Nation",
+            "origin_country": "DK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DK",
+            "name": "Denmark"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-06-08",
+    "revenue": 3377430,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Neon Demon",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 3220
+}

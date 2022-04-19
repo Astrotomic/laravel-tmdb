@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+    "belongs_to_collection": {
+        "id": 17178,
+        "name": "Jackass Filmreihe",
+        "poster_path": "/tLga6buvaRSBcFJT03WgSBZ1wAa.jpg",
+        "backdrop_path": "/lidPLbyE1JCUacEDOzkTCncCPBL.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.jackassmovie.com",
+    "id": 656663,
+    "imdb_id": "tt11466222",
+    "original_language": "en",
+    "original_title": "Jackass Forever",
+    "overview": "Johnny Knoxville dreht zum letzten Mal durch! Der berühmte Draufgänger erlebt in diesem gigantischen Jackass-Spektakel den intensivsten Bullenritt seiner Karriere. Begleitet wird er bei seinen verrückten, Schmerz verursachenden Adrenalinkicks sowohl von Langzeitlegenden wie Steve-O als auch von neuen Gesichtern wie Stuntman Zach Holmes und Surfer Sean „Poopies“ McInerney.",
+    "popularity": 903.789,
+    "poster_path": "/mngVoRTfXT2tV7zaC2Xnq3u8RAR.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 6329,
+            "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+            "name": "MTV Entertainment Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 6328,
+            "logo_path": null,
+            "name": "Dickhouse Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 134436,
+            "logo_path": null,
+            "name": "Gorilla Flicks",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-02-01",
+    "revenue": 79000000,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "manche lernen es nie",
+    "title": "Jackass Forever",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 262
+}

@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 596553,
+    "imdb_id": "tt1182617",
+    "original_language": "en",
+    "original_title": "One Summer in Austin: The Story of Filming 'A Scanner Darkly'",
+    "overview": "",
+    "popularity": 1.837,
+    "poster_path": "/r6Wq9nRGpQ1xJfjnk8VrC4cf1qk.jpg",
+    "production_companies": [
+        {
+            "id": 47993,
+            "logo_path": null,
+            "name": "Eric Matthies Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 17,
+            "logo_path": "/s1y7CTv6YHe87YUGOq6SRB6DmO7.png",
+            "name": "Warner Bros. Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-12-19",
+    "revenue": 0,
+    "runtime": 26,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "One Summer in Austin: The Story of Filming 'A Scanner Darkly'",
+    "video": true,
+    "vote_average": 7.7,
+    "vote_count": 3
+}

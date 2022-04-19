@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/sHPfBVFq7dlnXCz1zFdbEdwcBDJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://replicasmovie.com",
+    "id": 300681,
+    "imdb_id": "tt4154916",
+    "original_language": "en",
+    "original_title": "Replicas",
+    "overview": "Nach dem tragischen Unfalltod seiner geliebten Familie, versucht der Neurowissenschaftler Will Foster alles, um sie zurück ins Leben zu holen. Der brillante Forscher experimentiert schließlich schon lange damit, Teile des Gehirns von Menschen in Roboterkörper zu transferieren. Was eigentlich verwundeten Soldaten helfen sollte, könnte jetzt seine Familie retten. Unterstützt wird er von seinem Kollegen Ed, mit dessen Hilfe ihm sein (illegaler) Plan zu gelingen scheint. Doch bald stellt sich für Will eine schwierige Frage: Er hat nur drei neue Körper für seine tote Frau und ihre gemeinsamen drei Kinder. Er muss also entscheiden, wen er nicht retten wird …",
+    "popularity": 20.505,
+    "poster_path": "/4KXjM1V7ZpqC7CoOmtxa8WQJKEC.jpg",
+    "production_companies": [
+        {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "Di Bonaventura Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7193,
+            "logo_path": null,
+            "name": "Company Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 81985,
+            "logo_path": null,
+            "name": "Ocean Park Entertainment",
+            "origin_country": "PR"
+        },
+        {
+            "id": 76314,
+            "logo_path": "/oFiHo3350Nj7bi6oxYMq3Kp6VGC.png",
+            "name": "Riverstone Pictures",
+            "origin_country": "GB"
+        },
+        {
+            "id": 89845,
+            "logo_path": null,
+            "name": "Remstar Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 55244,
+            "logo_path": "/6tjtQvghRRXFmCsuN8SsKJW6cIm.png",
+            "name": "Fundamental Films",
+            "origin_country": "CN"
+        },
+        {
+            "id": 74208,
+            "logo_path": "/rZU9oUWZ66ns44vLmqVmeNrGATs.png",
+            "name": "Lotus Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "PR",
+            "name": "Puerto Rico"
+        }
+    ],
+    "release_date": "2018-10-25",
+    "revenue": 8100000,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Einige Menschen sind nicht aufzuhalten",
+    "title": "Replicas",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 1073
+}

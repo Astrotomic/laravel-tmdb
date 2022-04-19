@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/disE4kPp6jkIR8MJhVsdYuKyv3q.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 51321,
+    "imdb_id": "tt0095853",
+    "original_language": "en",
+    "original_title": "Permanent Record",
+    "overview": "David Sinclair seems to have everything going for him: he's smart, musically talented, and very successful. To top off his senior year in high school, his band is trying to get a recording session. Therefore, David's suicide leaves everyone, especially his best friend and bandmate, Chris, with a lot of questions.",
+    "popularity": 3.748,
+    "poster_path": "/AsoyWPJwtuRJuHyMhXpcsK0XrbX.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1988-04-22",
+    "revenue": 1893139,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "High school. Senior year. His suicide shattered their world. Their courage drove them to pick up the pieces.",
+    "title": "Permanent Record",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 41
+}

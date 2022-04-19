@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/7BlCuxZ0MT2Ix2Wah48oo821QIT.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 17465,
+    "imdb_id": "tt0092272",
+    "original_language": "en",
+    "original_title": "Youngblood",
+    "overview": "Dean Youngblood ist ganze siebzehn und hat nur ein Ziel: einen Profivertrag als Eishockeyspieler. Doch der Weg nach oben ist so steinig wie eisig. Wie besessen kämpft er um einen festen Platz im Team - mit dem Schläger und wenn es sein muss auch mit den Fäusten. Doch dann stellt ihn ein brutales Foul an seinem besten Freund vor die schwerste Entscheidung seines Lebens...",
+    "popularity": 11.601,
+    "poster_path": "/g6ci69HWQrAopVXoZMUOI3QNQqa.jpg",
+    "production_companies": [
+        {
+            "id": 60,
+            "logo_path": "/oJXpAs4I3W46e4dkaOEzCa4yBko.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 4357,
+            "logo_path": null,
+            "name": "The Guber-Peters Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-01-31",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bodycheck",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 163
+}

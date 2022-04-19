@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/72p6d4MPEcA7FqHJjiE4u44SO2B.jpg",
+    "belongs_to_collection": {
+        "id": 404609,
+        "name": "John Wick Filmreihe",
+        "poster_path": "/cYFHYelgGIaMbPFqM1ld7n2DpCo.jpg",
+        "backdrop_path": "/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.lionsgate.com/franchises/john-wick",
+    "id": 603692,
+    "imdb_id": "tt10366206",
+    "original_language": "en",
+    "original_title": "John Wick: Chapter 4",
+    "overview": "Hagakure kommt aus dem Japanischen und ist eine Sammlung von Lektionen, Episoden und Aufzeichnungen des Samurais Tsunetomo Yamamoto, die Anfang des 18. Jahrhunderts entstanden ist. Hagakure bedeutet dabei so viel wie „Im Schatten der Blätter“, „Versteckte Blätter“ oder auch „Hinter den Blättern“ und fungierte  als eine Art Ehrenkodex für Samurais. Wird John Wick sich also mit der Kultur der Samurais beschäftigen?",
+    "popularity": 85.24,
+    "poster_path": "/kPsRQfoyYgcpbI6hvDQvUSCo0q3.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 491,
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+        },
+        {
+            "id": 23008,
+            "logo_path": "/5SarYupipdiejsEqUkwu1SpYfru.png",
+            "name": "87Eleven",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2023-03-23",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "John Wick: Kapitel 4",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

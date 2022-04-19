@@ -1,0 +1,49 @@
+{
+    "id": 848375,
+    "name": "Gunpowder Milkshake Collection",
+    "overview": "",
+    "poster_path": "/9p5b37jaeSoYFTMda3WYLoFVKOK.jpg",
+    "backdrop_path": "/wT0lLOhN5U8Lnc9FNxrcj3h5Uco.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/1GVwnspfEEMOHkSWRcibipPT0Pc.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 574060,
+            "title": "Gunpowder Milkshake",
+            "original_language": "en",
+            "original_title": "Gunpowder Milkshake",
+            "overview": "Die Profikillerin Scarlet gehört zu den Frauen, die sich keinesfalls einschüchtern lassen. Als eine Gruppe von Feinden nicht nur ihr Leben, sondern auch das ihrer Tochter Sam bedrohten, blieb ihr keine andere Wahl, als unterzutauchen. Der Apfel fällt nicht weit vom Stamm, und so verwundert es nicht, dass Sam in der Zwischenzeit selbst zu einer unberechenbaren Mörderin geworden ist. Bei ihrem letzten Auftrag läuft jedoch etwas gehörig schief, was so weit führt, dass sogar ein unschuldiges Mädchen ins Fadenkreuz gerät. Sam bleibt nun keine andere Wahl mehr, als ebenfalls in den Untergrund zu gehen. Dort erwartet sie eine handfeste Überraschung, stößt sie hier doch erneut auf ihre Mutter Scarlet. Die kann es kaum abwarten, ihre einstigen Weggefährtinnen wieder zusammenzutrommeln und ihren Widersachern ein für alle Mal den Garaus zu machen ...",
+            "popularity": 209.435,
+            "poster_path": "/3Bl0saAhHh5nJOXeae1JUv4OmjN.jpg",
+            "release_date": "2021-07-14",
+            "video": false,
+            "vote_average": 6.356,
+            "vote_count": 571
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 848371,
+            "title": "Gunpowder Milkshake 2",
+            "original_language": "en",
+            "original_title": "Gunpowder Milkshake 2",
+            "overview": "",
+            "popularity": 1.485,
+            "poster_path": null,
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

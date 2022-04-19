@@ -1,0 +1,69 @@
+{
+    "id": 131292,
+    "name": "Iron Man Filmreihe",
+    "overview": "Eine auf dem gleichnamigen Marvel Comic Charakter beruhende Superhelden Filmserie und Teil des Marvel Cinematic Universe (MCU). Tony Stark (Iron Man), ein Unternehmer und Top-Ingenieur benutzt ein elektrisch betriebenes Exoskelett um Feinde zu bekämpfen. Unterstützt wird er dabei von seiner persönlichen Assistentin und Angebetenen Pepper Potts.",
+    "poster_path": "/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
+    "backdrop_path": "/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 1726,
+            "title": "Iron Man",
+            "original_language": "en",
+            "original_title": "Iron Man",
+            "overview": "Der Großindustrielle und Erfinder Tony Stark weiß zu leben: Als Milliardär liegen ihm die Frauen zu Füßen, er feiert Partys im Privatjet und verspielt Riesensummen im Casino, während seine Rüstungsfirma unter Obadiah Stane Rekordumsätze erzielt. Bei einem Waffentestlauf in Afghanistan wird er jedoch Opfer eines Bombenanschlags. Stark überlebt schwer verletzt und wird von einer Gruppe Aufständischer unter Führung des Warlords Raza dazu gezwungen, eine Superwaffe zu entwickeln. Es gelingt ihm jedoch, heimlich eine eiserne Schutzrüstung zu bauen, die ihn dank neuster Technologie zu Superkräften befähigt. Nach einer spektakulären Flucht zurück in die USA muss sich der Iron Man allerdings einem ersten übermächtigen Gegner stellen.",
+            "popularity": 130.038,
+            "poster_path": "/ouJv7stk6mTGWfOV9qj1cIV6LQ5.jpg",
+            "release_date": "2008-04-30",
+            "video": false,
+            "vote_average": 7.626,
+            "vote_count": 22571
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zINLC59ButA0fjAQIyJmFFNdjM.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 10138,
+            "title": "Iron Man 2",
+            "original_language": "en",
+            "original_title": "Iron Man 2",
+            "overview": "Tony Stark ist Iron Man. Nach der Öffentlichmachung dieser Doppelidentität sonnt sich der selbstverliebte Egomane in seinem noch jungen Ruhm als eiserner Weltenretter. Die Eröffnung der eigenen Expo inszeniert er wie ein Popkonzert, den Begehrlichkeiten des US-Militärs hinsichtlich seines Kampfanzugs erteilt er bei einem Untersuchungsausschuss vor laufenden Kameras eine arrogant-zynische Absage. Erst als ihm der russische Physiker und Exsträfling Ivan Vanko bei einem Show Grand Prix in Monte Carlo die Grenzen seiner Erfindung aufzeigt, bekommt Starks ehernes Ego erste Kratzer. Dazu kommt eine von Starks lebenswichtigem Minireaktor ausgehende Paladium-Vergiftung, die, sofern er keine Ersatzquelle auftut, unweigerlich zu seinem Tod führt.",
+            "popularity": 199.775,
+            "poster_path": "/p1iLvWMorOxVgXU2ncspa9lwM7s.jpg",
+            "release_date": "2010-04-28",
+            "video": false,
+            "vote_average": 6.836,
+            "vote_count": 17779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 68721,
+            "title": "Iron Man 3",
+            "original_language": "en",
+            "original_title": "Iron Man 3",
+            "overview": "Die Dellen, die sich Iron Man im Kampf gegen seine Widersacher Justin Hammer und Ivan Vanko zugezogen hatte, sind kaum ausgebeult, da droht neue Gefahr. Ein streng geheimes Serum, welches Extremis genannt wird und auf Nanotechnologie basiert, ermöglicht es den mit dem Serum injizierten Menschen, ungeahnte Kräfte zu entwickeln, allerdings mit einer Tendenz zu ungezügelter Aggressivität. Aldrichs Kollegin Maya Hansen, baut auf die Hilfe von Visionär Tony Stark. Währendessen bedroht eine dunkle Macht in Gestalt von The Mandarin die Welt und möchte dem Wettrüsten ein Ende zu seinen Gunsten setzen. Dabei verübt er einen Anschlag auf die amerikanische Regierung und dessen Präsidenten, sowie auf die Air Force, bei der Tony Starks Freund Rhodey dient. Als ein Anschlag auf Tony Starks Eigenheim folgt, geraten er und Pepper Potts in große Gefahr…",
+            "popularity": 138.537,
+            "poster_path": "/ka5XosrS20zhVmuHalWZUMkQBfc.jpg",
+            "release_date": "2013-04-18",
+            "video": false,
+            "vote_average": 6.932,
+            "vote_count": 19319
+        }
+    ]
+}

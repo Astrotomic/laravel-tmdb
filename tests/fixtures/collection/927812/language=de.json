@@ -1,0 +1,50 @@
+{
+    "id": 927812,
+    "name": "Wyrmwood Collection",
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/ewNUXJJdIqBxWNV9BLBzJ8jyH5b.jpg",
+            "genre_ids": [
+                27,
+                28,
+                35
+            ],
+            "id": 290999,
+            "title": "Wyrmwood: Road of the Dead",
+            "original_language": "en",
+            "original_title": "Wyrmwood: Road of the Dead",
+            "overview": "Mit dem Ausbruch einer globalen Zombie-Apokalypse hat der Mechaniker Barry so ziemlich alles außer seiner Schwester Brooke verloren. Als die eines Tages jedoch von einer Bande Maskierter entführt wird, ist Barry am Boden zerstört. Doch er beschließt, nicht untätig zu bleiben und sich auf die Suche nach ihr zu machen. Einen Verbündeten findet er in dem Draufgänger Benny, mit dem er sich durch eine Welt schlägt, in der nicht nur die wandelnden Toten, sondern auch die Überlebenden eine Bedrohung sind – schuld ist der Streit um die knappen Ressourcen. Bis an die Zähne bewaffnet, kämpfen sich Barry und Benny durch schier endlose Zombie-Horden, um Brooke aus den Fängen eines psychopathischen Arztes zu retten, der grausame Experimente durchführt, an Menschen und Zombies gleichermaßen…",
+            "popularity": 15.577,
+            "poster_path": "/uoEacBSqFrflahclYpBUR77o0rX.jpg",
+            "release_date": "2014-09-19",
+            "video": false,
+            "vote_average": 6.099,
+            "vote_count": 332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xIDNawZ8TLCOpS6G4CUtxC429n.jpg",
+            "genre_ids": [
+                27,
+                12,
+                28,
+                35
+            ],
+            "id": 879957,
+            "title": "Wyrmwood: Apocalypse",
+            "original_language": "en",
+            "original_title": "Wyrmwood: Apocalypse",
+            "overview": "",
+            "popularity": 51.647,
+            "poster_path": "/mlIRMqBqi7J9wXjlqtQ0jjYBZT3.jpg",
+            "release_date": "2022-02-10",
+            "video": false,
+            "vote_average": 5.882,
+            "vote_count": 17
+        }
+    ]
+}

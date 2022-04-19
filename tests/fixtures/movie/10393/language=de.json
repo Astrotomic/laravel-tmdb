@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/pI5UfbDtY0CoUq8tCFKaRejPl2j.jpg",
+    "belongs_to_collection": null,
+    "budget": 50000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 10393,
+    "imdb_id": "tt0191397",
+    "original_language": "en",
+    "original_title": "The Replacements",
+    "overview": "Die Football-Profis der Washington Sentinels treten in den Streik, weil sie mehr Geld verdienen möchten. Um so schnell wie möglich ein Ersatzteam auf die Beine zu stellen, kehrt der Ex-Trainer Jimmy McGinty aus dem Ruhestand zurück. Schon bald tummelt sich auf dem Rasen des Sentinels-Stadions ein bunter Haufen arangierter Exzentriker: darunter u.a. ein dauerkiffender Walliser, ein japanischer Sumo-Ringer, ein vom Staatsgefängnis ausgeliehener Sträfling, ein Psycho-Polizist und ein wiedergeborener Christ. Angeführt werden sie von Shane Falco, der früher wegen mangelnder Nervenstärke seine Karriere vorzeitig beendet hat. Die Chaoten haben zwar eine äußerst eigenartige Spielweise, verbringen jedoch bald wahre Wunder in der Arena.",
+    "popularity": 20.637,
+    "poster_path": "/9L1T30b0jzWHHeLbiYfnVOolgnb.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 788,
+            "logo_path": null,
+            "name": "Bel Air Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 8807,
+            "logo_path": null,
+            "name": "Dylan Sellers Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-08-11",
+    "revenue": 50054511,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Helden aus der zweiten Reihe",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 743
+}

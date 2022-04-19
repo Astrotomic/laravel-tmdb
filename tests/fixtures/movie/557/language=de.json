@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/gUATaiYFjlIYWLmVsPcuThGTFnU.jpg",
+    "belongs_to_collection": {
+        "id": 556,
+        "name": "Spider-Man Filmreihe",
+        "poster_path": "/bp5PqLa06QA1LsELA1SsKZ008H7.jpg",
+        "backdrop_path": "/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg"
+    },
+    "budget": 139000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/spiderman",
+    "id": 557,
+    "imdb_id": "tt0145487",
+    "original_language": "en",
+    "original_title": "Spider-Man",
+    "overview": "Peter Parker ist nicht gerade angesehen an seiner Uni, denn er ist schmächtig und ungeschickt, was seine Chancen beim Mädchen seiner Träume, Mary Jane nicht gerade erhöht. Als er eines Tages jedoch von einer genmanipulierten Spinne gebissen wird, wacht er am nächsten Morgen auf und findet seine Sinne geschärft vor und entwickelt auch weitere übermenschliche, aber sehr spinnenähnliche Fähigkeiten. Nachdem er damit zunächst sein Traummädchen beeindruckt hat, wächst er schon bald zu dem maskierten Helden Spider-Man heran, spätestens als ein Superschurke namens Grüner Kobold, der die Mr.Hyde-Variante des Wissenschaftlers Norman Osborn ist, die Stadt bedroht...",
+    "popularity": 197.496,
+    "poster_path": "/az7lOIr7rs5JAYYnpKMV0QEAleI.jpg",
+    "production_companies": [
+        {
+            "id": 19551,
+            "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+            "name": "Marvel Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 326,
+            "logo_path": null,
+            "name": "Laura Ziskin Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-05-01",
+    "revenue": 821708551,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Mit großer Macht kommt auch große Verantwortung.",
+    "title": "Spider-Man",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 15542
+}

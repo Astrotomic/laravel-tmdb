@@ -1,0 +1,128 @@
+{
+    "id": 17178,
+    "name": "Jackass Filmreihe",
+    "overview": "Von 2000 bis 2002 produzierte der US-amerikanische Musiksender MTV die Serie \"Jackass\", die im Videoclip-Stil eine Gruppe junger Männer dabei zeigte, wie sie gefährliche Stunts und ekelerregende Mutproben ausführten. Nach dem Ende der Fernsehserie wurde das Konzept mit den gleichen Darstellern auf Spielfilmlänge ausgedehnt.",
+    "poster_path": "/tLga6buvaRSBcFJT03WgSBZ1wAa.jpg",
+    "backdrop_path": "/lidPLbyE1JCUacEDOzkTCncCPBL.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/t16qoOYC5rgkgKA7LWj8E5Nt9SL.jpg",
+            "genre_ids": [
+                35,
+                28,
+                99
+            ],
+            "id": 9012,
+            "title": "Jackass - Der Film",
+            "original_language": "en",
+            "original_title": "Jackass: The Movie",
+            "overview": "Auch in ihrer Kinoproduktion sind sich Johnny Knoxville, Steve-O, Bam Margera, Chris Pontius, Dave England, Ryan Dunn und Co. für keinen waghalsigen Stunt zu schade und für keine Perversität zu fein. Verrückte Aktionen wie beispielsweise das Bearbeiten des Körpers mit einem Muskelstimulator, ein Überquerungsversuch eines Alligatorbeckens, eine \"Off Road\" Tätowierung, diverse Fäkalstunts, sowie spektakuläre Mountainbike- und Skateboard-Akrobatik serviert die \"Jackass\" - Crew hier am laufenden Band.",
+            "popularity": 38.252,
+            "poster_path": "/fAfqDAX0HE81K30KKtCThJUu5xw.jpg",
+            "release_date": "2002-10-17",
+            "video": false,
+            "vote_average": 6.246,
+            "vote_count": 1185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uv5cEAh4O99ZTBUe6q2QdvsLjny.jpg",
+            "genre_ids": [
+                28,
+                35,
+                99
+            ],
+            "id": 12094,
+            "title": "Jackass: Nummer Zwei",
+            "original_language": "en",
+            "original_title": "Jackass Number Two",
+            "overview": "Erneut trommelt Johnny Knoxville seine durchgeknallten Kumpels zusammen, um neue Widerlichkeiten und halsbrecherische Action auf Zelluloid zu bannen. Neben den altbewährten Stunts mit dem Einkaufswagen, bietet der Film einen Stierkampf mit blindem Matador, ein schmerzhaftes Zusammentreffen zwischen einem Krebs und einer Zunge sowie das Ziehen eines Zahnes mit der naturgemäß schmerzarmen Nylonfaden-Methode. Das oftmals mit Blessuren und anderen unschönen Nebenerscheinungen. Man kann auch bei diesem Streifen wirklich nur wiederholen: \"Don't try this at home!\".",
+            "popularity": 28.935,
+            "poster_path": "/pKyEbrvtFbhzzwbPSmYAYKmQZHA.jpg",
+            "release_date": "2006-09-22",
+            "video": false,
+            "vote_average": 6.456,
+            "vote_count": 857
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mrMpcU9mBmoYoGwwwux0eqrkuWb.jpg",
+            "genre_ids": [
+                35,
+                99,
+                28
+            ],
+            "id": 16290,
+            "title": "Jackass 3D",
+            "original_language": "en",
+            "original_title": "Jackass 3D",
+            "overview": "Das \"Jackass\"-Team ist zurück. Und wie man es nicht anders erwartet, fallen ihnen Methoden ein, sich und sein Gegenüber auf die unsinnigste Art und Weise zu quälen, auf die andere nicht mal im Traum kommen. Da werden Fische als Keule verwendet, Dixi-Klos mit einem Katapult samt Benutzer und Inhalt durch die Luft geschossen und mit Jetskis der Pool und die Hecke einer Villa malträtiert. Und warum nicht mal einen Menschen als Ziel bei einer besonderen Form des Tontaubenschießens benutzen?",
+            "popularity": 69.355,
+            "poster_path": "/ueLwOGA5hsOzuoY25oZfFLMHZLS.jpg",
+            "release_date": "2010-10-15",
+            "video": false,
+            "vote_average": 6.57,
+            "vote_count": 1084
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9KjZEJP39j3K6yXT7nCOrp5Ko2A.jpg",
+            "genre_ids": [
+                35,
+                99,
+                28
+            ],
+            "id": 65851,
+            "title": "Jackass 3.5",
+            "original_language": "en",
+            "original_title": "Jackass 3.5",
+            "overview": "Die Jungs von Jackass sind wieder da mit ihrem komplett neuen, unzensierten Film. Vollgestopft mit noch haarsträubenderen Stunts, absoluter Dummheit und noch nie zuvor gesehenen Streichen und Chaos. Nicht zu vergessen die sehr persönliche Begegnung von Steve-O mit einer Schnappschildkröte, Chris Pontius und sein unglaublicher Specht und ein elektrifizierendes Limbospiel mit der ganzen Gang. Außerdem gibt es einen Einblick in das paranoide Leben am Set von Jackass und einige Streiche, die hinter den Kulissen auf Kosten von Johnny Knoxville gemacht wurden.",
+            "popularity": 30.774,
+            "poster_path": "/1dXigjDk1XTmwVBtKEB422LxgS.jpg",
+            "release_date": "2011-04-01",
+            "video": false,
+            "vote_average": 6.297,
+            "vote_count": 440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bsU6KKTKhNYWfZNuUkGXWIFZiHe.jpg",
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 14158,
+            "title": "Jackass 2.5",
+            "original_language": "en",
+            "original_title": "Jackass 2.5",
+            "overview": "Aus dem überschüssigen Material zum zweiten Kinofilm zusammen geschnittene Collage einschlägigen Jackass-Materials. Johnny Knoxville, Bam Margera, Steve-O und die restliche Truppe bietet die gewohnte Mischung aus sinnlosen Stunts, geschmacklosen Ekel-Ideen und Passanten-Verulkungen im Stil der versteckten Kamera.",
+            "popularity": 31.279,
+            "poster_path": "/qriTT0KQvvuCs73z0LyEduw6XX.jpg",
+            "release_date": "2007-12-18",
+            "video": false,
+            "vote_average": 6.086,
+            "vote_count": 388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+            "genre_ids": [
+                28,
+                99,
+                35
+            ],
+            "id": 656663,
+            "title": "Jackass Forever",
+            "original_language": "en",
+            "original_title": "Jackass Forever",
+            "overview": "Johnny Knoxville dreht zum letzten Mal durch! Der berühmte Draufgänger erlebt in diesem gigantischen Jackass-Spektakel den intensivsten Bullenritt seiner Karriere. Begleitet wird er bei seinen verrückten, Schmerz verursachenden Adrenalinkicks sowohl von Langzeitlegenden wie Steve-O als auch von neuen Gesichtern wie Stuntman Zach Holmes und Surfer Sean „Poopies“ McInerney.",
+            "popularity": 903.789,
+            "poster_path": "/mngVoRTfXT2tV7zaC2Xnq3u8RAR.jpg",
+            "release_date": "2022-02-01",
+            "video": false,
+            "vote_average": 6.876,
+            "vote_count": 262
+        }
+    ]
+}

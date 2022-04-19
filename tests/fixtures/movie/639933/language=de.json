@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/ik9SVGcYxKg6y2a9cW0e0WchImW.jpg",
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.focusfeatures.com/the-northman",
+    "id": 639933,
+    "imdb_id": "tt11138512",
+    "original_language": "en",
+    "original_title": "The Northman",
+    "overview": "Im 10. Jahrhundert bei den Wikingern. Der junge Sohn des Königs schwört Rache nach der Ermordung seines Vaters des Königs. Nachdem er somit das Königreich verlor, schwört er seinen Vater zu rächen, seine Mutter zu beschützen & Fjölnir, den Mörder seines Vaters zu töten…",
+    "popularity": 343.481,
+    "poster_path": "/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg",
+    "production_companies": [
+        {
+            "id": 10104,
+            "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+            "name": "New Regency Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 10146,
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "origin_country": "US"
+        },
+        {
+            "id": 10338,
+            "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+            "name": "Perfect World Pictures",
+            "origin_country": "CN"
+        },
+        {
+            "id": 123620,
+            "logo_path": null,
+            "name": "Square Peg",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-07",
+    "revenue": 0,
+    "runtime": 137,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Icelandic",
+            "iso_639_1": "is",
+            "name": "Íslenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Northman",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 36
+}

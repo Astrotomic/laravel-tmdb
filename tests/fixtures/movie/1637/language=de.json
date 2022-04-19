@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/lywmuPU5Hr1Mnpb9UGeDbILmkTx.jpg",
+    "belongs_to_collection": {
+        "id": 43064,
+        "name": "Speed Filmreihe",
+        "poster_path": "/nQ6AiPqa5wc1eUk62SBXWgB6tmA.jpg",
+        "backdrop_path": "/5YDT5pRGMvuOqOk7SWBq8HBrbGm.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "http://www.20thcenturystudios.com/movies/speed",
+    "id": 1637,
+    "imdb_id": "tt0111257",
+    "original_language": "en",
+    "original_title": "Speed",
+    "overview": "Ein Terrorist will drei Millionen Dollar erpressen, oder die zufälligen Geiseln in einem Fahrstuhl fallen 35 Stockwerke in die Tiefe. Doch Jack schafft das Unmögliche: Die Geiseln werden in letzter Sekunde gerettet und der Terrorist stirbt an seiner eigenen Bombe. – Scheinbar! Doch dieser überlebt und erklärt und Jack zu seinem speziellen Feind, dies erfährt der Cop mittels einer grausigen Botschaft: Vor seinen Augen lässt Bombenexperte Payne einen Linienbus explodieren. Doch das war erst der Auftakt! Payne platziert eine weitere, komplizierte Bombe in einen öffentlichen Bus. Die Bombe aktiviert sich selbsttätig, wenn das Fahrzeug schneller als 50 Meilen pro Stunde fährt und detoniert sofort, wenn diese Geschwindigkeit wieder unterschritten wird. Und Jack hat ihr Leben in der Hand. Als der Busfahrer verletzt wird, übernimmt Fahrgast Annie das Steuer. Doch wohin mit einem Bus, der nicht bremsen darf, in der Stadt der Staus?!",
+    "popularity": 33.686,
+    "poster_path": "/apy5KguseoL5iQASBfg44gMfO3u.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 1557,
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-06-09",
+    "revenue": 350448145,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Schnallen Sie sich fest an!",
+    "title": "Speed",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 4849
+}

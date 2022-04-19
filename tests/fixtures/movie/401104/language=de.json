@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/en6RCcsjVPeuWBjIwne6eogHhrz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80171659",
+    "id": 401104,
+    "imdb_id": "tt5541240",
+    "original_language": "en",
+    "original_title": "To the Bone",
+    "overview": "A young woman dealing with anorexia meets an unconventional doctor who challenges her to face her condition and embrace life.",
+    "popularity": 32.877,
+    "poster_path": "/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg",
+    "production_companies": [
+        {
+            "id": 77810,
+            "logo_path": null,
+            "name": "Sparkhouse Media",
+            "origin_country": ""
+        },
+        {
+            "id": 1092,
+            "logo_path": "/dU2S6qBrsMkBFFkAbcUnJ7p3Izh.png",
+            "name": "Mockingbird Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 59593,
+            "logo_path": null,
+            "name": "AMBI Group",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-01-22",
+    "revenue": 0,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Don't fade away",
+    "title": "To the Bone",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 3150
+}

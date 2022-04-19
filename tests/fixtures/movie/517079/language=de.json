@@ -1,0 +1,44 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": null,
+    "id": 517079,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "The Making of My Own Private Idaho",
+    "overview": "Making-of documentary of Gus Van Sant's 'My Own Private Idaho'.",
+    "popularity": 1.53,
+    "poster_path": "/c5PMu6xEqypqbC1tjTQaF1FSXOZ.jpg",
+    "production_companies": [
+        {
+            "id": 151901,
+            "logo_path": "/2DCll3Ba0nJkuAe0aNi0ma3vLaT.png",
+            "name": "The Criterion Collection",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-03-01",
+    "revenue": 0,
+    "runtime": 43,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Making of My Own Private Idaho",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 3
+}

@@ -1,0 +1,71 @@
+{
+    "id": 735384,
+    "name": "Hercule Poirot (Kenneth Branagh) Filmreihe",
+    "overview": "",
+    "poster_path": "/lSiVxZkNl9kWNQf6tlKzEVN8EtI.jpg",
+    "backdrop_path": "/edublNCxjewKUYSWw13A4fDiPxt.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/2J283YNxKhxAqHeVegUJ5mzLfGb.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                18
+            ],
+            "id": 392044,
+            "title": "Mord im Orient-Express",
+            "original_language": "en",
+            "original_title": "Murder on the Orient Express",
+            "overview": "Für die Rückreise von einem seiner Fälle nimmt Hercule Poirot den legendären Orient-Express. An eine gemütliche Zugfahrt ist aber nicht lange zu denken, stattdessen hat der berühmte Meisterdetektiv bald wieder Arbeit: Ein Passagier wird ermordet und damit ist klar, dass einer der übrigen Reisenden der Täter sein muss. Die spanische Missionarin Pilar Estravados, die Gouvernante Mary Debenham, Professor Gerhard Hardman, die Witwe Mrs. Hubbard und der Doktor Arbuthnot sind alle verdächtig. Doch bald wird Poirot klar, dass er den Fall nicht lösen wird, wenn er mehr über die möglichen Täter erfährt. Er muss mehr über das Opfer herausfinden – und sich beeilen, damit der Killer nicht nochmal zuschlägt...",
+            "popularity": 51.686,
+            "poster_path": "/b3nP5FxTwEiUEjjG6bSwJMpIKKn.jpg",
+            "release_date": "2017-11-03",
+            "video": false,
+            "vote_average": 6.701,
+            "vote_count": 8271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 505026,
+            "title": "Tod auf dem Nil",
+            "original_language": "en",
+            "original_title": "Death on the Nile",
+            "overview": "Hercule Poirot schließt sich einer bunt gemischten Reisegruppe an, die auf einem Dampfer den Nil bereist. Auf der Fahrt kommt es zum Mord an der schönen und reichen Linnet Doyle, doch die Hauptverdächtige – Jacqueline de Bellefort, der Linnet ihren Verlobten Simon Doyle weggeschnappt hat – hat zum Tatzeitpunkt ein Alibi. Poirot nimmt die Ermittlungen auf und muss unter den zahlreichen anderen Verdächtigen, darunter Linnets Dienstmädchen Louise Bourget, ihr Treuhänder Andrew Katchadourian und die berühmte Marie Van Schuyler, den Tätern finden…",
+            "popularity": 720.186,
+            "poster_path": "/judCDBhF438LRslfhdOpK0kDnSZ.jpg",
+            "release_date": "2022-02-09",
+            "video": false,
+            "vote_average": 6.525,
+            "vote_count": 1355
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                9648,
+                18,
+                53
+            ],
+            "id": 945729,
+            "title": "Untitled Hercule Poirot Film",
+            "original_language": "en",
+            "original_title": "Untitled Hercule Poirot Film",
+            "overview": "",
+            "popularity": 1.178,
+            "poster_path": null,
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

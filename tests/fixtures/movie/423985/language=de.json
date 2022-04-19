@@ -1,0 +1,38 @@
+{
+    "adult": false,
+    "backdrop_path": "/i4V0JjGaUJiP9nWCSo1Noh14usR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 423985,
+    "imdb_id": "tt5228262",
+    "original_language": "en",
+    "original_title": "A Happening of Monumental Proportions",
+    "overview": "",
+    "popularity": 6.342,
+    "poster_path": "/t0OfNAgYtogZagFfpKTryDpk05I.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2017-05-05",
+    "revenue": 0,
+    "runtime": 81,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Happening of Monumental Proportions",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 13
+}

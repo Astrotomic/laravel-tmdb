@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/ndCSoasjIZAMMDIuMxuGnNWu4DU.jpg",
+    "belongs_to_collection": {
+        "id": 618529,
+        "name": "Doctor Strange Filmreihe",
+        "poster_path": "/bm7UlW3ctMJAvD6NNXrCDdRyyKn.jpg",
+        "backdrop_path": "/5ZuctJh5uX5L2dz1CjA7WsTJwZk.jpg"
+    },
+    "budget": 170000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/doctor-strange-in-the-multiverse-of-madness",
+    "id": 453395,
+    "imdb_id": "tt9419884",
+    "original_language": "en",
+    "original_title": "Doctor Strange in the Multiverse of Madness",
+    "overview": "\"Das Multiversum ist ein Konstrukt über das wir erstaunlich wenig wissen\". Nach den Geschehnissen von Spidermans \"No Way Home\" sind die Dinge außer Kontrolle geraten. Gleich drei Gegenspieler machen Strange hierbei das Leben schwer. Nebst dem Zauberer Mordo, der schon im ersten Teil die Seiten wechselte und einem Tentakel-Viech namens Shuma-Gorath, wird der zaubernde Held auch noch mit einer bösen Variante seiner selbst aus einer Dimension konfrontiert, in der er zum Schurken geworden ist.",
+    "popularity": 461.644,
+    "poster_path": "/211J3FayWvqtODF7LGFCzWLnc2m.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-05-04",
+    "revenue": 0,
+    "runtime": 126,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

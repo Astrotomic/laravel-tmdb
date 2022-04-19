@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/sHDlvjOeXTKsgdBnF5AeGHVFpUd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 331583,
+    "imdb_id": "tt3503406",
+    "original_language": "en",
+    "original_title": "The Whole Truth",
+    "overview": "Als er seiner Freundin Loretta Lassiter verspricht, ihren Sohn Mike vor dem Gefängnis zu bewahren, nimmt Strafverteidiger Richard Ramsay entgegen seiner Überzeugung, einen sehr persönlichen Fall an. Mike wird beschuldigt, seinen Vater Boone ermordet zu haben. Er hat die Tat sogar gestanden, spricht aber mittlerweile kein Wort mehr – auch nicht mit seinem Anwalt. Doch während des Verfahrens kommen neue Details über Boone ans Licht und es stellt sich schnell heraus, dass fast alle Zeugen etwas zu verheimlichen haben. Das nutzt Ramsay aus, um einen Freispruch für seinen Klienten zu erwirken, denn darum allein geht es ihm. Unterdessen stellt seine Assistentin Janelle  weitere Nachforschungen an und erhebt einen ungeheuren Verdacht.",
+    "popularity": 17.342,
+    "poster_path": "/aYGpsp7EDyiT7XevpAPLbjD3KQ7.jpg",
+    "production_companies": [
+        {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 1785,
+            "logo_path": "/wT6aIkuQTNuq8XFoDGACK8EyR6w.png",
+            "name": "Likely Story",
+            "origin_country": "US"
+        },
+        {
+            "id": 45358,
+            "logo_path": null,
+            "name": "Merced Media Partners",
+            "origin_country": ""
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 24277,
+            "logo_path": "/mRSBVNNL2lZvJKVGjlxeUQVRc6X.png",
+            "name": "PalmStar Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-03-25",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Whole Truth - Lügenspiel",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 909
+}

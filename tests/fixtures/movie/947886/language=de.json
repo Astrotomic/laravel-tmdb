@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/lltPxziJ7vd3VOt4Bul3Nat1Ya9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 947886,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Daughter of God",
+    "overview": "",
+    "popularity": 1.52,
+    "poster_path": "/lIu43I0nW5o1gMjFvUHHfKloQuK.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2016-01-22",
+    "revenue": 1787926,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Daughter of God",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

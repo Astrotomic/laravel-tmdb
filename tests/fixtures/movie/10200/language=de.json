@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/9IV5FVm2o5yCr1OYgZdVoz3Tvtg.jpg",
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10200,
+    "imdb_id": "tt0970416",
+    "original_language": "en",
+    "original_title": "The Day the Earth Stood Still",
+    "overview": "Die Biologiewissenschaftlerin Helen Barnes wird von der US-Regierung in streng geheimer Sache konsultiert. Unbekannte Flugobjekte haben die Erde erreicht und die Absicht der außerirdischen Gäste ist noch unklar. Als Abgesandter der unbekannten Rasse aus dem Weltraum erscheint der unterkühlte Klaatu - dieser soll über das Schicksal der Menschheit entscheiden, die durch ihren zerstörerischen Charakter eine Gefahr für ihren fruchtbaren Heimatplaneten darstellt. Da eine Gefährdung aller Arten des Planeten durch eine einzige Spezies nicht länger zu erdulden ist, wird die Auslöschung der Menschen in die Wege geleitet.",
+    "popularity": 29.256,
+    "poster_path": "/801rXkNloWOnr5samGBAyrx1iBr.jpg",
+    "production_companies": [
+        {
+            "id": 6332,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment III",
+            "origin_country": "US"
+        },
+        {
+            "id": 20374,
+            "logo_path": null,
+            "name": "Earth Canada Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 20375,
+            "logo_path": null,
+            "name": "Hammerhead Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 787,
+            "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+            "name": "3 Arts Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-12-10",
+    "revenue": 233093859,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wir dachten die Erde gehört uns. Wir haben uns getäuscht.",
+    "title": "Der Tag, an dem die Erde stillstand",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 2731
+}

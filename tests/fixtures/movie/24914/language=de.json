@@ -1,0 +1,48 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+        "id": 712859,
+        "name": "The Animatrix Collection",
+        "poster_path": "/1GWbAkuoVqbNYCKab0z4kV3Xmlh.jpg",
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 24914,
+    "imdb_id": "tt0368574",
+    "original_language": "en",
+    "original_title": "Kid's Story",
+    "overview": "A high school student is haunted by thoughts of \"The Matrix\" and a person named \"Neo\". Part of the Animatrix collection of animated shorts set in the Matrix universe.",
+    "popularity": 5.391,
+    "poster_path": "/x5U6hUgRzF3pdhL5daimvfr8QBW.jpg",
+    "production_companies": [
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2003-06-03",
+    "revenue": 0,
+    "runtime": 15,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kid's Story",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 111
+}

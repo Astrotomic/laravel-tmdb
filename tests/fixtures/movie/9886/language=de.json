@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/eOPvt9Z9WZCzIrDhu359IoEtWm7.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 9886,
+    "imdb_id": "tt0113481",
+    "original_language": "en",
+    "original_title": "Johnny Mnemonic",
+    "overview": "Im Jahr 2021 ist die ganze Welt durch das Internet vernetzt, und die Hälfte der Bevölkerung leidet an dem Nerve Attenuation Syndrome. Der Cyberkurier Johnny, der sich einen Speicherchip ins Hirn implantieren lies, bekommt den Auftrag, eine große Menge gestohlener Daten von Beijing nach Newark zu bringen. Pharmakom Industries, die Besitzer der Daten, hetzen ihm eine Horde Yakuzas auf den Hals, während J-Bone, der Anführer der Low-Techs, versucht, die Daten zu entschlüsseln, denn sie sollen die Heilung für NAS enthalten…",
+    "popularity": 13.753,
+    "poster_path": "/qyR8gYUNsfhJWoFBYGSZw4OSHwV.jpg",
+    "production_companies": [
+        {
+            "id": 559,
+            "logo_path": "/jqWioYeGSyTLuHth0141bTGvu6H.png",
+            "name": "TriStar Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 2480,
+            "logo_path": null,
+            "name": "Alliance Communications Corporation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1995-05-26",
+    "revenue": 19075720,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der meistgesuchte Mann der Zukunft.",
+    "title": "Vernetzt - Johnny Mnemonic",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 1031
+}

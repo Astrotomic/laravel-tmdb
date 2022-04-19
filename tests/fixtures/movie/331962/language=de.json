@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/niGowOt2WKLTi1QaYcF4HDPprjj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://lionsgateathome.com/exposed",
+    "id": 331962,
+    "imdb_id": "tt4019560",
+    "original_language": "en",
+    "original_title": "Exposed",
+    "overview": "Die junge Latina Isabel de La Cruz wird von seltsamen Visionen geplagt, nachdem sie eigenen Aussagen zufolge Zeugin eines Wunders geworden ist. Ihre Wege kreuzen sich schon bald mit dem Polizisten Detective Galban, der verzweifelt versucht, die Wahrheit hinter dem mysteriösen Tod seines Partners Joey Cullen herauszufinden. Verdächtigt wird unter anderem der kriminelle Jonathan „Black“ Jones, der mit dem korrupten Joey eine gemeinsame Vergangenheit hat. Doch die Menschen, auf die Galban bei seinen Ermittlungen trifft, zeigen sich wenig gesprächsbereit, selbst als Galban zu härteren Mitteln greift. Schnell befindet sich der Cop in einer Sackgasse, aus der ihm nur noch Isabel, die am Tatort zum Zeitpunkt des Mordes anwesend war, helfen kann …",
+    "popularity": 23.638,
+    "poster_path": "/iGCbRBDpkQkuE0voG2o8mw8GFVX.jpg",
+    "production_companies": [
+        {
+            "id": 49153,
+            "logo_path": null,
+            "name": "Remark Films",
+            "origin_country": ""
+        },
+        {
+            "id": 10405,
+            "logo_path": null,
+            "name": "EFO Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 24277,
+            "logo_path": "/mRSBVNNL2lZvJKVGjlxeUQVRc6X.png",
+            "name": "PalmStar Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-01-22",
+    "revenue": 1787926,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Exposed - Blutige Offenbarung",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 403
+}

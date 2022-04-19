@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 730629,
+    "imdb_id": "tt12844100",
+    "original_language": "en",
+    "original_title": "John Wick: Chapter 5",
+    "overview": "Nach den Vorfällen in dem vierten Teil Hagakure kommt John Wick ein weiteres Mal als schwarzer Mann zurück.",
+    "popularity": 46.616,
+    "poster_path": "/ndPy3KNHsbPQcoHU9RK92hSwEJ0.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "John Wick: Kapitel 5",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

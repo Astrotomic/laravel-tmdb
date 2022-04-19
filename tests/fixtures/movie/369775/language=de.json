@@ -1,0 +1,49 @@
+{
+    "adult": false,
+    "backdrop_path": "/bAbtqgmQ4hnNsvFnXAaPUXHclWq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 369775,
+    "imdb_id": "tt0095903",
+    "original_language": "en",
+    "original_title": "The Prince of Pennsylvania",
+    "overview": "Set in a remote Pennsylvania coal-mining town, this off-beat comedy follows the relationship between Carla, a hippie woman, and Rupert, a young punk rocker who feels like a pariah. Hoping to leave their current lives behind, the two conspire to kidnap Rupert's father and hold him for ransom.",
+    "popularity": 3.13,
+    "poster_path": "/h8GSRQUFQe0vaJXQdhINaUCNsYi.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "1988-10-10",
+    "revenue": 13064,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He's looking for love, happiness, wisdom, truth and the meaning of life. All by next Thursday.",
+    "title": "The Prince of Pennsylvania",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 25
+}

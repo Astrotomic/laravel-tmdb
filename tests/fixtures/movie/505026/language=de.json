@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
+    "belongs_to_collection": {
+        "id": 735384,
+        "name": "Hercule Poirot (Kenneth Branagh) Filmreihe",
+        "poster_path": "/lSiVxZkNl9kWNQf6tlKzEVN8EtI.jpg",
+        "backdrop_path": "/edublNCxjewKUYSWw13A4fDiPxt.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/death-on-the-nile",
+    "id": 505026,
+    "imdb_id": "tt7657566",
+    "original_language": "en",
+    "original_title": "Death on the Nile",
+    "overview": "Hercule Poirot schließt sich einer bunt gemischten Reisegruppe an, die auf einem Dampfer den Nil bereist. Auf der Fahrt kommt es zum Mord an der schönen und reichen Linnet Doyle, doch die Hauptverdächtige – Jacqueline de Bellefort, der Linnet ihren Verlobten Simon Doyle weggeschnappt hat – hat zum Tatzeitpunkt ein Alibi. Poirot nimmt die Ermittlungen auf und muss unter den zahlreichen anderen Verdächtigen, darunter Linnets Dienstmädchen Louise Bourget, ihr Treuhänder Andrew Katchadourian und die berühmte Marie Van Schuyler, den Tätern finden…",
+    "popularity": 720.186,
+    "poster_path": "/judCDBhF438LRslfhdOpK0kDnSZ.jpg",
+    "production_companies": [
+        {
+            "id": 1645,
+            "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+            "name": "Scott Free Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 1557,
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 28788,
+            "logo_path": null,
+            "name": "Genre Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-02-09",
+    "revenue": 131831841,
+    "runtime": 127,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der Mord war nur der Anfang.",
+    "title": "Tod auf dem Nil",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 1355
+}

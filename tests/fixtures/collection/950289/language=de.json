@@ -1,0 +1,47 @@
+{
+    "id": 950289,
+    "name": "X Collection",
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/q6dWFNWFDEcHWR5ippScvBCoumh.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 760104,
+            "title": "X",
+            "original_language": "en",
+            "original_title": "X",
+            "overview": "1979 im Süden der USA: Ein Filmteam erreicht ein abgelegenes Bauernhaus im tiefsten Texas, um einen Porno zu drehen. Davon haben Regisseur R.J., seine für den Sound zuständige Freundin Lorraine  sowie Schauspieler Jackson Hole  und die Stripperinnen Maxine  und Bobby-Lynne ihren Gastgeber  jedoch nichts erzählt. Dabei handelt es sich um ein isoliertes, älteres Ehepaar, das besonders großen Wert darauf legt, dass es ihren Gästen gut geht. Als jedoch die Nacht hereinbricht, wird das schon leicht aufdringliche Verhalten des Paaren plötzlich zusehends gewalttätig.",
+            "popularity": 273.07,
+            "poster_path": "/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg",
+            "release_date": "2022-03-17",
+            "video": false,
+            "vote_average": 7.078,
+            "vote_count": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 949423,
+            "title": "Pearl",
+            "original_language": "en",
+            "original_title": "Pearl",
+            "overview": "",
+            "popularity": 2.799,
+            "poster_path": null,
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

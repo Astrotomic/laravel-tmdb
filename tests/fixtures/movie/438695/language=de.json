@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg",
+    "belongs_to_collection": {
+        "id": 544670,
+        "name": "\"Sing\"-Filmreihe",
+        "poster_path": "/h151oRzvsxfKRznEmlQJRlnvsid.jpg",
+        "backdrop_path": "/hMMQWhJ9yTSoIDPqGFKDL6zZUOE.jpg"
+    },
+    "budget": 85000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "https://www.upig.de/micro/sing-die-show-deines-lebens",
+    "id": 438695,
+    "imdb_id": "tt6467266",
+    "original_language": "en",
+    "original_title": "Sing 2",
+    "overview": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
+    "popularity": 1141.783,
+    "poster_path": "/qS9XAT4h3JrAgllEgxWfrpXO6cg.jpg",
+    "production_companies": [
+        {
+            "id": 6704,
+            "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+            "name": "Illumination Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-12-01",
+    "revenue": 387000000,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wohin werden dich deine Träume führen?",
+    "title": "Sing - Die Show deines Lebens",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 2578
+}
