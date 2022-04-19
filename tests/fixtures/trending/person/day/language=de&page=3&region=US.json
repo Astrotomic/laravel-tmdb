@@ -1,0 +1,1460 @@
+{
+    "page": 3,
+    "results": [
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Keanu Reeves",
+            "id": 6384,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/ncEsesgOJDNrTUED89hYbA117wo.jpg",
+                    "genre_ids": [
+                        28,
+                        878
+                    ],
+                    "id": 603,
+                    "media_type": "movie",
+                    "title": "Matrix",
+                    "original_language": "en",
+                    "original_title": "The Matrix",
+                    "overview": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
+                    "popularity": 80.894,
+                    "poster_path": "/dL0n7ciODbtGj7V7i0X0PEaU8We.jpg",
+                    "release_date": "1999-03-30",
+                    "video": false,
+                    "vote_average": 8.183,
+                    "vote_count": 21411
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+                    "genre_ids": [
+                        28,
+                        53
+                    ],
+                    "id": 245891,
+                    "media_type": "movie",
+                    "title": "John Wick",
+                    "original_language": "en",
+                    "original_title": "John Wick",
+                    "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
+                    "popularity": 81.203,
+                    "poster_path": "/erBsqm9gNvq7pQTPrkXdRpF6CFw.jpg",
+                    "release_date": "2014-10-22",
+                    "video": false,
+                    "vote_average": 7.365,
+                    "vote_count": 15582
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                    "genre_ids": [
+                        53,
+                        28,
+                        80
+                    ],
+                    "id": 324552,
+                    "media_type": "movie",
+                    "title": "John Wick: Kapitel 2",
+                    "original_language": "en",
+                    "original_title": "John Wick: Chapter 2",
+                    "overview": "Nur noch das Auto zurückholen, dann will sich John Wick zurück in den Ruhestand verabschieden. Doch nachdem der Ex-Auftragskiller sein geliebtes Gefährt wieder und sich mit Abram geeinigt hat, dem Bruder seiner Nemesis Viggo Tarasov geht es für Wick erst richtig los. Wicks ehemaliger Kollege Santino steht vor der Tür und gibt ihm eine mit Blut besiegelte Münze. Wie der Einzelkämpfer weiß, steht das Geldstück für ein Versprechen, das Wick einst gab – das Versprechen von Hilfe als Gegenleistung für einen alten Gefallen. Und auch wenn der Killer seine Ruhe haben will, kann er schließlich nicht anders, als seine Zusicherung einzulösen, denn andernfalls droht ihm der Tod. Wick geht nach Rom, wo Santinos Schwester Gianna in die Riege der einflussreichsten Gangsterbosse kommen will...",
+                    "popularity": 107.457,
+                    "poster_path": "/7JvUTRGuuS6G15OVRCe7AKduTYP.jpg",
+                    "release_date": "2017-02-08",
+                    "video": false,
+                    "vote_average": 7.269,
+                    "vote_count": 10109
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/rRdru6REr9i3WIHv2mntpcgxnoY.jpg",
+            "popularity": 51.394,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Gowtam Tinnanuri",
+            "id": 1943117,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/vKZBHAivnppDOvfo0JtqmIBIbTz.jpg",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 592898,
+                    "media_type": "movie",
+                    "title": "Jersey",
+                    "original_language": "te",
+                    "original_title": "జెర్సీ",
+                    "overview": "Ein gescheiterter Cricketspieler will es noch einmal wissen und seine Karriere trotz ihm entgegenschlagender Skepsis wiederbeleben.",
+                    "popularity": 3.629,
+                    "poster_path": "/vX1FFrmdKxz9CACs9QpqPKo8HxY.jpg",
+                    "release_date": "2019-04-19",
+                    "video": false,
+                    "vote_average": 8.071,
+                    "vote_count": 35
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/1LTFzAsiDVSWOuv4aRRgtPD5Xfv.jpg",
+                    "genre_ids": [
+                        18,
+                        10751,
+                        10749
+                    ],
+                    "id": 492261,
+                    "media_type": "movie",
+                    "title": "మళ్ళీ రావా",
+                    "original_language": "te",
+                    "original_title": "మళ్ళీ రావా",
+                    "overview": "",
+                    "popularity": 0.84,
+                    "poster_path": "/qwB4IADFAgVXM13Ngg8IHbpcpgg.jpg",
+                    "release_date": "2017-12-08",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 10
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/lmUj6x9d8miPgcMxDkqQgTeiPJL.jpg",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 679018,
+                    "media_type": "movie",
+                    "title": "जर्सी",
+                    "original_language": "hi",
+                    "original_title": "जर्सी",
+                    "overview": "",
+                    "popularity": 11.444,
+                    "poster_path": "/jmb9jdYbkU05hvAEZkqjftLUZmw.jpg",
+                    "release_date": "2022-04-22",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "vote_count": 2
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": "/yA5HYmJGGwMXqMRAXrzHbkJNAfv.jpg",
+            "media_type": "person"
+        },
+        {
+            "id": 1892,
+            "known_for": [
+                {
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        18,
+                        878
+                    ],
+                    "original_language": "en",
+                    "original_title": "Interstellar",
+                    "poster_path": "/mR2OK5aK5kMOdAQYfc5kkOg06Pn.jpg",
+                    "vote_average": 8.4,
+                    "video": false,
+                    "id": 157336,
+                    "popularity": 165.617,
+                    "overview": "Was Wissenschaftler, Politiker und Aktivisten seit Jahrzehnten prophezeien, ist eingetreten: Die Menschheit steht kurz davor, an einer globalen Nahrungsknappheit zugrunde zu gehen. Die einzige Hoffnung der Weltbevölkerung besteht in einem geheimen Projekt der US-Regierung, das von dem findigen Wissenschaftler Professor Brand geleitet wird. Der Plan sieht vor, eine Expedition in ein anderes Sternensystem zu starten, wo bewohnbare Planeten, Rohstoffe und vor allem Leben vermutet werden. Der Ingenieur und ehemalige NASA-Pilot Cooper und Brands Tochter Amelia führen die Besatzung an, die sich auf eine Reise ins Ungewisse begibt: Wurmlöcher sind so gut wie unerforscht und niemand kann mit Sicherheit sagen, was die Crew auf der anderen Seite erwartet. Ebenso ist unsicher, ob und wann Cooper und Brand wieder auf die Erde zurückkehren. Coopers Kinder, Tochter Murph und Sohn Tom, müssen mit Schwiegervater Donald zurückbleiben und auf seine Wiederkehr hoffen...",
+                    "release_date": "2014-11-05",
+                    "title": "Interstellar",
+                    "vote_count": 28281,
+                    "adult": false,
+                    "backdrop_path": "/pbrkL804c8yAv3zBZR4QPEafpAR.jpg"
+                },
+                {
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "original_language": "en",
+                    "original_title": "Thor: Ragnarok",
+                    "poster_path": "/8etFULS6CRN39vvXykQH1mUD1yB.jpg",
+                    "title": "Thor: Tag der Entscheidung",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "popularity": 190.193,
+                    "overview": "Donnergott Thor wird auf der anderen Seite des Universums gefangengenommen. Ohne seinen nützlichen Hammer Mjölnir scheint eine Flucht nahezu ausgeschlossen. Dabei läuft ihm allmählich die Zeit davon. Denn die ebenso mächtige wie erbarmungslose Hela, die nach jahrtausendlanger Gefangenschaft aus ihrem Gefängnis freigekommen ist, macht sich daran, die Macht auf Thors Heimatwelt Asgard zu übernehmen. Um das zu verhindern, setzt Thor alles daran, nach Hause zurückzukehren. Zwischen ihm und seiner Freiheit stehen jedoch tödliche Gladiatorenkämpfe auf dem Planeten Sakaar, die Mülldeponie des Universums. Bei einem dieser Duelle trifft Thor auf den Ex-Avenger und seinen früheren Mitstreiter Hulk den beliebtesten und erfolgreichsten Kämpfer auf Sakaar…",
+                    "release_date": "2017-10-24",
+                    "vote_count": 17479,
+                    "id": 284053,
+                    "adult": false,
+                    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg"
+                },
+                {
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        12,
+                        878
+                    ],
+                    "original_language": "en",
+                    "original_title": "The Martian",
+                    "poster_path": "/jT271Hccu0vqoCJkhXpyqRBwbiC.jpg",
+                    "title": "Der Marsianer - Rettet Mark Watney",
+                    "video": false,
+                    "id": 286217,
+                    "popularity": 89.778,
+                    "overview": "Die NASA treibt mit der „Ares 3“-Mission die Erforschung des Mars voran. Die Astronauten Mark Watney, Commander Lewis, Rick Martinez, Chris Beck, Alex Vogel und Beth Johanssen sind auf dem roten Planeten gelandet, inklusive eines Fahrzeugs und eines Habitats, in dem die Forscher leben und Nahrung herstellen können. Doch ein Sandsturm droht die mitgebrachte Technik samt ihrer Einwohner hinwegzufegen, so dass Commander Lewis den Befehl zum sofortigen Aufbruch gibt. Weil ihn seine Crew für tot hält, bleibt der Botaniker Mark Watney auf dem unwirtlichen fremden Planeten zurück. Mit beschädigter Ausrüstung versucht er, die wenigen ihm zur Verfügung stehenden Mittel so einfallsreich wie möglich zu nutzen. Und tatsächlich gelingt es Watney, der Erde zu signalisieren, dass er noch lebt. Die NASA unter Direktor Sanders beginnt, die Rettung des „Marsianers“ zu planen. Parallel dazu startet Watneys Crew eine eigene, riskante Mission, ihn heimzuholen …",
+                    "release_date": "2015-09-30",
+                    "vote_count": 16889,
+                    "vote_average": 7.7,
+                    "adult": false,
+                    "backdrop_path": "/3dPhs7hUnQLphDFzdkD407VZDYo.jpg"
+                }
+            ],
+            "profile_path": "/2goD0rteX2KxIpOpz3fBw9vtSdV.jpg",
+            "gender": 2,
+            "name": "Matt Damon",
+            "adult": false,
+            "known_for_department": "Acting",
+            "popularity": 25.666,
+            "media_type": "person"
+        },
+        {
+            "id": 58021,
+            "profile_path": "/80Uuq79rcYL1FgBPHAEHzAACQFa.jpg",
+            "known_for": [
+                {
+                    "poster_path": "/4N4l873TVreuaR4FVpvaL2gfQ0N.jpg",
+                    "id": 9453,
+                    "video": false,
+                    "vote_average": 5.8,
+                    "popularity": 30.156,
+                    "vote_count": 541,
+                    "release_date": "1979-08-14",
+                    "title": "Caligula",
+                    "adult": false,
+                    "backdrop_path": "/6BDvx5C1zErh1wcEwV2mqHjxB3x.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        36,
+                        10749
+                    ],
+                    "overview": "Rom im Jahre 37 n. Chr.: Der deutlich von der Syphilis gezeichnete Kaiser Tiberius sucht einen Nachfolger. Leider sind seine letzten näheren Verwandten, sein schwächlicher Enkel Tiberius Gemellus und sein verkrüppelter und einfältiger Neffe Claudius, wenig geeignet, und so holt er Gaius, genannt Caligula, zu sich. Dieser ergreift seine Chance, bringt Tiberius um und nimmt den Siegelring des Caesar und damit die Herrschaft an sich. Als Imperator erklärt er seine Schwester Drusilla zu seiner Geliebten. Im Verlauf der Handlung wird seine Abhängigkeit zu ihr immer deutlicher.",
+                    "original_language": "en",
+                    "original_title": "Caligola"
+                },
+                {
+                    "poster_path": "/bnmudxmnY8iVdyaMEfZ9j8D9d17.jpg",
+                    "id": 28468,
+                    "video": false,
+                    "vote_average": 5.9,
+                    "popularity": 20.232,
+                    "overview": "Venedig im Jahre 1940. Nino fühlt, dass er wegen seines Alters und einer sehr schweren Krankheit seine viel jüngere Frau Teresa nicht mehr befriedigen kann, so wie sie es sich wünscht. Aus diesem Grund schreibt er in sein Tagebuch, dass er heimlich hofft, der Verlobte ihrer Tochter Lisa könnte seine Frau glücklich machen. Den Schlüssel zur Schublade, die das Tagebuch enthält, lässt Nino so liegen, dass seine Frau ihn zufällig finden muss. Der Plan scheint genial, denn es beginnt eine Zeit voller spannender erotischer Spiele.",
+                    "release_date": "1983-10-19",
+                    "title": "The Key – Der Schlüssel",
+                    "adult": false,
+                    "backdrop_path": "/iHDermFVn4DiShm5cvUK0f0rW2A.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        10749
+                    ],
+                    "vote_count": 290,
+                    "original_language": "it",
+                    "original_title": "La chiave"
+                },
+                {
+                    "poster_path": "/h9n9icL3iqaVyw9t9JQaaPhfrsn.jpg",
+                    "id": 50270,
+                    "video": false,
+                    "vote_average": 6.9,
+                    "popularity": 34.642,
+                    "overview": "Die temperamentvolle und gut gebaute Mimma (Deborah Caprioglio) und ihr Freund haben finanzielle Sorgen. So beschliessen sie das sich Mimma für zwei Wochen im örtlichen Nobelbordell verdingen soll. Nach diesen zwei Wochen gefällt der neue Job Mimma, sehr zum Unwillen ihres Freundes der sie zudem in der Zwischenzeit hintergangen hat, so gut das sie nicht mehr zurück in ihr altes Leben möchte. So macht sie sich durch die Bordelle Italiens auf die Suche nach der grossen Liebe und Erfüllung die sie schliesslich bei einem reichten, aber sehr alten, Grafen zu finden glaubt .....",
+                    "release_date": "1991-02-13",
+                    "title": "Paprika – Ein Leben für die Liebe",
+                    "adult": false,
+                    "backdrop_path": "/9CkI4VsYF8qJWfZpPqwZnBctb3M.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18
+                    ],
+                    "vote_count": 268,
+                    "original_language": "it",
+                    "original_title": "Paprika"
+                }
+            ],
+            "known_for_department": "Directing",
+            "gender": 2,
+            "name": "Tinto Brass",
+            "adult": false,
+            "popularity": 17.29,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "name": "Jan Gassmann",
+            "id": 1534005,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/cNLs3x9gKYE5B6Zf5e6OOoBQExx.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 385598,
+                    "media_type": "movie",
+                    "title": "Europe, She Loves",
+                    "original_language": "de",
+                    "original_title": "Europe, She Loves",
+                    "overview": "Aufwühlend, hoch politisch und verdammt emotional: Der Dokumentarfilm des jungen Schweizer Regisseurs Jan Gassmann porträtiert das Leben von acht jungen Menschen aus Sevilla, Dublin, Tallinn und Thessaloniki. «Europe, She Loves» steht exemplarisch für eine ganze Generation und ihre Sorgen.",
+                    "popularity": 0.827,
+                    "poster_path": "/jNEosv0eBG8Bo8E9DAKKRVIxhbs.jpg",
+                    "release_date": "2016-09-29",
+                    "video": false,
+                    "vote_average": 5,
+                    "vote_count": 12
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/swUh0Ch9qoc3ryhTUQlMcNGWxjy.jpg",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 367584,
+                    "media_type": "movie",
+                    "title": "Heimatland",
+                    "original_language": "de",
+                    "original_title": "Heimatland",
+                    "overview": "Eine dunkle Wolke über der Schweiz kündigt deren Untergang an. Zehn junge Schweizer Autorenregisseure beleuchten in ihrem Gemeinschaftswerk Menschen, Mentalitäten und Milieus des Landes und verweben diese persönlichen Episoden zu einer grossen, gemeinsamen Geschichte.\r Über der Schweiz zieht eines Herbstes eine dunkle Wolke auf. Während sie stetig wächst, rätseln Expertinnen und Experten ahnungslos über ihre Herkunft. Nur eines ist sicher: Die Wolke wird sich irgendwann in einem wilden Sturm entladen. Wie ein Damoklesschwert hängt sie über dem Land und versetzt die Bevölkerung in Angst und Schrecken.  Ein Taxifahrer, ein Investmentbanker, eine Polizistin oder ein Handwerker: Alle reagieren auf ihre eigene Weise auf den aufkommenden Sturm. Einige schenken ihm keine Beachtung, andere verbarrikadieren sich in Sicherheit, Dritte feiern den Weltuntergang. Doch der Sturm hat etwas Verbindendes: Er legt die wahren Bedürfnisse, Ängste und Hoffnungen der Menschen frei.",
+                    "popularity": 2.307,
+                    "poster_path": "/8Gnq6tCiYJXD08ei8AG64ycCIqg.jpg",
+                    "release_date": "2015-11-12",
+                    "video": false,
+                    "vote_average": 4.4,
+                    "vote_count": 7
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [],
+                    "id": 137870,
+                    "media_type": "movie",
+                    "title": "Off Beat",
+                    "original_language": "en",
+                    "original_title": "Off Beat",
+                    "overview": "Lukas schwebt mehr als er lebt. Als Rapper ist ihm der Durchbruch nicht gelungen, Drogen und Alkohol helfen ihm nur scheinbar darüber hinweg. Dass er mit seinem Musikproduzenten Mischa eine turbulenten Liebesbeziehung hat, soll niemand wissen.\r Lukas' 16-jähriger Bruder Sämi schämt sich für ihn. Er ist selbst ein Rap-Talent und wartet darauf, Lukas' Platz einnehmen zu können - auch bei Mischa. Auf der Bühne kommt es zum Wettkampf der Brüder, den Sämi gewinnt. Lukas schwankt zwischen Eifersucht und Sorge um seinen kleinen Bruder. Seine eigene Geschichte scheint sich zu wiederholen.",
+                    "popularity": 0.6,
+                    "poster_path": null,
+                    "release_date": "2011-02-15",
+                    "video": false,
+                    "vote_average": 3.9,
+                    "vote_count": 5
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": null,
+            "media_type": "person"
+        },
+        {
+            "profile_path": "/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg",
+            "id": 1341,
+            "adult": false,
+            "known_for_department": "Acting",
+            "name": "Donnie Yen",
+            "gender": 2,
+            "known_for": [
+                {
+                    "original_language": "en",
+                    "original_title": "Rogue One: A Star Wars Story",
+                    "poster_path": "/xRGeAT2dAYmHT5ucsYBj4xegKdV.jpg",
+                    "title": "Rogue One: A Star Wars Story",
+                    "video": false,
+                    "vote_average": 7.5,
+                    "popularity": 48.732,
+                    "vote_count": 13045,
+                    "release_date": "2016-12-14",
+                    "id": 330459,
+                    "adult": false,
+                    "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "overview": "Die mehrfach verurteilte Jyn Erso passt gut ins Anforderungsprofil für die Rebellion gegen das galaktische Imperium. Sie ist hart, kompromisslos und steht außerhalb der Gesellschaft. Aber es gibt noch einen weiteren, ganz speziellen Grund für ihre Anheuerung. Ihr Vater wurde vor Jahren von dem imperialen Karrieristen Krennic dazu gezwungen, für den Imperator eine neue Superwaffe zu entwickeln: den Todesstern. Dabei hat er heimlich eine Schwachstelle eingebaut und diese mit einem Hilferuf an die Rebellenallianz geschickt. Um diese Schwäche ausnützen zu können, bedarf es allerdings der genauen Baupläne der Waffe. Zusammen mit dem Spion Cassian Andor und einer Schar unerschrockener Kämpfer bricht Jyn daraufhin zu dem Planeten Scarif auf, um die dort lagernden Baupläne des Todessterns zu erbeuten. Ein Himmelfahrtskommando, zumal der Rat der Rebellen aufgrund der vagen Informationen jegliche Unterstützung verweigert."
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "Mulan",
+                    "poster_path": "/SnXUdLT7AyZWoeaINVGYJ0xg5U.jpg",
+                    "title": "Mulan",
+                    "video": false,
+                    "vote_average": 7,
+                    "popularity": 187.033,
+                    "vote_count": 5599,
+                    "release_date": "2020-09-04",
+                    "id": 337401,
+                    "adult": false,
+                    "backdrop_path": "/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        14,
+                        18
+                    ],
+                    "overview": "Als Chinas mächtiger Kaiser ein Dekret erlässt, dass aus jeder Familie je ein Mann in die kaiserliche Armee eingezogen wird, um das Land vor Eindringlingen aus dem Norden zu verteidigen, beschließt Mulan Hua, die Tochter und einziges Kind eines hoch dekorierten Soldaten, anstelle ihres kranken und geschwächten Vaters dem Einberufungsbefehl Folge zu leisten. Mulan gibt sich in Männerverkleidung als Jun Hua aus und muss sich den strengsten Prüfungen unterziehen. Mit den zahlreichen Abenteuern, die sie auf ihrer epischen Reise durchlebt, lernt sie auf ihre innere Stärke zu vertrauen und entdeckt dabei ihr wahres Potenzial. So kann Mulan am Ende ihres aufregenden Wegs zur respektierten Kriegerin nicht nur der Dankbarkeit der ganzen Nation sicher sein, auch die Hochachtung ihres so stolzen Vaters wird sie sich verdienen."
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "xXx: Return of Xander Cage",
+                    "poster_path": "/wxFNVeQHva3owb1ls0PpNv9uwvd.jpg",
+                    "title": "xXx - Die Rückkehr des Xander Cage",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "popularity": 80.186,
+                    "vote_count": 5626,
+                    "release_date": "2017-01-13",
+                    "id": 47971,
+                    "adult": false,
+                    "backdrop_path": "/4QLdZ2A8mkDWp2rpfgDrwmeCtUW.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        80
+                    ],
+                    "overview": "Der unkonventionelle Agent Xander Cage, genannt Triple X, wird reaktiviert. Eine neuartige Waffe bedroht die Menschheit, die Xander in Sicherheit bringen soll. Doch dazu muss er sich mit dem überragenden Kämpfer Xiang und seiner Mannschaft anlegen. Xander stellt sein eigenes Team zusammen, das ganz und gar nicht den Vorstellungen seiner Vorgesetzten entspricht."
+                }
+            ],
+            "popularity": 18.654,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "name": "Erik Bjerknes",
+            "id": 1610512,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/blHx3LrXsIfefFggOk4gjwdX73i.jpg",
+                    "genre_ids": [
+                        14,
+                        18,
+                        80
+                    ],
+                    "id": 517839,
+                    "media_type": "movie",
+                    "title": "Border",
+                    "original_language": "sv",
+                    "original_title": "Gräns",
+                    "overview": "Die schwedische Grenzbeamtin Tina besitzt eine für eine Zöllnerin besonders praktische Gabe: Sie kann besser riechen als alle anderen Menschen und so etwa Schmuggelware oder auch die Emotionen der Menschen wahrnehmen. Wenn jemand beim Grenzübertritt Angst hat oder sich schuldig fühlt, weil er Schmuggelware dabei hat, entgeht das ihrer Nase nicht. Ihr Geruchssinn ist nahezu unfehlbar, aber einmal versagt er doch: Vore hat wie Tina einen Chromosomenfehler, was bei ihm zu einer Deformation im Gesicht geführt hat. Die beiden Außenseiter kommen einander näher...",
+                    "popularity": 12.111,
+                    "poster_path": "/1pQ5y51ukt6GtR5IQyuOwy6yb4m.jpg",
+                    "release_date": "2018-09-27",
+                    "video": false,
+                    "vote_average": 6.759,
+                    "vote_count": 611
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/dN5nNuSbfLk1PE2P0EAsegGoWGS.jpg",
+                    "genre_ids": [
+                        16,
+                        12
+                    ],
+                    "id": 257951,
+                    "media_type": "movie",
+                    "title": "Johan und der Federkönig",
+                    "original_language": "sv",
+                    "original_title": "Resan till Fjäderkungens Rike",
+                    "overview": "Der kleine Hasenjunge Johan lebt mit seinen Eltern am Meer. Als der Federkönig eines Nachts Johans Mutter zu sich in sein Reich holt, flüchtet Johans Vater mit ihm in einem Boot auf das Meer, da der Vater befürchtet, der Federkönig habe es auch auf Johan abgesehen. Johan sucht verzweifelt nach einer Möglichkeit, seine Mutter zurückzuholen. Dann erfährt er, dass Radio Bill, ein Freund seines Vaters, ein Ticket in das Reich des Federkönigs sein Eigen nennt.",
+                    "popularity": 3.928,
+                    "poster_path": "/ky1quKBhaOO2EnwQQtzy66pEyvA.jpg",
+                    "release_date": "2014-03-21",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "vote_count": 21
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/xJ2YkUCGc4ETkgEKSmXJyLCqsr7.jpg",
+                    "genre_ids": [
+                        53,
+                        35,
+                        18
+                    ],
+                    "id": 414181,
+                    "media_type": "movie",
+                    "title": "Videoman - VHS is dead",
+                    "original_language": "sv",
+                    "original_title": "Videomannen",
+                    "overview": "»Faceless«, ein mysteriöser Fremder, bietet Ennio 10.000 Euro für einen seltenen Kultfilm aus seiner VHS-Sammlung. Der immer alkoholisierte Ennio, der den guten alten Zeiten der Achtzigerjahre nachtrauert, kann es kaum glauben. Erst lernt er die wunderbare Simone kennen und dann noch der große Deal. Als er merkt, dass ihm jemand die Kassette gestohlen hat, geht es plötzlich um Leben und Tod.",
+                    "popularity": 1.845,
+                    "poster_path": "/qrz5latkkAHgzI4sud6vbY9mRUQ.jpg",
+                    "release_date": "2018-08-24",
+                    "video": false,
+                    "vote_average": 5.4,
+                    "vote_count": 14
+                }
+            ],
+            "known_for_department": "Sound",
+            "profile_path": null,
+            "popularity": 0.6,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Hugh Jackman",
+            "id": 6968,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/c71zkXAykw5uu4cHnUCE6vA3NY0.jpg",
+                    "genre_ids": [
+                        28,
+                        18,
+                        878
+                    ],
+                    "id": 263115,
+                    "media_type": "movie",
+                    "title": "Logan - The Wolverine",
+                    "original_language": "en",
+                    "original_title": "Logan",
+                    "overview": "In naher Zukunft schützt ein abgekämpfter Logan einen gebrochenen Professor X in einem Versteck nahe der mexikanischen Grenze. Doch Logans Versuche, sich vor der Welt und seinem Vermächtnis zu verstecken, misslingen, als ein junger Mutant, von dunklen Kräften verfolgt, bei ihnen Zuflucht sucht.",
+                    "popularity": 113.612,
+                    "poster_path": "/y4KWNN6ROnKaefdTFdu5kKMVN59.jpg",
+                    "release_date": "2017-02-28",
+                    "video": false,
+                    "vote_average": 7.809,
+                    "vote_count": 16696
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        12
+                    ],
+                    "id": 383498,
+                    "media_type": "movie",
+                    "title": "Deadpool 2",
+                    "original_language": "en",
+                    "original_title": "Deadpool 2",
+                    "overview": "Nach einem weiteren herben Schicksalsschlag ist Deadpool des Lebens überdrüssig und versucht sich mithilfe von Benzinkanistern und einer Zigarette umzubringen. Doch der unkaputtbare Antiheld wird von seinem X-Men-Kumpanen Colossus gerettet und mit auf das abgeschiedene Anwesen der Mutanten genommen. Durch einen Zwischenfall mit dem Teenager-Mutanten Russell lernt Deadpool den Superschurken Cable kennen, der es auf den wütenden Halbstarken abgesehen hat. Zunächst kann Deadpool die Situation entschärfen – doch dann landen Russell und er plötzlich im Knast. Nun stellt er sich seine eigene Superheldencrew zusammen und rekrutiert unter anderem Domino und Zeitgeist um es mit Cable aufzunehmen…",
+                    "popularity": 187.117,
+                    "poster_path": "/uC7YwWcXusYgpWHSxl6njJDiFfk.jpg",
+                    "release_date": "2018-05-10",
+                    "video": false,
+                    "vote_average": 7.501,
+                    "vote_count": 14557
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "id": 127585,
+                    "media_type": "movie",
+                    "title": "X-Men: Zukunft ist Vergangenheit",
+                    "original_language": "en",
+                    "original_title": "X-Men: Days of Future Past",
+                    "overview": "In der Zukunft stehen die Mutanten kurz vor dem Aussterben, weil sie von Killer-Robotern gejagt und getötet werden: den Sentinels. Aufgrund der Bedrohung arbeiten die Gegner Magneto und Charles Xavier zusammen - ihr Plan sieht vor, den Terror durch die Sentinels gar nicht erst zuzulassen. Dazu schicken sie Wolverines Bewusstsein mit Hilfe von Kitty Pryde in die Vergangenheit, da sich sein Geist von den Folgen einer solchen Zeitreise erholen kann. In der Vergangenheit soll Wolverine eine Tat Mystiques verhindern, die den Bau der Sentinels erst möglich machte; der Eingriff würde also die Zukunft im Sinne der Mutanten verändern. Doch dafür muss Wolverine erst ein Team aus Mutanten zusammenstellen – was sich als schwierig erweist. Der junge Charles Xavier etwa ist in einem miserablen psychischen Zustand…",
+                    "popularity": 108.24,
+                    "poster_path": "/pPS6I2Fp8oSMCwMctHLmXntUvqP.jpg",
+                    "release_date": "2014-05-15",
+                    "video": false,
+                    "vote_average": 7.526,
+                    "vote_count": 13293
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/5Dxx0j9jOAczsTQzZ0OkA5iJBhp.jpg",
+            "popularity": 21.876,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "profile_path": "/6OCBeTRLXrNKqvSz4HIweUWSIn6.jpg",
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/rAQcPrEaPzDRVNX7XX5TWyxCGFN.jpg",
+                    "popularity": 105.406,
+                    "genre_ids": [
+                        27,
+                        14
+                    ],
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "It",
+                    "poster_path": "/g7kcdw0wz31xjISyn6ODE607Ais.jpg",
+                    "id": 346364,
+                    "video": false,
+                    "vote_average": 7.2,
+                    "title": "Es",
+                    "overview": "Die Freunde Stanley Uris, Richie Tozier, Mike Hanlon, Bill Denbrough Beverly Marsh, Eddie Kaspbrak und Ben Hanscom leben in einer Stadt namens Derry, in der immer wieder Menschen verschwinden – sowohl Erwachsene als auch vor allem Minderjährige. Schließlich erfahren die Kinder, die sich selbst auch den „Klub der Verlierer“ nennen, von einer interdimensionalen Kreatur, die Jagd auf Menschen macht und sich in die schlimmsten Alpträume ihrer Opfer verwandeln kann. Meistens tritt das Biest jedoch in Form des sadistischen Clowns Pennywise  auf. Die Kinder schwören die Kreatur zu vernichten und kehren als Erwachsene in ihre Heimatstadt zurück, in der Pennywise erneut aufgetaucht ist.",
+                    "release_date": "2017-09-06",
+                    "vote_count": 16338
+                },
+                {
+                    "id": 383498,
+                    "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+                    "popularity": 181.365,
+                    "genre_ids": [
+                        28,
+                        35,
+                        12
+                    ],
+                    "media_type": "movie",
+                    "title": "Deadpool 2",
+                    "original_title": "Deadpool 2",
+                    "poster_path": "/uC7YwWcXusYgpWHSxl6njJDiFfk.jpg",
+                    "original_language": "en",
+                    "video": false,
+                    "vote_average": 7.5,
+                    "adult": false,
+                    "overview": "Nach einem weiteren herben Schicksalsschlag ist Deadpool des Lebens überdrüssig und versucht sich mithilfe von Benzinkanistern und einer Zigarette umzubringen. Doch der unkaputtbare Antiheld wird von seinem X-Men-Kumpanen Colossus gerettet und mit auf das abgeschiedene Anwesen der Mutanten genommen. Durch einen Zwischenfall mit dem Teenager-Mutanten Russell lernt Deadpool den Superschurken Cable kennen, der es auf den wütenden Halbstarken abgesehen hat. Zunächst kann Deadpool die Situation entschärfen – doch dann landen Russell und er plötzlich im Knast. Nun stellt er sich seine eigene Superheldencrew zusammen und rekrutiert unter anderem Domino und Zeitgeist um es mit Cable aufzunehmen…",
+                    "release_date": "2018-05-10",
+                    "vote_count": 14550
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+                    "popularity": 215.316,
+                    "genre_ids": [
+                        27,
+                        14
+                    ],
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "It Chapter Two",
+                    "poster_path": "/yBVOgAzBVXy8N8lgnCb9QK9ILoy.jpg",
+                    "id": 474350,
+                    "video": false,
+                    "vote_average": 6.9,
+                    "title": "Es - Kapitel 2",
+                    "overview": "27 Jahre sind vergangen, seit sich mehrere Kinder in der Kleinstadt Derry dem Monster Es in den Weg stellten und es scheinbar besiegten. Als Derry erneut von einer Mordserie heimgesucht wird, dämmert dem als Bibliothekar arbeitenden Mike Hanlon nach und nach, dass Es zurück ist. Er beschließt, seine einstigen Freunde vom Club der Verlierer anzurufen, um ein altes Versprechen einzulösen. Doch bevor sie sich erneut dem sadistischen Clown Pennywise entgegenstellen können, müssen sie sich erst daran erinnern, wer sie früher einmal waren …",
+                    "release_date": "2019-09-04",
+                    "vote_count": 6819
+                }
+            ],
+            "gender": 2,
+            "id": 137905,
+            "name": "Bill Skarsgård",
+            "known_for_department": "Acting",
+            "popularity": 27.081,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "known_for_department": "Acting",
+            "known_for": [
+                {
+                    "adult": false,
+                    "vote_count": 4,
+                    "overview": "Gegen Ende der Ching-Dynastie wimmelt es im Südchinesischen Meer von Piraten, die es auf die reichen portugiesischen Handelsschiffe abgesehen haben. Piratenkapitän Chang Pao-chai (Ti Lung) ist einer von ihnen und hat große Beute gemacht. Dabei ist allerdings sein Schiff Leck geschlagen, so dass er Kurs aufs Festland nehmen muss, wo ihn niemand erkennen darf.  Als er zum Schiff zurückkehrt, hat sich der Pirat Hua Erh-Tao dessen bemächtigt. Das bringt Chang gehörig in die Bredouille. Zudem bekommt er es mit einem mysteriösen Mann zu tun, der ihm schon eine Weile folgt...",
+                    "id": 187439,
+                    "popularity": 4.665,
+                    "backdrop_path": "/k9mARSZsifFPl6whL1C0OScpXh8.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        80
+                    ],
+                    "title": "Die Teufelspiraten von Kau-Lun",
+                    "original_language": "zh",
+                    "original_title": "大海盜",
+                    "poster_path": "/acAaVwYMoVVxukNY2uYhl7yi3DZ.jpg",
+                    "release_date": "1973-07-27",
+                    "video": false,
+                    "vote_average": 6.3
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ai1AIq4wvhrpJKjDGQyB5qTBTgg.jpg",
+                    "overview": "",
+                    "id": 187021,
+                    "popularity": 1.03,
+                    "vote_count": 3,
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18
+                    ],
+                    "title": "花街時代",
+                    "original_language": "cn",
+                    "original_title": "花街時代",
+                    "poster_path": "/nyABpgtrdnxuRjPMu210TGC1JoF.jpg",
+                    "release_date": "1985-10-24",
+                    "video": false,
+                    "vote_average": 5.3
+                },
+                {
+                    "adult": false,
+                    "vote_count": 0,
+                    "title": "絕不低頭",
+                    "id": 155599,
+                    "popularity": 0.889,
+                    "backdrop_path": "/1hphhaloUCzWQDCFIgjDT1nXmFn.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28
+                    ],
+                    "poster_path": "/1rncKjy8sSZIeTTzbEIETIVYeyy.jpg",
+                    "original_language": "zh",
+                    "original_title": "絕不低頭",
+                    "overview": "",
+                    "release_date": "1977-07-23",
+                    "video": false,
+                    "vote_average": 0
+                }
+            ],
+            "id": 2072380,
+            "profile_path": null,
+            "name": "Lee Hang",
+            "popularity": 0.6,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "name": "Sakshi Tanwar",
+            "id": 1238200,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+                    "genre_ids": [
+                        18,
+                        28
+                    ],
+                    "id": 360814,
+                    "media_type": "movie",
+                    "title": "Dangal - Die Hoffnung auf den großen Sieg",
+                    "original_language": "hi",
+                    "original_title": "दंगल",
+                    "overview": "Mahavir ist leidenschaftlicher Ringer, und auf dem Weg nach ganz oben. Sein Vater zwingt ihn jedoch, den Kampfsport aufzugeben. Also will Mahavir später seinem eigenen Sohn ermöglichen, Ringer zu werden, wenn dieser denn will. Dann bekommt er vier Töchter, und sein ersehntes Ziel scheint in weite Ferne zu rücken - bis sich das Blatt wendet. Wer hätte gedacht, dass auch die Töchter plötzlich Talent fürs Wrestling an den Tag legen? Die Studios Disney und Aamir Khan Productions präsentieren mit diesem biographischen Sportdrama einen der 25 international erfolgreichsten Filme aller Zeiten. Vier Fanfare Awards und diverse Auszeichnungen mehr (Internationales Filmfest Peking, National Movie Award of India) unterstreichen die einzigartige Qualität dieses Blockbusters.",
+                    "popularity": 15.626,
+                    "poster_path": "/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+                    "release_date": "2016-12-21",
+                    "video": false,
+                    "vote_average": 8.001,
+                    "vote_count": 684
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hLi5umdYp8VyoQqPE9QXCUsW0Ps.jpg",
+                    "genre_ids": [
+                        10764
+                    ],
+                    "id": 911,
+                    "media_type": "tv",
+                    "name": "कौन बनेगा करोड़पति",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "कौन बनेगा करोड़पति",
+                    "overview": "",
+                    "popularity": 75.435,
+                    "poster_path": "/8srHjzgZq9V9sgsTkIwGARDyADj.jpg",
+                    "first_air_date": "2000-07-03",
+                    "vote_average": 7.3,
+                    "vote_count": 20
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/m3jYKxdsfyDVS0ZU16PsGEspo26.jpg",
+                    "genre_ids": [
+                        10767
+                    ],
+                    "id": 14544,
+                    "media_type": "tv",
+                    "name": "Koffee with Karan",
+                    "origin_country": [
+                        "IO"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "Koffee with Karan",
+                    "overview": "",
+                    "popularity": 13.295,
+                    "poster_path": "/nzOLYx9oXObotploNlZ7pR8dj6w.jpg",
+                    "first_air_date": "2004-11-19",
+                    "vote_average": 5.6,
+                    "vote_count": 18
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/96VTOdbfrJWrrsdIgNM6W2woxJ.jpg",
+            "media_type": "person"
+        },
+        {
+            "id": 23880,
+            "name": "Steven Seagal",
+            "adult": false,
+            "profile_path": "/fGNIEpn3JqOckY3ahnJX9x3qA94.jpg",
+            "gender": 2,
+            "known_for": [
+                {
+                    "original_language": "en",
+                    "original_title": "Machete",
+                    "poster_path": "/feNMRrcJPF0U519qE85zYtUyzI.jpg",
+                    "title": "Machete",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "popularity": 70.486,
+                    "overview": "Machete hat nichts mehr zu verlieren. Drogenkönig Torrez tötet seine Familie und beinahe auch ihn selbst. Machete flüchtet nach Texas, um seine Vergangenheit hinter sich zu lassen. Doch er findet sich wieder in einem Netz aus Korruption und Betrug. Der skrupellose Geschäftsmann Booth erpresst ihn, den rassistischen Senator McLaughlin zu erschießen. Sonst würde er Machete, illegal in den USA, verpfeifen. Er wird nun selbst Ziel eines zweiten Killers, alles soll danach aussehen, dass die Polizei Machete als Attentäter erschießt. Nur knapp entgeht er dem Mordanschlag. Booth und eine Reihe Killer, darunter der unberechenbare Anführer einer privaten Grenzarmee, Von, sind ihm auf den Fersen. Machete kann nur überleben, wenn er die Verschwörung aufdeckt und seinen Namen reinwäscht.",
+                    "release_date": "2010-09-01",
+                    "id": 23631,
+                    "adult": false,
+                    "backdrop_path": "/fkctz22J0GAO8iYFKO6kE2FTHot.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        35,
+                        53
+                    ],
+                    "vote_count": 2692
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "Under Siege",
+                    "poster_path": "/4STzUYAGnPNsnMBvY1aykk278QX.jpg",
+                    "title": "Alarmstufe: Rot",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "popularity": 21.125,
+                    "overview": "Das amerikanische Kriegsschiff USS Missouri befindet sich auf seiner letzten Fahrt. Die Mannschaft trifft die letzten Vorbereitungen für eine Überraschungsfeier anlässlich des Geburtstags von Captain Adams. Es wurde sogar eine Band organisiert, doch wie sich schon bald herausstellen soll, will es der “Sänger” Strannix nicht nur musikalisch kräftig rocken lassen. Zusammen mit dem abtrünnigen Offizier Commander Krill bringt er das Schiff inklusive atomarer Langstreckenwaffen unter seine Kontrolle. Dabei hat er jedoch nicht mit dem Schiffskoch Casey Rybeck gerechnet, der als Ex-Navy-Seal den Terroristen das Leben schwer macht…",
+                    "release_date": "1992-10-08",
+                    "id": 8845,
+                    "adult": false,
+                    "backdrop_path": "/ii1oLJXW7rc5VBMvqyy5nOL2hm.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        53
+                    ],
+                    "vote_count": 1162
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "Executive Decision",
+                    "poster_path": "/7r3gqI5vcMjXFasxqiI8KCzB8yF.jpg",
+                    "title": "Einsame Entscheidung",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "popularity": 20.384,
+                    "vote_count": 693,
+                    "release_date": "1996-03-15",
+                    "id": 2320,
+                    "adult": false,
+                    "backdrop_path": "/pyXyrPUtp9rMfOpszCo9WDdd2gK.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        18,
+                        53
+                    ],
+                    "overview": "Schwerbewaffnete Terroristen aus dem Nahen Osten entern eine Passagiermaschine und zwingen den Flugkapitän zum Kurs auf Washington. Mit Hilfe eines Shuttleflugzeugs gelangt eine Antiterroreinheit an Bord, doch weil die Terroristen über eine verheerende Bombe verfügen, bleibt den Soldaten nur wenig Zeit: Falls es ihnen nicht gelingt, ihre Widersacher binnen drei Stunden unschädlich zu machen, schießt das US-Militär die Maschine ab."
+                }
+            ],
+            "known_for_department": "Acting",
+            "popularity": 15.805,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Bruce Willis",
+            "id": 62,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+                    "genre_ids": [
+                        53,
+                        80
+                    ],
+                    "id": 680,
+                    "media_type": "movie",
+                    "title": "Pulp Fiction",
+                    "original_language": "en",
+                    "original_title": "Pulp Fiction",
+                    "overview": "Vincent Vega und Jules Winnfield holen für ihren Boss Marsellus Wallace eine schwarze Aktentasche aus einer Wohnung ab. Drei Jungs, die ihnen dabei im Weg stehen, lassen ihr Leben. Die Killer machen sich mit einem vierten Jungen als Geisel auf den Weg ins Hauptquartier. Doch als das Auto über eine Straßenerhöhung schaukelt, erschießt Vincent aus Versehen die Geisel. Um den blutverspritzten Wagen zu reinigen, machen die beiden einen Abstecher zu Jules's Freund Jimmie, wo auf Befehl vom Boss ein Spezialist für schwierige Aufträge zu ihnen stößt: The Wolf...",
+                    "popularity": 66.507,
+                    "poster_path": "/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+                    "release_date": "1994-09-10",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 22970
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+                    "genre_ids": [
+                        27,
+                        53
+                    ],
+                    "id": 381288,
+                    "media_type": "movie",
+                    "title": "Split",
+                    "original_language": "en",
+                    "original_title": "Split",
+                    "overview": "Für die eigensinnige und achtsame Casey und ihre zwei Freundinnen Claire und Marcia wird das Leben zur Hölle, als sie eines Tages von einem unheimlichen Mann entführt werden. Ihr Peiniger Kevin entpuppt sich nur wenig später als ein ganz spezieller Mensch: Er leidet unter einer multiplen Persönlichkeitsstörung und vereint 23 verschiedene Wesen in seiner Psyche, die sich alle miteinander abwechseln und so für Verwirrung und Entsetzen sorgen. Während die Mädchen verzweifelt nach einer Fluchtmöglichkeit suchen, ahnen sie jedoch nicht, dass sich in Kevin etwas ganz besonders Böses regt – und zwar eine dämonische 24. Persönlichkeit, die sich nur „die Bestie“ nennt und die drauf und dran ist aus Kevin auszubrechen. Für die Mädchen wird die Zeit immer knapper…",
+                    "popularity": 81.598,
+                    "poster_path": "/uOlwKHpbhJytUug6o41ZxOsKpUH.jpg",
+                    "release_date": "2017-01-19",
+                    "video": false,
+                    "vote_average": 7.326,
+                    "vote_count": 14870
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                    "genre_ids": [
+                        9648,
+                        53,
+                        18
+                    ],
+                    "id": 745,
+                    "media_type": "movie",
+                    "title": "The Sixth Sense",
+                    "original_language": "en",
+                    "original_title": "The Sixth Sense",
+                    "overview": "Der Kinderpsychologe Dr. Malcolm Crowe feiert mit seiner Frau eine für ihn bedeutsame Auszeichnung. An diesem Abend wird er von Vincent Grey überrascht, einem ehemaligen Patienten, dem Crowe nicht helfen konnte. Sichtlich verzweifelt schießt er auf Dr. Crowe und begeht daraufhin Selbstmord. Im darauf folgenden Jahr betreut Dr. Crowe den neunjährigen Cole. Er erinnert ihn an seinen früheren Patienten Grey. Der Junge scheint von großen Ängsten geplagt, die er niemandem anvertraut. Von seinen Klassenkameraden wird er mit „Psycho“ angesprochen und gemieden. Sogar sein Lehrer bezeichnet ihn nach einem Streit so. Coles Mutter ist verzweifelt, und Dr. Crowe scheint dem Jungen nicht helfen zu können. Nach und nach gewinnt er schließlich das Vertrauen des Jungen; Cole verrät ihm sein Geheimnis: „Ich sehe tote Menschen. Die sind wütend. Die wissen nicht, dass sie tot sind.“ Zunächst glaubt Dr. Crowe ihm nicht.",
+                    "popularity": 38.948,
+                    "poster_path": "/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg",
+                    "release_date": "1999-08-06",
+                    "video": false,
+                    "vote_average": 7.941,
+                    "vote_count": 9451
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/caX3KtMU42EP3VLRFFBwqIIrch5.jpg",
+            "popularity": 22.43,
+            "media_type": "person"
+        },
+        {
+            "id": 380,
+            "gender": 2,
+            "name": "Robert De Niro",
+            "adult": false,
+            "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+            "known_for": [
+                {
+                    "original_language": "en",
+                    "original_title": "Joker",
+                    "poster_path": "/iUMHcajTpltLG6A0r5Y01KPGfIO.jpg",
+                    "video": false,
+                    "vote_average": 8.2,
+                    "popularity": 159.28,
+                    "overview": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt...",
+                    "id": 475557,
+                    "media_type": "movie",
+                    "vote_count": 20352,
+                    "adult": false,
+                    "backdrop_path": "/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+                    "title": "Joker",
+                    "genre_ids": [
+                        80,
+                        53,
+                        18
+                    ],
+                    "release_date": "2019-10-02"
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "Silver Linings Playbook",
+                    "poster_path": "/wY6Ws5W5dqLFbjoq6qq6D4RXX0n.jpg",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "popularity": 41.877,
+                    "overview": "Der ehemalige Lehrer und Mittdreißiger Pat Peoples wurde mit gewissen Auflagen aus einer Heilanstalt entlassen, wo er einige Zeit wegen psychischer Probleme zugebracht hatte. Zu den Auflagen gehört auch, dass er jeglichen Kontakt zu seiner Ex-Frau Nikki zu unterlassen hat. Während seine Mutter ihn vorbehaltlos umsorgt, ist sein Vater Patrick mehr als skeptisch, ob es eine gute Idee war, die Anstalt wieder zu verlassen. Derweil setzt Pat alles daran, sich wieder in Form zu bringen und Nikki wieder zurückzugewinnen. Auf seinen ausgiebigen Joggingtouren trifft er auf Tiffany, die ihren Mann, der Polizist war, bei einem Einsatz verloren hat, und nun die Trauerarbeit durch nymphomane Tendenzen kompensiert. Sie verspricht Pat, den Kontakt zu Nikki herzustellen, wenn er mit ihr für ein Tanzturnier trainiert. An sich ein klarer Deal; aber je näher der Tag des Wettbewerbs rückt, desto verwickelter wird die Angelegenheit.",
+                    "release_date": "2012-11-16",
+                    "media_type": "movie",
+                    "vote_count": 10452,
+                    "adult": false,
+                    "backdrop_path": "/u0jVmyqnMmvFuTWRaUuPdRrIZQP.jpg",
+                    "title": "Silver Linings",
+                    "genre_ids": [
+                        18,
+                        35,
+                        10749
+                    ],
+                    "id": 82693
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "GoodFellas",
+                    "poster_path": "/nJjqs7emf9bR2I5H6rBSBJHxDGx.jpg",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "popularity": 63.17,
+                    "overview": "Jimmy und Tommy können machen, was sie wollen. Sie sind Mitglieder der New Yorker Quartier-Mafia, brauchen auf niemanden Rücksicht zu nehmen und verdienen eine Menge Geld. Henry Hill ist von diesem Leben fasziniert und arbeitet daran, es ebenfalls führen zu können. Er wird in die Mafia aufgenommen und macht Karriere - schon bald organisiert er selbst Banküberfälle. Wer dabei im Weg steht, wird \"weggeräumt\", umgebracht. Dabei sind Jimmy und vor allem Tommy nicht zimperlich. Sie verstehen ihr Handwerk, einschließlich Mord, und kennen weder Pardon noch Gewissen...",
+                    "release_date": "1990-09-12",
+                    "media_type": "movie",
+                    "vote_count": 9998,
+                    "adult": false,
+                    "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+                    "title": "GoodFellas",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "id": 769
+                }
+            ],
+            "known_for_department": "Acting",
+            "popularity": 23.276,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "name": "Brad Pitt",
+            "profile_path": "/hfkzP7YstXRsj2IM1a8lLz8bvst.jpg",
+            "known_for": [
+                {
+                    "video": false,
+                    "vote_average": 8.4,
+                    "popularity": 64.603,
+                    "overview": "Ein Yuppie findet beim charismatischen Tyler Durden Unterschlupf, nachdem seine Wohnung in die Luft gejagt wird. Ein Gerangel zwischen den beiden entwickelt sich zu einer Schlägerei, die mit der Erkenntnis endet, dass man sich nach einer ordentlichen Portion Prügel einfach besser fühlt. Der \"Fight Club\" ist geboren. Immer mehr Männer versammeln sich, um sich zu schlagen - und gestärkt in den Alltag zu gehen. Wie ein Virus greift das Konzept um sich, doch für Tyler ist der Kampfverein nur die erste Stufe, um die USA in die Knie zu zwingen.",
+                    "release_date": "1999-10-15",
+                    "adult": false,
+                    "title": "Fight Club",
+                    "id": 550,
+                    "backdrop_path": "/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18
+                    ],
+                    "vote_count": 23890,
+                    "original_language": "en",
+                    "original_title": "Fight Club",
+                    "poster_path": "/rUPKPWBpr2ZbDXXZpT0qgYqTlG9.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 8.2,
+                    "popularity": 111.567,
+                    "overview": "Im von Deutschland besetzten Frankreich muss Shosanna ansehen wie ihre Familie durch Oberst Hans Landa brutal ermordet wird. Sie kann entkommen und flieht nach Paris. Gemeinsam mit seinen 8 Männern, einer Elitetruppe aus jüdisch-amerikanischen Soldaten, will Offizier Aldo Raine systematische Vergeltungsschläge gegen Nazis durchführen. Sie werden in Frankreich abgesetzt, um dort unterzutauchen. Von den Deutschen als ‚Die Bastarde' gefürchtet versuchen sie den Führer des III. Reichs zu töten.",
+                    "release_date": "2009-08-19",
+                    "adult": false,
+                    "original_language": "en",
+                    "id": 16869,
+                    "backdrop_path": "/yVPcPk96E6Qffiyez2oJc7OKD2A.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        28,
+                        53,
+                        10752
+                    ],
+                    "vote_count": 18543,
+                    "title": "Inglourious Basterds",
+                    "original_title": "Inglourious Basterds",
+                    "poster_path": "/wRxvEhv5UvJz0h4TgXpbQ3pd1hc.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 8.3,
+                    "popularity": 51.512,
+                    "vote_count": 16916,
+                    "release_date": "1995-09-22",
+                    "overview": "Der besonnene Detective Somerset ist ein Kriminologe der „alten Schule“. Zusammen mit seinem neuen Kollegen, dem Heißsporn Mills, wird er auf den ungewöhnlichsten und erschreckendsten Fall seiner Laufbahn angesetzt. Ein unbekannter Serienkiller versucht scheinbar, die Stadt von allen Sünden zu befreien. Er tut dies, indem er auf bestialische Weise für jede der sieben Todsünden einen symbolischen Ritualmord begeht.",
+                    "title": "Sieben",
+                    "id": 807,
+                    "backdrop_path": "/bd4RndWxzL2H7aiJKoGgk4clEdD.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        80,
+                        9648,
+                        53
+                    ],
+                    "adult": false,
+                    "original_language": "en",
+                    "original_title": "Se7en",
+                    "poster_path": "/79tFIrbMweqs52PxForIRJRFCIW.jpg"
+                }
+            ],
+            "gender": 2,
+            "known_for_department": "Acting",
+            "id": 287,
+            "popularity": 22.264,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "name": "Amber Heard",
+            "id": 55085,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14
+                    ],
+                    "id": 297802,
+                    "media_type": "movie",
+                    "title": "Aquaman",
+                    "original_language": "en",
+                    "original_title": "Aquaman",
+                    "overview": "Arthur Curry besser bekannt unter seinem Alias \"Aquaman\",  ist der rechtmäßige Erbe des Thrones von Atlantis.  Doch bisher ist dem Sohn eines menschlichen Vaters und einer atlantischen Mutter die Herrschaft über das mystische Unterwasserkönigreich verwehrt. Aquamans Halbbruder Orm herrscht über Atlantis und möchte auch die anderen sechs Königreiche der Meere um sich scharen, um vereint einen Krieg gegen die Menschen an der Erdoberfläche zu führen.  Um seinen Anspruch auf den Thron zu beweisen, macht sich Aquaman gemeinsam mit Mera auf die Suche nach dem Dreizack des ersten Königs von Atlantis. Als Orm von diesem Plan erfährt, hetzt er den beiden den Piraten Black Manta auf den Hals, welcher mit Aquaman selbst noch eine Rechnung zu begleichen hat.",
+                    "popularity": 92.535,
+                    "poster_path": "/pxMM3OJoVVkYFyj52YUIlN8fux.jpg",
+                    "release_date": "2018-07-06",
+                    "video": false,
+                    "vote_average": 6.9,
+                    "vote_count": 11632
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "id": 141052,
+                    "media_type": "movie",
+                    "title": "Justice League",
+                    "original_language": "en",
+                    "original_title": "Justice League",
+                    "overview": "Bruce Wayne alias Batman hat wieder Vertrauen in die Menschheit – auch dank Superman, der im Kampf gegen das Monster Doomsday wahre Selbstlosigkeit bewies und sich opferte. Als sich das mächtige außerweltliche Wesen Steppenwolf mit einer Armee Paradämonen anschickt, die Erde zu überfallen, wendet sich Batman an Diana Prince, besser bekannt unter dem Namen Wonder Woman, die gegen Doomsday eindrucksvoll zeigte, was sie kann. Gemeinsam rekrutieren sie ein Team von Superhelden, bestehend aus den Metamenschen, auf die die beiden bereits aufmerksam geworden sind: Aquaman, Cyborg und The Flash verbünden sich mit Batman und Wonder Woman, aber der Angriff auf die Erde scheint dennoch nicht mehr zu verhindern sein…",
+                    "popularity": 85.401,
+                    "poster_path": "/ex1pSKy4WImJGDk1oN0oGfeN5pj.jpg",
+                    "release_date": "2017-11-15",
+                    "video": false,
+                    "vote_average": 6.141,
+                    "vote_count": 11283
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+                    "genre_ids": [
+                        35,
+                        27
+                    ],
+                    "id": 19908,
+                    "media_type": "movie",
+                    "title": "Zombieland",
+                    "original_language": "en",
+                    "original_title": "Zombieland",
+                    "overview": "Der junge Computer-Fan Columbus hat als einer der wenigen eine verheerende Zombie-Epidemie überlebt und schlägt sich seit einiger Zeit erfolgreich im Alleingang durch ein postapokalyptisches „Zombieland“. Die Städte und Highways der Vereinigten Staaten sind verwüstet und leer gefegt - inmitten dieser Einöde trifft Columbus auf den wortkargen Zyniker Tallahassee. Dieser moderne Cowboy hat die Kunst der Zombie-Jagd perfektioniert und genießt die gewalttätigen Auseinandersetzungen mit den Untoten sichtlich. Als das ungleiche Duo auf ihrer ziellosen Fahrt die hübsche Wichita und ihre kleine Schwester in einer äußerst verzweifelten Situation kennen lernt, wendet sich das Blatt auf unangenehme Weise…",
+                    "popularity": 87.446,
+                    "poster_path": "/dJbTZfRRJByAF5YKMJHZCnFH5Fz.jpg",
+                    "release_date": "2009-10-07",
+                    "video": false,
+                    "vote_average": 7.264,
+                    "vote_count": 10319
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/ik0cfqudGTYBBRKF0x4gl2rSUQx.jpg",
+            "popularity": 22.16,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "known_for_department": "Acting",
+            "name": "Jean-Claude Van Damme",
+            "known_for": [
+                {
+                    "video": false,
+                    "vote_average": 6.3,
+                    "popularity": 65.987,
+                    "vote_count": 5675,
+                    "release_date": "2012-08-08",
+                    "original_language": "en",
+                    "overview": "Barney Ross, Lee Christmas, Yin Yang, Gunnar Jensen, Toll Road und Hale Caesar nehmen verstärkt von den Neumitgliedern Billy the Kid und Maggie einen Auftrag von Mr. Church an, der nach leicht verdientem Geld klingt. Doch dann läuft der gesamte Plan aus dem Ruder und einer der ihren wird sogar ermordet. Die „Expendables“ kennen nur noch einen Gedanken: Rache! Daher begibt sich der Söldnertrupp auf seine gefährlichste Mission tief in feindliches Gebiet und stößt dabei auf eine Verschwörung, die das Kräfteverhältnis in der Welt verändern könnte und bei der sechs Pfund gefährliches Plutonium eine gewichtige Rolle spielen.",
+                    "adult": false,
+                    "backdrop_path": "/41QdmNKbwmVD7R6A7hMqMe9FYMy.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        53
+                    ],
+                    "id": 76163,
+                    "title": "The Expendables 2",
+                    "original_title": "The Expendables 2",
+                    "poster_path": "/zKDU6MD5rXRqkhc0foDkDiV9pa1.jpg"
+                },
+                {
+                    "first_air_date": "1994-09-22",
+                    "popularity": 286.214,
+                    "overview": "Ross, Rachel,  Monica,  Chandler und Joey sind beste Freunde. Ob bei regelmäßigen Treffen im Café Central Perk oder in der WG mit den lilafarbenen Wänden, gemeinsam wird getratscht, gestritten und gelacht. Dabei ergeben sich im Laufe der Zeit immer wieder auch amouröse Verbindungen in und außerhalb der Gruppe, die zu Konflikten, aber auch zu herrlich romantischen Momenten führen. ",
+                    "original_language": "en",
+                    "vote_count": 5616,
+                    "vote_average": 8.5,
+                    "id": 1668,
+                    "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+                    "media_type": "tv",
+                    "genre_ids": [
+                        35,
+                        18
+                    ],
+                    "original_name": "Friends",
+                    "origin_country": [
+                        "US"
+                    ],
+                    "name": "Friends",
+                    "poster_path": "/f496cm9enuEsZkSPzCwnTESEK5s.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 6.9,
+                    "popularity": 81.757,
+                    "vote_count": 5536,
+                    "release_date": "2011-05-25",
+                    "id": 49444,
+                    "title": "Kung Fu Panda 2",
+                    "adult": false,
+                    "backdrop_path": "/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        16,
+                        10751
+                    ],
+                    "overview": "Der geheimnissvolle Schurke Lord Shen hat es auf den knuffigen Bären abgesehen. Als ob das nicht schlimm genug wäre, verfügt der Bösewicht über eine Geheimwaffe. Es geht um nichts weniger, als das Kung Fu selbst vor dem mächtigen Feind zu beschützen. Zu diesem Zweck sind die Fähigkeiten aller “furiosen Fünf” gefragt: Tigress, Crane, Monkey, Mantis und Viper, alle sind wieder dabei, um das gefährliche Abenteuer in China zu bestehen. Allerdings muss sich Kung Fu Panda Po erst einmal seiner mysteriösen Vergangenheit stellen.",
+                    "original_language": "en",
+                    "original_title": "Kung Fu Panda 2",
+                    "poster_path": "/A23nZfFBa7gFD40IsiV5gOadyIi.jpg"
+                }
+            ],
+            "profile_path": "/8pcmnbjvqOUd0AFQ66VrYt8wuCH.jpg",
+            "gender": 2,
+            "id": 15111,
+            "popularity": 22.502,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Jared Hess",
+            "id": 53925,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/w16gPP7CgfR7bsUw21Gyk1qa2HA.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        80
+                    ],
+                    "id": 213681,
+                    "media_type": "movie",
+                    "title": "Masterminds",
+                    "original_language": "en",
+                    "original_title": "Masterminds",
+                    "overview": "Steve arbeitet als Nachtwächter im Süden der USA bei einer Firma, die Unternehmen gepanzerte Trucks für Transport-Dienste zur Verfügung stellt. Vor allem dienen die Wagen als Geldtransporter. David ist einer der Männer, die für Banken Unsummen an Dollars von A nach B fahren. Diese Aufgabe ist allerdings weitaus weniger spannend, als sie sich anhört, und so ist Davids Tageshöhepunkt nicht das Verladen der Millionen, sondern der tägliche Flirt mit seiner Kollegin Kelly. Das Abenteuer hält erst in Davids Leben Einzug, als Kelly ihn für einen kriminellen Plan gewinnen will: Steve und ein paar andere unerfahrene Kriminelle, inklusive Auftragskiller Jason Sudeikis, haben es sich in den Kopf gesetzt, beim größten je dagewesenen Bankraub der Vereinigten Staaten 17 Millionen Dollar zu entwenden. Auf einmal hat David lauter neue Freunde, aber auch jede Menge Ärger am Hals...",
+                    "popularity": 20.423,
+                    "poster_path": "/q3SKjHnodCvvhYEYxCNxBGYUlOe.jpg",
+                    "release_date": "2016-09-29",
+                    "video": false,
+                    "vote_average": 5.732,
+                    "vote_count": 1484
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/jrXKwUYxNLa7Dv7TPHToQ4mVmlF.jpg",
+                    "genre_ids": [
+                        35
+                    ],
+                    "id": 8193,
+                    "media_type": "movie",
+                    "title": "Napoleon Dynamite",
+                    "original_language": "en",
+                    "original_title": "Napoleon Dynamite",
+                    "overview": "Napoleon Dynamite ist ein neuer Typus Held - mit dichtem Afro, süßen Moonboots und Qualitäten, die unschlagbar sind. Seine Tage verbringt er damit, Fantasy-Bestien zu zeichnen, sich mit seinem Bruder Kip zu prügeln und seinem hinterlistigen Onkel Rico aus dem Weg zu gehen. Mit der schüchternen Deb und dem schnurrbärtigen Pedro treten zwei neue Freunde in Napoleons Leben. Das Trio startet eine Kampagne für Pedros Wahl zum Klassensprecher - und endlich werden die wildesten Träume der Studentenschaft wahr. Aber um den hochnäsigen Summer schlagen zu können, muss Napoleon seine Geheimwaffe einsetzen ...",
+                    "popularity": 11.694,
+                    "poster_path": "/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg",
+                    "release_date": "2004-06-11",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 1419
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/nNCleqiADKVMKWDC5G7hjYcVCmv.jpg",
+                    "genre_ids": [
+                        35,
+                        10751
+                    ],
+                    "id": 9353,
+                    "media_type": "movie",
+                    "title": "Nacho Libre",
+                    "original_language": "en",
+                    "original_title": "Nacho Libre",
+                    "overview": "Mexiko, in den 70ern: Nacho ist Koch in einem armen Klosterwaisenhaus irgendwo in der Pampa und sein größter Wunsch ist es, ein berühmter Luchador, ein Wrestler zu werden. Als Koch fehlen ihm die Zutaten, die hübsche Nonne Encarnation scheint unerreichbar, also sucht sich Nacho eines Tages einen Partner für einen Nachwuchswettbewerb: seine Wahl fällt auf den dürren und abgrundtief häßlichen Esqueleto, doch das neue Dream Team verliert - und verdient trotzdem Geld. Fortan gibt dies Nacho Aufschwung, doch bald meldet sich sein Ehrgeiz - denn Niederlagen tun weh.Als er im Kloster mit seiner Nebentätigkeit auffliegt, will er es allen und sich beweisen: er will den größten Luchador, Ramses, schlagen...",
+                    "popularity": 47.789,
+                    "poster_path": "/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg",
+                    "release_date": "2006-06-16",
+                    "video": false,
+                    "vote_average": 6.291,
+                    "vote_count": 1233
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": "/AlZGAfdgo6PL0ZOooHf0kxk1wHG.jpg",
+            "media_type": "person"
+        },
+        {
+            "profile_path": "/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg",
+            "known_for": [
+                {
+                    "vote_average": 7.5,
+                    "overview": "Die Karriere von Riggan Thomson ist quasi am Ende. Früher verkörperte er den ikonischen Superhelden Birdman, doch heutzutage gehört er zu den ausgedienten Stars einer vergangenen Ära. In seiner Verzweiflung versucht er, ein Broadway-Stück auf die Beine zu stellen, um sich und allen anderen zu beweisen, dass er noch nicht zum alten Eisen gehört. Als die Premiere näher rückt, fällt sein Hauptdarsteller aus, der daraufhin durch den neurotischen Mike Shiner ersetzt werden muss. Zusätzlich muss Riggan sich mit seiner Freundin Laura herumschlagen, der er eine Nebenrolle verschafft hat. Unterstützt wird er immerhin von seiner Tochter Sam, die gerade einen Drogenentzug hinter sich gebracht hat, und von seiner Ex-Frau Sylvia, die öfter herein schneit und alles am Laufen halten will.",
+                    "vote_count": 11199,
+                    "release_date": "2014-10-17",
+                    "id": 194662,
+                    "adult": false,
+                    "backdrop_path": "/gXboplsdDKprKA46IptKwDgY6Nr.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        35
+                    ],
+                    "popularity": 29.752,
+                    "original_language": "en",
+                    "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                    "poster_path": "/kat6mLzOWzDjdLqJh1ZAhbRGLW6.jpg",
+                    "title": "Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit)",
+                    "video": false
+                },
+                {
+                    "vote_average": 6.4,
+                    "overview": "In einer alternativen Zukunft ist die Stadt Chicago von der Außenwelt abgeschnitten und die Menschen sind entsprechend ihrer Fähigkeiten in fünf Gruppen eingeteilt: Ferox (die Furchtlosen), Altruan (die Selbstlosen), Cadnor (die Freimütigen), Ken (die Gelehrten) und Amite (die Friedfertigen). Nach ihrem Konflikt mit der skrupellosen Ken-Anführerin Jeanine Matthews und ihrer Flucht aus Chicago steht die „Unbestimmte“ Beatrice „Tris“ Prior mehr denn je zwischen den Fronten der fünf Fraktionen. Besonders Jeanine hat es auf sie abgesehen. Begleitet von ihrem ehemaligen Trainingsleiter Four wird sie gnadenlos von der Ken-Führerin verfolgt. Es beginnt ein Wettlauf gegen die Zeit, denn um herauszufinden, warum sie überhaupt verfolgt wird, muss Tris sich Klarheit über die undurchsichtige Allianz verschaffen und die Wahrheit über ihre Vergangenheit ans Licht bringen …",
+                    "vote_count": 8847,
+                    "release_date": "2015-03-18",
+                    "id": 262500,
+                    "adult": false,
+                    "backdrop_path": "/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878,
+                        53
+                    ],
+                    "popularity": 101.759,
+                    "original_language": "en",
+                    "original_title": "Insurgent",
+                    "poster_path": "/aAgBWkv7dSX8kzBea4A6INISiUz.jpg",
+                    "title": "Die Bestimmung - Insurgent",
+                    "video": false
+                },
+                {
+                    "vote_average": 6.8,
+                    "overview": "Amerika in den 30er Jahren: Für seinen neuen Film will der Regisseur Carl Denham eine ganz besondere Kulisse haben. Diese hat er auch schon in einer abgelegenen Insel, \"Skull Island\", im Gegensatz zu der weiblichen Hauptrolle gefunden. Erst kurz vor der Abreise findet sie sich in der schönen Ann Darrow, die sofort auf das Angebot einsteigt und mitreist. Keiner des Filmteams, nicht mal Denham, war bisher auf der Insel und schnell müssen sie dort feststellen, dass es ein Fehler war, sie dafür auszuwählen. Denn auf ihr lebt ein Eingeborenenstamm, der einen riesigen Gorilla, \"King Kong\", anbetet und ihm von Zeit zu Zeit Menschen opfert. Die Eingeborenen sind so von Ann beeindruckt, dass sie das nächste Opfer sein soll...",
+                    "vote_count": 6520,
+                    "release_date": "2005-12-12",
+                    "id": 254,
+                    "adult": false,
+                    "backdrop_path": "/khCWWTRSwmMw1Us6rVFpEzDeDJf.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        18,
+                        28
+                    ],
+                    "popularity": 64.745,
+                    "original_language": "en",
+                    "original_title": "King Kong",
+                    "poster_path": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+                    "title": "King Kong",
+                    "video": false
+                }
+            ],
+            "name": "Naomi Watts",
+            "known_for_department": "Acting",
+            "id": 3489,
+            "adult": false,
+            "gender": 1,
+            "popularity": 29.192,
+            "media_type": "person"
+        },
+        {
+            "gender": 2,
+            "adult": false,
+            "id": 1343019,
+            "name": "Dinesh Baboo",
+            "known_for_department": "Directing",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "original_title": "Hollywood",
+                    "video": false,
+                    "vote_average": 7,
+                    "id": 339861,
+                    "vote_count": 4,
+                    "overview": "",
+                    "release_date": "2003-01-03",
+                    "media_type": "movie",
+                    "popularity": 0.711,
+                    "adult": false,
+                    "title": "Hollywood",
+                    "genre_ids": [],
+                    "original_language": "kn"
+                },
+                {
+                    "original_title": "Abhi",
+                    "video": false,
+                    "vote_average": 6,
+                    "id": 691030,
+                    "vote_count": 2,
+                    "overview": "",
+                    "release_date": "2003-04-25",
+                    "media_type": "movie",
+                    "popularity": 0.659,
+                    "adult": false,
+                    "backdrop_path": "/yWQeqq4QV3kUnAMjvdlJgg7RgI4.jpg",
+                    "title": "Abhi",
+                    "genre_ids": [
+                        35,
+                        10749
+                    ],
+                    "poster_path": "/vPt4NA6KDGCdkyyX3reV7tvxfGu.jpg",
+                    "original_language": "kn"
+                },
+                {
+                    "original_title": "Mazhavillu",
+                    "video": false,
+                    "vote_average": 6,
+                    "id": 387334,
+                    "vote_count": 1,
+                    "overview": "",
+                    "release_date": "1999-10-16",
+                    "media_type": "movie",
+                    "popularity": 0.6,
+                    "adult": false,
+                    "title": "Mazhavillu",
+                    "genre_ids": [
+                        18
+                    ],
+                    "original_language": "ml"
+                }
+            ],
+            "popularity": 0.631,
+            "media_type": "person"
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

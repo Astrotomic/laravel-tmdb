@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/pB1bdQapfQSWVtS0ZR5UqYrcYw7.jpg",
+    "belongs_to_collection": null,
+    "budget": 1700000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 124972,
+    "imdb_id": "tt1718158",
+    "original_language": "en",
+    "original_title": "Generation Um...",
+    "overview": "Der Mitt-Dreißiger John stiehlt einen Camcorder von einer Gruppe herumlungernder Jugendlicher am Times Square, um einen Tag lang aufzuzeichnen, was er in der Stadt, die niemals schläft, so alles erlebt. Kurz danach trifft er auf Mia und Violet, die mit ihm gemeinsam essen und trinken gehen. Schließlich landen sie alle in einem Hotelzimmer. Die Kamera, die John dabei hat, zeichnet im Verlauf eines Abends nüchtern und gnadenlos die verschiedenen Stadien einer Dreiecksbeziehung auf. Liebe, Eifersucht, Sex, Freundschaft und Geheimnisse sind auf dem Band zu sehen. Am Ende der ereignisreichen Nacht müssen die drei New Yorker sich die Frage stellen, was dieses ganz besondere Erlebnis für jeden von ihnen bedeutet.",
+    "popularity": 9.615,
+    "poster_path": "/zr3nOgVqtV7V9hR4VEkSe7cELA3.jpg",
+    "production_companies": [
+        {
+            "id": 7193,
+            "logo_path": null,
+            "name": "Company Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-07-11",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Threesome - Eine Nacht in New York",
+    "video": false,
+    "vote_average": 4.2,
+    "vote_count": 69
+}

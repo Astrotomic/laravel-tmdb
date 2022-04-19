@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/siAdGxe2VrlemtZ30ONTmhvCLJh.jpg",
+    "belongs_to_collection": {
+        "id": 91746,
+        "name": "Bill & Teds verrückte Reise Filmreihe",
+        "poster_path": "/ffCa2h3qW55YthUbz6gsGnkaCes.jpg",
+        "backdrop_path": "/cPjeCcWV9YzQcLtaxZOr6hnKwoP.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.billandted.org/",
+    "id": 1648,
+    "imdb_id": "tt0096928",
+    "original_language": "en",
+    "original_title": "Bill & Ted's Excellent Adventure",
+    "overview": "Bunt ist das Dasein, und granatenstark! Bill und Ted werden von der Schule fliegen, wenn sie mit ihrem Abschlussreferat in Geschichte keine gute Note machen, was wohl ziemlich uncool wäre. Ein Kerl der sich selbst Rufus nennt, kommt mit einer Telefonzelle aus der Zukunft um ihnen bei dem scheinbar unlösbaren Problem zu helfen, denn das Schicksal der beiden hat einen entscheidenden Einfluss auf die Zukunft der ganzen Menschheit. Da Bücher viel zu trocken sind, reisen sie kurzerhand selbst in die Vergangenheit, um die großen Persönlichkeiten, die sie bei ihre Prüfung vorstellen müssen, persönlich kennenzulernen.",
+    "popularity": 13.021,
+    "poster_path": "/yucNmSVhfTgP0Sa4Ol0S0WcilMg.jpg",
+    "production_companies": [
+        {
+            "id": 41,
+            "logo_path": "/AuAIlCWBrbhbUFFrJ6M9E3ihBoj.png",
+            "name": "Orion Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-02-17",
+    "revenue": 40485039,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sie treffen sich zwischen Raum und Zeit: Bill, Ted, Sokrates, Dschingis Khan, Napoleon und Billy the Kid",
+    "title": "Bill & Teds verrückte Reise durch die Zeit",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 1397
+}

@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/bffxv4SSJefy3CdgSqVTlWbRiOt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80243600",
+    "id": 584962,
+    "imdb_id": "tt9398640",
+    "original_language": "en",
+    "original_title": "Between Two Ferns: The Movie",
+    "overview": "Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, 'Between Two Ferns' and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.",
+    "popularity": 15.811,
+    "poster_path": "/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg",
+    "production_companies": [
+        {
+            "id": 21213,
+            "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+            "name": "Funny or Die",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-09-20",
+    "revenue": 0,
+    "runtime": 82,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There's nowhere he won't go.",
+    "title": "Between Two Ferns: The Movie",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 628
+}

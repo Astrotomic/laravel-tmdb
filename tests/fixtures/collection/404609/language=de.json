@@ -1,0 +1,88 @@
+{
+    "id": 404609,
+    "name": "John Wick Filmreihe",
+    "overview": "John Wick ist eine US-amerikanische Action-Spielfilmreihe über den besten Hitman der Branche, der glaubt endgültig aus dem Geschäft ausgestiegen zu sein. Er muss feststellen, dass man der Vergangenheit nicht entfliehen kann, daher kennt seine Rache keine Gnade...",
+    "poster_path": "/cYFHYelgGIaMbPFqM1ld7n2DpCo.jpg",
+    "backdrop_path": "/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 245891,
+            "title": "John Wick",
+            "original_language": "en",
+            "original_title": "John Wick",
+            "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
+            "popularity": 81.203,
+            "poster_path": "/erBsqm9gNvq7pQTPrkXdRpF6CFw.jpg",
+            "release_date": "2014-10-22",
+            "video": false,
+            "vote_average": 7.365,
+            "vote_count": 15581
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "id": 324552,
+            "title": "John Wick: Kapitel 2",
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 2",
+            "overview": "Nur noch das Auto zurückholen, dann will sich John Wick zurück in den Ruhestand verabschieden. Doch nachdem der Ex-Auftragskiller sein geliebtes Gefährt wieder und sich mit Abram geeinigt hat, dem Bruder seiner Nemesis Viggo Tarasov geht es für Wick erst richtig los. Wicks ehemaliger Kollege Santino steht vor der Tür und gibt ihm eine mit Blut besiegelte Münze. Wie der Einzelkämpfer weiß, steht das Geldstück für ein Versprechen, das Wick einst gab – das Versprechen von Hilfe als Gegenleistung für einen alten Gefallen. Und auch wenn der Killer seine Ruhe haben will, kann er schließlich nicht anders, als seine Zusicherung einzulösen, denn andernfalls droht ihm der Tod. Wick geht nach Rom, wo Santinos Schwester Gianna in die Riege der einflussreichsten Gangsterbosse kommen will...",
+            "popularity": 107.457,
+            "poster_path": "/7JvUTRGuuS6G15OVRCe7AKduTYP.jpg",
+            "release_date": "2017-02-08",
+            "video": false,
+            "vote_average": 7.269,
+            "vote_count": 10108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 458156,
+            "title": "John Wick: Kapitel 3",
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 3 - Parabellum",
+            "overview": "John Wick befindet sich auf der Flucht. Es sind nicht nur 14 Millionen Dollar auf seinen Kopf ausgesetzt, er hat auch die Regel aller Regeln gebrochen: er hat einen anderen Menschen im Bereich des Continental Hotels umgebracht. Eigentlich müsste er deswegen längst tot sein, doch Hotelmanager Winston gewährte ihm für eine Stunde Gnade, bevor alle Folgen eintreten und Wick offiziell aus der Killergemeinschaft ausgeschlossen wird. Wenn John überleben will, muss er sich seinen Weg aus New York City freikämpfen und irgendwo auf der Welt Zuflucht finden. Helfen kann ihm dabei nur seine alte Bekannte Sofia und die Frau, die ihn einst aufgezogen und beschützt hat...",
+            "popularity": 109.142,
+            "poster_path": "/rXdNL3NhmDZ8w4scJYxUDSpaJz.jpg",
+            "release_date": "2019-05-15",
+            "video": false,
+            "vote_average": 7.438,
+            "vote_count": 7844
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/72p6d4MPEcA7FqHJjiE4u44SO2B.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 603692,
+            "title": "John Wick: Kapitel 4",
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "Hagakure kommt aus dem Japanischen und ist eine Sammlung von Lektionen, Episoden und Aufzeichnungen des Samurais Tsunetomo Yamamoto, die Anfang des 18. Jahrhunderts entstanden ist. Hagakure bedeutet dabei so viel wie „Im Schatten der Blätter“, „Versteckte Blätter“ oder auch „Hinter den Blättern“ und fungierte  als eine Art Ehrenkodex für Samurais. Wird John Wick sich also mit der Kultur der Samurais beschäftigen?",
+            "popularity": 85.24,
+            "poster_path": "/kPsRQfoyYgcpbI6hvDQvUSCo0q3.jpg",
+            "release_date": "2023-03-23",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

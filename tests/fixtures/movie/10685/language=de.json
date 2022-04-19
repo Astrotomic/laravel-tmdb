@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/c3KyX7aoEWkyroJXzpexXCyR2T8.jpg",
+    "belongs_to_collection": null,
+    "budget": 33000000,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10685,
+    "imdb_id": "tt0204626",
+    "original_language": "en",
+    "original_title": "The Watcher",
+    "overview": "Ein auf einsame Frauen spezialisierter Serienkiller folgt einem Ex-FBI-Agenten von der Westküste nach Chicago, um das mörderische Spiel zwischen den Widersachern weiterzuführen. Der Polizist, körperlich und seelisch einem Zusammenbruch nahe, erhält von dem Killer stets das Foto einer unbekannten Frau, die bis neun Uhr abends des gleichen Tages gefunden werden muß, da sie sonst sterben wird. So beginnt ein Wettlauf mit der Zeit und immer ist der Killer ein klein wenig schneller...",
+    "popularity": 11.79,
+    "poster_path": "/kV6HmoFZ0iBYtsGcVqaHXAXkKH4.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 143567,
+            "logo_path": null,
+            "name": "Lewitt / Eberts Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 143568,
+            "logo_path": null,
+            "name": "Choi / Niami Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 143569,
+            "logo_path": null,
+            "name": "Driven Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 2016,
+            "logo_path": null,
+            "name": "Interlight",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-09-08",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Vietnamese",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Watcher",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 377
+}

@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 684709,
+    "imdb_id": "tt5325366",
+    "original_language": "en",
+    "original_title": "Mind Over Matter: The Physicality of the Matrix Future",
+    "overview": "",
+    "popularity": 0.955,
+    "poster_path": "/zkpzfTyF7BjadH1PZKlC6kueWXf.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2004-04-06",
+    "revenue": 0,
+    "runtime": 8,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mind Over Matter: The Physicality of the Matrix Future",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 8
+}

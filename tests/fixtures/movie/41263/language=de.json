@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/uQvqIEj6TpxcDvDtL98kBvejDsV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        }
+    ],
+    "homepage": "",
+    "id": 41263,
+    "imdb_id": "tt0090775",
+    "original_language": "en",
+    "original_title": "The Brotherhood of Justice",
+    "overview": "A group of high school students, led by a rich boy Derek, is sick of school violence and decides to become underground vigilantes named \"Brotherhood of Justice\". It starts with the idea \"watching people\", but things quickly get out of control. \"Brotherhood of Justice\" turns out another gang of violence. Derek wants to stop it but it is too late, so he takes responsibility for it and gives himself to the law.",
+    "popularity": 6.301,
+    "poster_path": "/lYT6gX1ImCCEdlw0FvfZZ4tryWf.jpg",
+    "production_companies": [
+        {
+            "id": 24360,
+            "logo_path": "/5rGQWXRUcKSIrGhDu2vvAw8kcwJ.png",
+            "name": "Phoenix Entertainment Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 4357,
+            "logo_path": null,
+            "name": "The Guber-Peters Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-05-18",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They were the best kids in the neighborhood ... until they decided it was time to fight back.",
+    "title": "The Brotherhood of Justice",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 28
+}

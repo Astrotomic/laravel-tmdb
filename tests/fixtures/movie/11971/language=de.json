@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/tRnrAIjA1ax1BYYf1tclnYp5Uq3.jpg",
+    "belongs_to_collection": null,
+    "budget": 11000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 11971,
+    "imdb_id": "tt0107616",
+    "original_language": "en",
+    "original_title": "Much Ado About Nothing",
+    "overview": "Edelmann Benedikt, ein Getreuer Don Pedros, und Beatrice, die Nichte des Fürsten Leonato, verbergen ihre Zuneigung hinter dem Austausch von Bosheiten. Liebe auf den ersten Blick hingegen verbindet Hero, die Tochter Leonatos, dem Gastgeber der Truppe Don Pedros mit dem Grafen Claudio. Während man am Hof des Fürsten Beatrice und Benedikt miteinander zu verkuppeln sucht, treibt Juan, der Halbbruder Don Pedros ein böses Spiel, um dem Feldherrn zu schaden und die Liebe von Hero und Claudio zu hintertreiben.",
+    "popularity": 14.414,
+    "poster_path": "/88vJAUduUHtSUbO0gs340j3R95B.jpg",
+    "production_companies": [
+        {
+            "id": 3102,
+            "logo_path": null,
+            "name": "Renaissance Films",
+            "origin_country": ""
+        },
+        {
+            "id": 288,
+            "logo_path": "/wdmwQuV4R1MIr8A78izZkC184uC.png",
+            "name": "BBC Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 3906,
+            "logo_path": "/iSK5VQnKq7ZZKI3ge9K1DySvJYm.png",
+            "name": "American Playhouse",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1993-05-07",
+    "revenue": 22551000,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Romanze. Unfug. Verführung. Rache. Erstaunlich.",
+    "title": "Viel Lärm um nichts",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 563
+}

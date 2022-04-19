@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/stSaFz5CtMXwIj3r4MDjqxqWRot.jpg",
+    "belongs_to_collection": null,
+    "budget": 2500000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "",
+    "id": 468,
+    "imdb_id": "tt0102494",
+    "original_language": "en",
+    "original_title": "My Own Private Idaho",
+    "overview": "Die zwei Stricher Mike und Scott, befinden sich auf einem ausgesprochen kurvigen Lebensweg werden Freunde  und suchen das Abenteuer. Mike, ein Strichjunge mit krankhaftem Schlafdrang, der in idyllischen Kindheitserinnerungen schwelgt und unbedingt seine Mutter wiederfinden will. Der reiche Ausreißer Scott, der einen ganz persönlichen “Kreuzzug” führt, um den Sinn des Lebens zu erforschen – letztlich wartet er auf den Tag, an dem er das Vermögen seines Vaters erbt. Gemeinsam irren sie durch eine bizarre Welt freigiebiger Fremder und befremdlicher Abenteuer. Auf ihrer Odyssee lernen sie einander besser verstehen und finden ihren Platz in der Welt – denn das Leben lehrt sie Erfahrungen, die man nur unterwegs machen kann.",
+    "popularity": 18.494,
+    "poster_path": "/sPMI0nWEBGkK0J8S0EixZYUj7Nw.jpg",
+    "production_companies": [
+        {
+            "id": 8,
+            "logo_path": "/78ilmDNTpdCfsakrsLqmAUkFTrO.png",
+            "name": "Fine Line Features",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1991-02-01",
+    "revenue": 6401336,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Das Ende der Unschuld",
+    "title": "My Private Idaho",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 883
+}

@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 612835,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Salacia",
+    "overview": "Tourmaline is an experimental portraitist whose subject is Black trans women. This impressionistic piece concerns Mary Jones, who worked at a New York brothel in the early nineteenth century and was described as a “man-monster” in a tabloid-style lithograph that was published after her arrest, in 1836, for robbery.",
+    "popularity": 0.6,
+    "poster_path": "/uJhj9QCjOTqHFJttguNlvLbnDwU.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2019-07-03",
+    "revenue": 0,
+    "runtime": 6,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Salacia",
+    "video": false,
+    "vote_average": 1,
+    "vote_count": 1
+}

@@ -99,10 +99,8 @@ Movie::eachById(static function(Movie $movie): void {
 
 #### Movie
 
-The movie model is the central place and provies the most features.
-
-First of all you can also `find()` a movie with additional relations and tehy will also be queried from the API.
-To do so you only have to call the `with()` method on the query berfore you call any of the `find()` methods.
+First of all you can also `find()` a movie with additional relations and they will also be queried from the API.
+To do so you only have to call the `with()` method on the query before you call any of the `find()` methods.
 
 ```php
 use Astrotomic\Tmdb\Models\Movie;
@@ -151,6 +149,18 @@ use Astrotomic\Tmdb\Models\Movie;
 Movie::findOrFail(335983)->runtime();
 Movie::findOrFail(335983)->poster();
 Movie::findOrFail(335983)->backdrop();
+```
+
+#### Person
+
+The person model has the same base model as the movie and general method API.
+
+```php
+use Astrotomic\Tmdb\Models\Person;
+
+Person::with('movie_credits')->find(6384);
+Person::trending(20);
+Person::findOrFail(6384)->profile();
 ```
 
 ### Images

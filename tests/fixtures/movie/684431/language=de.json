@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 684431,
+    "imdb_id": "tt0365467",
+    "original_language": "en",
+    "original_title": "Making 'The Matrix'",
+    "overview": "",
+    "popularity": 1.868,
+    "poster_path": "/m2yIfRJYwpCgHON1Ig1pNKMWTxp.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1999-09-21",
+    "revenue": 0,
+    "runtime": 26,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Making 'The Matrix'",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 9
+}

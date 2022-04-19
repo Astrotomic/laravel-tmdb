@@ -1,0 +1,74 @@
+{
+    "id": 275402,
+    "name": "SpongeBob Schwammkopf Filmreihe",
+    "overview": "Der Meeresschwamm SpongeBob Schwammkopf lebt in einer umgebauten Ananas in der Unterwasserstadt Bikini Bottom. Er ist sehr freundlich, aber auch etwas naiv. Seine Freizeit verbringt er meist mit seinem besten Freund Patrick, einem Seestern.",
+    "poster_path": "/aTnC0WJcpXbTiz7hqqR0Wj7JCTV.jpg",
+    "backdrop_path": "/82aBKm6QfMzNYl7jk9VG4mMPOYu.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/5qWtPhMLxY7cS1GkAvJZlPKgNPd.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                35,
+                14
+            ],
+            "id": 11836,
+            "title": "Der SpongeBob Schwammkopf Film",
+            "original_language": "en",
+            "original_title": "The SpongeBob SquarePants Movie",
+            "overview": "Hektik in Bikini Bottom, dem Wohnort des gelben Schwamms Spongebob Schwammkopf. Irgendjemand hat die Krone von König Neptun gestohlen und der Verdacht fällt sofort auf Spongbobs Chef Mr. Krabs. Nur Spongebob und sein bester Freund, der Seestern Patrick, glauben an Mr. Krabs und machen sich auf, um dessen Unschuld zu beweisen. Dafür müssen sie Bikini Bottom verlassen und sich nach Shell City durchschlagen. Doch auf dem Weg dorthin kommen sie in allerlei schwierige Situation, die überstanden werden wollen, um Mr. Krabs zu retten.",
+            "popularity": 104.323,
+            "poster_path": "/oER0xVKFXP7i2R1dUxpotLPlDe.jpg",
+            "release_date": "2004-11-14",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg",
+            "genre_ids": [
+                10751,
+                12,
+                35,
+                14,
+                16
+            ],
+            "id": 228165,
+            "title": "SpongeBob Schwammkopf",
+            "original_language": "en",
+            "original_title": "The SpongeBob Movie: Sponge Out of Water",
+            "overview": "Als der fiese Pirat Burger Beard Mr. Krabs' Geheimrezept für den allseits beliebten Krabbenburger stiehlt, stürzt er damit die gesamte Unterwasser-Stadt Bikini Bottom ins Chaos. Das wollen deren Bewohner natürlich nicht auf sich sitzen lassen. Und so begeben sich SpongeBob und seine Freunde Patrick, Sandy, Thaddäus und Mr. Krabs in die Welt der Menschen, um Burger Beard mit vereinten Kräften das Handwerk zu legen. Doch auch SpongeBobs Erzfeind Plankton will die Gelegenheit nutzen, um an das Rezept zu kommen. Während sie sich noch in der ihnen fremden Welt zurechtfinden müssen, wecken sie bald erstaunliche Kräfte in sich, mit denen sie Burger Beard und seiner finsteren Crew entschlossen entgegentreten.",
+            "popularity": 66.415,
+            "poster_path": "/6482Mj3k2ldFpRIU7XyPJJEqbMX.jpg",
+            "release_date": "2015-01-28",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1946
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                14,
+                12,
+                35
+            ],
+            "id": 400160,
+            "title": "Spongebob Schwammkopf: Eine schwammtastische Rettung",
+            "original_language": "en",
+            "original_title": "The SpongeBob Movie: Sponge on the Run",
+            "overview": "SpongeBob Schwammkopf ist am Meeresboden zerstört, denn Schnecke Gary ist verschwunden. SpongeBob fackelt nicht lang und macht sich mit seinem Freund Patrick auf die Suche nach Gary. Ihr Weg führt sie bis nach Atlantic City.",
+            "popularity": 246.082,
+            "poster_path": "/k6j2Rat1tpTZ9lFW0hkfSQT2Cgk.jpg",
+            "release_date": "2020-08-14",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2452
+        }
+    ]
+}

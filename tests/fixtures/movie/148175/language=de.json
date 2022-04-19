@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/vSdfplF5i6zyDlDANVNHveksoXI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10770,
+            "name": "TV-Film"
+        }
+    ],
+    "homepage": "",
+    "id": 148175,
+    "imdb_id": "tt0092269",
+    "original_language": "en",
+    "original_title": "Young Again",
+    "overview": "",
+    "popularity": 2.691,
+    "poster_path": "/p4ZW15twOPBgnMry2XrG0QNs5vQ.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-05-11",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Young Again",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 17
+}

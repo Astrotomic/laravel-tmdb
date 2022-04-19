@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 221495,
+    "imdb_id": "tt0410519",
+    "original_language": "en",
+    "original_title": "The Matrix Recalibrated",
+    "overview": "",
+    "popularity": 11.023,
+    "poster_path": "/gRni1Q651AZPnLqZczmahiIxG0s.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-04-06",
+    "revenue": 0,
+    "runtime": 27,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Matrix Recalibrated",
+    "video": true,
+    "vote_average": 6.6,
+    "vote_count": 36
+}

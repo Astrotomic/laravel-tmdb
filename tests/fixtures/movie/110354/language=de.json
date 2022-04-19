@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/AkuDVdvopWHr2Vw3IBmfhlPk8Bx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "http://sidebysidethemovie.com/",
+    "id": 110354,
+    "imdb_id": "tt2014338",
+    "original_language": "en",
+    "original_title": "Side by Side",
+    "overview": "Keanu Reeves zeigt eine Tour durch die Vergangenheit, Gegenwart und Zukunft der Filmproduktion. Seit über 100 Jahren ist photochemischer Film das Standardformat für die Erfassung, Entwicklung, Projektion und Lagerung von Filmaufnahmen.",
+    "popularity": 10.749,
+    "poster_path": "/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",
+    "production_companies": [
+        {
+            "id": 7193,
+            "logo_path": null,
+            "name": "Company Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-08-19",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Side by Side",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 238
+}

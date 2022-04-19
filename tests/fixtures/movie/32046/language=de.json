@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/v5CxfWM22VuvwvS6tsX9L2BMoOH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 10770,
+            "name": "TV-Film"
+        }
+    ],
+    "homepage": "",
+    "id": 32046,
+    "imdb_id": "tt0090588",
+    "original_language": "en",
+    "original_title": "Act of Vengeance",
+    "overview": "Jock Yablonski ist als Bergarbeiter täglich großen Gefahren ausgesetzt. Vor allem seit Gewerkschaftsführer Tony Boyle die Sicherheitsbedenken der Mitarbeiter ignoriert. Als bei einem Grubenunglück mehrere Bergarbeiter ums Leben kommen, entschließt sich Jock, als Gewerkschaftsvorsitzender gegen Boyle zu kandidieren. Doch der läßt sich seinen Posten nicht so leicht streitig machen und heuert drei Killer an ...  - Psychothriller aus den Siebzigern.",
+    "popularity": 4.551,
+    "poster_path": "/7KwiClrTeTdReW627FARpvZWfgH.jpg",
+    "production_companies": [
+        {
+            "id": 68644,
+            "logo_path": null,
+            "name": "Telepix Canada Corp.",
+            "origin_country": ""
+        },
+        {
+            "id": 68645,
+            "logo_path": null,
+            "name": "Frank Konigsberg Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 55745,
+            "logo_path": "/pYNfr1iUnsQJoTJ3Jxu1VjuLHyI.png",
+            "name": "Lorimar Telepictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7429,
+            "logo_path": "/6in9uMqxXEHx5XgYgkeRBpZ4rPw.png",
+            "name": "HBO Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 28674,
+            "logo_path": "/dRx99KVtiehmtvzv8qu3UATSCsU.png",
+            "name": "Telepictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-09-04",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Jock Yablonski kann die dunklen Machenschaften seines Gewerkschaftspräsidenten Tony Boyle nicht mehr mitansehen und kandidiert gegen seinen übermächtigen Chef. Ist das sein Todesurteil?",
+    "title": "Local 323",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 10
+}

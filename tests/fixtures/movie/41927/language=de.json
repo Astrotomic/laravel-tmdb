@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 41927,
+    "imdb_id": "tt0100822",
+    "original_language": "en",
+    "original_title": "Tune in Tomorrow...",
+    "overview": "'Die Könige der Gartenstadt' - mit dieser Hörfunk-Soap lockt Pedro Carmichael (Peter Falk) jede Woche Tausende von Hörern vor das Radio. Der unerfahrene Redakteur Martin (Keanu Reeves) sieht in ihm ein Vorbild und hofft auf Rat - denn er ist in seine Tante Julia (Barbara Hershey) verliebt.",
+    "popularity": 2.936,
+    "poster_path": "/cMabi4aTi9mYs29tFS5Bh2DSEPi.jpg",
+    "production_companies": [
+        {
+            "id": 1718,
+            "logo_path": null,
+            "name": "Odyssey",
+            "origin_country": "US"
+        },
+        {
+            "id": 62072,
+            "logo_path": null,
+            "name": "Polar Entertainment Corporation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1990-10-26",
+    "revenue": 0,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Julia und ihre Liebhaber",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 17
+}

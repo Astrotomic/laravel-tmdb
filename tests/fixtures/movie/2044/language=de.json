@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/uObdpm2mpub5cvyOLXmRp95KjGR.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://wwws.warnerbros.de/thelakehouse/",
+    "id": 2044,
+    "imdb_id": "tt0410297",
+    "original_language": "en",
+    "original_title": "The Lake House",
+    "overview": "A lonely doctor who once occupied an unusual lakeside home begins exchanging love letters with its former resident, a frustrated architect. They must try to unravel the mystery behind their extraordinary romance before it's too late.",
+    "popularity": 30.349,
+    "poster_path": "/tHpc1118dYWLnHZleGhwZxRbpae.jpg",
+    "production_companies": [
+        {
+            "id": 1143,
+            "logo_path": null,
+            "name": "Sound for Film",
+            "origin_country": ""
+        },
+        {
+            "id": 79,
+            "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 829,
+            "logo_path": "/mzpAmEQ5P1gFvdRoNyCk9q8ngiv.png",
+            "name": "Vertigo Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-06-16",
+    "revenue": 114830111,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "How do you hold on to someone you've never met?",
+    "title": "The Lake House",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 2218
+}

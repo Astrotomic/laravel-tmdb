@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/zsotFMYDF6cBcXc7aEEf2ygu6UG.jpg",
+    "belongs_to_collection": {
+        "id": 124881,
+        "name": "Street Kings Filmreihe",
+        "poster_path": "/r0c2hR2KQsZO3vdhFQdUsnSuUef.jpg",
+        "backdrop_path": "/lKOSWtpAQZh7x8YuyYFDv0Y6LWo.jpg"
+    },
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 1266,
+    "imdb_id": "tt0421073",
+    "original_language": "en",
+    "original_title": "Street Kings",
+    "overview": "Detective Ludlow bringt Resultate, selten aber Überlebende vom Einsatz zurück. Als Gangsterkiller ist er längst im Visier der polizeiinternen Überwachung, wird aber von seinem Chef geschützt. Nachdem sein Ex-Partner als Spitzel enttarnt wird, sieht Ludlow rot, und gerät in eine Schießerei mit Ladendieben, die dem Maulwurf das Leben kostet. Dass es sich dabei um eine Hinrichtung handelt, deren Auftraggeber Polizeimarken tragen, lässt Ludlow elektrisiert Jagd auf die Mörder machen, bis sie und die Drahtzieher Gerechtigkeit durch die Kugel erfahren.",
+    "popularity": 17.529,
+    "poster_path": "/jHmcAGcsSCrI2wwOl2X8TWjFkRr.jpg",
+    "production_companies": [
+        {
+            "id": 43,
+            "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+            "name": "Fox Searchlight Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 508,
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 6332,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment III",
+            "origin_country": "US"
+        },
+        {
+            "id": 74624,
+            "logo_path": null,
+            "name": "Yari Film Group (YFG)",
+            "origin_country": ""
+        },
+        {
+            "id": 10405,
+            "logo_path": null,
+            "name": "EFO Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-04-10",
+    "revenue": 65569869,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Street Kings",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 1093
+}

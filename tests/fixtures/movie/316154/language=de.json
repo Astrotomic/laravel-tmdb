@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/aQ06MnEDLh9X3ZOtY21UD2XB197.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 316154,
+    "imdb_id": "tt4334266",
+    "original_language": "en",
+    "original_title": "The Bad Batch",
+    "overview": "In einem abgesperrten Gebiet in der texanischen Wüste werden Menschen ausgesperrt, die in der Gesellschaft nicht mehr willkommen sind. Das Gelände gehört offiziell nicht mehr zu den USA, wer dorthin verbracht wird, ist kein Staatsbürger mehr. Gerade ist wieder eine Lieferung von Bösewichten, ein \"bad batch\", eingetroffen. Darunter befindet sich Arlen, die frisch angekommen sofort in die Hände eines Kannibalenstamms fällt, der sich umgehend an ihr zu schaffen machen. Mit einem Skateboard, aber nicht mehr über alle Gliedmaßen verfügend, gelingt ihr die Flucht. Ein stummer Einsiedler bringt sie zu einer anderen Gemeinschaft, wo sie im wahrsten Sinne des Wortes wieder auf die Beine kommt. Doch ihre nächste Begegnung mit den Kannibalen steht bald an...",
+    "popularity": 23.505,
+    "poster_path": "/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg",
+    "production_companies": [
+        {
+            "id": 90733,
+            "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+            "name": "Neon",
+            "origin_country": "US"
+        },
+        {
+            "id": 13184,
+            "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+            "name": "Annapurna Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 149332,
+            "logo_path": "/AqVHovrBoc7uVlsM6aVWALeewVs.png",
+            "name": "Vice Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-06-23",
+    "revenue": 180851,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Bad Batch",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 858
+}

@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": null,
+    "id": 600990,
+    "imdb_id": "tt5278542",
+    "original_language": "en",
+    "original_title": "John Wick: Calling in the Cavalry",
+    "overview": "",
+    "popularity": 6.468,
+    "poster_path": "/gps49Xqjv0C6Kplb9jgDVAaE9CF.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-02-03",
+    "revenue": 0,
+    "runtime": 12,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "John Wick: Calling in the Cavalry",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 12
+}

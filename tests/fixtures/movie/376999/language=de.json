@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 10770,
+            "name": "TV-Film"
+        }
+    ],
+    "homepage": "",
+    "id": 376999,
+    "imdb_id": "tt0089480",
+    "original_language": "en",
+    "original_title": "Letting Go",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/i1S9lajXILd1JKdzXQv2W9bCZ2g.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1985-05-11",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Letting Go",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1
+}

@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/m1635B33YpUiHSQHNYEO5blYgAV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 4475,
+    "imdb_id": "tt1134629",
+    "original_language": "en",
+    "original_title": "The Private Lives of Pippa Lee",
+    "overview": "After her much older husband forces a move to a suburban retirement community, Pippa Lee engages in a period of reflection and finds herself heading toward a quiet nervous breakdown.",
+    "popularity": 9.772,
+    "poster_path": "/ngr6JLpXBOZbkJ8tZhjhWZYOJtM.jpg",
+    "production_companies": [
+        {
+            "id": 1840,
+            "logo_path": null,
+            "name": "Elevation Filmworks",
+            "origin_country": ""
+        },
+        {
+            "id": 1843,
+            "logo_path": null,
+            "name": "Grand Army Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-07-07",
+    "revenue": 2770941,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "She lived many lives - except her own.",
+    "title": "The Private Lives of Pippa Lee",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 155
+}

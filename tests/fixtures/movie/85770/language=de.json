@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 85770,
+    "imdb_id": "tt1409772",
+    "original_language": "en",
+    "original_title": "A Man's Story",
+    "overview": "",
+    "popularity": 4.523,
+    "poster_path": "/7XChyRgt2B1GrJoPYrV4oGuOApD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2011-10-08",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Man's Story",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8
+}

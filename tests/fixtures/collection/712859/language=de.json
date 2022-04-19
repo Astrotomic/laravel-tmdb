@@ -1,0 +1,183 @@
+{
+    "id": 712859,
+    "name": "Animatrix Filmreihe",
+    "overview": "`Animatrix' ist eine Sammlung von neun Kurzfilmen in einer Mischung aus Computer-Animation und japanischen Animes. Sie spielen in der Welt der `Matrix'-Trilogie und liefern Hintergrundwissen über das `Matrix'-Universum.",
+    "poster_path": "/1GWbAkuoVqbNYCKab0z4kV3Xmlh.jpg",
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16
+            ],
+            "id": 24914,
+            "title": "Kid's Story",
+            "original_language": "en",
+            "original_title": "Kid's Story",
+            "overview": "",
+            "popularity": 5.391,
+            "poster_path": "/x5U6hUgRzF3pdhL5daimvfr8QBW.jpg",
+            "release_date": "2003-06-03",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16
+            ],
+            "id": 24675,
+            "title": "Beyond",
+            "original_language": "en",
+            "original_title": "Beyond",
+            "overview": "Yoki sucht ihre Katze. Jungs aus der Nachbarschaft geben ihr den Tipp, dass sie vielleicht in dem \"Spukhaus\" ist, in dem sie öfters spielen. Und tatsächlich geschehen dort seltsame Dinge....",
+            "popularity": 6.234,
+            "poster_path": "/vWFRi8jYy9c2Kkf5t8PsMdlw9cg.jpg",
+            "release_date": "2003-06-03",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16
+            ],
+            "id": 24959,
+            "title": "Program",
+            "original_language": "en",
+            "original_title": "Program",
+            "overview": "",
+            "popularity": 4.167,
+            "poster_path": "/dHiTUO0uByZ4ad4RfsioshG8tfo.jpg",
+            "release_date": "2003-06-03",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                18,
+                878
+            ],
+            "id": 24950,
+            "title": "Matriculated",
+            "original_language": "en",
+            "original_title": "Matriculated",
+            "overview": "",
+            "popularity": 7.033,
+            "poster_path": "/nnorr1a7FDcw2wtiIoGlc3ecgnW.jpg",
+            "release_date": "2003-06-03",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tT4BDO5fa2bL4ltzwjA326zffN0.jpg",
+            "genre_ids": [
+                878,
+                28,
+                16
+            ],
+            "id": 24357,
+            "title": "Final Flight of the Osiris",
+            "original_language": "en",
+            "original_title": "Final Flight of the Osiris",
+            "overview": "",
+            "popularity": 6.569,
+            "poster_path": "/lMn8lfjwvkg7yLdhz9jXoCzmi6H.jpg",
+            "release_date": "2003-03-21",
+            "video": false,
+            "vote_average": 7.022,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16,
+                80
+            ],
+            "id": 24660,
+            "title": "A Detective Story",
+            "original_language": "en",
+            "original_title": "A Detective Story",
+            "overview": "",
+            "popularity": 6.146,
+            "poster_path": "/qToolOS2v6SPAUCJnljK2Ts0hnL.jpg",
+            "release_date": "2003-04-04",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16
+            ],
+            "id": 24960,
+            "title": "World Record",
+            "original_language": "en",
+            "original_title": "World Record",
+            "overview": "",
+            "popularity": 5.391,
+            "poster_path": "/g6UVeBum8SkAnwnV5OGqjA66t95.jpg",
+            "release_date": "2003-06-03",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16
+            ],
+            "id": 24358,
+            "title": "The Second Renaissance Part I",
+            "original_language": "en",
+            "original_title": "The Second Renaissance Part I",
+            "overview": "",
+            "popularity": 8.286,
+            "poster_path": "/u5qtb9bUMoAP4Vc4wzIb9IC7I9d.jpg",
+            "release_date": "2003-02-04",
+            "video": false,
+            "vote_average": 7.456,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                16
+            ],
+            "id": 24362,
+            "title": "The Second Renaissance Part II",
+            "original_language": "en",
+            "original_title": "The Second Renaissance Part II",
+            "overview": "",
+            "popularity": 5.904,
+            "poster_path": "/gkKkVekgnVQommH5RNBqxqDeDUa.jpg",
+            "release_date": "2003-05-06",
+            "video": false,
+            "vote_average": 7.538,
+            "vote_count": 106
+        }
+    ]
+}

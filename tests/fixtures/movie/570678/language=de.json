@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 570678,
+    "imdb_id": "tt1071873",
+    "original_language": "en",
+    "original_title": "Constantine 2",
+    "overview": "",
+    "popularity": 20.596,
+    "poster_path": "/f0yyNYYdFJ2p9yuzUiJWEDdYRXW.jpg",
+    "production_companies": [
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Rumored",
+    "tagline": "",
+    "title": "Constantine 2",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

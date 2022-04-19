@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/vIy0knvAWbc4dMBG4wWDsAxOdNd.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 76544,
+    "imdb_id": "tt2016940",
+    "original_language": "en",
+    "original_title": "Man of Tai Chi",
+    "overview": "In Beijing, a young martial artist's skill places him in position to experience opportunities and sacrifices.",
+    "popularity": 48.949,
+    "poster_path": "/wnuT1D0fsFu7chFLtcQqwPBaBVg.jpg",
+    "production_companies": [
+        {
+            "id": 14714,
+            "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+            "name": "China Film Group Corporation",
+            "origin_country": "CN"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 79,
+            "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 22340,
+            "logo_path": null,
+            "name": "Dalian Wanda Group",
+            "origin_country": ""
+        },
+        {
+            "id": 7193,
+            "logo_path": null,
+            "name": "Company Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-07-04",
+    "revenue": 2054941,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "No Rules. No Mercy. Pure Fighting.",
+    "title": "Man of Tai Chi",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 708
+}

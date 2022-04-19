@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 809167,
+    "imdb_id": "tt14301644",
+    "original_language": "en",
+    "original_title": "BRZRKR",
+    "overview": "",
+    "popularity": 1.134,
+    "poster_path": "/87uuHuZIlTcDkSh9Ix6WQJ3Y2hO.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Planned",
+    "tagline": "",
+    "title": "BRZRKR",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

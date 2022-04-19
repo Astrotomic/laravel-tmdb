@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.dcleagueofsuperpets.net/",
+    "id": 539681,
+    "imdb_id": "tt8912936",
+    "original_language": "en",
+    "original_title": "DC League of Super-Pets",
+    "overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
+    "popularity": 24.139,
+    "poster_path": "/1uQ3NP6N9m2UtLburZfQcXFsDqu.jpg",
+    "production_companies": [
+        {
+            "id": 25120,
+            "logo_path": "/lqUpBvDLQYG3QaKNpe2lxfpgh36.png",
+            "name": "Warner Animation Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 73669,
+            "logo_path": "/7tmSGstK3KwgcDIuBYLTAayjit9.png",
+            "name": "Seven Bucks Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-07-27",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "Sit, stay, save the world.",
+    "title": "DC League of Super-Pets",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

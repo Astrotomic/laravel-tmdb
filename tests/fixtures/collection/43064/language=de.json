@@ -1,0 +1,49 @@
+{
+    "id": 43064,
+    "name": "Speed Filmreihe",
+    "overview": "Speed ist ein Actionfilm aus dem Jahr 1994 von Regisseur Jan de Bont mit Keanu Reeves in der Hauptrolle. 1997 erschien eine Fortsetzung unter dem Titel Speed 2 - Cruise Control.",
+    "poster_path": "/nQ6AiPqa5wc1eUk62SBXWgB6tmA.jpg",
+    "backdrop_path": "/5YDT5pRGMvuOqOk7SWBq8HBrbGm.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/wmwEjQpqNXEIadsQoqWUS1pVVBi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 1639,
+            "title": "Speed 2: Cruise Control",
+            "original_language": "en",
+            "original_title": "Speed 2: Cruise Control",
+            "overview": "Annie hat sich von Jack getrennt, weil sie es nicht mehr ertragen hat, ihn ständig in Gefahr zu wissen. Mit ihrem neuen Freund Alex hofft sie, endlich ein ruhigeres Leben führen zu können. Dann aber findet sie heraus, dass er einer Spezialeinheit der Polizei angehört und dort sogar als Draufgänger bekannt ist. Alex will Annie beruhigen und lädt sie zu einer Kreuzfahrt in die Karibik ein. Allerdings hat sich eine Gruppe Terroristen eben jenes Schiff als Ziel eines Anschlags ausgesucht.",
+            "popularity": 25.079,
+            "poster_path": "/omQULt7wp3epg0r4ZgKUFqEVeux.jpg",
+            "release_date": "1997-06-13",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 1277
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lywmuPU5Hr1Mnpb9UGeDbILmkTx.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80
+            ],
+            "id": 1637,
+            "title": "Speed",
+            "original_language": "en",
+            "original_title": "Speed",
+            "overview": "Ein Terrorist will drei Millionen Dollar erpressen, oder die zufälligen Geiseln in einem Fahrstuhl fallen 35 Stockwerke in die Tiefe. Doch Jack schafft das Unmögliche: Die Geiseln werden in letzter Sekunde gerettet und der Terrorist stirbt an seiner eigenen Bombe. – Scheinbar! Doch dieser überlebt und erklärt und Jack zu seinem speziellen Feind, dies erfährt der Cop mittels einer grausigen Botschaft: Vor seinen Augen lässt Bombenexperte Payne einen Linienbus explodieren. Doch das war erst der Auftakt! Payne platziert eine weitere, komplizierte Bombe in einen öffentlichen Bus. Die Bombe aktiviert sich selbsttätig, wenn das Fahrzeug schneller als 50 Meilen pro Stunde fährt und detoniert sofort, wenn diese Geschwindigkeit wieder unterschritten wird. Und Jack hat ihr Leben in der Hand. Als der Busfahrer verletzt wird, übernimmt Fahrgast Annie das Steuer. Doch wohin mit einem Bus, der nicht bremsen darf, in der Stadt der Staus?!",
+            "popularity": 33.686,
+            "poster_path": "/apy5KguseoL5iQASBfg44gMfO3u.jpg",
+            "release_date": "1994-06-09",
+            "video": false,
+            "vote_average": 7.086,
+            "vote_count": 4850
+        }
+    ]
+}

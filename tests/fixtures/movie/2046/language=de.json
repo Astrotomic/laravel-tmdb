@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/6S0EVfpqmjZEzxaxCdOeMlT2qS9.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 2046,
+    "imdb_id": "tt0219699",
+    "original_language": "en",
+    "original_title": "The Gift",
+    "overview": "In den sumpfigen Bayous bei Savannah verdient sich Annie Wilson ihren Lebensunterhalt und den ihrer drei Kinder mit Kartenlegen. Doch Annie hat eine echte Gabe und kann gewisse Dinge \"sehen\". Als die Verlobte des hiesigen Schulrektors, Jessica King verschwindet, hat Annie bald darauf eine Vision vom Tode des Mädchens. Sie führt die Polizei tatsächlich zum Fundort, daraufhin wird der überagressive Donnie Barksdale verhaftet, dessen Gewalttätigkeit bekannt ist und auf dessen Land die Leiche gefunden wurde.Doch jetzt schlägt die Stimmung um, und Annie sieht sich zahlreichen Angriffen ausgesetzt, da sie mit Barksdale schon vorher Probleme hatte. Und darüber hinaus ist sie nicht sicher, daß er der Täter ist...",
+    "popularity": 15.627,
+    "poster_path": "/9rvlJGXQqdvzEOqzDPnrOspL603.jpg",
+    "production_companies": [
+        {
+            "id": 126,
+            "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+            "name": "Lakeshore Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 11462,
+            "logo_path": "/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png",
+            "name": "Alphaville Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-03-16",
+    "revenue": 12008642,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Angst kommt langsam",
+    "title": "The Gift - Die dunkle Gabe",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 889
+}

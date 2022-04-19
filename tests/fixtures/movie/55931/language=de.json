@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/6EnDIsjiel1qOfsIKQInwl80Zua.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.intothematrix.com/",
+    "id": 55931,
+    "imdb_id": "tt0328832",
+    "original_language": "en",
+    "original_title": "The Animatrix",
+    "overview": "Animatrix besteht aus neun brandneuen Kurzfilmen, die Andy und Larry Wachowski konzipiert haben, jene Brüder, denen wir auch die Martrix-Trilogie verdanken. Umgesetzt wurden die Ideen der Wachowskis von den besten Regisseuren, die das Anime-Genre zu bieten hat. Spektakuläre Bilder, mitreißende Rhythmen und die visionären Geschichten der Wachowski-Brüder entführen auf eine einzigartige Reise durch die jede Vorstellungskraft sprengende Welt der Matrix. Erfahren Sie mehr über den Krieg der Menschen gegen die Maschinen, wie die Matrix entstand und über die Figuren, die in ihr leben.",
+    "popularity": 29.011,
+    "poster_path": "/m3MHeXXX9ZcOwBufDk5J52cCcDr.jpg",
+    "production_companies": [
+        {
+            "id": 1885,
+            "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+            "name": "Silver Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130007,
+            "logo_path": null,
+            "name": "Digital Network Animation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-05-09",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animatrix",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 1216
+}

@@ -1,0 +1,51 @@
+{
+    "id": 732461,
+    "name": "47 Ronin Filmreihe",
+    "overview": "Eine Reihe von Action-Fantasy-Filmen, die auf der real existierenden historischen Legende der 47 Ronin basiert.",
+    "poster_path": "/qg0ppX6dZBAcyiKQanNdLloTFo5.jpg",
+    "backdrop_path": "/qPu2XyOSTN05bxoHRoMm6v8Ayy6.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/nyt0jlofZyjhRqiQkEp0cdoKaS3.jpg",
+            "genre_ids": [
+                18,
+                28,
+                12,
+                14
+            ],
+            "id": 64686,
+            "title": "47 Ronin",
+            "original_language": "en",
+            "original_title": "47 Ronin",
+            "overview": "Als ihr Fürst heimtückisch ermordet wird, bleibt 47 entehrten Ronin (herrenlose Samurai) nur die Verbannung - deshalb wollen sie Rache. Der Krieger Oishi und seine Gefährten sind dabei auf die Unterstützung des Halbbluts Kai angewiesen, müssen ihn aber zunächst aus der Sklaverei befreien. Kai wurde einst vom Fürsten aufgenommen und erzogen und liebt seit langem die Tochter seines Herren. Obwohl die Ronin das Halbblut ihre Abneigung spüren lassen, schließt Kai sich ihrer Gruppe an und steigt schließlich sogar zum Anführer auf. Gemeinsam versuchen sie die Festung des Feindes zu stürmen und die Ehre ihres Fürsten wieder herzustellen. Doch auf dem Weg dorthin müssen sie sich gegen ihre Feinde, zu denen nicht nur Fabelwesen und eine verführerische Hexe zählen, wehren.",
+            "popularity": 21.87,
+            "poster_path": "/kDm04TtHLGtLBxZSQ837N7aEf0i.jpg",
+            "release_date": "2013-12-06",
+            "video": false,
+            "vote_average": 6.136,
+            "vote_count": 3154
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                28,
+                14,
+                27
+            ],
+            "id": 732459,
+            "title": "Untitled 47 Ronin Sequel",
+            "original_language": "en",
+            "original_title": "Untitled 47 Ronin Sequel",
+            "overview": "",
+            "popularity": 1.4,
+            "poster_path": null,
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

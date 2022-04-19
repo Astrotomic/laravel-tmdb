@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/gSwDopY51isbvUEeQrsum5LLPPe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 16548,
+    "imdb_id": "tt0436262",
+    "original_language": "en",
+    "original_title": "Ellie Parker",
+    "overview": "Ellie Parker, an aspiring actress from Australia, lives a hectic Hollywood lifestyle, perpetually trying to land the role that will elevate her career. Living with her lothario musician boyfriend, Justin, Ellie is far from happy, finding support primarily from her friend Sam. But when Ellie meets Chris after a minor traffic accident, she sees new potential for both romance and her life in general.",
+    "popularity": 8.931,
+    "poster_path": "/yNrwc87hs6Vg7oKbtCohKL7ctcc.jpg",
+    "production_companies": [
+        {
+            "id": 3923,
+            "logo_path": null,
+            "name": "Strand Releasing",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-01-21",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The talent is real. And so are the tears... Sometimes.",
+    "title": "Ellie Parker",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 46
+}

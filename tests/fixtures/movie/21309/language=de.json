@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/rrowtqGVAjmU2IRgrtEtGmOcrnM.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 21309,
+    "imdb_id": "tt0091860",
+    "original_language": "en",
+    "original_title": "River's Edge",
+    "overview": "A group of high school friends discover that they are in the presence of a killer. One of them, Samson, has murdered his girlfriend Jamie. He brags to his friends about killing her, and when they discover he is telling the truth, their reactions vary.",
+    "popularity": 10.754,
+    "poster_path": "/J94WJFdAVq8AOl2jOkdYbQwDKD.jpg",
+    "production_companies": [
+        {
+            "id": 3952,
+            "logo_path": null,
+            "name": "Hemdale Film",
+            "origin_country": ""
+        },
+        {
+            "id": 3953,
+            "logo_path": null,
+            "name": "Island",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-08-27",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The most controversial film you will see this year.",
+    "title": "River's Edge",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 199
+}

@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/Hx5VuyfXN9AVHnzeKmhMFaPINq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 34941,
+    "imdb_id": "tt0119502",
+    "original_language": "en",
+    "original_title": "The Last Time I Committed Suicide",
+    "overview": "Neal Cassady is living the beat life during the 1940s, working at The Tire Yard and and philandering around town. However, he has visions of a happy life with kids and a white picket fence. When his girlfried, Joan, tries to kill herself he gets scared and runs away. But when Joan reappears will he take the chance at that happiness, or will he turn his back on it?",
+    "popularity": 5.768,
+    "poster_path": "/5AM1oDIlsWBBLYecetUAHOWv9dW.jpg",
+    "production_companies": [
+        {
+            "id": 870,
+            "logo_path": null,
+            "name": "Tapestry Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 52860,
+            "logo_path": null,
+            "name": "Bates Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 2499,
+            "logo_path": null,
+            "name": "The Kushner-Locke Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-06-20",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Life is what happens when you're busy making plans",
+    "title": "The Last Time I Committed Suicide",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 26
+}

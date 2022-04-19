@@ -7,7 +7,10 @@ use Astrotomic\Tmdb\Enums\Gender;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\Person\Details;
+use Astrotomic\Tmdb\Requests\Person\Trending;
+use Illuminate\Database\Eloquent\Collection as EloquentCollection;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Support\LazyCollection;
 
 /**
  * @property int $id
@@ -70,6 +73,16 @@ class Person extends Model
     public array $translatable = [
         'biography',
     ];
+
+    public static function trending(?int $limit, string $window = 'day'): EloquentCollection
+    {
+        $ids = Trending::request(window: $window)
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
 
     /**
      * @return \Illuminate\Database\Eloquent\Relations\MorphMany|\Astrotomic\Tmdb\Eloquent\Builders\CreditBuilder

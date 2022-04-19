@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": null,
+    "id": 601123,
+    "imdb_id": "tt7161880",
+    "original_language": "en",
+    "original_title": "Friends, Confidantes: The Keanu/Chad Partnership",
+    "overview": "An appealing look at the longstanding friendship between the two (Stahelski was Reeves' stunt double before going into directing).",
+    "popularity": 0.994,
+    "poster_path": "/8cZ21Cj6TOVK9wd0Sfc3in88gbf.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2017-06-13",
+    "revenue": 0,
+    "runtime": 10,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Friends, Confidantes: The Keanu/Chad Partnership",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 4
+}

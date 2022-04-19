@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/kSrL8dDfaInfekoHS02zqdC1Bu1.jpg",
+    "belongs_to_collection": null,
+    "budget": 32000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 20857,
+    "imdb_id": "tt0180734",
+    "original_language": "en",
+    "original_title": "Hardball",
+    "overview": "Dem kleinkriminellen Tickethehler Conor O'Neill steht das Wasser bis zum Hals. Weil er bei diversen Buchmachern tief in der Kreide steht, lässt er sich von seinem Kumpel Jimmy dazu überreden, ein Baseballteam unterprivilegierter Kinder zu trainieren. Die Ghetto-Kids lassen sich vom ihrem harten Los nicht unterkriegen, und so geht auch Conor allmählich ein Licht auf. Inspiriert von seinen Schützlingen und deren idealistischer Lehrerin Elizabeth, erkennt der Misanthrop allmählich, das man dem Leben durchaus auch positive Seiten abgewinnen kann.",
+    "popularity": 13.242,
+    "poster_path": "/9RMcwwnK8a9WCt8dVlwmtNsFCg3.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 3859,
+            "logo_path": null,
+            "name": "Munich Film Partners & Company (MFP) GHS Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 3858,
+            "logo_path": null,
+            "name": "GHS Productions KG",
+            "origin_country": ""
+        },
+        {
+            "id": 3860,
+            "logo_path": null,
+            "name": "Nides/McCormick Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-09-14",
+    "revenue": 40222729,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hardball",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 391
+}

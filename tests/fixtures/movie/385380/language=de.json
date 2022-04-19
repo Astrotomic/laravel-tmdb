@@ -1,0 +1,38 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 385380,
+    "imdb_id": "tt0892040",
+    "original_language": "en",
+    "original_title": "The Blood Is the Life: The Making of 'Bram Stoker's Dracula'",
+    "overview": "",
+    "popularity": 1.048,
+    "poster_path": "/tVJJvSLzgjTDJGgVjj7izGtcTxY.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2007-10-08",
+    "revenue": 0,
+    "runtime": 27,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Blood Is the Life: The Making of 'Bram Stoker's Dracula'",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2
+}

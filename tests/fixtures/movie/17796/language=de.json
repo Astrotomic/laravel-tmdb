@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/dhjcwoymr9oLO1EJPrhHZweT6x5.jpg",
+    "belongs_to_collection": null,
+    "budget": 13000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 17796,
+    "imdb_id": "tt0109838",
+    "original_language": "en",
+    "original_title": "Freaked",
+    "overview": "A vain actor, his best friend, and an activist end up at a mutant freak farm run by a weirdo scientist.",
+    "popularity": 8.667,
+    "poster_path": "/2wBQZxd0WzeO8YVpBFOhRh9vbz9.jpg",
+    "production_companies": [
+        {
+            "id": 3397,
+            "logo_path": null,
+            "name": "Tommy",
+            "origin_country": ""
+        },
+        {
+            "id": 3173,
+            "logo_path": null,
+            "name": "Chiodo Brothers Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1993-09-11",
+    "revenue": 29296,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A thinking man's stupid comedy.",
+    "title": "Freaked",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 105
+}

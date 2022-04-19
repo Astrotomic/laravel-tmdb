@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 600991,
+    "imdb_id": "tt7161856",
+    "original_language": "en",
+    "original_title": "Training 'John Wick'",
+    "overview": "A look at the fight choreography being developed for the film.",
+    "popularity": 19.622,
+    "poster_path": "/1x1fEoDe3GKBYh4iR4jhrouRXzT.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2017-06-13",
+    "revenue": 0,
+    "runtime": 12,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Training 'John Wick'",
+    "video": true,
+    "vote_average": 7,
+    "vote_count": 12
+}

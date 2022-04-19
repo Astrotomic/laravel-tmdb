@@ -1,0 +1,1484 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Martin Jauvat",
+            "id": 2974464,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/fodlP95aIxYsHb8pUIWg6RiSeOC.jpg",
+                    "genre_ids": [
+                        35,
+                        10749
+                    ],
+                    "id": 795804,
+                    "media_type": "movie",
+                    "title": "Le Sang de la Veine",
+                    "original_language": "fr",
+                    "original_title": "Le Sang de la Veine",
+                    "overview": "",
+                    "popularity": 0.6,
+                    "poster_path": "/y6MFwsKCbXNb2OUX5JtJIw71luw.jpg",
+                    "release_date": "2021-05-16",
+                    "video": false,
+                    "vote_average": 5.333,
+                    "vote_count": 3
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 876614,
+                    "media_type": "movie",
+                    "title": "Grand Paris Express",
+                    "original_language": "fr",
+                    "original_title": "Grand Paris Express",
+                    "overview": "",
+                    "popularity": 1.4,
+                    "poster_path": "/9xugK8Wl0r22LXSQ8HAUZQ3riSR.jpg",
+                    "release_date": "2021-09-18",
+                    "video": false,
+                    "vote_average": 5,
+                    "vote_count": 1
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [],
+                    "id": 830421,
+                    "media_type": "movie",
+                    "title": "Les Vacances à Chelles",
+                    "original_language": "fr",
+                    "original_title": "Les Vacances à Chelles",
+                    "overview": "",
+                    "popularity": 0.6,
+                    "poster_path": null,
+                    "release_date": "2019-04-01",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": "/RZkTQ1gxGJZ3YIvTrS6geAEUhT.jpg",
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "name": "Harrison Ford",
+            "known_for": [
+                {
+                    "video": false,
+                    "vote_average": 8.2,
+                    "popularity": 78.131,
+                    "overview": "Seit der Vernichtung der Jedi-Ritter steht die Galaxie unter der grausamen Herrschaft des Imperiums. Nur eine kleine Gruppe von Rebellen, angeführt von der schönen Prinzessin Leia, widersetzt sich der dunklen Macht. Als es ihnen gelingt, die geheimen Baupläne für den gefährlichen Todesstern zu entwenden, gerät das Imperium in Aufruhr. Durch Zufall gelangen die Pläne ausgerechnet in die Hände des Farmerjungen Luke Skywalker, der spürt, dass er sein bisheriges Leben hinter sich lassen muss. Gemeinsam mit dem weisen Obi-Wan Kenobi, den Weltraumabenteurern Han Solo und Chewbacca sowie den Droiden R2-D2 und C-3PO nimmt er den Kampf gegen das mächtige Imperium auf. Es beginnt ein Wettlauf gegen die Zeit, denn der Kampfstern kann nur vor seiner Fertigstellung zerstört werden...",
+                    "release_date": "1977-05-25",
+                    "title": "Krieg der Sterne",
+                    "vote_count": 17111,
+                    "adult": false,
+                    "backdrop_path": "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        28,
+                        878
+                    ],
+                    "id": 11,
+                    "original_language": "en",
+                    "original_title": "Star Wars",
+                    "poster_path": "/mqGTDn6c5wy4Bwf6DR7eZeO7c5d.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 7.3,
+                    "popularity": 88.886,
+                    "overview": "Über 30 Jahre sind vergangen, seitdem die Rebellen den zweiten Todesstern über Endor zerstört und damit die entscheidende Schlacht gegen die finsteren Mächte des Imperiums gewonnen haben. Doch aus der Asche des Bösen ist die Erste Ordnung empor gestiegen und hat die Herrschaft wieder an sich gerissen. Während Supreme Leader Snoke die Zügel im Hintergrund in den Händen hält, schickt er den Lichtschwert schwingenden Kylo Ren ins Feld, um die neue Weltordnung auch in den verstecktesten Winkeln der Galaxis zu verbreiten. Von großer Politik aber weiß Rey auf dem Wüstenplaneten Jakku zunächst nicht viel. Die junge Frau verbringt ihre Tage damit, die karge Landschaft nach Schrott abzusuchen, den sie danach verkauft. Sie ist allein, wartet auf ihre Familie – bis sie die Bekanntschaft von Finn macht, einem ehemaligen Sturmtruppler, den die Untaten der Ersten Ordnung abgeschreckt haben.",
+                    "release_date": "2015-12-15",
+                    "id": 140607,
+                    "title": "Star Wars: Das Erwachen der Macht",
+                    "adult": false,
+                    "backdrop_path": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878,
+                        14
+                    ],
+                    "vote_count": 16904,
+                    "original_language": "en",
+                    "original_title": "Star Wars: The Force Awakens",
+                    "poster_path": "/gV2bG8dPbxaUMllgRxCj0MMsYGw.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 8.4,
+                    "popularity": 26.922,
+                    "overview": "Nach der Zerstörung des Todessterns geht der Kampf zwischen den Rebellen und dem herrschenden Imperium weiter. Die Rebellen haben sich auf den Eisplaneten Hoth zurückgezogen, doch das Imperium spürt sie auf und zerstört nach hartem Kampf die dortige Basis. Daraufhin teilen sich unsere Freunde auf: Luke gerät mit R2-D2 auf den Sumpfplaneten Dagobah, wo er von dem alten Jedi-Meister Yoda eine Ausbildung im Umgang mit der Macht erhält, während Leia, Han Solo und die anderen sich nach Bespin durchschlagen, wo in einer Wolkenstadt ein alter Freund von Han residiert. Doch dort geraten sie in eine Falle des Imperiums, und Luke muß ihnen zu Hilfe kommen und Darth Vader zu einem Duell herausfordern...",
+                    "release_date": "1980-05-20",
+                    "id": 1891,
+                    "title": "Das Imperium schlägt zurück",
+                    "adult": false,
+                    "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        28,
+                        878
+                    ],
+                    "vote_count": 14068,
+                    "original_language": "en",
+                    "original_title": "The Empire Strikes Back",
+                    "poster_path": "/3gf6BSpJziIgOSXIeFDcjfLnncM.jpg"
+                }
+            ],
+            "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg",
+            "gender": 2,
+            "known_for_department": "Acting",
+            "id": 3,
+            "popularity": 18.142,
+            "media_type": "person"
+        },
+        {
+            "gender": 2,
+            "known_for": [
+                {
+                    "overview": "In einer kalten Nacht begegnet das diebische Vater-Sohn-Gespann Osamu Shibata und Shota der kleinen Yuri. Sie ist verwahrlost und halb erfroren und so nimmt Osamu sie kurzerhand mit nach Hause. Nach anfänglichen Bedenken seiner Frau Nobuyo ist bald die ganze Familie, zu der auch noch Großmutter Hatsue und Halbschwester Aki gehören, begeistert von dem charmanten Neuzugang und Yuri lebt sich schnell bei der bunten Truppe, die sich mit Gaunereien und Diebstählen über Wasser hält, ein. Eines Tages wird diese Harmonie jedoch durch einen Vorfall empfindlich gestört und der Zusammenhalt der Familie durch unvorhergesehen Enthüllungen auf die Probe gestellt…",
+                    "release_date": "2018-06-02",
+                    "title": "Shoplifters - Familienbande",
+                    "popularity": 16.341,
+                    "adult": false,
+                    "backdrop_path": "/xOpQ4jIQJ0HSUhVDixZA9yWqVBP.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18
+                    ],
+                    "vote_count": 1526,
+                    "original_language": "ja",
+                    "original_title": "万引き家族",
+                    "poster_path": "/cavQuJfdOO8EoH6MIZgpZwbc2K.jpg",
+                    "id": 505192,
+                    "video": false,
+                    "vote_average": 7.9
+                },
+                {
+                    "overview": "Die Eltern eines sechs Jahre alten Jungen erfahren, dass ihr Kind bei der Geburt im Krankenhaus vertauscht worden ist. Ihr ganzes Umfeld rät ihnen das Kind gegen das eigene auszutauschen. Die Eltern sind ratlos. Was ist für sie besser, was für die Kinder? Unsicher beginnen sie und das andere Paar mit dem Kinderrücktausch über ein Wochenende.  Ryota und seine Frau Midori erfahren, dass ihr sechsjähriger Sohn Keita nicht ihr eigenes Kind ist, weil zwei Babys im Krankenhaus nach der Geburt vertauscht worden waren. Die Frage stellt sich, wollen sie und das andere betroffene Elternpaar den vermeintlichen Sohn gegen den wirklichen eintauschen? Nach sechs Jahren Kindheit?  Wunderbar leicht kreist der Japaner Hirokazu Kore-eda um die Fragen, was es heißt, Eltern zu sein und was Kind.",
+                    "release_date": "2013-09-28",
+                    "vote_count": 483,
+                    "popularity": 14.934,
+                    "adult": false,
+                    "backdrop_path": "/gKvbO1OcIHrSW9XmABjgxHgqBF3.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18
+                    ],
+                    "video": false,
+                    "original_language": "ja",
+                    "original_title": "そして父になる",
+                    "poster_path": "/dNRjAH16VL5HaWXHOwmfSuu2fXH.jpg",
+                    "id": 177945,
+                    "title": "Like Father, like Son",
+                    "vote_average": 7.6
+                },
+                {
+                    "vote_count": 333,
+                    "release_date": "2004-08-07",
+                    "overview": "Vier Kinder werden von ihrer Mutter verlassen. Nur die Schecks kommen ab und zu an, von denen die Geschwister leben sollen. Beeindruckendes Drama des japanischen Autorenfilmer Hirokazu Koreeda.",
+                    "popularity": 11.146,
+                    "adult": false,
+                    "backdrop_path": "/dTL3unDQ9J3opvmjeSNC8MPUk5V.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18
+                    ],
+                    "video": false,
+                    "original_language": "ja",
+                    "original_title": "誰も知らない",
+                    "poster_path": "/1FXxfRkXJXXfjcfceHBlKBtRFFz.jpg",
+                    "id": 2517,
+                    "title": "Nobody Knows",
+                    "vote_average": 8
+                }
+            ],
+            "known_for_department": "Directing",
+            "name": "Hirokazu Kore-eda",
+            "id": 25645,
+            "profile_path": "/qLuyCaCdhVcLT0WKs43CMoTJlQO.jpg",
+            "adult": false,
+            "popularity": 4.196,
+            "media_type": "person"
+        },
+        {
+            "id": 18897,
+            "gender": 2,
+            "adult": false,
+            "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+            "known_for_department": "Acting",
+            "known_for": [
+                {
+                    "original_title": "Kung Fu Panda",
+                    "poster_path": "/lmQmnnkTF8zUoJxUJ761DeFfoXL.jpg",
+                    "video": false,
+                    "vote_average": 7.2,
+                    "vote_count": 9250,
+                    "overview": "Der kleine Pandabär Po macht in China eine Ausbildung zum Nudelsuppen-Meister. Doch in Wirklichkeit möchte er viel lieber ein berühmter und starker Kung-Fu Kämpfer werden, obwohl sein pummeliges Äußeres und seine Naschsucht vehement dagegen sprechen. Doch Po hat Glück: Eine Prophezeiung sieht vor, dass ein kleiner Bär gegen den gefürchteten Schneeleoparden Tai Lung antreten muss, um das Tal des Friedens zu retten. Es liegt nun an Master Shifu und den fünf Kung-Fu Meistern Tigerin, Kranich, Gottesanbeterin, Viper und Affe den pfundigen Bären zum starken Krieger zu machen.",
+                    "release_date": "2008-06-04",
+                    "title": "Kung Fu Panda",
+                    "popularity": 113.876,
+                    "adult": false,
+                    "backdrop_path": "/vndouqEyQqpvvk0FwIlkfceblrh.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        16,
+                        10751,
+                        35
+                    ],
+                    "id": 9502,
+                    "original_language": "en"
+                },
+                {
+                    "original_title": "Kung Fu Panda 2",
+                    "poster_path": "/A23nZfFBa7gFD40IsiV5gOadyIi.jpg",
+                    "video": false,
+                    "vote_average": 6.9,
+                    "id": 49444,
+                    "vote_count": 5530,
+                    "release_date": "2011-05-25",
+                    "title": "Kung Fu Panda 2",
+                    "popularity": 91.425,
+                    "adult": false,
+                    "backdrop_path": "/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        16,
+                        10751
+                    ],
+                    "overview": "Der geheimnissvolle Schurke Lord Shen hat es auf den knuffigen Bären abgesehen. Als ob das nicht schlimm genug wäre, verfügt der Bösewicht über eine Geheimwaffe. Es geht um nichts weniger, als das Kung Fu selbst vor dem mächtigen Feind zu beschützen. Zu diesem Zweck sind die Fähigkeiten aller “furiosen Fünf” gefragt: Tigress, Crane, Monkey, Mantis und Viper, alle sind wieder dabei, um das gefährliche Abenteuer in China zu bestehen. Allerdings muss sich Kung Fu Panda Po erst einmal seiner mysteriösen Vergangenheit stellen.",
+                    "original_language": "en"
+                },
+                {
+                    "id": 38575,
+                    "poster_path": "/lpovkyowpM0KpU56wCMOLtuWmeK.jpg",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "title": "Karate Kid",
+                    "overview": "Als Dre Parker mit seiner Mutter von Detroit nach Peking umziehen muss, ist für den 12-Jährigen plötzlich nichts mehr so, wie es mal war. Allein ohne Freunde in einem fremden Land, muss sich Dre in der Schule gegen den Klassenrüpel Cheng zur Wehr setzen, der ein geübter Kung-Fu-Kämpfer ist. Da Dre selbst aber nur über ein paar wenige Karate-Kenntnisse verfügt, kann er sich kaum verteidigen und wird von allen als \"Karate Kid\" verspottet. Dre hat niemanden, an den er sich wenden kann, außer dem Hausmeister Mr. Han, der insgeheim ein berühmter Kung-Fu-Meister ist und bald zu Dres Mentor wird. Han weiht Dre in die Kunst des Kung Fu ein und bereitet ihn auf ein Turnier vor, bei dem er auf seinen Rivalen Cheng treffen wird…",
+                    "release_date": "2010-06-10",
+                    "vote_count": 4898,
+                    "popularity": 133.068,
+                    "adult": false,
+                    "backdrop_path": "/pttjdO239dLB1CuuL4VqOosyvHc.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        18,
+                        10751
+                    ],
+                    "original_title": "The Karate Kid",
+                    "original_language": "en"
+                }
+            ],
+            "name": "Jackie Chan",
+            "popularity": 26.33,
+            "media_type": "person"
+        },
+        {
+            "known_for_department": "Acting",
+            "profile_path": "/zkg9wfbXZi9OqvwW2ku38zNC1Hk.jpg",
+            "adult": false,
+            "id": 87722,
+            "known_for": [
+                {
+                    "title": "Prometheus - Dunkle Zeichen",
+                    "original_title": "Prometheus",
+                    "poster_path": "/gTyZNN2bgi5gPSvow9pIVyw0iEA.jpg",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "popularity": 151.517,
+                    "overview": "Wir schreiben das späte 21. Jahrhundert. Überall auf der Welt wurden bei den unterschiedlichsten uralten Kulturen, wie den Azteken oder Mesopotamiern, Zeichnungen gefunden, die auf eine Art Sternenkarte hinweisen. Eine Gruppe von Wissenschaftlern unter Leitung von Dr. Elizabeth Shaw soll im Auftrag des Weyland-Konzerns, gegründet vom Visionär Peter Weyland, diesen Zeichen nachgehen, die Shaw als eine Art Einladung deutet. Die Mission, die von Meredith Vickers für den Weyland-Konzern organisiert und überwacht wird, führt das Team und die Crew von Captain Janek an den Rand des Universums und in eine Welt jenseits der Vorstellungskraft. Was sie schließlich finden, ist nicht nur die mögliche Wiege der Menschheit, sondern auch der wahrscheinliche Untergang der menschlichen Rasse.",
+                    "release_date": "2012-05-30",
+                    "vote_count": 10147,
+                    "original_language": "en",
+                    "adult": false,
+                    "backdrop_path": "/hO97RyNjBIMfzfFpUjNhsm4zImh.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        878,
+                        12,
+                        9648
+                    ],
+                    "id": 70981
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "Sherlock Holmes: A Game of Shadows",
+                    "poster_path": "/tJCxd1ITVvX0htQ5dBDR7uokm1O.jpg",
+                    "id": 58574,
+                    "vote_average": 7.1,
+                    "popularity": 76.81,
+                    "vote_count": 8902,
+                    "release_date": "2011-11-22",
+                    "video": false,
+                    "title": "Sherlock Holmes - Spiel im Schatten",
+                    "adult": false,
+                    "backdrop_path": "/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        28,
+                        80,
+                        9648
+                    ],
+                    "overview": "Bei Spiel im Schatten trifft der britische Meisterdetektiv Sherlock Holmes auf seinen Erzfeind Dr. Moriarty. Er ist das kriminelle Genie in der Londoner Unterwelt, ein ebenbürtiger Bösewicht und Widersacher für Sherlock Holmes. Nur selten tritt er selbst in Erscheinung, meist zieht er im Hintergrund die Fäden. So auch, als der österreichische Kronprinz eines Tages tot aufgefunden wird und alles auf einen Selbstmord hindeutet. Nur Sherlock Holmes vermutet ein Verbrechen, das allerdings nur die Spitze einer weitverzweigten Verschwörung ist. Dieser Verdacht bestätigt sich, als auch die Zigeunerin Sim, die einzige Zeugin des Mordes, nur knapp einem Anschlag entgehen kann. Mit ihrer Hilfe reisen Sherlock Holmes und Doktor Watson durch halb Europa, um die Pläne Moriartys, der den Lauf der Geschichte verändern will, zu durchkreuzen."
+                },
+                {
+                    "original_language": "en",
+                    "original_title": "Alien: Covenant",
+                    "poster_path": "/t9um1fYgmnl8k03mjGducRnjbcw.jpg",
+                    "id": 126889,
+                    "vote_average": 6,
+                    "popularity": 137.997,
+                    "overview": "Der fremde Planet, den die Crew des Kolonisationsraumschiffs Covenant erforscht, wirkt paradiesisch: Doch als die Terraforming-Spezialistin Daniels und ihre Kollegen, darunter der Android Walter, Christopher und Tennessee, durch die bergige, bewaldete Landschaft laufen, fällt ihnen vor allem die merkwürdige, beunruhigende Stille auf: Kein Vogel ist zu hören – und auch kein anderes Tier. Bald schon merken die Entdecker, dass sie auf einem Planeten gelandet sind, der lebensfeindlicher kaum sein könnte. Blitzschnelle, hochintelligente und Säure-spritzende Aliens überfallen die Covenant-Crew, töten ein Mitglied nach dem anderen. Und dem Rest der Gruppe wird klar: So weit weg von der Heimat sind sie komplett auf sich allein gestellt...",
+                    "release_date": "2017-05-09",
+                    "video": false,
+                    "vote_count": 7033,
+                    "adult": false,
+                    "backdrop_path": "/6jajFcaY2YsfGQstJ5HaqZNVseX.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        27,
+                        878,
+                        9648
+                    ],
+                    "title": "Alien: Covenant"
+                }
+            ],
+            "gender": 1,
+            "name": "Noomi Rapace",
+            "popularity": 34.043,
+            "media_type": "person"
+        },
+        {
+            "known_for": [
+                {
+                    "original_title": "Shutter Island",
+                    "poster_path": "/mm07ImVjMcrBFhcepmy63toBfax.jpg",
+                    "video": false,
+                    "vote_average": 8.2,
+                    "id": 11324,
+                    "vote_count": 19709,
+                    "release_date": "2010-02-14",
+                    "title": "Shutter Island",
+                    "popularity": 82.516,
+                    "adult": false,
+                    "backdrop_path": "/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        53,
+                        9648
+                    ],
+                    "overview": "1954 soll der U.S. Marshall Teddy Daniels das Verschwinden eines Patienten aus dem Bostoner Shutter Island Ashecliffe Hospital aufklären. Er hat sich aus persönlichen Gründen um diesen Auftrag bemüht, aber schon bald muss er sich fragen, ob er nicht durch die Ärzte manipuliert wurde, deren Methoden von unethisch über illegal bis skrupellos gehen. Teddys scharfsinnige Ermittlungsmethoden führen rasch zu einer vielversprechenden Spur, aber das Hospital verweigert ihm Zugriff auf Informationen, die den Fall erhellen könnten. Als ein Hurrikan die Verbindung zum Festland unterbricht, \"entkommen\" weitere gefährliche Kriminelle in dem Chaos und die verwirrenden Hinweise mehren sich, so dass Teddy an allem zu zweifeln beginnt - seinem Gedächtnis, seinem Partner und sogar seinem eigenen Verstand.",
+                    "original_language": "en"
+                },
+                {
+                    "original_title": "The Wolf of Wall Street",
+                    "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+                    "video": false,
+                    "vote_average": 8,
+                    "id": 106646,
+                    "overview": "New York in den frühen 1990er Jahren. Der aufstrebende Aktienhändler Jordan Belfort gründet mit Anfang 20 die Maklerfirma \"Stratton Oakmont\", mit der er schnell zum Multimillionär aufsteigt und zum Shootingstar der New Yorker Börse wird. Schon bald ist er hauptsächlich unter seinem neuen Spitznamen \"Wolf of Wall Street\" bekannt. Mit seinem Reichtum finanziert er einen ausschweifenden Lebensstil, der von Alkohol, Drogen, Sex und Dekadenz geprägt ist. Jordans Siegeszug scheint nicht zu stoppen zu sein, doch dies lässt ihn übermütig werden. Von unstillbarer Gier getrieben und mit dem Gefühl der Unbesiegbarkeit im Rücken lassen er und seine \"Wolfsbande\", darunter sein Kumpel Donnie Azoff, sich auf illegale Geschäfte ein. Das zieht schon bald die Aufmerksamkeit der Justiz auf sich, besonders der FBI-Agent Patrick Denham schaut aufmerksam hinter die Fassade von Belforts Firmengeflecht. Als die Gesetzeshüter Jordan langsam auf die Schliche kommen, droht sein gesamtes Kartenhaus einzustürzen.",
+                    "release_date": "2013-12-25",
+                    "title": "The Wolf of Wall Street",
+                    "popularity": 277.769,
+                    "adult": false,
+                    "backdrop_path": "/FzOdq23pNBJBW5zULFzEdjQXZD.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        80,
+                        18,
+                        35
+                    ],
+                    "vote_count": 19560,
+                    "original_language": "en"
+                },
+                {
+                    "original_title": "The Departed",
+                    "poster_path": "/u4yQfbZTsM6YybFVeoc0yLsbcUF.jpg",
+                    "video": false,
+                    "vote_average": 8.2,
+                    "id": 1422,
+                    "overview": "Der brutale Bostoner Mafiaboss Frank Costello hat es geschafft, mit Colin Sullivan einen seiner treuesten Männer bei der städtischen Polizei einzuschleusen, um stets auf dem Laufenden über die geplanten Aktivitäten der Cops zu bleiben. Und weil die Taktik, den Gegner mit Hilfe eines Maulwurfs auszuspionieren, zwar alt aber effektiv ist, hatten auch Polizeichef Queenan und Sergeant Digman diese Idee. Ihr Undercover-Ermittler Billy Costigan hat sich schnell zu einem der engsten Vertrauten von Pate Costello hochgearbeitet. Als sowohl die Mafia als auch das Police-Department erfahren, dass sich ein Falschspieler in ihren Reihen befindet, ohne aber dessen Identität zu kennen, müssen Sullivan und Costigan alles daran setzen, dass der jeweils andere zuerst auffliegt, um somit ihre eigene Tarnung aufrecht erhalten zu können.",
+                    "release_date": "2006-10-04",
+                    "title": "Departed - Unter Feinden",
+                    "popularity": 40.262,
+                    "adult": false,
+                    "backdrop_path": "/cDFtxTxEtE3ljadfQ5SwtRTi8Iw.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        53,
+                        80
+                    ],
+                    "vote_count": 12282,
+                    "original_language": "en"
+                }
+            ],
+            "adult": false,
+            "name": "Martin Scorsese",
+            "gender": 2,
+            "id": 1032,
+            "profile_path": "/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+            "known_for_department": "Directing",
+            "popularity": 9.922,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "profile_path": "/uCFWmYXu0EqF5Bd6zWaOS4FxvEB.jpg",
+            "name": "Akira Kurosawa",
+            "known_for_department": "Directing",
+            "id": 5026,
+            "known_for": [
+                {
+                    "video": false,
+                    "vote_average": 8.5,
+                    "popularity": 25.593,
+                    "overview": "Japan im 16. Jahrhundert. Einmal im Jahr fällt eine Räuberbande in abgelegenes Provinznest ein und klaut den dort ansäßigen Bauern alle Vorräte und Wertsachen. Um dem Einhalt zu gebieten, wenden sich diese hilfesuchend an umhervagabundierende Samurai. Sieben Wanderkrieger entschließen sich aus unterschiedlichsten Motiven, den Landwirten beizustehen. Gemeinsam machen sie sich daran, das Dorf in eine Festung und die Agronomen in Hilfssoldaten umzurüsten, und schließlich weicht auch ihre ursprüngliche Söldnermentalität einem aufrichtigen Gefühl der Solidarität.",
+                    "id": 346,
+                    "title": "Die sieben Samurai",
+                    "vote_count": 2635,
+                    "adult": false,
+                    "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        18
+                    ],
+                    "release_date": "1954-04-26",
+                    "original_language": "ja",
+                    "original_title": "七人の侍",
+                    "poster_path": "/zhPyobDDr7qT4kQXXDokNINnh9E.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 8.2,
+                    "popularity": 14.623,
+                    "vote_count": 1608,
+                    "release_date": "1950-08-26",
+                    "id": 548,
+                    "overview": "Drei Menschen suchen vor einem Wolkenbruch in einer Tempelruine Schutz: ein Zen-Priester, ein Holzfäller und ein Knecht. Ihr Gespräch kreist um ein grausiges Verbrechen: Ein berüchtigter Bandit überfiel ein Ehepaar, tat der Frau vor den Augen des gefesselten Mannes Gewalt an und tötete ihn dann.",
+                    "adult": false,
+                    "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        80,
+                        18,
+                        9648
+                    ],
+                    "title": "Rashomon - Das Lustwäldchen",
+                    "original_language": "ja",
+                    "original_title": "羅生門",
+                    "poster_path": "/pCh4KnZR7YLxNVCPS9ZtpemkNnS.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 8.1,
+                    "popularity": 14.935,
+                    "overview": "Nach langen Jahren der Regentschaft beschließt Fürst Hidetora, sich zurückzuziehen. Sein riesiges Reich teilt er unter seinen drei Söhnen auf. Doch schon bald treiben Machtgier und Jähzorn die Brüder in gegenseitige Feindschaft und ein blutiger Krieg bricht aus, der das Reich für immer zu zerbrechen droht...",
+                    "release_date": "1985-06-01",
+                    "vote_count": 1114,
+                    "title": "Ran",
+                    "adult": false,
+                    "backdrop_path": "/gfR3GEClL7WrNpQOg8mcPhM8fx6.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        18,
+                        36
+                    ],
+                    "id": 11645,
+                    "original_language": "ja",
+                    "original_title": "乱",
+                    "poster_path": "/32zodp9QS2O991Zi4Ateot6qEts.jpg"
+                }
+            ],
+            "gender": 2,
+            "popularity": 14.867,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Ryan Reynolds",
+            "id": 10859,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        35
+                    ],
+                    "id": 293660,
+                    "media_type": "movie",
+                    "title": "Deadpool",
+                    "original_language": "en",
+                    "original_title": "Deadpool",
+                    "overview": "Um seinem sicheren Tod durch Krebs zu entkommen, willigt Wade Wilson in ein riskantes Experiment ein, das ihn heilen und in einen Supersöldner verwandeln soll. Doch den Preis für sein Überleben bezahlt Wilson am Ende mit schweren Qualen und körperlicher Entstellung. Getrieben von Rache und durch Selbstheilungskräfte nahezu unsterblich geworden, jagt Wilson nun als Mutant Deadpool seine Peiniger und gefährdet damit seine große Liebe Vanessa, die er nach seiner Verwandlung voller Scham aus seinem Leben verbannte.",
+                    "popularity": 220.616,
+                    "poster_path": "/VEfCqkbK062Egob26rYQWAJoE7.jpg",
+                    "release_date": "2016-02-09",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 26595
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        12
+                    ],
+                    "id": 383498,
+                    "media_type": "movie",
+                    "title": "Deadpool 2",
+                    "original_language": "en",
+                    "original_title": "Deadpool 2",
+                    "overview": "Nach einem weiteren herben Schicksalsschlag ist Deadpool des Lebens überdrüssig und versucht sich mithilfe von Benzinkanistern und einer Zigarette umzubringen. Doch der unkaputtbare Antiheld wird von seinem X-Men-Kumpanen Colossus gerettet und mit auf das abgeschiedene Anwesen der Mutanten genommen. Durch einen Zwischenfall mit dem Teenager-Mutanten Russell lernt Deadpool den Superschurken Cable kennen, der es auf den wütenden Halbstarken abgesehen hat. Zunächst kann Deadpool die Situation entschärfen – doch dann landen Russell und er plötzlich im Knast. Nun stellt er sich seine eigene Superheldencrew zusammen und rekrutiert unter anderem Domino und Zeitgeist um es mit Cable aufzunehmen…",
+                    "popularity": 164.48,
+                    "poster_path": "/uC7YwWcXusYgpWHSxl6njJDiFfk.jpg",
+                    "release_date": "2018-05-10",
+                    "video": false,
+                    "vote_average": 7.501,
+                    "vote_count": 14558
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/y4Nyby674jtsbYLzVx1lSgaz1WB.jpg",
+                    "genre_ids": [
+                        35,
+                        14
+                    ],
+                    "id": 72105,
+                    "media_type": "movie",
+                    "title": "Ted",
+                    "original_language": "en",
+                    "original_title": "Ted",
+                    "overview": "Ted ist seit Kindertagen der beste Freund von John Bennett. Doch Ted ist ein Stoffteddy und Josh inzwischen ein erwachsener Mann. Das Problem ist nur, dass sich Josh als Kind gewünscht hat, Ted möge lebendig werden – was er auch tat und seitdem ist Josh den kuscheligen Freund nicht mehr los geworden…",
+                    "popularity": 128.153,
+                    "poster_path": "/5mMZ6vNu1YzUyMcanOzYsxyt95y.jpg",
+                    "release_date": "2012-06-29",
+                    "video": false,
+                    "vote_average": 6.381,
+                    "vote_count": 10527
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+            "popularity": 45.282,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Arnold Schwarzenegger",
+            "id": 1100,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/dH6m8iWJEPIFoyQaZiuo9Ih7kpA.jpg",
+                    "genre_ids": [
+                        28,
+                        53,
+                        878
+                    ],
+                    "id": 218,
+                    "media_type": "movie",
+                    "title": "Terminator",
+                    "original_language": "en",
+                    "original_title": "The Terminator",
+                    "overview": "Ein Cyborg aus der Zukunft wird auf eine tödliche Mission in die heutige Gegenwart geschickt. Er soll Sarah Connor töten, eine junge Frau, die eine entscheidende Rolle für die Zukunft der Menschheit spielen wird. Sie hat nur eine Chance, Kyle Reese, ein Freiheitskämpfer, der ebenfalls aus der Zukunft kommt.",
+                    "popularity": 60.388,
+                    "poster_path": "/rVOo8IHLGLS12rsDUAJ8jFZGhzp.jpg",
+                    "release_date": "1984-10-26",
+                    "video": false,
+                    "vote_average": 7.625,
+                    "vote_count": 10374
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+                    "genre_ids": [
+                        28,
+                        53,
+                        878
+                    ],
+                    "id": 280,
+                    "media_type": "movie",
+                    "title": "Terminator 2 - Tag der Abrechnung",
+                    "original_language": "en",
+                    "original_title": "Terminator 2: Judgment Day",
+                    "overview": "Zehn Jahre nach der Terrorherrschaft des ersten Terminators kehrt ein neuer Killer-Cyborg auf die Erde zurück. Der Auftrag des T-1000 lautet: John Connor muss sterben. Der zwölfjährige John ist der einzige, der eines fernen Tages die Menschheit vor der Übernahme der Weltherrschaft durch die Maschinen retten könnte. Doch die Rebellen aus der Zukunft sind wachsam. Zum Schutz für John entsenden sie einen umprogrammierten Terminator der alten Generation, den T-800, auf die Erde.",
+                    "popularity": 64.899,
+                    "poster_path": "/4VqVoURCh0hGvnvKq3148SjePIo.jpg",
+                    "release_date": "1991-07-03",
+                    "video": false,
+                    "vote_average": 8.07,
+                    "vote_count": 10274
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/g4a5YLWwi6OCp8TcvxsUNrXMbN5.jpg",
+                    "genre_ids": [
+                        878,
+                        28,
+                        53,
+                        12
+                    ],
+                    "id": 87101,
+                    "media_type": "movie",
+                    "title": "Terminator: Genisys",
+                    "original_language": "en",
+                    "original_title": "Terminator Genisys",
+                    "overview": "Im Jahr 2029 kämpft der Rebellenanführer John Connor gegen die Übermacht des Skynet-Maschinenimperiums. Er schickt seinen loyalen Freund Kyle Reese zurück ins Jahr 1983, um seine Mutter Sarah Connor vor einem Killer-Roboter zu beschützen und so die Zukunft der Menschheit sicherzustellen. Doch als Kyle Reese im Los Angeles der 1980er ankommt, muss er feststellen, dass die erwartete Vergangenheit nicht mehr existiert. Sarahs Eltern wurden von einem durch die Zeit gereisten Terminator ermordet, ein Android des Modells T-800 hatte das 9-jährige Mädchen danach beschützt und großgezogen. Kyle erklärt Sarah, was in der Zukunft geschehen wird, doch sie wehrt sich entschieden gegen die Vorstellung, dass ihre Geschichte schon vorherbestimmt ist – und nimmt den Kampf mit Gegnern wie dem T-1000 auf…",
+                    "popularity": 121.325,
+                    "poster_path": "/887EWUloOJyJha8rlQ2OAT5MdYm.jpg",
+                    "release_date": "2015-06-23",
+                    "video": false,
+                    "vote_average": 5.903,
+                    "vote_count": 7156
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/z6IbTtI2FWAVZE6b1V4mqEHjwO6.jpg",
+            "popularity": 44.327,
+            "media_type": "person"
+        },
+        {
+            "gender": 2,
+            "known_for": [
+                {
+                    "overview": "Der brutale Bostoner Mafiaboss Frank Costello hat es geschafft, mit Colin Sullivan einen seiner treuesten Männer bei der städtischen Polizei einzuschleusen, um stets auf dem Laufenden über die geplanten Aktivitäten der Cops zu bleiben. Und weil die Taktik, den Gegner mit Hilfe eines Maulwurfs auszuspionieren, zwar alt aber effektiv ist, hatten auch Polizeichef Queenan und Sergeant Digman diese Idee. Ihr Undercover-Ermittler Billy Costigan hat sich schnell zu einem der engsten Vertrauten von Pate Costello hochgearbeitet. Als sowohl die Mafia als auch das Police-Department erfahren, dass sich ein Falschspieler in ihren Reihen befindet, ohne aber dessen Identität zu kennen, müssen Sullivan und Costigan alles daran setzen, dass der jeweils andere zuerst auffliegt, um somit ihre eigene Tarnung aufrecht erhalten zu können.",
+                    "release_date": "2006-10-04",
+                    "vote_count": 12283,
+                    "popularity": 32.991,
+                    "adult": false,
+                    "backdrop_path": "/cDFtxTxEtE3ljadfQ5SwtRTi8Iw.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        53,
+                        80
+                    ],
+                    "video": false,
+                    "original_language": "en",
+                    "original_title": "The Departed",
+                    "poster_path": "/u4yQfbZTsM6YybFVeoc0yLsbcUF.jpg",
+                    "id": 1422,
+                    "title": "Departed - Unter Feinden",
+                    "vote_average": 8.2
+                },
+                {
+                    "overview": "Ted ist seit Kindertagen der beste Freund von John Bennett. Doch Ted ist ein Stoffteddy und Josh inzwischen ein erwachsener Mann. Das Problem ist nur, dass sich Josh als Kind gewünscht hat, Ted möge lebendig werden – was er auch tat und seitdem ist Josh den kuscheligen Freund nicht mehr los geworden…",
+                    "release_date": "2012-06-29",
+                    "vote_count": 10523,
+                    "popularity": 150.657,
+                    "adult": false,
+                    "backdrop_path": "/y4Nyby674jtsbYLzVx1lSgaz1WB.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        35,
+                        14
+                    ],
+                    "video": false,
+                    "original_language": "en",
+                    "original_title": "Ted",
+                    "poster_path": "/5mMZ6vNu1YzUyMcanOzYsxyt95y.jpg",
+                    "id": 72105,
+                    "title": "Ted",
+                    "vote_average": 6.4
+                },
+                {
+                    "overview": "Die Menschheit hat sich gerade von der großen Schlacht zwischen Autobots und Decepticons auf unserem Planeten erholt. Alle Transformers sind vom Antlitz der Erde verschwunden, doch geldgierige und mächtige Geschäftsmänner und Wissenschaftler hoffen von ihrer Hinterlassenschaft profitieren zu können. Sie experimentieren mit der Technologie der Transformers – weit über ein Maß hinaus, das sie kontrollieren können. Gleichzeitig hat ein alter und mächtiger Transformer von weit her, sein Augenmerk auf die Erde gerichtet, die er versklaven will. Ein neuer Kampf um die Freiheit der Menschen beginnt…",
+                    "release_date": "2014-06-25",
+                    "video": false,
+                    "popularity": 136.89,
+                    "adult": false,
+                    "backdrop_path": "/sERI11W0Cj0KN3vyF3yOvGcxVG0.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        878,
+                        28,
+                        12
+                    ],
+                    "vote_count": 6662,
+                    "original_language": "en",
+                    "original_title": "Transformers: Age of Extinction",
+                    "poster_path": "/7EpjvHbiLT6p3OnXozdBr59zew3.jpg",
+                    "id": 91314,
+                    "title": "Transformers: Ära des Untergangs",
+                    "vote_average": 5.9
+                }
+            ],
+            "known_for_department": "Acting",
+            "name": "Mark Wahlberg",
+            "id": 13240,
+            "profile_path": "/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg",
+            "adult": false,
+            "popularity": 41.12,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "name": "Youssef Chebbi",
+            "id": 1632902,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/dA6JvKKV2wO2VvpsiuPZfAIyYZJ.jpg",
+                    "genre_ids": [
+                        18,
+                        53
+                    ],
+                    "id": 778627,
+                    "media_type": "movie",
+                    "title": "ما تسمع كان الرّيح",
+                    "original_language": "ar",
+                    "original_title": "ما تسمع كان الرّيح",
+                    "overview": "",
+                    "popularity": 1.115,
+                    "poster_path": "/fA82r5NY4VCrNYYr5Ja8Jq7U8VO.jpg",
+                    "release_date": "2021-02-05",
+                    "video": false,
+                    "vote_average": 5.2,
+                    "vote_count": 6
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 401379,
+                    "media_type": "movie",
+                    "title": "Babylon",
+                    "original_language": "en",
+                    "original_title": "Babylon",
+                    "overview": "",
+                    "popularity": 0.6,
+                    "poster_path": null,
+                    "release_date": "2012-07-01",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [
+                        18,
+                        53
+                    ],
+                    "id": 964679,
+                    "media_type": "movie",
+                    "title": "Ashkal",
+                    "original_language": "ar",
+                    "original_title": "Ashkal",
+                    "overview": "",
+                    "popularity": 0,
+                    "poster_path": null,
+                    "release_date": "",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": null,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Taika Waititi",
+            "id": 55934,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "id": 284053,
+                    "media_type": "movie",
+                    "title": "Thor: Tag der Entscheidung",
+                    "original_language": "en",
+                    "original_title": "Thor: Ragnarok",
+                    "overview": "Donnergott Thor wird auf der anderen Seite des Universums gefangengenommen. Ohne seinen nützlichen Hammer Mjölnir scheint eine Flucht nahezu ausgeschlossen. Dabei läuft ihm allmählich die Zeit davon. Denn die ebenso mächtige wie erbarmungslose Hela, die nach jahrtausendlanger Gefangenschaft aus ihrem Gefängnis freigekommen ist, macht sich daran, die Macht auf Thors Heimatwelt Asgard zu übernehmen. Um das zu verhindern, setzt Thor alles daran, nach Hause zurückzukehren. Zwischen ihm und seiner Freiheit stehen jedoch tödliche Gladiatorenkämpfe auf dem Planeten Sakaar, die Mülldeponie des Universums. Bei einem dieser Duelle trifft Thor auf den Ex-Avenger und seinen früheren Mitstreiter Hulk den beliebtesten und erfolgreichsten Kämpfer auf Sakaar…",
+                    "popularity": 200.639,
+                    "poster_path": "/8etFULS6CRN39vvXykQH1mUD1yB.jpg",
+                    "release_date": "2017-10-24",
+                    "video": false,
+                    "vote_average": 7.601,
+                    "vote_count": 17486
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/9ijMGlJKqcslswWUzTEwScm82Gs.jpg",
+                    "genre_ids": [
+                        10765,
+                        10759,
+                        18
+                    ],
+                    "id": 82856,
+                    "media_type": "tv",
+                    "name": "The Mandalorian",
+                    "origin_country": [
+                        "US"
+                    ],
+                    "original_language": "en",
+                    "original_name": "The Mandalorian",
+                    "overview": "Ein mandalorianischer Kopfgeldjäger, der sich frappierend von Boba Fett unterscheidet, geht seinem zwielichtigen Job nach, wobei gerade die Moral häufig in Konflikt mit seinen manchmal eher zweifelhaften Aufträgen gerät. Die Handlung setzt 5 Jahre nach dem Fall des Imperiums ein, der sich in „Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter“ ereignete.",
+                    "popularity": 237.516,
+                    "poster_path": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+                    "first_air_date": "2019-11-12",
+                    "vote_average": 8.49,
+                    "vote_count": 7482
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+                    "genre_ids": [
+                        35,
+                        10752,
+                        18
+                    ],
+                    "id": 515001,
+                    "media_type": "movie",
+                    "title": "Jojo Rabbit",
+                    "original_language": "en",
+                    "original_title": "Jojo Rabbit",
+                    "overview": "Jojo Rabbit handelt von einem kleinen Jungen, der während des Zweiten Weltkriegs lebt. Er kann der rauen Wirklichkeit nur durch seinen imaginären Freund entkommen, eine ethnisch ungenaue Version von Adolf Hitler, der die naiven patriotischen Überzeugungen des kleinen Jungen vorantreibt. Das ändert sich jedoch alles, als ein junges Mädchen diese Ansichten hinterfragt und Jojo dazu bringt, sich seinen eigenen Problemen zu stellen.",
+                    "popularity": 50.586,
+                    "poster_path": "/tfds9VytrR47blP6XicUXLrpwUI.jpg",
+                    "release_date": "2019-10-18",
+                    "video": false,
+                    "vote_average": 8.1,
+                    "vote_count": 7304
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": "/zCLBXGo5BS2e27srDBa5WpRnKul.jpg",
+            "popularity": 31.066,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "name": "Al Pacino",
+            "known_for": [
+                {
+                    "video": false,
+                    "vote_average": 8.7,
+                    "popularity": 85.945,
+                    "overview": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte.",
+                    "release_date": "1972-03-14",
+                    "title": "Der Pate",
+                    "adult": false,
+                    "id": 238,
+                    "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "vote_count": 15825,
+                    "original_language": "en",
+                    "original_title": "The Godfather",
+                    "poster_path": "/5mcfdJiLfHkg7eWROzCSuadHrYb.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 7.4,
+                    "popularity": 47.374,
+                    "overview": "Es war einmal in Hollywood im Jahre 1969: Rick Dalton hat schon bessere Tage gesehen. Einst war der Schauspieler ein gefeierter Fernsehstar. Doch diese Zeiten sind längst vorbei. Inzwischen hält er sich mehr schlecht als recht mit Gastauftritten als Bösewicht in anderen TV-Produktionen über Wasser. Denn den Sprung auf die große Kinoleinwand hat er nie geschafft. Dabei ist sein Stunt-Double und Freund Cliff Booth stets an seiner Seite. Am Tiefpunkt seiner Karriere angelangt, bekommt Rick allerdings einen prominenten Nachbarn. Der Regisseur Roman Polanski ist mit seiner Frau, der Schauspielerin Sharon Tate in das Haus nebenan eingezogen. Während Tate das Leben in Amerikas Traumfabrik in vollen Zügen genießt, droht ihr Glück ein jähes Ende zu nehmen. Denn die mörderische Gruppe um Charles Manson plant eine Gräueltat, wie sie die Welt noch nicht gesehen hat...",
+                    "release_date": "2019-07-24",
+                    "title": "Once Upon a Time… in Hollywood",
+                    "vote_count": 10337,
+                    "adult": false,
+                    "backdrop_path": "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        35,
+                        18,
+                        53
+                    ],
+                    "id": 466272,
+                    "original_language": "en",
+                    "original_title": "Once Upon a Time… in Hollywood",
+                    "poster_path": "/5RnMRADLB7Goin16z6l4dPIBCJR.jpg"
+                },
+                {
+                    "video": false,
+                    "vote_average": 8.6,
+                    "popularity": 60.038,
+                    "overview": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+                    "release_date": "1974-12-20",
+                    "adult": false,
+                    "vote_count": 9532,
+                    "id": 240,
+                    "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "title": "Der Pate - Teil II",
+                    "original_language": "en",
+                    "original_title": "The Godfather: Part II",
+                    "poster_path": "/cPCgXKNBn3bATMLes1uYRTCjTpY.jpg"
+                }
+            ],
+            "profile_path": "/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg",
+            "gender": 2,
+            "known_for_department": "Acting",
+            "id": 1158,
+            "popularity": 35.001,
+            "media_type": "person"
+        },
+        {
+            "id": 11288,
+            "profile_path": "/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg",
+            "known_for": [
+                {
+                    "poster_path": "/y3n0fN5uL417gd6LVtReKbYowIt.jpg",
+                    "id": 674,
+                    "video": false,
+                    "vote_average": 7.8,
+                    "popularity": 342.648,
+                    "vote_count": 17102,
+                    "release_date": "2005-11-16",
+                    "title": "Harry Potter und der Feuerkelch",
+                    "adult": false,
+                    "backdrop_path": "/qW5YRimHK1oVbCbQ4Q9CjSmZVKd.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        14,
+                        10751
+                    ],
+                    "overview": "Das große Abenteuer beginnt, als der Feuerkelch Harry Potters Namen freigibt und Harry damit Teilnehmer eines gefährlichen Wettbewerbs unter drei ruhmreichen Zauberschulen wird – des Trimagischen Turniers. Wer aber könnte Harrys Namen in den Feuerkelch geworfen haben? Jetzt muss er einen gefährlichen Drachen bezwingen, mit gespenstischen Wasserdämonen kämpfen und einem verzauberten Labyrinth entkommen – nur, um am Ende Dem-dessen-Name-nicht-genannt-werden-darf gegenüberzustehen.",
+                    "original_language": "en",
+                    "original_title": "Harry Potter and the Goblet of Fire"
+                },
+                {
+                    "poster_path": "/lh5yhaG4kXj7KHEywD5lcAruHN2.jpg",
+                    "id": 8966,
+                    "video": false,
+                    "vote_average": 6.3,
+                    "popularity": 176.696,
+                    "overview": "Bella Swan war schon immer ein wenig anders als ihre gleichaltrigen Mitschüler. Als ihre Mutter erneut heiratet, zieht sie zu ihrem Vater nach Forks, einer langweiligen, verregneten Kleinstadt im Staat Washington. Ihre Erwartungen an ihr neues Leben sind gering, doch dann begegnet sie in der Schule dem geheimnisvollen und äußerst attraktiven Edward. Die beiden fühlen sich magisch zueinander hingezogen, doch etwas steht einer normalen Beziehung der beiden im Weg: Edward ist ein Vampir.",
+                    "release_date": "2008-11-20",
+                    "title": "Twilight - Biss zum Morgengrauen",
+                    "adult": false,
+                    "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        14,
+                        18,
+                        10749
+                    ],
+                    "vote_count": 11458,
+                    "original_language": "en",
+                    "original_title": "Twilight"
+                },
+                {
+                    "poster_path": "/kU3ykN1gVctU12QqBv1RdpuDHpr.jpg",
+                    "id": 18239,
+                    "video": false,
+                    "vote_average": 6,
+                    "popularity": 103.122,
+                    "vote_count": 7826,
+                    "release_date": "2009-11-18",
+                    "title": "New Moon - Biss zur Mittagsstunde",
+                    "adult": false,
+                    "backdrop_path": "/nAToKvw9hxgXg1m6SIALaSbZOuU.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        14,
+                        18,
+                        10749
+                    ],
+                    "overview": "Seit einiger Zeit sind die sterbliche Bella Swan und der fast hundertjährige Vampir Edward Cullen nun ein Paar und ihre Liebe scheint allen Widrigkeiten stand zu halten. Doch just an Bellas 18.Geburtstag kommt es beinahe zum Eklat, als sie sich beim Auspacken ihrer Geschenke in den Finger schneidet. Daraufhin entscheidet sich Edward aus Vorsichtsgründen, aus Bellas Leben zu verschwinden, nicht zuletzt, weil seine Familie eh bald wieder einmal weiter reisen muß. Für Bella bricht eine Welt zusammen und es dauert lange bis sie wieder einen Hauch Freude am Leben empfindet, was auch ihrem indianischen Freund Jacob geschuldet ist, der ihr hilft. Doch sie ahnt nicht, daß Jacob in Wirklichkeit ein Werwolf ist und noch weniger, daß Edward, der die Trennung von Bella ebenfalls nicht verwindet, einer Verzweiflungstat nahe ist...",
+                    "original_language": "en",
+                    "original_title": "The Twilight Saga: New Moon"
+                }
+            ],
+            "known_for_department": "Acting",
+            "gender": 2,
+            "name": "Robert Pattinson",
+            "adult": false,
+            "popularity": 53.124,
+            "media_type": "person"
+        },
+        {
+            "gender": 1,
+            "known_for": [
+                {
+                    "vote_count": 81,
+                    "release_date": "2015-04-29",
+                    "title": "차이나타운",
+                    "popularity": 7.032,
+                    "adult": false,
+                    "backdrop_path": "/ysqBclbYDbNJawQdOTjTwtB0tl9.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        53
+                    ],
+                    "overview": "",
+                    "original_language": "ko",
+                    "original_title": "차이나타운",
+                    "poster_path": "/9YX1SdRcqLkDEMhvFMaFZ3b24Dv.jpg",
+                    "id": 336744,
+                    "video": false,
+                    "vote_average": 6.9
+                },
+                {
+                    "overview": "",
+                    "release_date": "2017-06-28",
+                    "vote_count": 32,
+                    "popularity": 6.311,
+                    "adult": false,
+                    "backdrop_path": "/f3860b3DZk3Q7GsBnajqJr59dPG.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        80,
+                        53
+                    ],
+                    "video": false,
+                    "original_language": "ko",
+                    "original_title": "리얼",
+                    "poster_path": "/9olCCHvaM8Oij0BxoOo00jcKmW.jpg",
+                    "id": 437633,
+                    "title": "리얼",
+                    "vote_average": 5.2
+                },
+                {
+                    "overview": "",
+                    "release_date": "2019-07-11",
+                    "vote_count": 22,
+                    "popularity": 32.122,
+                    "adult": false,
+                    "backdrop_path": "/dRynvJKs76eWuA5osY4sfJMOSq4.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        80
+                    ],
+                    "video": false,
+                    "original_language": "ko",
+                    "original_title": "난폭한 기록",
+                    "poster_path": "/fn8HlaS8CiC5s57E3FKJgzLOCJx.jpg",
+                    "id": 607836,
+                    "title": "난폭한 기록",
+                    "vote_average": 7.4
+                }
+            ],
+            "known_for_department": "Acting",
+            "name": "Lee Chae-dam",
+            "id": 1622390,
+            "profile_path": "/7wMyr6F3yzvbSpu2XMxSW3vObED.jpg",
+            "adult": false,
+            "popularity": 9.111,
+            "media_type": "person"
+        },
+        {
+            "id": 101542,
+            "gender": 2,
+            "known_for_department": "Directing",
+            "adult": false,
+            "name": "Ti West",
+            "known_for": [
+                {
+                    "original_title": "V/H/S",
+                    "poster_path": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+                    "video": false,
+                    "vote_average": 6.1,
+                    "title": "V/H/S",
+                    "vote_count": 1135,
+                    "media_type": "movie",
+                    "id": 84348,
+                    "popularity": 26.842,
+                    "release_date": "2012-07-28",
+                    "adult": false,
+                    "backdrop_path": "/xAC9kXLxUHpdCkISgYcLzYrxIQR.jpg",
+                    "genre_ids": [
+                        53,
+                        27
+                    ],
+                    "overview": "Eine Gruppe von kleinkriminellen Außenseitern wird von einem seltsamen und mysteriösen Fremden angeheuert, ein einzigartiges Video-Tape zu stehlen, das sich in einem heruntergekommenen, alten Haus abgeschieden im Nirgendwo befinden soll. Geht das Eindringen in das Gebäude noch problemlos vonstatten, merken sie schon bald, dass der gesamte Auftrag nicht so einfach ist, wie sie sich das vorgestellt haben. Im Wohnzimmer finden sie einen leblosen Körper, umgeben von alten Fernsehgeräten und zahlreichen Videokassetten. Auf den Bändern finden sie verstörende und erschreckende Szenen und jedes neue Video ist schrecklicher als das vorherige. Doch damit sie das richtige Band ihrem Auftraggeber zurückbringen und die Belohnung einstreichen können, müssen sie es unter den unzähligen anderen finden und dafür jedes einzelne Video ansehen.",
+                    "original_language": "en"
+                },
+                {
+                    "poster_path": "/z5jRdUhXSDvdSt6fmLwJrKLB5WG.jpg",
+                    "media_type": "tv",
+                    "name": "Atlanta Medical",
+                    "popularity": 256.245,
+                    "original_name": "The Resident",
+                    "origin_country": [
+                        "US"
+                    ],
+                    "id": 74016,
+                    "vote_count": 1031,
+                    "vote_average": 8.5,
+                    "first_air_date": "2018-01-21",
+                    "backdrop_path": "/h8gWQSr7EXd7vap1D42Cp9IAIiT.jpg",
+                    "genre_ids": [
+                        18
+                    ],
+                    "overview": "Die Serie dreht sich um eine jungen, idealistischen Arzt, der seinen ersten Tag unter der Leitung eines knallharten aber brillanten Oberarzt beginnt, der ihm einen Blick auf das Gute und Schlechte der modernen Medizin ermöglicht. Leben werden sowohl gerettet als auch verloren, aber die Erwartungen werden immer wieder auf den Prüfstand gestellt.",
+                    "original_language": "en"
+                },
+                {
+                    "poster_path": "/cb2WD75HjajBmFtPzfU5ukGqfeo.jpg",
+                    "media_type": "tv",
+                    "name": "Scream",
+                    "popularity": 65.445,
+                    "vote_count": 894,
+                    "origin_country": [
+                        "US"
+                    ],
+                    "id": 62823,
+                    "overview": "Serienadaption der bekannten Filmreihe, in der ein maskierter Killer eine Gruppe junger Menschen nach allen Regeln des Horrorfilms massakriert.",
+                    "vote_average": 6.9,
+                    "first_air_date": "2015-06-30",
+                    "backdrop_path": "/94ReoTWIiMYcdiW9w17CIWeoaYM.jpg",
+                    "genre_ids": [
+                        18,
+                        80,
+                        9648
+                    ],
+                    "original_name": "Scream: The TV Series",
+                    "original_language": "en"
+                }
+            ],
+            "profile_path": "/y65ZHU9m830lbdbggxC8eOT123S.jpg",
+            "popularity": 7.652,
+            "media_type": "person"
+        },
+        {
+            "profile_path": "/qoFGtNZu0OSd1xggj1VyClxwuF7.jpg",
+            "adult": false,
+            "known_for": [
+                {
+                    "original_title": "Once Upon a Time… in Hollywood",
+                    "poster_path": "/5RnMRADLB7Goin16z6l4dPIBCJR.jpg",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "title": "Once Upon a Time… in Hollywood",
+                    "overview": "Es war einmal in Hollywood im Jahre 1969: Rick Dalton hat schon bessere Tage gesehen. Einst war der Schauspieler ein gefeierter Fernsehstar. Doch diese Zeiten sind längst vorbei. Inzwischen hält er sich mehr schlecht als recht mit Gastauftritten als Bösewicht in anderen TV-Produktionen über Wasser. Denn den Sprung auf die große Kinoleinwand hat er nie geschafft. Dabei ist sein Stunt-Double und Freund Cliff Booth stets an seiner Seite. Am Tiefpunkt seiner Karriere angelangt, bekommt Rick allerdings einen prominenten Nachbarn. Der Regisseur Roman Polanski ist mit seiner Frau, der Schauspielerin Sharon Tate in das Haus nebenan eingezogen. Während Tate das Leben in Amerikas Traumfabrik in vollen Zügen genießt, droht ihr Glück ein jähes Ende zu nehmen. Denn die mörderische Gruppe um Charles Manson plant eine Gräueltat, wie sie die Welt noch nicht gesehen hat...",
+                    "release_date": "2019-07-24",
+                    "vote_count": 10323,
+                    "popularity": 49.012,
+                    "adult": false,
+                    "backdrop_path": "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        35,
+                        18,
+                        53
+                    ],
+                    "id": 466272,
+                    "original_language": "en"
+                },
+                {
+                    "poster_path": "/4Cl0JlrdtFFKwrzKoa9zf13U6zM.jpg",
+                    "original_name": "Grey's Anatomy",
+                    "vote_average": 8.3,
+                    "popularity": 1089.529,
+                    "overview": "Die Serie erzählt die Geschichte von fünf jungen Assistenzärzten des fiktiven Krankenhauses Seattle Grace Hospital in Seattle. Im Mittelpunkt steht die junge Ärztin Meredith Grey, die zusammen mit ihren Kollegen Cristina Yang, Isobel \"Izzie\" Stevens, George O'Malley und Alex Karev ihre Ausbildung in der Chirurgie absolviert. Im Kern der Handlung stehen die verschiedenen Beziehungen der Assistenzärzte untereinander und mit ihren Stationsoberärzten.",
+                    "first_air_date": "2005-03-27",
+                    "name": "Grey's Anatomy",
+                    "origin_country": [
+                        "US"
+                    ],
+                    "id": 1416,
+                    "backdrop_path": "/dpzC0ACzwkVporKvzZGvNFOBFr6.jpg",
+                    "media_type": "tv",
+                    "genre_ids": [
+                        18
+                    ],
+                    "vote_count": 7894,
+                    "original_language": "en"
+                },
+                {
+                    "poster_path": "/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg",
+                    "original_name": "Euphoria",
+                    "origin_country": [
+                        "US"
+                    ],
+                    "popularity": 975.286,
+                    "overview": "Die 17-jährige drogenabhängige Rue Bennett hat bereits einen Entzug gemacht hat, doch sie kann die Finger nicht von Drogen lassen. Eine Gruppe von Schülern setzt sich mit Drogen, Sex, Gewalt und Freundschaft auseinander.",
+                    "first_air_date": "2019-06-16",
+                    "genre_ids": [
+                        18
+                    ],
+                    "vote_count": 7627,
+                    "vote_average": 8.4,
+                    "backdrop_path": "/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+                    "media_type": "tv",
+                    "id": 85552,
+                    "name": "Euphoria",
+                    "original_language": "en"
+                }
+            ],
+            "name": "Sydney Sweeney",
+            "id": 115440,
+            "gender": 1,
+            "known_for_department": "Acting",
+            "popularity": 54.152,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Chethan Kumar",
+            "id": 1959829,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/gQJ324ZB60jAVJ6UAkhDA84sXbj.jpg",
+                    "genre_ids": [
+                        18,
+                        28,
+                        10749
+                    ],
+                    "id": 543413,
+                    "media_type": "movie",
+                    "title": "Ayogya",
+                    "original_language": "kn",
+                    "original_title": "Ayogya",
+                    "overview": "",
+                    "popularity": 0.749,
+                    "poster_path": "/j1W8q4RVc24DJNWyTkJ0r1h7jKW.jpg",
+                    "release_date": "2018-08-17",
+                    "video": false,
+                    "vote_average": 5,
+                    "vote_count": 2
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8dBwBiWqkIbI6XEysedXque3mki.jpg",
+                    "genre_ids": [
+                        35,
+                        28,
+                        18,
+                        10749
+                    ],
+                    "id": 498407,
+                    "media_type": "movie",
+                    "title": "Bharjari",
+                    "original_language": "kn",
+                    "original_title": "Bharjari",
+                    "overview": "",
+                    "popularity": 0.69,
+                    "poster_path": "/9g1ylRcJsUu1AtXj8ad2JOnjro9.jpg",
+                    "release_date": "2017-09-15",
+                    "video": false,
+                    "vote_average": 8,
+                    "vote_count": 1
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ftQ9yNMLI2yQDKHmGtPWuQgkfgP.jpg",
+                    "genre_ids": [
+                        28,
+                        80,
+                        53
+                    ],
+                    "id": 673184,
+                    "media_type": "movie",
+                    "title": "ಮದಗಜ",
+                    "original_language": "kn",
+                    "original_title": "ಮದಗಜ",
+                    "overview": "",
+                    "popularity": 0.87,
+                    "poster_path": "/rFhp8DlrhUzVLO0pW3cIyGoF7S.jpg",
+                    "release_date": "2021-12-03",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "known_for_department": "Writing",
+            "profile_path": "/iBgt3gtCbjPlGcHCyfk86K9fZxk.jpg",
+            "popularity": 0.84,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Jim Carrey",
+            "id": 206,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/bxY7ve1LP8atCIuvr4jeeJMmU4w.jpg",
+                    "genre_ids": [
+                        35,
+                        18
+                    ],
+                    "id": 37165,
+                    "media_type": "movie",
+                    "title": "Die Truman Show",
+                    "original_language": "en",
+                    "original_title": "The Truman Show",
+                    "overview": "Die Truman Show ist seit beinahe dreißig Jahren ein TV-Klassiker auf der ganzen Welt. Seit seiner Geburt ist Truman Burbank der Hauptdarsteller der Serie – ohne es überhaupt zu wissen. Produzent Christof entwarf eine künstliche Welt, genannt Seahaven, in der Truman von über 5000 Kameras 24 Stunden am Tag bei fast jeder Kleinigkeit beobachtet wird. Um die Fassade nicht zum Einstürzen zu bringen sind seine Frau, Freunde und Verwandte allesamt Schauspieler. In Folge 10909 kommt es jedoch zu diversen versehentlichen Vorfällen die Truman misstrauisch werden lassen. Obwohl Schauspieler und Produzenten alles daran setzen Truman wieder in Zaum zu halten, lässt sich dieser nicht davon abhalten nach Ungereimtheiten zu forschen. Sein Streben nach einer echten Welt wird immer stärker, er plant seinen Ausbruch.",
+                    "popularity": 96.798,
+                    "poster_path": "/hezBucs9UlIOqoOkrrkdEo7baOk.jpg",
+                    "release_date": "1998-06-04",
+                    "video": false,
+                    "vote_average": 8.108,
+                    "vote_count": 14575
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+                    "genre_ids": [
+                        878,
+                        18,
+                        10749
+                    ],
+                    "id": 38,
+                    "media_type": "movie",
+                    "title": "Vergiss mein nicht!",
+                    "original_language": "en",
+                    "original_title": "Eternal Sunshine of the Spotless Mind",
+                    "overview": "Joel Barish und Clementine Kruczynski sind ein äußerst gegensätzliches Paar. Er ist zurückhaltend und geordnet, sie ist das krasse Gegenteil. Doch trotzdem (oder gerade deshalb?) funktionierte diese Liaison über zwei Jahre lang mit kleineren Hochs und Tiefs wunderbar. Doch dann, eines Tages, trennt sich Clementine nach einem Streit plötzlich von Joel. Er verkraftet die Trennung nicht und beschließt kurzerhand, Clementine bei der Arbeit aufzusuchen, um sie um eine letzte Chance für die gemeinsame Zukunft zu bitten. Doch Clementine verhält sich bei Joels Besuch äußerst merkwürdig. Zunächst benimmt sie sich so, als würde sie ihn überhaupt nicht kennen und dann muss er noch beobachten, wie sie mit dem einige Jahre jüngeren Patrick innige Küsse austauscht...",
+                    "popularity": 50.349,
+                    "poster_path": "/dlik49oopcyDgMmrASXlS4q8Dp5.jpg",
+                    "release_date": "2004-03-19",
+                    "video": false,
+                    "vote_average": 8.096,
+                    "vote_count": 12178
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3I41dyZih2ntqxC3LY77ZtgBdFm.jpg",
+                    "genre_ids": [
+                        14,
+                        35
+                    ],
+                    "id": 310,
+                    "media_type": "movie",
+                    "title": "Bruce Allmächtig",
+                    "original_language": "en",
+                    "original_title": "Bruce Almighty",
+                    "overview": "Weil man ihn bei der Beförderung übergangen hat, rastet der TV-Journalist Bruce Nolan dermaßen aus, dass man ihm den Stuhl vor die Tür stellt. Was folgt, ist unter anderem eine Wuttirade auf den lieben Gott. Der zufälligerweise zuhört - und seinem erzürnten Schäfchen kurzerhand für eine Woche die göttliche Allmacht überträgt. Bruce ist begeistert. Freundin Grace wird mit einer imposanteren Oberweite ausgestattet, die Gassi-Probleme des Hundes werden endgültig gelöst und seinem \"Reporterglück\" ordentlich nachgeholfen.",
+                    "popularity": 59.275,
+                    "poster_path": "/nQB1apwp4FOKO7JqFI1tcXdKxoP.jpg",
+                    "release_date": "2003-05-23",
+                    "video": false,
+                    "vote_average": 6.69,
+                    "vote_count": 9051
+                }
+            ],
+            "known_for_department": "Acting",
+            "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg",
+            "popularity": 26.935,
+            "media_type": "person"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "name": "Andrei Tarkovsky",
+            "id": 8452,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+                    "genre_ids": [
+                        878,
+                        18
+                    ],
+                    "id": 1398,
+                    "media_type": "movie",
+                    "title": "Stalker",
+                    "original_language": "ru",
+                    "original_title": "Сталкер",
+                    "overview": "Nach dem Einschlag eines unbekannten kosmischen Körpers hat man das umliegende Gebiet abgesperrt und nennt es jetzt „Die Zone“. Niemand darf hinein, außer er tut es illegal. Einer dieser Quasiverbrecher ist der Stalker, der Fremde gegen Bezahlung in die Zone führt, die ein Geheimnis birgt, auf das viele scharf sind: das Zimmer. In diesem Zimmer sollen alle Geheimnisse enthüllt und alle Wünsche erfüllt werden. In dieser Nacht sind es ein Wissenschaftler und ein zynischer Autor, die zu dem Zimmer gelangen wollen. Doch es gibt keinen direkten Weg durch die Zone, in dem die irdischen Naturgesetze und die Zeit keine Geltung mehr zu haben scheinen, und so wird der Weg zu einer Odyssee mit vielen Umwegen …",
+                    "popularity": 17.979,
+                    "poster_path": "/74plBYqs4h9LjoMMRvKdIf1kDii.jpg",
+                    "release_date": "1979-05-25",
+                    "video": false,
+                    "vote_average": 8.269,
+                    "vote_count": 1533
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qjPhauZx2vOi3gNKsQfJZHeGemB.jpg",
+                    "genre_ids": [
+                        18,
+                        878,
+                        9648
+                    ],
+                    "id": 593,
+                    "media_type": "movie",
+                    "title": "Solaris",
+                    "original_language": "ru",
+                    "original_title": "Солярис",
+                    "overview": "Der Psychologe Kris Kelvin erhält den Auftrag, auf den Planeten Solaris zu fliegen. Bei seiner Ankunft sind dort nur noch zwei Mitglieder der ursprünglich 85 Mann starken Besatzung am Leben. Viel mehr als deren erschreckender psychischer Zustand verwirrt ihn jedoch das Erscheinen mehrerer Kinder und seiner verstorbenen Frau Hari auf der Station. Kelvin kommt zu dem Schluß, daß der Ozean auf Solaris für die Erscheinungen verantwortlich ist und das Vermögen besitzt, Träume und Figuren des Unterbewußten zu materialisieren.",
+                    "popularity": 14.027,
+                    "poster_path": "/7h0DPEYm7A4VL6rNViwiXb8Np7Z.jpg",
+                    "release_date": "1972-03-20",
+                    "video": false,
+                    "vote_average": 7.874,
+                    "vote_count": 1189
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg",
+                    "genre_ids": [
+                        18,
+                        36
+                    ],
+                    "id": 1396,
+                    "media_type": "movie",
+                    "title": "Der Spiegel",
+                    "original_language": "ru",
+                    "original_title": "Зеркало",
+                    "overview": "Autobiografisch geprägter Film Tarkowskijs, der 1975 in Russland seine Premiere feierte. Es werden drei Erzählstränge aufgetan: Kindheitserinnerungen, historischer Ereignisse und philosophische Überlegungen, die schließlich eine Synthese des Gezeigten bilden.",
+                    "popularity": 8.244,
+                    "poster_path": "/19Ua3kolD7LOZAOGEyZmmComXkn.jpg",
+                    "release_date": "1975-03-07",
+                    "video": false,
+                    "vote_average": 8.091,
+                    "vote_count": 659
+                }
+            ],
+            "known_for_department": "Directing",
+            "profile_path": "/j0toVLrgLNuyGnUxGPnSfnPiSf5.jpg",
+            "popularity": 6.897,
+            "media_type": "person"
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/gD8p1SQSXcfbjautxVQ2abB7OUu.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "",
+    "id": 1552,
+    "imdb_id": "tt0098067",
+    "original_language": "en",
+    "original_title": "Parenthood",
+    "overview": "Die Buckmans sind eine moderne Familie, die sich die uralte Frage stellt: Wie erziehe ich meine Kinder richtig? Im Zentrum des Sturms steht Gil, dem es gelingt, seinen einzigartigen Sinn für Humor zu bewahren, während er gleichzeitig versucht, seine Rolle als liebevoller Vater und Ehemann mit einer erfolgreichen Karriere unter einen Hut zu bringen. Wie Gil und die übrigen Buckmans feststellen, liegt das Geheimnis perfekter Eltern häufig darin, die Kinder ganz einfach sie selbst sein zu lassen...",
+    "popularity": 12.102,
+    "poster_path": "/zKk5CfqS71vJHNNozIINjY6eJa0.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 23,
+            "logo_path": "/mkxNjThahj5pvntvYKVpMbWXm3D.png",
+            "name": "Imagine Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-07-31",
+    "revenue": 126297830,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eine Wahnsinnsfamilie",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 482
+}

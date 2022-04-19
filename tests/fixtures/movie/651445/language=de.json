@@ -1,0 +1,39 @@
+{
+    "adult": false,
+    "backdrop_path": "/vWNGnjBB3pa6R8slwjhwDxRqBUf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 651445,
+    "imdb_id": "tt7161870",
+    "original_language": "en",
+    "original_title": "John Wick Chapter 2: Wick-vizzed",
+    "overview": "",
+    "popularity": 13.681,
+    "poster_path": "/qQFBj2tBlkKhAcAgDVpdFWLX5x.jpg",
+    "production_companies": [
+        {
+            "id": 120268,
+            "logo_path": null,
+            "name": "Narrator",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2017-06-13",
+    "revenue": 0,
+    "runtime": 5,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "John Wick Chapter 2: Wick-vizzed",
+    "video": true,
+    "vote_average": 7.7,
+    "vote_count": 45
+}

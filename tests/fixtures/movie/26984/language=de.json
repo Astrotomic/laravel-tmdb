@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/996KoWowbORw0i5Du6yXKyyiczd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10770,
+            "name": "TV-Film"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "",
+    "id": 26984,
+    "imdb_id": "tt0090683",
+    "original_language": "en",
+    "original_title": "Babes In Toyland",
+    "overview": "Spielzeugland - das ist die zauberhafte Welt in der Teddybären tanzen, Märchenfiguren zum Leben erwecken, es Spielzeug und Süßigkeiten in Hülle und Fülle gibt. Hier landet die 11jährige Lisa nach einem Autounfall, gleich mitten in einer riesigen Sahnetorte. Sie findet sofort nette Freunde, macht sich aber genauso schnell die Bösen zu Feinde: Barnaby Barnacle und seine bösartige Mogule. Ein spannender Kampf mit Spielzeug, Zaubertricks und Sahnetörtchen beginnt...",
+    "popularity": 6.58,
+    "poster_path": "/mTg72oYoK18oV1uuuZGW2JI752x.jpg",
+    "production_companies": [
+        {
+            "id": 1704,
+            "logo_path": null,
+            "name": "Bavaria Film",
+            "origin_country": "DE"
+        },
+        {
+            "id": 23899,
+            "logo_path": "/i9PntvaSOFRynGQPTNHY83FHhPk.png",
+            "name": "Orion Television",
+            "origin_country": ""
+        },
+        {
+            "id": 42544,
+            "logo_path": null,
+            "name": "The Finnegan Company",
+            "origin_country": ""
+        },
+        {
+            "id": 20986,
+            "logo_path": null,
+            "name": "Finnegan/Pinchuk Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-12-19",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Abenteuer im Spielzeugland",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 63
+}

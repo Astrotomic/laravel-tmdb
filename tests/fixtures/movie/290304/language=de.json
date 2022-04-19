@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/jZKE0NhLuxoXLYpLm02slNESEz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bgpics.com/movies/21-years-richard-linklater",
+    "id": 290304,
+    "imdb_id": "tt3657420",
+    "original_language": "en",
+    "original_title": "21 Years: Richard Linklater",
+    "overview": "A journey through the professional life of innovative film director Richard Linklater: 21 years creating films, carving his signature in pop culture; an analysis of his style and motivations, through the funny and moving testimonies of close friends and collaborators, actors and other filmmakers.",
+    "popularity": 5.812,
+    "poster_path": "/hlgWdZlnQcA6cpYwdGvFdIHsCaV.jpg",
+    "production_companies": [
+        {
+            "id": 82620,
+            "logo_path": null,
+            "name": "Wood Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 44632,
+            "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
+            "name": "Gravitas Ventures",
+            "origin_country": "US"
+        },
+        {
+            "id": 135404,
+            "logo_path": null,
+            "name": "Gasoline Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 94535,
+            "logo_path": null,
+            "name": "Paste Magazine",
+            "origin_country": "US"
+        },
+        {
+            "id": 135405,
+            "logo_path": null,
+            "name": "Onion Creek Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-11-07",
+    "revenue": 0,
+    "runtime": 79,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Eighteen films. One legend.",
+    "title": "21 Years: Richard Linklater",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 31
+}

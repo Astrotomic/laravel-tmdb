@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/5c7EttWJRvXxzp2nJ7twI6Rxqq0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://destinationwedding-movie.com",
+    "id": 489929,
+    "imdb_id": "tt6987770",
+    "original_language": "en",
+    "original_title": "Destination Wedding",
+    "overview": "72 Stunden im Paradies wären wunderbar – wenn diese Hochzeit nicht wäre. Dort treffen Frank und Lindsay erstmals aufeinander. Sie haben vieles gemeinsam: Beide hassen die Braut, auch den Bräutigam, die Hochzeit, sich selber und – was bald klar wird – vor allem den jeweils anderen. Das unerbittliche Unterhaltungsprogramm des mehrtägigen Festes lässt sie immer wieder aufeinanderprallen. Doch unweigerlich steigt mit jedem Streit die gegenseitige Sympathie, die Anziehung zwischen den beiden ist nur schwer zu ignorieren. Und so müssen Frank und Lindsay eine Entscheidung treffen: für die aufkeimende Liebe – oder den gesunden Menschenverstand.",
+    "popularity": 19.148,
+    "poster_path": "/c7q0a4GpzOIa1UQjfjnHnf7kt83.jpg",
+    "production_companies": [
+        {
+            "id": 36109,
+            "logo_path": "/wca0Jcidf2N1KAPicYMjGoKOmYu.png",
+            "name": "The Fyzz",
+            "origin_country": "GB"
+        },
+        {
+            "id": 14055,
+            "logo_path": null,
+            "name": "Sunshine Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 59462,
+            "logo_path": null,
+            "name": "Two Camels Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-08-02",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Was sich neckt, das liebt sich",
+    "title": "Destination Wedding",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 553
+}

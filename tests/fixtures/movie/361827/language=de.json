@@ -1,0 +1,42 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 361827,
+    "imdb_id": "tt0223844",
+    "original_language": "en",
+    "original_title": "One Step Away",
+    "overview": "Der Jugendliche Ron zieht den Ärger an. Seine Freunde verhöhnen ihn, indem sie ihn einen Feigling nennen, worauf er ungehalten reagiert. Ein Nachbar bezeichnet ihnals Kriminellen. Seine Mutter, die Single ist, hat eine harte Zeit mit ihm. Weil Ron eine Gratwanderung bei der Suche nach seinem Platz und sich selbst durchmacht, scheinen Katastrophen und Herzschmerz vorprogrammiert.",
+    "popularity": 1.185,
+    "poster_path": "/sPbq25eae2SWapdPhuhTbBo8ChB.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1985-09-13",
+    "revenue": 0,
+    "runtime": 28,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "One Step Away",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 3
+}

@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/5AWaSnXNUAbcz0Edfr23qjra37I.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 623582,
+    "imdb_id": "tt7089628",
+    "original_language": "en",
+    "original_title": "Already Gone",
+    "overview": "",
+    "popularity": 4.459,
+    "poster_path": "/yuDXE3Wkutr5Clh8C2afsn3IVzu.jpg",
+    "production_companies": [
+        {
+            "id": 75355,
+            "logo_path": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+            "name": "Yale Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 106788,
+            "logo_path": null,
+            "name": "Rainmaker Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-08-16",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Already Gone",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 4
+}

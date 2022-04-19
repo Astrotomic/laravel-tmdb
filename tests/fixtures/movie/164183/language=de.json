@@ -1,0 +1,42 @@
+{
+    "adult": false,
+    "backdrop_path": "/AuhSed5QJMOLapKp9hFpaUkP5Ad.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 164183,
+    "imdb_id": "tt2261871",
+    "original_language": "en",
+    "original_title": "My Own Private River",
+    "overview": "Unused footage from Gus Van Sant's 1991 film My Own Private Idaho is re-contextualized in James Franco's tribute to River Phoenix.",
+    "popularity": 3.479,
+    "poster_path": "/zGLKqkPsxweo6tD6X8rQS0CKiGN.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2011-09-25",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My Own Private River",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 10
+}

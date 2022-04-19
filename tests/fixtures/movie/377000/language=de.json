@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 377000,
+    "imdb_id": "tt0300138",
+    "original_language": "en",
+    "original_title": "Life Under Water",
+    "overview": "Young man, who can't get along with the rest of the world, especially his mother, decides to try to take his life in his own hands.  A TV movie directed by Jay Holman.",
+    "popularity": 1.176,
+    "poster_path": "/rrfiMWBKP2Nv0wnYnnbGwwLarCE.jpg",
+    "production_companies": [
+        {
+            "id": 3906,
+            "logo_path": "/iSK5VQnKq7ZZKI3ge9K1DySvJYm.png",
+            "name": "American Playhouse",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-04-12",
+    "revenue": 0,
+    "runtime": 56,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Life Under Water",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 4
+}

@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.siberiamovie.com",
+    "id": 438689,
+    "imdb_id": "tt6494418",
+    "original_language": "en",
+    "original_title": "Siberia",
+    "overview": "Lucas Hill, ein nicht ganz lupenreiner Diamantenhändler, fliegt nach Russland, um dem mafiösen Oligarchen Boris Volkov einige extrem seltene Edelsteine zu verkaufen. Doch Hills Kontaktmann vor Ort ist verschwunden und mit ihm die kostbare Ware. Um diese wiederzubeschaffen, muss Lucas ins frostige Sibirien reisen, wo ihm Katya, die schöne und weltgewandte Besitzerin einer kleinen Bar, bald aus tödlicher Bedrängnis hilft. Denn ein Mann wie Volkov verzeiht keine Fehler und seine Leibwächter kennen kein Erbarmen, wenn es um krumme Deals, verletzte Ehre und Rache geht.",
+    "popularity": 27.857,
+    "poster_path": "/55bNX7QNjTpERPxuwD7mjNn5PsX.jpg",
+    "production_companies": [
+        {
+            "id": 11517,
+            "logo_path": "/7tT0PqNjEalEwE1GkjxU32SlOW6.png",
+            "name": "Buffalo Gal Pictures",
+            "origin_country": "CA"
+        },
+        {
+            "id": 51844,
+            "logo_path": "/j4AQ1eyKT50Q6pPLvWGvpOMMSwX.png",
+            "name": "Summerstorm Entertainment",
+            "origin_country": "DE"
+        },
+        {
+            "id": 7193,
+            "logo_path": null,
+            "name": "Company Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-07-13",
+    "revenue": 2006704,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "Afrikaans",
+            "iso_639_1": "af",
+            "name": "Afrikaans"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Siberia - Tödliche Nähe",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 430
+}
