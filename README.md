@@ -195,6 +195,7 @@ If you discover any security related issues, please check [SECURITY](https://git
 ## Credits
 
 - [Tom Witkowski](https://github.com/Gummibeer)
+- [Stefano Novelli](https://github.com/murdercode)
 - [All Contributors](../../contributors)
 
 ## License
