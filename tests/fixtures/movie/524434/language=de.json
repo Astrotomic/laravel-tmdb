@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://disney.de/filme/eternals",
+    "id": 524434,
+    "imdb_id": "tt9032400",
+    "original_language": "en",
+    "original_title": "Eternals",
+    "overview": "Die Eternals sind ein Team aus uralten Außerirdischen, die seit Tausenden von Jahren im Verborgenen auf der Erde gelebt haben. Als eine unerwartete Tragödie sie dazu zwingt, aus dem Schatten zu treten, sind sie gezwungen, sich gegen den ältesten Feind der Menschheit, die Deviants, zu vereinen.",
+    "popularity": 1305.712,
+    "poster_path": "/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-11-03",
+    "revenue": 402027582,
+    "runtime": 156,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Am Anfang...",
+    "title": "Eternals",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 5278
+}

@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/27nn2YJBwY7a1etZ0AiIcOrIgu3.jpg",
+    "belongs_to_collection": {
+        "id": 829561,
+        "name": "365 Days Collection",
+        "poster_path": "/h412C6U9PTtYrVHwbiQRHh7hjP8.jpg",
+        "backdrop_path": "/yxnx4pBJgUqrmygFmAKwnL4EVI7.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 664413,
+    "imdb_id": "tt10886166",
+    "original_language": "pl",
+    "original_title": "365 dni",
+    "overview": "Eine leitende Angestellte in einer lieblosen Beziehung fällt einem dominanten Mafiaboss zum Opfer, der sie einsperrt und ihr ein Jahr Zeit gib, sich in ihn zu verlieben. Dabei begibt sich Laura in ein Sumpf von Begierde und sexueller Abhängigkeit zum Mafiaboss. Wird sich Laura in 365 Tagen verlieben können?",
+    "popularity": 89.449,
+    "poster_path": "/ibaDBJBAvWd4J5lzfbpq1PJ6ZU1.jpg",
+    "production_companies": [
+        {
+            "id": 113069,
+            "logo_path": null,
+            "name": "Ekipa Sp. z o.o.",
+            "origin_country": "PL"
+        },
+        {
+            "id": 135466,
+            "logo_path": null,
+            "name": "Future Space",
+            "origin_country": "PL"
+        },
+        {
+            "id": 46346,
+            "logo_path": null,
+            "name": "Next Film",
+            "origin_country": "PL"
+        },
+        {
+            "id": 5622,
+            "logo_path": null,
+            "name": "TVN",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "release_date": "2020-02-07",
+    "revenue": 9458590,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "365 Tage",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 6630
+}

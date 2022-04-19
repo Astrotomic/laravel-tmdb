@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+    "belongs_to_collection": {
+        "id": 2602,
+        "name": "Scream Filmreihe",
+        "poster_path": "/vo7MBKVf5izWbsN8PRm4n16wcN4.jpg",
+        "backdrop_path": "/dZqsivuEhuHMYgLiMjtMXLImRzE.jpg"
+    },
+    "budget": 24000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://screammovie.com",
+    "id": 646385,
+    "imdb_id": "tt11245972",
+    "original_language": "en",
+    "original_title": "Scream",
+    "overview": "Der Killer mit dem Ghostface kehrt zurück nach Woodsboro! Diesmal hat es der psychopathische Mörder auf eine Gruppe junger Menschen abgesehen, die in einer Verbindung zu den Opfern und Überlebenden der vorherigen Woodsboro-Attentate stehen. Ein Teenager nach dem anderen wird niedergemetzelt und die Geheimnisse der Kleinstadt rücken immer mehr ins Zentrum der Öffentlichkeit. Für die Überlebenden Sidney Prescott (Neve Campbell), Journalistin Gale Weathers (Courteney Cox) und Ex-Sheriff Dewey (David Arquette) ist die Rückkehr des Killers ein Auseinandersetzen mit der Vergangenheit. Ihnen bleibt keine andere Wahl, als wieder miteinander in Kontakt zu treten und weitere Morde zu verhindern. Ob die Regeln zum Überleben, die ihnen zuvor das Leben gerettet haben, noch weiterhin gültig sind, müssen Sidney und ihre Freunde bald am eigenen Leib erfahren.",
+    "popularity": 890.08,
+    "poster_path": "/xJwzKEpSUKyUGL29305xleARqsC.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 158,
+            "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+            "name": "Spyglass Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 130448,
+            "logo_path": null,
+            "name": "Project X Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 126588,
+            "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+            "name": "Radio Silence",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-01-12",
+    "revenue": 137734898,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Es ist immer jemand, den du kennst.",
+    "title": "Scream",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 1171
+}

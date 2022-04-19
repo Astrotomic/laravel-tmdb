@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/1GVwnspfEEMOHkSWRcibipPT0Pc.jpg",
+    "belongs_to_collection": {
+        "id": 848375,
+        "name": "Gunpowder Milkshake Collection",
+        "poster_path": "/9p5b37jaeSoYFTMda3WYLoFVKOK.jpg",
+        "backdrop_path": "/wT0lLOhN5U8Lnc9FNxrcj3h5Uco.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 574060,
+    "imdb_id": "tt8368408",
+    "original_language": "en",
+    "original_title": "Gunpowder Milkshake",
+    "overview": "Die Profikillerin Scarlet gehört zu den Frauen, die sich keinesfalls einschüchtern lassen. Als eine Gruppe von Feinden nicht nur ihr Leben, sondern auch das ihrer Tochter Sam bedrohten, blieb ihr keine andere Wahl, als unterzutauchen. Der Apfel fällt nicht weit vom Stamm, und so verwundert es nicht, dass Sam in der Zwischenzeit selbst zu einer unberechenbaren Mörderin geworden ist. Bei ihrem letzten Auftrag läuft jedoch etwas gehörig schief, was so weit führt, dass sogar ein unschuldiges Mädchen ins Fadenkreuz gerät. Sam bleibt nun keine andere Wahl mehr, als ebenfalls in den Untergrund zu gehen. Dort erwartet sie eine handfeste Überraschung, stößt sie hier doch erneut auf ihre Mutter Scarlet. Die kann es kaum abwarten, ihre einstigen Weggefährtinnen wieder zusammenzutrommeln und ihren Widersachern ein für alle Mal den Garaus zu machen ...",
+    "popularity": 209.435,
+    "poster_path": "/3Bl0saAhHh5nJOXeae1JUv4OmjN.jpg",
+    "production_companies": [
+        {
+            "id": 694,
+            "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+            "name": "StudioCanal",
+            "origin_country": "FR"
+        },
+        {
+            "id": 264,
+            "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+            "name": "Studio Babelsberg",
+            "origin_country": "DE"
+        },
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 10611,
+            "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+            "name": "Ciné+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 99132,
+            "logo_path": null,
+            "name": "The Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 47729,
+            "logo_path": "/5NRpQ7xxmODXAjt2pRWUFMLVzvP.png",
+            "name": "STX Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-14",
+    "revenue": 344931,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Rache wird am besten eiskalt serviert.",
+    "title": "Gunpowder Milkshake",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 570
+}

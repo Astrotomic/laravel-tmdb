@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+    "belongs_to_collection": null,
+    "budget": 50000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://movies.disney.com/encanto",
+    "id": 568124,
+    "imdb_id": "tt2953050",
+    "original_language": "en",
+    "original_title": "Encanto",
+    "overview": "Die Geschichte der außergewöhnlichen Familie Madrigal, die versteckt in den Bergen Kolumbiens leben, in einem magischen Haus, in einer pulsierenden Stadt, an einem wundersamen, charmanten Ort namens Encanto. Die Magie des Amuletts hat jedes Kind in der Familie mit einem einzigartigen Geschenk von Superkraft bis hin zu heilender Kraft gesegnet – jedes Kind außer einem, Mirabel. Aber als sie entdeckt, dass die Magie um den Encanto in Gefahr ist, beschließt Mirabel, dass sie, die einzige gewöhnliche Madrigalin, möglicherweise die letzte Hoffnung ihrer außergewöhnlichen Familie ist.",
+    "popularity": 2244.913,
+    "poster_path": "/zAC6fCnaOHMpPFpOpngTSmTDnLK.jpg",
+    "production_companies": [
+        {
+            "id": 6125,
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-11-24",
+    "revenue": 253000000,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Magisches Haus. Magische Familie.",
+    "title": "Encanto",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 6083
+}

@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/4xIDNawZ8TLCOpS6G4CUtxC429n.jpg",
+    "belongs_to_collection": {
+        "id": 927812,
+        "name": "Wyrmwood Collection",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.wyrmwoodmovie.com.au/",
+    "id": 879957,
+    "imdb_id": "tt14858054",
+    "original_language": "en",
+    "original_title": "Wyrmwood: Apocalypse",
+    "overview": "",
+    "popularity": 51.647,
+    "poster_path": "/mlIRMqBqi7J9wXjlqtQ0jjYBZT3.jpg",
+    "production_companies": [
+        {
+            "id": 103845,
+            "logo_path": "/2Ro1iQDguoYtWhl7c2Xy0McsZ0H.png",
+            "name": "Bronte Pictures",
+            "origin_country": "AU"
+        },
+        {
+            "id": 32400,
+            "logo_path": null,
+            "name": "Guerilla Films",
+            "origin_country": ""
+        },
+        {
+            "id": 170762,
+            "logo_path": null,
+            "name": "Apostle Digital",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2022-02-10",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wyrmwood: Apocalypse",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 17
+}

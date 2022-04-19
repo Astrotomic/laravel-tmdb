@@ -124,6 +124,7 @@ use Astrotomic\Tmdb\Models\Movie;
 Movie::popular(20);
 Movie::upcoming(20);
 Movie::toprated(20);
+Movie::trending(20);
 
 Movie::findOrFail(335983)->recommendations(20);
 Movie::findOrFail(335983)->similars(20);

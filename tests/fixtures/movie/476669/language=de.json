@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/1QW1QHeeW3rZXl6FNKSuqb1kcl8.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/the-kings-man",
+    "id": 476669,
+    "imdb_id": "tt6856242",
+    "original_language": "en",
+    "original_title": "The King's Man",
+    "overview": "Der junge Conrad wird vom Duke of Oxford in die Welt der britischen Spionage eingeführt. Dabei trifft er auf zahlreiche historische Figuren wie den britischen General Herbert Kitchener und den serbischen Attentäter Gavrilo Princip sowie den mysteriösen und gefährlichen Russen Grigori Rasputin, der gemeinsam mit dem mysteriösen Hirten und den Monarchen George V., Wilhelm II. und Nikolaus II. eine Verschwörung ausgeheckt hat, die die Welt ins Verderben stürzen könnte...",
+    "popularity": 1217.394,
+    "poster_path": "/sCSg7QxeOyUvuckKqbMjdK4jMi8.jpg",
+    "production_companies": [
+        {
+            "id": 5374,
+            "logo_path": "/iLu169q37KYJR7DANdTsL6bP60K.png",
+            "name": "Marv Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 78995,
+            "logo_path": null,
+            "name": "Cloudy Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-12-22",
+    "revenue": 125928656,
+    "runtime": 131,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Werde Zeuge des blutigen Ursprungs.",
+    "title": "The King’s Man - The Beginning",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2366
+}

@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/yNyZjsY7ELd2gFZJ46m96oZ2aEU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 770554,
+    "imdb_id": "tt13271264",
+    "original_language": "fr",
+    "original_title": "Mes très chers enfants",
+    "overview": "",
+    "popularity": 5.508,
+    "poster_path": "/1G1AsTXPzPNE6QRxqYIUTPRTdmc.jpg",
+    "production_companies": [
+        {
+            "id": 17311,
+            "logo_path": "/saew2RWH6qetZyd0AfVoTxUZCRt.png",
+            "name": "Les Films du 24",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-12-15",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mes très chers enfants",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 23
+}

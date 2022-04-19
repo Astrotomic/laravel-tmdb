@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/hXTWVJMsI9BkxMLliqL1j0FT55t.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81478004",
+    "id": 606402,
+    "imdb_id": "tt12663250",
+    "original_language": "ko",
+    "original_title": "야차",
+    "overview": "Der skrupellose und nach einem Menschenfresser benannte Anführer eines Undercover-Teams in Übersee übernimmt in einer Stadt voller Spione eine gefährliche Mission.",
+    "popularity": 1515.993,
+    "poster_path": "/uvXucH8JBSBrmbdx9DB0i7iBwDA.jpg",
+    "production_companies": [
+        {
+            "id": 3491,
+            "logo_path": "/6ZtXJZsAJ4sQNM35ts1G3JeXaBQ.png",
+            "name": "Showbox",
+            "origin_country": "KR"
+        },
+        {
+            "id": 68968,
+            "logo_path": null,
+            "name": "Sang Sang Film",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2022-04-08",
+    "revenue": 0,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Yaksha: Ruthless Operations",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 39
+}

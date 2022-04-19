@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+    "belongs_to_collection": {
+        "id": 657153,
+        "name": "K.G.F Collection",
+        "poster_path": "/mvI4ZbIfu4KOfoxMhRqXnqrOYvW.jpg",
+        "backdrop_path": "/mrAEHLyNgKJg40p047TzqTq8wEv.jpg"
+    },
+    "budget": 13000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 587412,
+    "imdb_id": "tt10698680",
+    "original_language": "kn",
+    "original_title": "ಕೆ.ಜಿ.ಎಫ್: Chapter 2",
+    "overview": "Das blutgetränkte Land Kolar Gold Fields (KGF) hat jetzt einen neuen Oberherrn – Rocky, dessen Name Angst in den Herzen seiner Feinde auslöst. Seine Verbündeten sehen Rocky als ihren Retter an, die Regierung sieht in ihm eine Bedrohung für Recht und Ordnung; Feinde schreien nach Rache und verschwören sich für seinen Untergang. Blutigere Schlachten und dunklere Tage erwarten dich, während Rocky seine Suche nach der unangefochtenen Vorherrschaft fortsetzt.",
+    "popularity": 84.849,
+    "poster_path": "/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+    "production_companies": [
+        {
+            "id": 111627,
+            "logo_path": "/ldpgYauK9FMNsbOSSxSSl63o3mb.png",
+            "name": "Hombale Films",
+            "origin_country": "IN"
+        },
+        {
+            "id": 79395,
+            "logo_path": "/cxgZzPxh77xTJJ8b94hf2uJAdlL.png",
+            "name": "Vaaraahi Chalana Chitram",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2022-04-13",
+    "revenue": 70000000,
+    "runtime": 168,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        },
+        {
+            "english_name": "Kannada",
+            "iso_639_1": "kn",
+            "name": "?????"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "K.G.F: Chapter 2",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 14
+}

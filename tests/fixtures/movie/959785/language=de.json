@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/igXidMrpcYCmD47EjIIwUZaztaX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m0016djt",
+    "id": 959785,
+    "imdb_id": "tt17074544",
+    "original_language": "en",
+    "original_title": "Dinosaurs: The Final Day with David Attenborough",
+    "overview": "",
+    "popularity": 34.31,
+    "poster_path": "/xPmf46lk6XwOxDjlvVVTdWvMo2d.jpg",
+    "production_companies": [
+        {
+            "id": 3324,
+            "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+            "name": "BBC",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2022-04-15",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dinosaurs: The Final Day with David Attenborough",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5
+}

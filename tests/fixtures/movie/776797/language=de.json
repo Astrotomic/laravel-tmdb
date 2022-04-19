@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/dSwLzM4NxJp0aLsBJWcbZLtF7Oc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 776797,
+    "imdb_id": "tt13872248",
+    "original_language": "zh",
+    "original_title": "哭悲",
+    "overview": "In Taiwan breitet sich eine aggressive Mutation des neuartigen Alvin-Virus aus, doch das Land ist gespalten, wie es mit der Pandemie umgehen soll. Während die Regierung den Ernst der Lage herunterspielt, müssen die Menschen auf den Straßen um ihr Leben kämpfen. Die Straßen werden mehr und mehr bevölkert von sadistischen, sexuell enthemmten Monstern, die die Stadt in ein regelrechtes Blutbad verwandeln. Mord, Folter, Vergewaltigung und andere Gewaltexzesse nehmen eine verstörende Eigendynamik an. Inmitten des grausamen Gemetzels setzt der junge Junzhe (Tzu-Chiang Wang) alles daran, seine Freundin Kai Ting (Regina Lei) zu finden, die er am Morgen noch am anderen Ende Taipehs zu ihrer Arbeit gebracht hat. Auf der Suche nacheinander müssen sie bis zum Äußersten gehen, um eine Chance auf das Überleben zu haben.",
+    "popularity": 108.297,
+    "poster_path": "/ghZw8AY4AgypSr5BmZcTAsX8bXN.jpg",
+    "production_companies": [
+        {
+            "id": 157638,
+            "logo_path": null,
+            "name": "Machi Xcelsior Studios",
+            "origin_country": "TW"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "TW",
+            "name": "Taiwan"
+        }
+    ],
+    "release_date": "2021-01-22",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Der wohl brutalste Zombiefilm aller Zeiten!",
+    "title": "The Sadness",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 58
+}

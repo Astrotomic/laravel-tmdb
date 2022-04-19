@@ -1,0 +1,71 @@
+{
+    "id": 720879,
+    "name": "Sonic The Hedgehog Filmreihe",
+    "overview": "",
+    "poster_path": "/5OjBz8BR1yEfmNyC1oOzDdjv8KN.jpg",
+    "backdrop_path": "/l5CIAdxVhhaUD3DaS4lP4AR2so9.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "id": 675353,
+            "title": "Sonic the Hedgehog 2",
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "Nachdem sich Sonic in Green Hills niedergelassen hat, will er beweisen, dass er das Zeug zum echten Helden hat. Die Gelegenheit lässt nicht lange auf sich warten, als er von seinem Erzfeind Dr. Robotnik und dessen neuem Partner Knuckles herausgefordert und auf die ultimative Probe gestellt wird. Das Bösewicht-Duo ist auf der Suche nach einem rätselhaften Smaragd, der die Macht hat, ganze Zivilisationen zu zerstören. Wie gut, dass auch der energetischste Igel der Welt Verstärkung bekommt und fortan Kumpel Tails an seiner Seite hat. Gemeinsam begeben sie sich auf eine actiongeladene Reise rund um den Globus, um den geheimnisvollen Edelstein zu finden, bevor er in die falschen Hände gerät.",
+            "popularity": 5368.313,
+            "poster_path": "/gL1cqNOM2dKQOK6F88w8IvDnxV1.jpg",
+            "release_date": "2022-03-30",
+            "video": false,
+            "vote_average": 7.708,
+            "vote_count": 558
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gnWFYFTTUC62NHSGcMuo4JGK0t4.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "id": 454626,
+            "title": "Sonic the Hedgehog",
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog",
+            "overview": "Sonic ist mit seinen 15 Jahren ein pubertierendes Powerpaket, aber dessen ist er sich selbst noch nicht wirklich bewusst. Zu seiner eigenen Sicherheit soll er sich auf dem Planeten Erde verstecken. Allerdings gibt es hierfür eine Bedingung: Die Welt soll niemals von seiner Existenz erfahren. Doch das erweist sich für den extrovertierten Igel als schier unmöglich, vor allem im Hinblick auf seine Super-Power, die er erst noch entdecken muss. Es ist also nur eine Frage der Zeit, bis jemand auf ihn aufmerksam wird. Zum Glück gerät Sonic an Tom, einen zynischen Polizisten, der aber das Herz am rechten Fleck hat. Gemeinsam nehmen es die beiden mit Sonics verrücktem Erzfeind Dr. Robotnik auf, der sie schon bald über den ganzen Planeten jagt. Eine atemberaubende Verfolgungsjagd in Schallgeschwindigkeit beginnt…",
+            "popularity": 1533.931,
+            "poster_path": "/rj1SNscG6hiHmAOpPrEsJaMpvos.jpg",
+            "release_date": "2020-02-12",
+            "video": false,
+            "vote_average": 7.393,
+            "vote_count": 7795
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j0xO6355h5HfvC425sWDT6tiBZM.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 939243,
+            "title": "Sonic the Hedgehog 3",
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 3",
+            "overview": "",
+            "popularity": 1193.88,
+            "poster_path": "/aNSBaYTgPz8QEADi3xiD52X4uVF.jpg",
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

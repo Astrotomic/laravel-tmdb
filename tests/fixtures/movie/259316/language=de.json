@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+    "belongs_to_collection": {
+        "id": 435259,
+        "name": "Phantastische Tierwesen Filmreihe",
+        "poster_path": "/mqBpOHH4khsOa5awxBMWJOByZDZ.jpg",
+        "backdrop_path": "/2Iripuf9j5vbROHNpkUUiWIIDxE.jpg"
+    },
+    "budget": 180000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.warnerbros.de/homevideo/Phantastische_Tierwesen_und_wo_sie_zu_finden_sind.html",
+    "id": 259316,
+    "imdb_id": "tt3183660",
+    "original_language": "en",
+    "original_title": "Fantastic Beasts and Where to Find Them",
+    "overview": "Der exzentrische und einzigartig begabte britische Zauberer Newt Scamander erforscht magische Wesen auf dem ganzen Planeten. In seinem unscheinbaren, aber im Inneren durch Magie vergrößerten Koffer beherbergt er eine ganze Sammlung seltener und gefährdeter magischer Kreaturen samt ihrer Lebensräume. 1926 reist er schließlich in das magie-phobische Amerika. Schnell wird ihm klar, dass sich die magische Gemeinschaft in den USA regelrecht vor den No-Maj, gewöhnlichen Menschen, versteckt. Und die Zauberer und Hexen dort sorgen sich sogar noch mehr um die öffentliche Enthüllung der Magie als im Vereinigten Königreich. Vor Ort trifft er dann auf die rechtschaffende Porpetina „Tina“ Goldstein, Mitarbeiterin der US-Zaubereibehörde Magical Congress of the United States of America, kurz MACUSA. Als eine Vielfalt seiner teils gefährlichen Geschöpfe aus seinem Koffer kommen, ist Chaos Programm.",
+    "popularity": 690.562,
+    "poster_path": "/9fTueAwk3btPHxFhi0PlcS2P9mb.jpg",
+    "production_companies": [
+        {
+            "id": 437,
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-11-16",
+    "revenue": 809342332,
+    "runtime": 133,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Entdecke eine neue Ära in J.K. Rowlings magischer Welt.",
+    "title": "Phantastische Tierwesen und wo sie zu finden sind",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 16456
+}

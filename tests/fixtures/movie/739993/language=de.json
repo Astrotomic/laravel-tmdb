@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/s7DxaxKvDRVeXnw0PaHMgufYGnS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81207588",
+    "id": 739993,
+    "imdb_id": "tt12141112",
+    "original_language": "en",
+    "original_title": "Metal Lords",
+    "overview": "Hunter (Adrian Greensmith) und Kevin (Jaeden Martell) sind an ihrer Highschool Außenseiter. Mit einer eigenen Heavy-Metal-Band und der Teilnahme am Schulwettbewerb „Battle Of The Bands“ soll sich das ändern. Doch ein drittes Bandmitglied zu finden, gestaltet sich schwierig. Niemand kann Bass spielen, niemand will sich ihnen anschließen. Nur Emily (Isis Hainsworth) hat Lust, bei ihnen mitzumachen. Die spielt zwar Cello und passt überhaupt nicht in das Bild, welches Hunter für seine Death-Metal-Combo vorschwebt. Doch weil der schüchterne Kevin sich für Emily einsetzt und es einfach keine andere Wahl gibt, lässt er sich breitschlagen. Doch können die drei unterschiedlichen Kids es wirklich schaffen, bis zum Schulwettbewerb eine Band zu werden?",
+    "popularity": 1386.648,
+    "poster_path": "/iVvOiXKfM7PIeCTSSp5I9kkPw33.jpg",
+    "production_companies": [
+        {
+            "id": 12526,
+            "logo_path": null,
+            "name": "Bighead Littlehead",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-08",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Metal ist Macht.",
+    "title": "Metal Lords",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 144
+}

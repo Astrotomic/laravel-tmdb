@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/msTBoaPEe9bE40cclJJRR76Ldla.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Familie"
+        }
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.gr1rsr9lp2tzfwb0w6zhq9y3",
+    "id": 949580,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Snoopy Presents: It’s the Small Things, Charlie Brown",
+    "overview": "Charlie Brown ist entschlossen, das große Baseballspiel zu gewinnen. Aber die Dinge werden kurz vor dem Matchup zu einem Fiasko, als Sally sich mit einer kleinen Blume auf dem Hügel des Pitchers verbindet und schwört, sie um jeden Preis zu schützen.",
+    "popularity": 29.024,
+    "poster_path": "/iEJGBnZa9PnCXSTrcQGEqK9Y9yr.jpg",
+    "production_companies": [
+        {
+            "id": 148496,
+            "logo_path": null,
+            "name": "WildBrain Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 16339,
+            "logo_path": null,
+            "name": "Charles M. Schulz Creative Associates",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-15",
+    "revenue": 0,
+    "runtime": 38,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Snoopy präsentiert: Es sind die kleinen Dinge Charlie Brown",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 4
+}

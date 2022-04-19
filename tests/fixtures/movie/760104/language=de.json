@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/q6dWFNWFDEcHWR5ippScvBCoumh.jpg",
+    "belongs_to_collection": {
+        "id": 950289,
+        "name": "X Collection",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://a24films.com/films/x",
+    "id": 760104,
+    "imdb_id": "tt13560574",
+    "original_language": "en",
+    "original_title": "X",
+    "overview": "1979 im Süden der USA: Ein Filmteam erreicht ein abgelegenes Bauernhaus im tiefsten Texas, um einen Porno zu drehen. Davon haben Regisseur R.J., seine für den Sound zuständige Freundin Lorraine  sowie Schauspieler Jackson Hole  und die Stripperinnen Maxine  und Bobby-Lynne ihren Gastgeber  jedoch nichts erzählt. Dabei handelt es sich um ein isoliertes, älteres Ehepaar, das besonders großen Wert darauf legt, dass es ihren Gästen gut geht. Als jedoch die Nacht hereinbricht, wird das schon leicht aufdringliche Verhalten des Paaren plötzlich zusehends gewalttätig.",
+    "popularity": 273.07,
+    "poster_path": "/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg",
+    "production_companies": [
+        {
+            "id": 41077,
+            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+            "name": "A24",
+            "origin_country": "US"
+        },
+        {
+            "id": 126587,
+            "logo_path": null,
+            "name": "Little Lamb Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 145430,
+            "logo_path": null,
+            "name": "Mad Solar",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-17",
+    "revenue": 8000000,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "X",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 179
+}

@@ -1,0 +1,47 @@
+{
+    "adult": false,
+    "backdrop_path": "/15I9LAVZyx2PZjzfar9NxWcQo5b.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81485781",
+    "id": 953233,
+    "imdb_id": "tt18970380",
+    "original_language": "pl",
+    "original_title": "Poskromienie złośnicy",
+    "overview": "Nach der Rückkehr einer Frau mit gebrochenem Herzen in ihren Heimatort engagiert ihr Bruder einen attraktiven Fremden, um sie dazu zu bringen, ihr Land zu verkaufen.",
+    "popularity": 107.919,
+    "poster_path": "/dxBOaGcjCoDZOBEES44lUPEH78g.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "release_date": "2022-04-13",
+    "revenue": 0,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Widerspenstigen Zähmung",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 24
+}

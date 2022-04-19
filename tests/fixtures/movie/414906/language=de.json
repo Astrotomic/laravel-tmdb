@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+    "belongs_to_collection": {
+        "id": 948485,
+        "name": "The Batman Filmreihe",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 185000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.thebatman.com",
+    "id": 414906,
+    "imdb_id": "tt1877830",
+    "original_language": "en",
+    "original_title": "The Batman",
+    "overview": "In seinem zweiten Jahr der Verbrechensbekämpfung deckt Batman Korruption in Gotham City auf, die mit seiner eigenen Familie in Verbindung steht, während er einem Serienmörder, der als Riddler bekannt ist, gegenübersteht.",
+    "popularity": 4632.662,
+    "poster_path": "/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
+    "production_companies": [
+        {
+            "id": 101405,
+            "logo_path": null,
+            "name": "6th & Idaho",
+            "origin_country": "US"
+        },
+        {
+            "id": 119245,
+            "logo_path": null,
+            "name": "Dylan Clark Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-01",
+    "revenue": 751100000,
+    "runtime": 176,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Die Masken werden fallen",
+    "title": "The Batman",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 3142
+}

@@ -1,0 +1,47 @@
+{
+    "id": 657153,
+    "name": "K.G.F Collection",
+    "overview": "",
+    "poster_path": "/mvI4ZbIfu4KOfoxMhRqXnqrOYvW.jpg",
+    "backdrop_path": "/mrAEHLyNgKJg40p047TzqTq8wEv.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 564147,
+            "title": "K.G.F. - Chapter 1",
+            "original_language": "kn",
+            "original_title": "ಕೆಜಿಎಫ್ ಅಧ್ಯಾಯ ೧",
+            "overview": "",
+            "popularity": 20.209,
+            "poster_path": "/rDBgFi9xKIyKAjKREKmfXSR0n0P.jpg",
+            "release_date": "2018-12-20",
+            "video": false,
+            "vote_average": 7.547,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 587412,
+            "title": "K.G.F: Chapter 2",
+            "original_language": "kn",
+            "original_title": "ಕೆ.ಜಿ.ಎಫ್: Chapter 2",
+            "overview": "Das blutgetränkte Land Kolar Gold Fields (KGF) hat jetzt einen neuen Oberherrn – Rocky, dessen Name Angst in den Herzen seiner Feinde auslöst. Seine Verbündeten sehen Rocky als ihren Retter an, die Regierung sieht in ihm eine Bedrohung für Recht und Ordnung; Feinde schreien nach Rache und verschwören sich für seinen Untergang. Blutigere Schlachten und dunklere Tage erwarten dich, während Rocky seine Suche nach der unangefochtenen Vorherrschaft fortsetzt.",
+            "popularity": 84.849,
+            "poster_path": "/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+            "release_date": "2022-04-13",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 14
+        }
+    ]
+}

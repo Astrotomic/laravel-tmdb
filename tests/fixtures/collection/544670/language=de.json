@@ -1,0 +1,51 @@
+{
+    "id": 544670,
+    "name": "\"Sing\"-Filmreihe",
+    "overview": "Die animierte \"Sing\"-Filmreihe der Universal Pictures..",
+    "poster_path": "/h151oRzvsxfKRznEmlQJRlnvsid.jpg",
+    "backdrop_path": "/hMMQWhJ9yTSoIDPqGFKDL6zZUOE.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/59CCw4EtiahW0E5cfTrvdbqPQTo.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "id": 335797,
+            "title": "Sing",
+            "original_language": "en",
+            "original_title": "Sing",
+            "overview": "Der Koala-Bär Buster Moon leitet ein Theater, um das es nicht sonderlich gut bestellt ist. Als er merkt, dass er ohne Anstrengungen nicht aus den roten Zahlen kommt, ruft Buster kurzerhand zu einem Gesangswettbewerb auf. Gemeinsam mit seinem treuen Freund, dem Schaf Eddie, das am liebsten an der Konsole zockt und am Pool rumhängt, lädt er zum Vorsingen. Unter den Teilnehmern des Wettbewerbs sind der rappende Jung-Gorilla Johnny, die alleinerziehende Schweine-Mama Rosita, die betrügerische Jazz-Maus Mike, die unter Lampenfieber leidende Elefanten-Teenagerin Meena und Stachelschwein-Weibchen Ash, das seinen arroganten Freund loswerden und nun auf Solopfaden wandeln will. Jedes der stimmgewaltigen Tiere träumt von der großen Karriere …",
+            "popularity": 135.956,
+            "poster_path": "/zHuQsPzlN6laZ33UpgZ0Rf7jh1U.jpg",
+            "release_date": "2016-11-23",
+            "video": false,
+            "vote_average": 7.106,
+            "vote_count": 6719
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "id": 438695,
+            "title": "Sing - Die Show deines Lebens",
+            "original_language": "en",
+            "original_title": "Sing 2",
+            "overview": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
+            "popularity": 1141.783,
+            "poster_path": "/qS9XAT4h3JrAgllEgxWfrpXO6cg.jpg",
+            "release_date": "2021-12-01",
+            "video": false,
+            "vote_average": 8.103,
+            "vote_count": 2578
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://a24films.com/films/everything-everywhere-all-at-once",
+    "id": 545611,
+    "imdb_id": "tt6710474",
+    "original_language": "en",
+    "original_title": "Everything Everywhere All at Once",
+    "overview": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
+    "popularity": 128.177,
+    "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+    "production_companies": [
+        {
+            "id": 106544,
+            "logo_path": null,
+            "name": "AGBO",
+            "origin_country": "US"
+        },
+        {
+            "id": 114130,
+            "logo_path": null,
+            "name": "Ley Line Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 161506,
+            "logo_path": null,
+            "name": "Year of the Rat Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 41077,
+            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+            "name": "A24",
+            "origin_country": "US"
+        },
+        {
+            "id": 93105,
+            "logo_path": "/asuzX794BM1gCettTxUoLxGNovd.png",
+            "name": "IAC Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 173526,
+            "logo_path": null,
+            "name": "Hotdog Hands LLC",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-24",
+    "revenue": 18000000,
+    "runtime": 139,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Everything Everywhere All at Once",
+    "video": false,
+    "vote_average": 8.9,
+    "vote_count": 58
+}

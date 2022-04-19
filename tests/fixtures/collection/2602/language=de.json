@@ -1,0 +1,126 @@
+{
+    "id": 2602,
+    "name": "Scream Filmreihe",
+    "overview": "US-amerikanische Horrorfilme von Regisseur Wes Craven und Drehbuch-Autor Kevin Williamson. Im Mittelpunkt stehen jeweils amerikanische Teenager, die von einem unbekannten Serienkiller gejagt werden. Zunächst bestand die Reihe aus drei Filmen (1996-2000). 2011 wurde dann ein vierter Teil veröffentlicht.",
+    "poster_path": "/vo7MBKVf5izWbsN8PRm4n16wcN4.jpg",
+    "backdrop_path": "/dZqsivuEhuHMYgLiMjtMXLImRzE.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/fGKz4YNEhPzl3Q0T4actwuuXcvS.jpg",
+            "genre_ids": [
+                80,
+                27,
+                9648
+            ],
+            "id": 4232,
+            "title": "Scream - Schrei!",
+            "original_language": "en",
+            "original_title": "Scream",
+            "overview": "Ein Killer geht um in einer kleinen amerikanischen Provinzgemeinde. Die Schülerin Casey, die einfach nur daheim vor dem Fernseher sitzt, wird sein erstes Opfer. Ihre Eltern finden sie aufgehängt im Garten, massakriert von einem Unbekannten. Die unheimliche Anschlagsserie setzt sich fort. Die junge Sidney, die auf dieselbe Schule wie Casey geht, wird ebenfalls bedroht. Aber kann das eine 17-jährige Amerikanerin davon abhalten, sich nachts in einer einsamen Villa mit Klassenkameraden bei Bier und Popcorn Horrorvideos reinzuziehen?",
+            "popularity": 72.037,
+            "poster_path": "/7dJ1yTLoNcGD7OWcakK5e2qMnT9.jpg",
+            "release_date": "1996-12-20",
+            "video": false,
+            "vote_average": 7.335,
+            "vote_count": 5031
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/60uIyQkPH5fFMWRLQWZMawQNQqi.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 4233,
+            "title": "Scream 2",
+            "original_language": "en",
+            "original_title": "Scream 2",
+            "overview": "Seit der grauenhaften Mordserie in Woodboro ist ein Jahr vergangen. Die Überlebenden haben sich inzwischen weiterentwickelt: Sidney ist nicht mehr auf der Highschool, sondern auf dem College, das Buch über die Woodboro Morde der Reporterin Gale Weathers ist ganz oben auf der Bestsellerliste und wurde sogar verfilmt. Aber bei einer Sneak-Preview dieses Filmes, bei der gleich mehrere Dutzend Leute maskiert erscheinen, kommt es zu einem blutigen erneuten Mord; einem Zuschauer ist das Blut auf der Leinwand wohl noch nicht genug, oder hat die Polizei vor einem Jahr etwa jemanden übersehen?",
+            "popularity": 48.91,
+            "poster_path": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+            "release_date": "1997-12-09",
+            "video": false,
+            "vote_average": 6.432,
+            "vote_count": 2932
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZK4T7ZDQcQr5omvSnJnR9IzBVa.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 4234,
+            "title": "Scream 3",
+            "original_language": "en",
+            "original_title": "Scream 3",
+            "overview": "Nach ihren diversen Abenteuern mit maskierten Serienkillern hat sich Sidney Prescott in die Abgeschiedenheit der Provinz zurückgezogen, wo sie als Telefon-Sorgentante mehr schlecht als recht ihr immer noch von Angst beherrschtes Dasein fristet. Ein mysteriöser Anruf mit dem Hinweis auf eine Mordserie in der kommenden Produktion des Horrorthrillers \"Stab 3\" bringt sie auf alte Gedanken, und sie fährt nach Hollywood, wo es zum Wiedersehen mit diversen Schulfreunden kommt. Und auch das Phantom in der Maske lässt sich nicht lange bitten.",
+            "popularity": 44.604,
+            "poster_path": "/4UPwEIYpqa7xG0rtYhEWkEsjWoC.jpg",
+            "release_date": "2000-02-03",
+            "video": false,
+            "vote_average": 5.943,
+            "vote_count": 2503
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zjn3dzt3ekd5WcnRWBSi4X2YD1E.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 41446,
+            "title": "Scream 4",
+            "original_language": "en",
+            "original_title": "Scream 4",
+            "overview": "Sidney kehrt in ihr Heimatdorf zurück. Zehn Jahre sind vergangen, seitdem sie sich zum letzten Mal mit dem verrückten Maskenmann duellieren musste. Doch unmittelbar nach ihrer Ankunft klingelt wieder das Telefon: Der Killer meldet sich zurück. Und lässt Taten folgen: Sidney, ihre Freunde und die Teenager der Stadt können sich nach ersten Morden nicht mehr sicher fühlen. Und während man mit Debatten über die veränderten Regeln des Horrorfilms dem Modus Operandi des Irren auf die Spur kommen will, geht das Töten unvermindert weiter.",
+            "popularity": 61.347,
+            "poster_path": "/tcrI37K98TVopLbcZBa55mWhLT1.jpg",
+            "release_date": "2011-04-11",
+            "video": false,
+            "vote_average": 6.367,
+            "vote_count": 2649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 646385,
+            "title": "Scream",
+            "original_language": "en",
+            "original_title": "Scream",
+            "overview": "Der Killer mit dem Ghostface kehrt zurück nach Woodsboro! Diesmal hat es der psychopathische Mörder auf eine Gruppe junger Menschen abgesehen, die in einer Verbindung zu den Opfern und Überlebenden der vorherigen Woodsboro-Attentate stehen. Ein Teenager nach dem anderen wird niedergemetzelt und die Geheimnisse der Kleinstadt rücken immer mehr ins Zentrum der Öffentlichkeit. Für die Überlebenden Sidney Prescott (Neve Campbell), Journalistin Gale Weathers (Courteney Cox) und Ex-Sheriff Dewey (David Arquette) ist die Rückkehr des Killers ein Auseinandersetzen mit der Vergangenheit. Ihnen bleibt keine andere Wahl, als wieder miteinander in Kontakt zu treten und weitere Morde zu verhindern. Ob die Regeln zum Überleben, die ihnen zuvor das Leben gerettet haben, noch weiterhin gültig sind, müssen Sidney und ihre Freunde bald am eigenen Leib erfahren.",
+            "popularity": 890.08,
+            "poster_path": "/xJwzKEpSUKyUGL29305xleARqsC.jpg",
+            "release_date": "2022-01-12",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1171
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 934433,
+            "title": "Scream 6",
+            "original_language": "en",
+            "original_title": "Scream 6",
+            "overview": "",
+            "popularity": 17.226,
+            "poster_path": "/c5gebRGOGQR5G4IzuULQOC8WEsI.jpg",
+            "release_date": "2023-03-31",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

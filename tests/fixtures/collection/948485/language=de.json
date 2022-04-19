@@ -1,0 +1,49 @@
+{
+    "id": 948485,
+    "name": "The Batman Filmreihe",
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 414906,
+            "title": "The Batman",
+            "original_language": "en",
+            "original_title": "The Batman",
+            "overview": "In seinem zweiten Jahr der Verbrechensbekämpfung deckt Batman Korruption in Gotham City auf, die mit seiner eigenen Familie in Verbindung steht, während er einem Serienmörder, der als Riddler bekannt ist, gegenübersteht.",
+            "popularity": 4632.662,
+            "poster_path": "/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
+            "release_date": "2022-03-01",
+            "video": false,
+            "vote_average": 7.895,
+            "vote_count": 3138
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18,
+                28
+            ],
+            "id": 806704,
+            "title": "Untitled The Batman Sequel",
+            "original_language": "en",
+            "original_title": "Untitled The Batman Sequel",
+            "overview": "",
+            "popularity": 327.17,
+            "poster_path": "/wcKmAOW9yndR8ZAFAC3QJPtdLQT.jpg",
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

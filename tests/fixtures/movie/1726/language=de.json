@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
+    "belongs_to_collection": {
+        "id": 131292,
+        "name": "Iron Man Filmreihe",
+        "poster_path": "/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
+        "backdrop_path": "/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg"
+    },
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://ironman-derfilm.de/",
+    "id": 1726,
+    "imdb_id": "tt0371746",
+    "original_language": "en",
+    "original_title": "Iron Man",
+    "overview": "Der Großindustrielle und Erfinder Tony Stark weiß zu leben: Als Milliardär liegen ihm die Frauen zu Füßen, er feiert Partys im Privatjet und verspielt Riesensummen im Casino, während seine Rüstungsfirma unter Obadiah Stane Rekordumsätze erzielt. Bei einem Waffentestlauf in Afghanistan wird er jedoch Opfer eines Bombenanschlags. Stark überlebt schwer verletzt und wird von einer Gruppe Aufständischer unter Führung des Warlords Raza dazu gezwungen, eine Superwaffe zu entwickeln. Es gelingt ihm jedoch, heimlich eine eiserne Schutzrüstung zu bauen, die ihn dank neuster Technologie zu Superkräften befähigt. Nach einer spektakulären Flucht zurück in die USA muss sich der Iron Man allerdings einem ersten übermächtigen Gegner stellen.",
+    "popularity": 130.038,
+    "poster_path": "/ouJv7stk6mTGWfOV9qj1cIV6LQ5.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2008-04-30",
+    "revenue": 585174222,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Persian",
+            "iso_639_1": "fa",
+            "name": "فارسی"
+        },
+        {
+            "english_name": "Urdu",
+            "iso_639_1": "ur",
+            "name": "اردو"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Superhelden werden nicht geboren, sie werden gemacht!",
+    "title": "Iron Man",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 22570
+}

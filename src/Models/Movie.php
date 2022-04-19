@@ -15,6 +15,7 @@ use Astrotomic\Tmdb\Requests\Movie\Recommendations;
 use Astrotomic\Tmdb\Requests\Movie\Similars;
 use Astrotomic\Tmdb\Requests\Movie\Popular;
 use Astrotomic\Tmdb\Requests\Movie\TopRated;
+use Astrotomic\Tmdb\Requests\Movie\Trending;
 use Astrotomic\Tmdb\Requests\Movie\Upcoming;
 use Astrotomic\Tmdb\Requests\Movie\WatchProviders;
 use Carbon\CarbonInterval;
@@ -139,6 +140,16 @@ class Movie extends Model
     public static function upcoming(?int $limit): EloquentCollection
     {
         $ids = Upcoming::request()
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
+
+    public static function trending(?int $limit, string $window = 'day'): EloquentCollection
+    {
+        $ids = Trending::request(window: $window)
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');

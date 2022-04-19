@@ -1,0 +1,32 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 964626,
+    "imdb_id": "tt4121086",
+    "original_language": "en",
+    "original_title": "7th Secret",
+    "overview": "",
+    "popularity": 0,
+    "poster_path": "/vGpJN3ABonaQrKJaHBpqHVfrsGe.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-04-18",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "7th Secret",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

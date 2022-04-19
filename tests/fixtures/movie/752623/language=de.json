@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/hw7foD5in5YCs7qY3Pap9pdc1Vc.jpg",
+    "belongs_to_collection": null,
+    "budget": 74000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://www.thelostcity.movie/",
+    "id": 752623,
+    "imdb_id": "tt13320622",
+    "original_language": "en",
+    "original_title": "The Lost City",
+    "overview": "Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.",
+    "popularity": 444.952,
+    "poster_path": "/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 4258,
+            "logo_path": null,
+            "name": "Fortis Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 123420,
+            "logo_path": null,
+            "name": "3dot Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 121737,
+            "logo_path": null,
+            "name": "Exhibit A Film",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-24",
+    "revenue": 81000000,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The adventure is real. The heroes are not.",
+    "title": "The Lost City",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 103
+}

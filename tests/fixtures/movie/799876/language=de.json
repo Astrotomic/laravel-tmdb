@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/2n95p9isIi1LYTscTcGytlI4zYd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.focusfeatures.com/the-outfit/",
+    "id": 799876,
+    "imdb_id": "tt14114802",
+    "original_language": "en",
+    "original_title": "The Outfit",
+    "overview": "Leonard is an English tailor who used to craft suits on London’s world-famous Savile Row. After a personal tragedy, he’s ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.",
+    "popularity": 1089.766,
+    "poster_path": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+    "production_companies": [
+        {
+            "id": 10146,
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "origin_country": "US"
+        },
+        {
+            "id": 7493,
+            "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-02-25",
+    "revenue": 3186865,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Everyone has something up their sleeves.",
+    "title": "The Outfit",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 80
+}

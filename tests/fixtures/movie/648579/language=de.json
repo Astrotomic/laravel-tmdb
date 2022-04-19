@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/m0YjB4VfghKey8Ppsmz8qCd0v1m.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "https://www.nickcage.movie",
+    "id": 648579,
+    "imdb_id": "tt11291274",
+    "original_language": "en",
+    "original_title": "The Unbearable Weight of Massive Talent",
+    "overview": "Reativ unerfüllt und vor dem finanziellen Ruin muss Nick Cage ein 1-Millionen-Dollar-Angebot annehmen, um am Geburtstag eines gefährlichen Superfans teilzunehmen. Die Dinge nehmen eine völlig unerwartete Wendung, als Cage von einem CIA-Agenten rekrutiert und gezwungen wird, seiner eigenen Legende gerecht zu werden, indem er seine ikonischsten und beliebtesten Charaktere auf der Leinwand kanalisiert, um sich und seine Lieben zu retten.",
+    "popularity": 64.934,
+    "poster_path": "/bmxCAO0tz79xn40swJAEIJPRnC1.jpg",
+    "production_companies": [
+        {
+            "id": 831,
+            "logo_path": null,
+            "name": "Saturn Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 128491,
+            "logo_path": null,
+            "name": "Burr! Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-20",
+    "revenue": 0,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Massive Talent",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 5
+}

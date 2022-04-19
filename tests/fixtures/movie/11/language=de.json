@@ -1,0 +1,69 @@
+{
+    "adult": false,
+    "backdrop_path": "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+    "belongs_to_collection": {
+        "id": 10,
+        "name": "Star Wars Filmreihe",
+        "poster_path": "/46oFAcjORMltwPxR6uU6hM4mN7F.jpg",
+        "backdrop_path": "/d8duYyyC9J5T825Hg7grmaabfxQ.jpg"
+    },
+    "budget": 11000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
+    "id": 11,
+    "imdb_id": "tt0076759",
+    "original_language": "en",
+    "original_title": "Star Wars",
+    "overview": "Seit der Vernichtung der Jedi-Ritter steht die Galaxie unter der grausamen Herrschaft des Imperiums. Nur eine kleine Gruppe von Rebellen, angeführt von der schönen Prinzessin Leia, widersetzt sich der dunklen Macht. Als es ihnen gelingt, die geheimen Baupläne für den gefährlichen Todesstern zu entwenden, gerät das Imperium in Aufruhr. Durch Zufall gelangen die Pläne ausgerechnet in die Hände des Farmerjungen Luke Skywalker, der spürt, dass er sein bisheriges Leben hinter sich lassen muss. Gemeinsam mit dem weisen Obi-Wan Kenobi, den Weltraumabenteurern Han Solo und Chewbacca sowie den Droiden R2-D2 und C-3PO nimmt er den Kampf gegen das mächtige Imperium auf. Es beginnt ein Wettlauf gegen die Zeit, denn der Kampfstern kann nur vor seiner Fertigstellung zerstört werden...",
+    "popularity": 78.131,
+    "poster_path": "/mqGTDn6c5wy4Bwf6DR7eZeO7c5d.jpg",
+    "production_companies": [
+        {
+            "id": 1,
+            "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+            "name": "Lucasfilm",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1977-05-25",
+    "revenue": 775398007,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Möge die Macht mit dir sein.",
+    "title": "Krieg der Sterne",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 17113
+}

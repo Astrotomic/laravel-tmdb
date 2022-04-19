@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/rk860hTM0kpu8oNhQkpnDv320rH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.hbomax.com/moonshot",
+    "id": 767825,
+    "imdb_id": "tt12585076",
+    "original_language": "en",
+    "original_title": "Moonshot",
+    "overview": "In nicht allzu ferner Zukunft wird der Mars terraformiert und von den besten und klügsten Mitgliedern der Menschheit besiedelt. Dazu gehört auch Calvin (Mason Gooding), der langjährige Freund von Sophie (Lana Condor). Eigentlich sollte Calvin nur kurze Zeit weg sein, doch nun hat sich die Beziehung der beiden zu einer Fernbeziehung entwickelt und Sophie ist sich nicht sicher, ob sie darüber so glücklich ist. Ihr Leid klagt sie auch ihrem Kumpel Walt (Cole Sprouse), der bislang eigentlich ganz zufrieden mit seinem Job als Barista in einer College-Buchhandlung war. Als Sophie kurzerhand beschließt, sich ebenfalls für eine Mission zum Mars zu bewerben, um endlich wieder mit Calvin zusammen zu sein, schleicht sich Walt ebenfalls an Bord...",
+    "popularity": 495.888,
+    "poster_path": "/k5ChV2y3US51aWbQDf8eG7bTuyc.jpg",
+    "production_companies": [
+        {
+            "id": 78984,
+            "logo_path": null,
+            "name": "Entertainment 360",
+            "origin_country": "US"
+        },
+        {
+            "id": 27711,
+            "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+            "name": "Berlanti Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-02-05",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Liftoff - Mit dir zum Mars",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 47
+}
