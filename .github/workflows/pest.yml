@@ -32,7 +32,7 @@ jobs:
       - run: vendor/bin/pest --coverage --coverage-html=.coverage
       - uses: actions/upload-artifact@v2
         with:
-          name: "Coverage: P${{ matrix.php }} - L${{ matrix.laravel }} - ${{ matrix.dependency-version }}"
+          name: "Coverage - P${{ matrix.php }} - L${{ matrix.laravel }} - ${{ matrix.dependency-version }}"
           path: ./.coverage
   infection:
     runs-on: ubuntu-latest
