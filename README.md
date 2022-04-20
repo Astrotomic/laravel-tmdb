@@ -68,9 +68,11 @@ This will do one HTTP call per model and save multiple HTTP calls in the future.
 
 ```php
 use Astrotomic\Tmdb\Models\MovieGenre;
+use Astrotomic\Tmdb\Models\TvGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
 
 MovieGenre::all();
+TvGenre::all();
 WatchProvider::all();
 ```
 
