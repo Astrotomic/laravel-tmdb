@@ -15,6 +15,8 @@ use Astrotomic\Tmdb\Requests\Collection\Details;
  * @property string|null $overview
  * @property string|null $backdrop_path
  * @property string|null $poster_path
+ * @property \Carbon\Carbon|null $created_at
+ * @property \Carbon\Carbon|null $updated_at
  * @property-read array $translations
  * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Movie[] $movies
  *

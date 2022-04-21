@@ -14,7 +14,6 @@ use Illuminate\Support\Collection;
  * @property \Carbon\Carbon|null $created_at
  * @property \Carbon\Carbon|null $updated_at
  * @property-read array $translations
- * @property-read \Illuminate\Database\Eloquent\Collection|\Astrotomic\Tmdb\Models\Movie[] $movies
  *
  * @method \Astrotomic\Tmdb\Eloquent\Builders\TvGenreBuilder newModelQuery()
  * @method \Astrotomic\Tmdb\Eloquent\Builders\TvGenreBuilder newQuery()

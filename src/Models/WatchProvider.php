@@ -14,6 +14,8 @@ use Illuminate\Support\Collection;
  * @property string|null $name
  * @property string|null $logo_path
  * @property int $display_priority
+ * @property \Carbon\Carbon|null $created_at
+ * @property \Carbon\Carbon|null $updated_at
  *
  * @method \Astrotomic\Tmdb\Eloquent\Builders\WatchProviderBuilder newModelQuery()
  * @method \Astrotomic\Tmdb\Eloquent\Builders\WatchProviderBuilder newQuery()
