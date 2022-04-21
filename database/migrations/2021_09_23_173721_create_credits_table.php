@@ -18,7 +18,7 @@ return new class () extends Migration {
             $table->string('credit_type');
             $table->string('department')->nullable();
             $table->string('job')->nullable();
-            $table->string('character')->nullable();
+            $table->text('character')->nullable();
 
             $table->timestamps();
         });
