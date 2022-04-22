@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.ambulance.movie",
+    "id": 763285,
+    "imdb_id": "tt4998632",
+    "original_language": "en",
+    "original_title": "Ambulance",
+    "overview": "Will Sharp sieht sich in einer ausweglosen Lage: Um seiner schwerkranken Frau eine lebensrettende Operation bezahlen zu können, benötigt er finanzielle Unterstützung. In seiner Verzweiflung wendet er sich an seinen Adoptivbruder Danny, der ihn zu einer riskanten Aktion überredet. Gemeinsam beabsichtigen sie einen Bankraub durchzuziehen, an dessen Ende satte 32 Millionen Dollar warten. Der Plan scheint nahezu perfekt zu sein. Allerdings laufen die Dinge kurz vor der finalen Flucht aus dem Ruder. In einem Rettungswagen wollen Will und Danny vor ihren Verfolgern fliehen und ahnen nicht, dass sie einen angeschossenen Cop und Rettungssanitäterin Cam an Bord haben. Die Hetzjagd durch Los Angeles entwickelt sich für alle Beteiligten zum wahren Überlebenskampf, in dem es um Leben und Tod geht - und die Polizei sowie das FBI sind ihnen stets auf den Fersen.",
+    "popularity": 269.073,
+    "poster_path": "/uIzr1sBCob7RFSvqoheMQuhEXq.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6734,
+            "logo_path": null,
+            "name": "Bay Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 100640,
+            "logo_path": "/2jtYElf5T9r5II8L0Nmbk7TBLwl.png",
+            "name": "Endeavor Content",
+            "origin_country": "US"
+        },
+        {
+            "id": 114732,
+            "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+            "name": "New Republic Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130448,
+            "logo_path": null,
+            "name": "Project X Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-16",
+    "revenue": 41000000,
+    "runtime": 136,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ein simpler Überfall. Eine unmögliche Flucht.",
+    "title": "Ambulance",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 189
+}

@@ -1,0 +1,36 @@
+{
+    "adult": false,
+    "backdrop_path": "/q1AtF3KQGLml3KAJBjt5zSG8a4w.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "https://takemetotheriver.org/new-orleans/",
+    "id": 952152,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Take Me to the River: New Orleans",
+    "overview": "",
+    "popularity": 27.047,
+    "poster_path": "/9m0F5m2F08OE20vtmwNC0YsfOYo.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Take Me to the River: New Orleans",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

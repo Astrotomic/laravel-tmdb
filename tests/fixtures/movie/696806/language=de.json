@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81309354",
+    "id": 696806,
+    "imdb_id": "tt2463208",
+    "original_language": "en",
+    "original_title": "The Adam Project",
+    "overview": "Der 12-jährige Adam Reed, der immer noch den plötzlichen Tod seines Vaters ein Jahr zuvor betrauert, betritt eines Nachts seine Garage und stellt fest, dass sich dort ein verwundeter Pilot versteckt. Dieser Pilot entpuppt sich als eine ältere Version von ihm selbst - aus einer Zukunft, in der die Zeitreiserei noch in den Kinderschuhen steckt. Er hat alles riskiert, um auf einer geheimen Mission in der Zeit zurückzureisen. Zusammen müssen sie sich auf ein Abenteuer in die Vergangenheit begeben, um ihren Vater zu finden und alles in Ordnung zu bringen. Erschwerend kommt hinzu, dass sich die zwei Adams nicht wirklich mögen. Wenn sie die Welt retten wollen, werden sie zuerst lernen müssen, miteinander auszukommen.",
+    "popularity": 1810.633,
+    "poster_path": "/rIRa1ZiemvXfVdtthIpsHxlIrCW.jpg",
+    "production_companies": [
+        {
+            "id": 82819,
+            "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+            "name": "Skydance Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 104228,
+            "logo_path": null,
+            "name": "Maximum Effort",
+            "origin_country": "US"
+        },
+        {
+            "id": 2575,
+            "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+            "name": "21 Laps Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-11",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Vergangenheit trifft Zukunft.",
+    "title": "The Adam Project",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1877
+}

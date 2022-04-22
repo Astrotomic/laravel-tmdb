@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/eyxYOeJfZTHAsFYzYqUAfZPMAPu.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 771536,
+    "imdb_id": "tt10406596",
+    "original_language": "en",
+    "original_title": "You Are Not My Mother",
+    "overview": "In a North Dublin housing estate Char's mother goes missing. When she returns Char is determined to uncover the truth of her disappearance and unearth the dark secrets of her family.",
+    "popularity": 16.035,
+    "poster_path": "/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg",
+    "production_companies": [
+        {
+            "id": 1898,
+            "logo_path": "/a2gst8022qi5g3sFxJIWeKVd2aK.png",
+            "name": "Screen Ireland",
+            "origin_country": "IE"
+        },
+        {
+            "id": 18078,
+            "logo_path": null,
+            "name": "Fantastic Films",
+            "origin_country": "IE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        }
+    ],
+    "release_date": "2022-03-04",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Every family has their secrets.",
+    "title": "You Are Not My Mother",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 17
+}

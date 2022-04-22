@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/kQ70Z2LFFoGRyn1dYhbT5949qra.jpg",
+    "belongs_to_collection": {
+        "id": 944874,
+        "name": "Boon Collection",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 944865,
+    "imdb_id": "tt13026738",
+    "original_language": "en",
+    "original_title": "Boon",
+    "overview": "",
+    "popularity": 13.9,
+    "poster_path": "/33CJMuDSuIy8EDoUHCj7zDb4rWg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-04-01",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Boon",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 8
+}

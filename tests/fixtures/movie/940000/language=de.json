@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 600000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 940000,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "John Wynn's One Hour",
+    "overview": "",
+    "popularity": 31.38,
+    "poster_path": "/Qj1h6DoyS6PbKYmdYD8J8YpyF2.jpg",
+    "production_companies": [
+        {
+            "id": 170100,
+            "logo_path": null,
+            "name": "Wynn film Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 170101,
+            "logo_path": null,
+            "name": "Lux Angeleas/Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "John Wynn's One Hour",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

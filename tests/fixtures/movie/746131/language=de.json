@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/qc2gwz3yFssevJVuz0RiZuciAj3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.ifcfilms.com/films/paris-13th-district",
+    "id": 746131,
+    "imdb_id": "tt12708658",
+    "original_language": "fr",
+    "original_title": "Les Olympiades",
+    "overview": "Émilie, Camille, Nora und Amber leben in der Gegend Les Olympiades im 13. Pariser Arrondissement.",
+    "popularity": 22.74,
+    "poster_path": "/gVczgoNG4TOvN2fo3XSlsw6Drrz.jpg",
+    "production_companies": [
+        {
+            "id": 11779,
+            "logo_path": null,
+            "name": "Page 114",
+            "origin_country": "FR"
+        },
+        {
+            "id": 83,
+            "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+            "name": "France 2 Cinéma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 10611,
+            "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+            "name": "Ciné+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 7131,
+            "logo_path": "/eLvjHPYZ12GR58lrDgg6MXZp2a3.png",
+            "name": "France Télévisions",
+            "origin_country": "FR"
+        },
+        {
+            "id": 162200,
+            "logo_path": null,
+            "name": "Cofinova 17",
+            "origin_country": ""
+        },
+        {
+            "id": 310,
+            "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+            "name": "CNC",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-11-03",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wo in Paris die Sonne aufgeht",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 94
+}

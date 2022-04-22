@@ -1,0 +1,50 @@
+{
+    "id": 944874,
+    "name": "Boon Collection",
+    "overview": "",
+    "poster_path": null,
+    "backdrop_path": null,
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/pW2HkFFHo3kiK1QgsbXeJRklWjS.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 823216,
+            "title": "Red Stone",
+            "original_language": "es",
+            "original_title": "Red Stone",
+            "overview": "",
+            "popularity": 4.02,
+            "poster_path": "/ddpE8hennlkWxLAopx0SbHn0RHX.jpg",
+            "release_date": "2021-12-03",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kQ70Z2LFFoGRyn1dYhbT5949qra.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18,
+                9648
+            ],
+            "id": 944865,
+            "title": "Boon",
+            "original_language": "en",
+            "original_title": "Boon",
+            "overview": "",
+            "popularity": 13.9,
+            "poster_path": "/33CJMuDSuIy8EDoUHCj7zDb4rWg.jpg",
+            "release_date": "2022-04-01",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 8
+        }
+    ]
+}

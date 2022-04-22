@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 810693,
+    "imdb_id": "tt14331144",
+    "original_language": "ja",
+    "original_title": "劇場版 呪術廻戦 0",
+    "overview": "Als Kind musste Yuta Okkotsu mit ansehen, wie seine Freundin Rika Orimoto tödlich verunglückte. Seitdem sucht sie ihn als Fluch heim. Yuta wünscht sich sogar seinen eigenen Tod, bis ihn der stärkste Jujuzist, Satoru Gojo, an der städtischen Jujutsu-Akademie Tokyo aufnimmt. Mit neuem Lebensmut und seinen Mitschülern Maki Zen'in, Toge Inumaki und Panda will Yuta den Fluch endlich brechen. Sie müssen aber auch versuchen, den üblen Fluchmagier Suguru Geto aufzuhalten, der tausend Flüche auf Shinjuku und Kyoto entfesseln will, um alle einfachen Leute auszumerzen und ein Paradies für Jujuzisten zu kreieren.",
+    "popularity": 412.391,
+    "poster_path": "/4MAIb2ctURfs9YNIcEzk0IS4M5I.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 158200,
+            "logo_path": "/rf4ZArxPuqx5hdeU7rPIU8IQlYx.png",
+            "name": "Sumzap",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-12-24",
+    "revenue": 144000000,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jujutsu Kaisen 0",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 106
+}

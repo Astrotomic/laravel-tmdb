@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/dZDelM1eeEMxiBJKW9okzTZPTGn.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81577626",
+    "id": 828588,
+    "imdb_id": "tt14140844",
+    "original_language": "it",
+    "original_title": "La svolta",
+    "overview": "Ludovico ist ein schüchterner junger Mann, der Konfrontationen eher aus dem Weg geht und zurückgezogen in der alten Wohnung seiner Großmutter lebt. Eines Tages freundet er sich mit dem selbstbewussten Kriminellen Jack an, der das komplette Gegenteil des schüchternen Ludovico ist und sich kurz darauf bei ihm zuhause einnistet. Zwei gänzlich unterschiedliche Leben prallen aufeinander.",
+    "popularity": 5.379,
+    "poster_path": "/5Pn61Jk3fprVRJUjqq8kBu5ay8Q.jpg",
+    "production_companies": [
+        {
+            "id": 154124,
+            "logo_path": null,
+            "name": "Life Cinema",
+            "origin_country": "IT"
+        },
+        {
+            "id": 3112,
+            "logo_path": null,
+            "name": "Rodeo Drive",
+            "origin_country": "IT"
+        },
+        {
+            "id": 1583,
+            "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+            "name": "RAI",
+            "origin_country": "IT"
+        },
+        {
+            "id": 14016,
+            "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+            "name": "MiBAC",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "2021-12-02",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Wendepunkt",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 6
+}

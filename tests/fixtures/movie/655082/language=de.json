@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/6VaPN1BqwdUrs1AshG7JxlqWUXA.jpg",
+    "belongs_to_collection": null,
+    "budget": 26000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        }
+    ],
+    "homepage": "",
+    "id": 655082,
+    "imdb_id": "tt10366514",
+    "original_language": "fr",
+    "original_title": "Eiffel",
+    "overview": "Der gefeierte Ingenieur Gustave Eiffel hat gerade die Arbeit an der Freiheitsstatue beendet, als er im Auftrag der französischen Regierung etwas wahrhaft Spektakuläres für die Pariser Weltausstellung im Jahr 1889 entwerfen soll. Eigentlich möchte er nur die Metro designen und gerät nun massiv unter Druck. Doch als Eiffel seine verloren geglaubte Jugendliebe Adrienne Bourgès wieder trifft, inspiriert ihn ihre Leidenschaft dazu, die Skyline von Paris für immer zu verändern.",
+    "popularity": 18.114,
+    "poster_path": "/3YG6xBaTB5JlcU7gZJE5S7IdjA.jpg",
+    "production_companies": [
+        {
+            "id": 7981,
+            "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+            "name": "Pathé",
+            "origin_country": "FR"
+        },
+        {
+            "id": 11261,
+            "logo_path": "/g7p4vSwqsIo6zYptyN3hoDxFp7y.png",
+            "name": "M6",
+            "origin_country": "FR"
+        },
+        {
+            "id": 67022,
+            "logo_path": null,
+            "name": "VVZ Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-10-07",
+    "revenue": 13000000,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eiffel in Love",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 295
+}

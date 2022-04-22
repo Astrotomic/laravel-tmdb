@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/gF02RlJ9hHwqUrUTphEppsCrjmY.jpg",
+    "belongs_to_collection": null,
+    "budget": 11000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 645689,
+    "imdb_id": "tt11204094",
+    "original_language": "en",
+    "original_title": "The Duke",
+    "overview": "",
+    "popularity": 11.55,
+    "poster_path": "/vxqFcrVDPDfI60e8f1EKxpj0QvH.jpg",
+    "production_companies": [
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        },
+        {
+            "id": 2690,
+            "logo_path": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
+            "name": "Screen Yorkshire",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7981,
+            "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+            "name": "Pathé",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2021-07-23",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Duke",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 50
+}

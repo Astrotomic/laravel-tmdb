@@ -11,6 +11,7 @@ use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\Movie\Details;
+use Astrotomic\Tmdb\Requests\Movie\NowPlaying;
 use Astrotomic\Tmdb\Requests\Movie\Recommendations;
 use Astrotomic\Tmdb\Requests\Movie\Similars;
 use Astrotomic\Tmdb\Requests\Movie\Popular;
@@ -150,6 +151,16 @@ class Movie extends Model
     public static function trending(?int $limit, string $window = 'day'): EloquentCollection
     {
         $ids = Trending::request(window: $window)
+            ->cursor()
+            ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
+            ->pluck('id');
+
+        return static::query()->findMany($ids);
+    }
+
+    public static function nowPlaying(?int $limit): EloquentCollection
+    {
+        $ids = NowPlaying::request()
             ->cursor()
             ->when($limit, fn (LazyCollection $collection) => $collection->take($limit))
             ->pluck('id');

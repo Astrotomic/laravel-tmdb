@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://dogwoofsales.com/navalny",
+    "id": 926676,
+    "imdb_id": "tt17041964",
+    "original_language": "en",
+    "original_title": "Navalny",
+    "overview": "Im August 2020 wird der russische Oppositionelle Alexei Nawalny Opfer durch eine Vergiftung mit einem tödlichen Nervenkampfstoff, die er trotz aller Umstände überlebt. Während seiner monatelangen Genesung im Schwarzwald macht er schockierende Entdeckungen über den Anschlag auf sein Leben, der sehr wahrscheinlich von russischen Behörden beauftragt wurde. Nawalny beschließt dennoch, in seine Heimat Russland zurückzukehren, wo er sogleich verhaftet wird. Der Filmemacher Daniel Roher begleitet Nawalny während dieser außergewöhnlichen Belastungen. Es entsteht das hautnahe Porträt einer extremen Zeit.",
+    "popularity": 11.592,
+    "poster_path": "/ijirC0R8wtZsfhS0VD3i7ZZBmoE.jpg",
+    "production_companies": [
+        {
+            "id": 121323,
+            "logo_path": null,
+            "name": "Fishbowl Films",
+            "origin_country": ""
+        },
+        {
+            "id": 168683,
+            "logo_path": null,
+            "name": "RaeFilm Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 168685,
+            "logo_path": "/2i7XusgaHRoC5v1NYRbApYQLV5v.png",
+            "name": "Cottage M",
+            "origin_country": "US"
+        },
+        {
+            "id": 29605,
+            "logo_path": "/bSjv2Cinm8LoadffAngaQek4WLW.png",
+            "name": "CNN Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-08",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nawalny",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 4
+}

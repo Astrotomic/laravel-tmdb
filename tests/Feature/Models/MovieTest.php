@@ -263,6 +263,28 @@ it('loads several pages of trending movies', function (): void {
         ->toHaveCount(3);
 });
 
+it('loads first page of now playing movies', function (): void {
+    $movies = Movie::nowPlaying(20);
+
+    expect($movies)
+        ->toHaveCount(20)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/now_playing'))
+        ->toHaveCount(1);
+});
+
+it('loads several pages of now playing movies', function (): void {
+    $movies = Movie::nowPlaying(60);
+
+    expect($movies)
+        ->toHaveCount(60)
+        ->each->toBeInstanceOf(Movie::class);
+
+    expect(requests('movie/now_playing'))
+        ->toHaveCount(3);
+});
+
 it('loads all watch providers', function (): void {
     $providers = Movie::query()->findOrFail(335983)->watchProviders();
 

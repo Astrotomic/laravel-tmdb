@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/unK6POhCN6ta6l5yH8oqlRS1UJL.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://filmrise.com/film/marvelous-and-the-black-hole",
+    "id": 685411,
+    "imdb_id": "tt11389868",
+    "original_language": "en",
+    "original_title": "Marvelous and the Black Hole",
+    "overview": "",
+    "popularity": 29.914,
+    "poster_path": "/lRUEwJlLREl39LboRSquA3lct8F.jpg",
+    "production_companies": [
+        {
+            "id": 148392,
+            "logo_path": null,
+            "name": "Maomao Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 110842,
+            "logo_path": "/dzFVNsYm8hihgjv9tZrQRPIn9Mf.png",
+            "name": "Tribeca Film Institute",
+            "origin_country": "US"
+        },
+        {
+            "id": 98416,
+            "logo_path": "/fLEMBm5QIFs63sLYtEHBWNj1JQH.png",
+            "name": "FilmRise",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 81,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Marvelous and the Black Hole",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

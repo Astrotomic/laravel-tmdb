@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/8gckHOChhbL1WA95y04h6D4iE4c.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.inlandempirecinema.com/",
+    "id": 1730,
+    "imdb_id": "tt0460829",
+    "original_language": "en",
+    "original_title": "Inland Empire",
+    "overview": "Die einst bekannte Schauspielerin Nikki Grace wird für ein Filmprojekt engagiert, von dem sie und ihr Co-Star kurz vor Drehbeginn erfahren, dass es ein Remake ist und die erste Version nie beendet wurde, da die beiden früheren Hauptdarsteller unter ungeklärten Umständen zu Tode gekommen sind. Nikki lässt sich trotzdem darauf ein. Doch als sie in ihre neue Rolle schlüpft und eine Affäre mit ihrem Kollegen beginnt, scheint sie zunehmend den Bezug zur Realität zu verlieren. Die Grenze zwischen Gegenwart und Vergangenheit, fiktiven und tatsächlichen Personen und Orten, ist nicht mehr auszumachen.",
+    "popularity": 18.836,
+    "poster_path": "/mbzNoyw9dc9U3k6tvgrRH35Sbuc.jpg",
+    "production_companies": [
+        {
+            "id": 11609,
+            "logo_path": null,
+            "name": "Camerimage Festival",
+            "origin_country": ""
+        },
+        {
+            "id": 11610,
+            "logo_path": null,
+            "name": "Absurda",
+            "origin_country": ""
+        },
+        {
+            "id": 373,
+            "logo_path": null,
+            "name": "Asymmetrical Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 694,
+            "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+            "name": "StudioCanal",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-09-06",
+    "revenue": 4045770,
+    "runtime": 197,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Inland Empire",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 824
+}

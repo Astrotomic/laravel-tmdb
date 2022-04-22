@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/oo2NBKtlxAvkokyiB6dyUyQ4JJ5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.yakuzaprincessfilm.com",
+    "id": 661595,
+    "imdb_id": "tt10715446",
+    "original_language": "pt",
+    "original_title": "A Princesa da Yakuza",
+    "overview": "Der geliebte Großvater von Akemis (Masumi) ist gestorben. Bald darauf erscheint ein Fremder in Akemis’ Wohnung im japanischen Viertel von São Paulo. Er heißt Shiro (Jonathan Rhys Meyers) und behauptet, dass sein und ihr Schicksal durch ein uraltes Schwert miteinander verbunden sind. Akemis möchte Antworten und erfährt schließlich, wo sie wirklich herkommt: Als einzige Überlebende ist sie die Erbin eines skrupellosen Yakuza-Clans. Gemeinsam mit Shiro will Akemis die Männer ausfindig machen, die für den Tod ihrer Familie verantwortlich sind...",
+    "popularity": 29.984,
+    "poster_path": "/vlJ6lZOg8qK4gOFPFMcM8k3eA2I.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 81976,
+            "logo_path": "/oxvzUeqXdIZmxKaQhCq3bDY9s4N.png",
+            "name": "Filmland Internacional",
+            "origin_country": "BR"
+        },
+        {
+            "id": 12142,
+            "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+            "name": "XYZ Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-08-26",
+    "revenue": 0,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Mord. Bestimmung. Rache.",
+    "title": "Yakuza Princess",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 74
+}

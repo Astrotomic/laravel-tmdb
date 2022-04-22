@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/j7TG01Z2KoV2JLCRQJMIaI5jlpX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 844135,
+    "imdb_id": "tt5806814",
+    "original_language": "fr",
+    "original_title": "Charlotte",
+    "overview": "",
+    "popularity": 30.086,
+    "poster_path": "/89lmfXgzgrspcXZ2Z1ncBTFPc6T.jpg",
+    "production_companies": [
+        {
+            "id": 40044,
+            "logo_path": null,
+            "name": "January Films",
+            "origin_country": ""
+        },
+        {
+            "id": 140607,
+            "logo_path": null,
+            "name": "Trinity Media Financing",
+            "origin_country": "LU"
+        },
+        {
+            "id": 806,
+            "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+            "name": "Téléfilm Canada",
+            "origin_country": "CA"
+        },
+        {
+            "id": 8675,
+            "logo_path": "/nhGrnKdP6GFXLk6fbLARjQNSMET.png",
+            "name": "Walking The Dog",
+            "origin_country": "BE"
+        },
+        {
+            "id": 50488,
+            "logo_path": null,
+            "name": "Sons of Manual",
+            "origin_country": ""
+        },
+        {
+            "id": 310,
+            "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+            "name": "CNC",
+            "origin_country": "FR"
+        },
+        {
+            "id": 73125,
+            "logo_path": null,
+            "name": "Les Productions Balthazar",
+            "origin_country": "FR"
+        },
+        {
+            "id": 19037,
+            "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+            "name": "uMedia",
+            "origin_country": "BE"
+        },
+        {
+            "id": 805,
+            "logo_path": "/A83WG8qZA4JdaudhJl0G3iG6W4M.png",
+            "name": "Serendipity Point Films",
+            "origin_country": "CA"
+        },
+        {
+            "id": 850,
+            "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+            "name": "Eurimages",
+            "origin_country": "FR"
+        },
+        {
+            "id": 157740,
+            "logo_path": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png",
+            "name": "Crave",
+            "origin_country": "CA"
+        },
+        {
+            "id": 157741,
+            "logo_path": null,
+            "name": "CBC Films",
+            "origin_country": ""
+        },
+        {
+            "id": 114338,
+            "logo_path": "/iApSXPfwHZdtt3sR2y5VDoS2BRK.png",
+            "name": "Ontario Creates",
+            "origin_country": "CA"
+        },
+        {
+            "id": 78299,
+            "logo_path": null,
+            "name": "Screen Flanders",
+            "origin_country": "BE"
+        },
+        {
+            "id": 12344,
+            "logo_path": null,
+            "name": "Vlaams Audiovisueel Fonds (VAF)",
+            "origin_country": "BE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Charlotte",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

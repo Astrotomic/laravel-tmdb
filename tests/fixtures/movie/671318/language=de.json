@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://videocine.com.mx/peliculas/y-como-es-el/",
+    "id": 671318,
+    "imdb_id": "tt8928230",
+    "original_language": "es",
+    "original_title": "¿Y cómo es él?",
+    "overview": "",
+    "popularity": 286.446,
+    "poster_path": "/wRMNOaEpFftdQD73G0TaKXFJP3.jpg",
+    "production_companies": [
+        {
+            "id": 58399,
+            "logo_path": null,
+            "name": "Pantelion Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-07",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "¿Y cómo es él?",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

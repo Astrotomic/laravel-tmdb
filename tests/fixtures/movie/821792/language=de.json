@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/6zyoV5SnKX41e3euXZhLLenG4gj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 821792,
+    "imdb_id": "tt13266998",
+    "original_language": "en",
+    "original_title": "Bull",
+    "overview": "Ten years after he was last seen, a vicious mob enforcer returns home to find his son and methodically track down the gang that double-crossed him. His quest for revenge soon leads to a savage showdown between his wife and her mob boss father.",
+    "popularity": 13.705,
+    "poster_path": "/oapxWncDc5ztrge3ycpvaZIMcf3.jpg",
+    "production_companies": [
+        {
+            "id": 122034,
+            "logo_path": null,
+            "name": "Signature Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 290,
+            "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+            "name": "Ingenious Media",
+            "origin_country": "GB"
+        },
+        {
+            "id": 13161,
+            "logo_path": null,
+            "name": "Tea Shop & Film Company",
+            "origin_country": "GB"
+        },
+        {
+            "id": 114874,
+            "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+            "name": "Signature Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 158630,
+            "logo_path": null,
+            "name": "Giant Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 119056,
+            "logo_path": "/M1JqFOGwyWX3MbGnBklUCieJ9o.png",
+            "name": "Particular Crowd",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2021-11-05",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bull",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 17
+}

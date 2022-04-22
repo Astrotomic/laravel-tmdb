@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/mqknaA7SK6bZ7u8GF5WQW8WxXoy.jpg",
+    "belongs_to_collection": null,
+    "budget": 19750995,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 800383,
+    "imdb_id": "tt11301946",
+    "original_language": "ta",
+    "original_title": "பீஸ்ட்",
+    "overview": "Ein ehemaliger RAW-Offizier, der sich in einem von Terroristen übernommenen Einkaufszentrum unter den Geiseln befindet, muss ihre Pläne vereiteln und verhindern, dass die Regierung einen gefürchteten Terroristen freilässt, den er unter großem persönlichen Preis ins Gefängnis gebracht hatte.",
+    "popularity": 15.829,
+    "poster_path": "/4hqtjslVCaDVgblg7iCtGIy7exO.jpg",
+    "production_companies": [
+        {
+            "id": 7135,
+            "logo_path": "/cVPzy2lVRVieFfJi6yINhFK4Ued.png",
+            "name": "Sun Pictures",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2022-04-12",
+    "revenue": 0,
+    "runtime": 162,
+    "spoken_languages": [
+        {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Beast",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6
+}

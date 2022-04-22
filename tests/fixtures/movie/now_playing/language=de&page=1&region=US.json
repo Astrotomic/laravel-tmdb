@@ -1,0 +1,408 @@
+{
+    "dates": {
+        "maximum": "2022-04-27",
+        "minimum": "2022-03-10"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "id": 675353,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "Nachdem sich Sonic in Green Hills niedergelassen hat, will er beweisen, dass er das Zeug zum echten Helden hat. Die Gelegenheit lässt nicht lange auf sich warten, als er von seinem Erzfeind Dr. Robotnik und dessen neuem Partner Knuckles herausgefordert und auf die ultimative Probe gestellt wird. Das Bösewicht-Duo ist auf der Suche nach einem rätselhaften Smaragd, der die Macht hat, ganze Zivilisationen zu zerstören. Wie gut, dass auch der energetischste Igel der Welt Verstärkung bekommt und fortan Kumpel Tails an seiner Seite hat. Gemeinsam begeben sie sich auf eine actiongeladene Reise rund um den Globus, um den geheimnisvollen Edelstein zu finden, bevor er in die falschen Hände gerät.",
+            "popularity": 4025.233,
+            "poster_path": "/gL1cqNOM2dKQOK6F88w8IvDnxV1.jpg",
+            "release_date": "2022-04-08",
+            "title": "Sonic the Hedgehog 2",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MwsrP7QHzLwqy6NXKEXvlUdlem.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 294793,
+            "original_language": "en",
+            "original_title": "All the Old Knives",
+            "overview": "Zwei CIA-Agenten und Ex-Geliebte (Chris Pine und Thandiwe Newton) verabreden sich Jahre nach einem gescheiterten Einsatz zu einem Treffen in einem Restaurant, in dessen Verlauf die Grenzen zwischen Beruf und Leidenschaft in dieser zutiefst fesselnden Geschichte von weltweiter Spionage, moralischem Dilemma und tödlichem Verrat immer mehr verwischen..",
+            "popularity": 3520.129,
+            "poster_path": "/jJWQgGlZaXvbOggimRU52eKuAFJ.jpg",
+            "release_date": "2022-04-08",
+            "title": "Der Anruf",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2n95p9isIi1LYTscTcGytlI4zYd.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 799876,
+            "original_language": "en",
+            "original_title": "The Outfit",
+            "overview": "",
+            "popularity": 2990.317,
+            "poster_path": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+            "release_date": "2022-03-18",
+            "title": "The Outfit - Verbrechen nach Maß",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                878
+            ],
+            "id": 696806,
+            "original_language": "en",
+            "original_title": "The Adam Project",
+            "overview": "Der 12-jährige Adam Reed, der immer noch den plötzlichen Tod seines Vaters ein Jahr zuvor betrauert, betritt eines Nachts seine Garage und stellt fest, dass sich dort ein verwundeter Pilot versteckt. Dieser Pilot entpuppt sich als eine ältere Version von ihm selbst - aus einer Zukunft, in der die Zeitreiserei noch in den Kinderschuhen steckt. Er hat alles riskiert, um auf einer geheimen Mission in der Zeit zurückzureisen. Zusammen müssen sie sich auf ein Abenteuer in die Vergangenheit begeben, um ihren Vater zu finden und alles in Ordnung zu bringen. Erschwerend kommt hinzu, dass sich die zwei Adams nicht wirklich mögen. Wenn sie die Welt retten wollen, werden sie zuerst lernen müssen, miteinander auszukommen.",
+            "popularity": 1810.633,
+            "poster_path": "/rIRa1ZiemvXfVdtthIpsHxlIrCW.jpg",
+            "release_date": "2022-03-11",
+            "title": "The Adam Project",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1876
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yzH5zvuEzzsHLZnn0jwYoPf0CMT.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 760926,
+            "original_language": "en",
+            "original_title": "Gold",
+            "overview": "",
+            "popularity": 1447.699,
+            "poster_path": "/ejXBuNLvK4kZ7YcqeKqUWnCxdJq.jpg",
+            "release_date": "2022-03-11",
+            "title": "Gold",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/85xYejKh6JPTEUGrn2SIPCxxiQO.jpg",
+            "genre_ids": [
+                14,
+                12
+            ],
+            "id": 338953,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "overview": "Albus Dumbledore und Newt Scamander versammeln weitere Mitstreiter, um es mit Zauberer Grindelwald und seiner Anhängerschaft aufzunehmen. Dritter Film der \"Harry Potter\"-Vorgeschichte nach J.K. Rowlings Vorlage.",
+            "popularity": 1263.062,
+            "poster_path": "/mP7X9m0kjvAlXoPQikbGlWjnyJw.jpg",
+            "release_date": "2022-04-15",
+            "title": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tj4lzGgHrfjnjVqAKkLIjFqPSyO.jpg",
+            "genre_ids": [
+                28,
+                878,
+                14
+            ],
+            "id": 526896,
+            "original_language": "en",
+            "original_title": "Morbius",
+            "overview": "Dr. Michael Morbius leidet an einer seltenen Blutkrankheit und experimentiert mit biochemischen Elementen, um sich selbst zu heilen. Er infiziert sich jedoch versehentlich mit einer vampirähnlichen Krankheit.",
+            "popularity": 789.506,
+            "poster_path": "/2BTsd92vjFpRVkP1MlDC6RJzPk8.jpg",
+            "release_date": "2022-04-01",
+            "title": "Morbius",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 491
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oojlC3gH0bxD7hsnQa3kE9WbEBy.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 765119,
+            "original_language": "en",
+            "original_title": "The Bubble",
+            "overview": "Carol Cobb (Karen Gillan), Dieter Bravo (Pedro Pascal) und ihre Schauspielkolleg*innen um die einflussreiche Influencerin Krystal Kris (Iris Apatow) und die einst liierten Leinwandlegenden Lauren Van Chance (Leslie Mann) und Dustin Mulray (David Duchovny) wollen den Abenteuer-Film „Cliff Beasts 6: The Battle For Everest“ drehen, einen neuen Höhepunkt der „Cliff Beasts“-Saga über tödliche, fliegende Dinosaurier. Die Drehtage sind lang und der Erfolgsdruck ist hoch. Das bekommen Cast & Crew immer wieder zu spüren. Die Corona-Pandemie sorgt dabei für erschwerte Bedingungen, da die Schauspieler*innen sich nicht außerhalb eines definierten Personenkreises – ihrer Bubble – bewegen dürfen. Sie sitzen im selben Hotel fest, abgeschottet von der Außenwelt. Alsbald liegen die Nerven blank und es kommt trotz der Sicherheitsmaßnahmen zu ersten Corona-Ausbrüchen...",
+            "popularity": 601.479,
+            "poster_path": "/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+            "release_date": "2022-03-25",
+            "title": "The Bubble",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28,
+                10751,
+                80
+            ],
+            "id": 629542,
+            "original_language": "en",
+            "original_title": "The Bad Guys",
+            "overview": "Mr. Wolf gehört zu einer Gruppe von tierischen Kriminellen. Als er eines Tages einer alten Dame hilft, möchte er plötzlich nicht mehr böse sein. Wird er seine Kollegen davon überzeugen können, der Kriminalität ebenfalls abzuschwören?",
+            "popularity": 523.258,
+            "poster_path": "/if9pdGY6BvOVSUSvLepcPpGXHo4.jpg",
+            "release_date": "2022-04-22",
+            "title": "Die Gangster Gang",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                9648
+            ],
+            "id": 810693,
+            "original_language": "ja",
+            "original_title": "劇場版 呪術廻戦 0",
+            "overview": "Als Kind musste Yuta Okkotsu mit ansehen, wie seine Freundin Rika Orimoto tödlich verunglückte. Seitdem sucht sie ihn als Fluch heim. Yuta wünscht sich sogar seinen eigenen Tod, bis ihn der stärkste Jujuzist, Satoru Gojo, an der städtischen Jujutsu-Akademie Tokyo aufnimmt. Mit neuem Lebensmut und seinen Mitschülern Maki Zen'in, Toge Inumaki und Panda will Yuta den Fluch endlich brechen. Sie müssen aber auch versuchen, den üblen Fluchmagier Suguru Geto aufzuhalten, der tausend Flüche auf Shinjuku und Kyoto entfesseln will, um alle einfachen Leute auszumerzen und ein Paradies für Jujuzisten zu kreieren.",
+            "popularity": 412.391,
+            "poster_path": "/4MAIb2ctURfs9YNIcEzk0IS4M5I.jpg",
+            "release_date": "2022-03-18",
+            "title": "Jujutsu Kaisen 0",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hw7foD5in5YCs7qY3Pap9pdc1Vc.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10749
+            ],
+            "id": 752623,
+            "original_language": "en",
+            "original_title": "The Lost City",
+            "overview": "Es geht um eine zurückgezogen lebende Liebesromanautorin, die sich nichts Schlimmeres vorstellen konnte, als mit ihrem Covermodel auf einer Buchtournee festzusitzen, bis ein Entführungsversuch die beiden in ein knallhartes Dschungelabenteuer stürzt und beweist, dass das Leben viel seltsamer und romantischer sein kann als alle ihre Taschenbuchromane.",
+            "popularity": 440.28,
+            "poster_path": "/wsvZXoQHmLvZtZG19HdZpSPOG7H.jpg",
+            "release_date": "2022-03-25",
+            "title": "The Lost City - Das Geheimnis der verlorenen Stadt",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ik9SVGcYxKg6y2a9cW0e0WchImW.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "id": 639933,
+            "original_language": "en",
+            "original_title": "The Northman",
+            "overview": "Im 10. Jahrhundert bei den Wikingern. Der junge Sohn des Königs schwört Rache nach der Ermordung seines Vaters des Königs. Nachdem er somit das Königreich verlor, schwört er seinen Vater zu rächen, seine Mutter zu beschützen & Fjölnir, den Mörder seines Vaters zu töten…",
+            "popularity": 446.945,
+            "poster_path": "/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg",
+            "release_date": "2022-04-22",
+            "title": "The Northman",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fdiLgQqfFFITMGET31CPdPsfhIW.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 836225,
+            "original_language": "en",
+            "original_title": "The Exorcism of God",
+            "overview": "",
+            "popularity": 309.979,
+            "poster_path": "/pcqo9D8Bdppt6t9fBliJYPROZkv.jpg",
+            "release_date": "2022-03-11",
+            "title": "The Exorcism of God",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 671318,
+            "original_language": "es",
+            "original_title": "¿Y cómo es él?",
+            "overview": "",
+            "popularity": 286.446,
+            "poster_path": "/wRMNOaEpFftdQD73G0TaKXFJP3.jpg",
+            "release_date": "2022-04-22",
+            "title": "¿Y cómo es él?",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 763285,
+            "original_language": "en",
+            "original_title": "Ambulance",
+            "overview": "Will Sharp sieht sich in einer ausweglosen Lage: Um seiner schwerkranken Frau eine lebensrettende Operation bezahlen zu können, benötigt er finanzielle Unterstützung. In seiner Verzweiflung wendet er sich an seinen Adoptivbruder Danny, der ihn zu einer riskanten Aktion überredet. Gemeinsam beabsichtigen sie einen Bankraub durchzuziehen, an dessen Ende satte 32 Millionen Dollar warten. Der Plan scheint nahezu perfekt zu sein. Allerdings laufen die Dinge kurz vor der finalen Flucht aus dem Ruder. In einem Rettungswagen wollen Will und Danny vor ihren Verfolgern fliehen und ahnen nicht, dass sie einen angeschossenen Cop und Rettungssanitäterin Cam an Bord haben. Die Hetzjagd durch Los Angeles entwickelt sich für alle Beteiligten zum wahren Überlebenskampf, in dem es um Leben und Tod geht - und die Polizei sowie das FBI sind ihnen stets auf den Fersen.",
+            "popularity": 269.073,
+            "poster_path": "/uIzr1sBCob7RFSvqoheMQuhEXq.jpg",
+            "release_date": "2022-04-08",
+            "title": "Ambulance",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hHtv1I73l040wERu7o9U8B5JTcN.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 760104,
+            "original_language": "en",
+            "original_title": "X",
+            "overview": "1979 im Süden der USA: Ein Filmteam erreicht ein abgelegenes Bauernhaus im tiefsten Texas, um einen Porno zu drehen. Davon haben Regisseur R.J., seine für den Sound zuständige Freundin Lorraine  sowie Schauspieler Jackson Hole  und die Stripperinnen Maxine  und Bobby-Lynne ihren Gastgeber  jedoch nichts erzählt. Dabei handelt es sich um ein isoliertes, älteres Ehepaar, das besonders großen Wert darauf legt, dass es ihren Gästen gut geht. Als jedoch die Nacht hereinbricht, wird das schon leicht aufdringliche Verhalten des Paaren plötzlich zusehends gewalttätig.",
+            "popularity": 163.185,
+            "poster_path": "/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg",
+            "release_date": "2022-03-18",
+            "title": "X",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                35,
+                14
+            ],
+            "id": 545611,
+            "original_language": "en",
+            "original_title": "Everything Everywhere All at Once",
+            "overview": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
+            "popularity": 100.34,
+            "poster_path": "/wijpkcLGfYuBIGu7xgOlQgV9R5I.jpg",
+            "release_date": "2022-03-25",
+            "title": "Everything Everywhere All at Once",
+            "video": false,
+            "vote_average": 8.8,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kHd4rwdRtJXnYMraQSrlgPSCsIt.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 628900,
+            "original_language": "en",
+            "original_title": "The Contractor",
+            "overview": "Nachdem James Harper unfreiwillig aus den US-Spezialeinheiten entlassen wurde, beschließt er, seine Familie zu unterstützen, indem er sich zusammen mit seinem besten Freund und unter dem Kommando eines anderen Veteranen einer privaten Vertragsorganisation anschließt. Auf einer verdeckten Mission im Ausland muss Harper denen ausweichen, die versuchen, ihn zu töten, während er sich auf den Weg zurück nach Hause macht.",
+            "popularity": 67.971,
+            "poster_path": "/yjkmY23QhurUFyixDkObUOJF8wj.jpg",
+            "release_date": "2022-04-01",
+            "title": "The Contractor",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nFCP52FQ2NTvTiWaH8JkozX0JSQ.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 811631,
+            "original_language": "en",
+            "original_title": "Infinite Storm",
+            "overview": "",
+            "popularity": 63.739,
+            "poster_path": "/4B34NKfHCFVHriYfKhbsunHYl4x.jpg",
+            "release_date": "2022-03-25",
+            "title": "Infinite Storm",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 587412,
+            "original_language": "kn",
+            "original_title": "ಕೆ.ಜಿ.ಎಫ್: Chapter 2",
+            "overview": "Das blutgetränkte Land Kolar Gold Fields (KGF) hat jetzt einen neuen Oberherrn – Rocky, dessen Name Angst in den Herzen seiner Feinde auslöst. Seine Verbündeten sehen Rocky als ihren Retter an, die Regierung sieht in ihm eine Bedrohung für Recht und Ordnung; Feinde schreien nach Rache und verschwören sich für seinen Untergang. Blutigere Schlachten und dunklere Tage erwarten dich, während Rocky seine Suche nach der unangefochtenen Vorherrschaft fortsetzt.",
+            "popularity": 73.741,
+            "poster_path": "/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+            "release_date": "2022-04-14",
+            "title": "K.G.F: Chapter 2",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 16
+        }
+    ],
+    "total_pages": 10,
+    "total_results": 192
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/5vVA0vUVMfCzIl4woB32f2qklog.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 628878,
+    "imdb_id": "tt4029412",
+    "original_language": "en",
+    "original_title": "Panama",
+    "overview": "Im wilden Panama des Jahres 1989 wird James Becker, ein robuster, hochdekorierter Ex-Marine, von seinem ehemaligen Kommandeur Stark undercover geschickt, um einen Deal mit gefährlichen Gegnern durchzuführen, denen er nicht trauen kann. Während er sich durch das Chaos des Bürgerkriegs schlägt, muss Becker gegen Attentäter kämpfen, Femmes fatales umwerben und mit dem Feind verhandeln, um seine Mission zu erfüllen. Mit Stark an seiner Seite muss Becker gegen alle Widrigkeiten durchhalten und hoffen, dass er es lebend nach Hause schafft.",
+    "popularity": 21.817,
+    "poster_path": "/qpUBoMASmCxKsdNwX0XCTXvHzbF.jpg",
+    "production_companies": [
+        {
+            "id": 75355,
+            "logo_path": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+            "name": "Yale Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 65649,
+            "logo_path": "/2xZVvFYyVtIHSo4vG5R0IIak0EL.png",
+            "name": "SSS Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 96310,
+            "logo_path": "/gLZ8Pncu3OHwepiGkSvL735hqNC.png",
+            "name": "LB Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 130899,
+            "logo_path": null,
+            "name": "SSS Film Capital",
+            "origin_country": "US"
+        },
+        {
+            "id": 47129,
+            "logo_path": null,
+            "name": "Do More Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 170350,
+            "logo_path": null,
+            "name": "Grandave Capital",
+            "origin_country": ""
+        },
+        {
+            "id": 170351,
+            "logo_path": null,
+            "name": "Idiot Savant Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PR",
+            "name": "Puerto Rico"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-17",
+    "revenue": 0,
+    "runtime": 156,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Panama",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 32
+}

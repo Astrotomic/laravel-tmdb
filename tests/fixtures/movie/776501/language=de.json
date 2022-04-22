@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/fBMolTuehlLs8xvFObi4ofN237Y.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "https://www.wereallgoingtotheworldsfair.com/",
+    "id": 776501,
+    "imdb_id": "tt13648224",
+    "original_language": "en",
+    "original_title": "We're All Going to the World's Fair",
+    "overview": "Inhalt: Die zurückgezogene Jugendliche Casey verliert zunehmend ihren Bezug zur Realität nachdem sie in die Fänge eines mysteriösen Onlinespieles gerät.",
+    "popularity": 13.235,
+    "poster_path": "/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "production_companies": [
+        {
+            "id": 145663,
+            "logo_path": "/cw4xtLayU85KueesygU5azibtA3.png",
+            "name": "Dweck Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 107055,
+            "logo_path": "/bHxn56Afyw1q6Jincj9a2UHXVxL.png",
+            "name": "Flies Collective",
+            "origin_country": "US"
+        },
+        {
+            "id": 149330,
+            "logo_path": "/okZ4fCfuMAgWqHo1J6VIP8zq0BH.png",
+            "name": "Utopia",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-15",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We're All Going to the World's Fair",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1
+}

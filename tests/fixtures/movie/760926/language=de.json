@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/yzH5zvuEzzsHLZnn0jwYoPf0CMT.jpg",
+    "belongs_to_collection": null,
+    "budget": 6500000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 760926,
+    "imdb_id": "tt6020800",
+    "original_language": "en",
+    "original_title": "Gold",
+    "overview": "",
+    "popularity": 1447.699,
+    "poster_path": "/ejXBuNLvK4kZ7YcqeKqUWnCxdJq.jpg",
+    "production_companies": [
+        {
+            "id": 125583,
+            "logo_path": null,
+            "name": "Deeper Water",
+            "origin_country": "US"
+        },
+        {
+            "id": 143279,
+            "logo_path": null,
+            "name": "Rogue Star Productions",
+            "origin_country": "AU"
+        },
+        {
+            "id": 7584,
+            "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+            "name": "Screen Australia",
+            "origin_country": "AU"
+        },
+        {
+            "id": 74346,
+            "logo_path": "/b8Z8kvPnGdEDKkhzSDguUIrbZWY.png",
+            "name": "Stan Australia",
+            "origin_country": ""
+        },
+        {
+            "id": 2806,
+            "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+            "name": "South Australian Film Corporation",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2022-01-13",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gold",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 196
+}

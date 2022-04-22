@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/3yAoVcQR1i7Zgm7yNxy58i3RzCi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Abenteuer"
+        }
+    ],
+    "homepage": "http://www.netflix.com/de/title/81161042",
+    "id": 664996,
+    "imdb_id": "tt7978758",
+    "original_language": "en",
+    "original_title": "Apollo 10½:  A Space Age Childhood",
+    "overview": "Eine Coming-of-Age-Geschichte, die in den Vororten von Houston, Texas, im Sommer 1969 spielt, vor dem Hintergrund der historischen Mondlandung von Apollo 11. Die Geschichte wird aus zwei ineinander verwobenen Perspektiven erzählt, wobei die Sicht der Astronauten und der Missionskontrolle auf den triumphalen Moment ebenso eingefangen wird, wie die weniger bekannte Perspektive eines begeisterten Kindes, das in der Nähe der NASA lebt, die Landung aber hauptsächlich im Fernsehen verfolgte, wie Hunderte Millionen anderer.",
+    "popularity": 16.861,
+    "poster_path": "/fBShWJhX4oMlDicPHocQc7wDPlt.jpg",
+    "production_companies": [
+        {
+            "id": 11510,
+            "logo_path": "/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png",
+            "name": "Detour Filmproduction",
+            "origin_country": "US"
+        },
+        {
+            "id": 55968,
+            "logo_path": "/r2lAO54uFXiqmMmURMwlu1RQaJE.png",
+            "name": "Submarine",
+            "origin_country": "NL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-24",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Apollo 10½: Eine Kindheit im Weltraumzeitalter",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 68
+}

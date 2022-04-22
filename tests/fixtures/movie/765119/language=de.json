@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/oojlC3gH0bxD7hsnQa3kE9WbEBy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81393268",
+    "id": 765119,
+    "imdb_id": "tt13610562",
+    "original_language": "en",
+    "original_title": "The Bubble",
+    "overview": "Carol Cobb (Karen Gillan), Dieter Bravo (Pedro Pascal) und ihre Schauspielkolleg*innen um die einflussreiche Influencerin Krystal Kris (Iris Apatow) und die einst liierten Leinwandlegenden Lauren Van Chance (Leslie Mann) und Dustin Mulray (David Duchovny) wollen den Abenteuer-Film „Cliff Beasts 6: The Battle For Everest“ drehen, einen neuen Höhepunkt der „Cliff Beasts“-Saga über tödliche, fliegende Dinosaurier. Die Drehtage sind lang und der Erfolgsdruck ist hoch. Das bekommen Cast & Crew immer wieder zu spüren. Die Corona-Pandemie sorgt dabei für erschwerte Bedingungen, da die Schauspieler*innen sich nicht außerhalb eines definierten Personenkreises – ihrer Bubble – bewegen dürfen. Sie sitzen im selben Hotel fest, abgeschottet von der Außenwelt. Alsbald liegen die Nerven blank und es kommt trotz der Sicherheitsmaßnahmen zu ersten Corona-Ausbrüchen...",
+    "popularity": 601.479,
+    "poster_path": "/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+    "production_companies": [
+        {
+            "id": 10105,
+            "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+            "name": "Apatow Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-25",
+    "revenue": 0,
+    "runtime": 126,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Wo wirst du sein, wenn die Katastrophe eintritt?",
+    "title": "The Bubble",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 168
+}

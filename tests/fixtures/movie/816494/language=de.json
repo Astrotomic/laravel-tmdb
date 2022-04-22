@@ -1,0 +1,42 @@
+{
+    "adult": false,
+    "backdrop_path": "/dKrlacgbksSzIW95LZ3EOCvTCw9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 816494,
+    "imdb_id": "tt13942896",
+    "original_language": "en",
+    "original_title": "Chariot",
+    "overview": "",
+    "popularity": 21.676,
+    "poster_path": "/gKqA1Vz9CtDbiwR4z2peJjqwPXA.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-04-15",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Chariot",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4
+}

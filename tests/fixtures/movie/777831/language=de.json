@@ -1,0 +1,42 @@
+{
+    "adult": false,
+    "backdrop_path": "/vDvtCVvzOdxjBctSH3fyu1wCkuX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://9bulletsmovie.com",
+    "id": 777831,
+    "imdb_id": "tt13680520",
+    "original_language": "en",
+    "original_title": "9 Bullets",
+    "overview": "",
+    "popularity": 10.363,
+    "poster_path": "/1PZykED7EWMtQsFJYKougTsrnyu.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-04-14",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "9 Bullets",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 1
+}

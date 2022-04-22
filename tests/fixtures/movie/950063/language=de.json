@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/zvp0sDYD0mz9XNPmTsGrR4jKsph.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Krimi"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 950063,
+    "imdb_id": "tt14591594",
+    "original_language": "en",
+    "original_title": "The Devil You Know",
+    "overview": "",
+    "popularity": 7.805,
+    "poster_path": "/veEFWCpgtTmUs5dT5jU3aZn59Hm.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 75357,
+            "logo_path": "/zXT1JFP82YL245wlLpauAJDZA25.png",
+            "name": "BondIt",
+            "origin_country": "US"
+        },
+        {
+            "id": 137841,
+            "logo_path": null,
+            "name": "Tetrad Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 171682,
+            "logo_path": null,
+            "name": "Brooklyn Works Films",
+            "origin_country": ""
+        },
+        {
+            "id": 171683,
+            "logo_path": null,
+            "name": "Command Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-01",
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Devil You Know",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4
+}

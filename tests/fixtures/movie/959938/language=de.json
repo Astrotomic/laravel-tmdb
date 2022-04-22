@@ -1,0 +1,44 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 959938,
+    "imdb_id": "tt7231032",
+    "original_language": "en",
+    "original_title": "Finding Loren",
+    "overview": "",
+    "popularity": 26.568,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 173016,
+            "logo_path": null,
+            "name": "Buffalo Stampede Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Finding Loren",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

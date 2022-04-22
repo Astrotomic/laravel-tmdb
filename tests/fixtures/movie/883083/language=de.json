@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/x3X7bSkKhxoucdKtMweKVxCZD32.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "https://www.focusfeatures.com/you-wont-be-alone",
+    "id": 883083,
+    "imdb_id": "tt8296030",
+    "original_language": "mk",
+    "original_title": "You Won't Be Alone",
+    "overview": "",
+    "popularity": 12.407,
+    "poster_path": "/45W9ViL5ilurSLVzBEybYXHrxEJ.jpg",
+    "production_companies": [
+        {
+            "id": 32301,
+            "logo_path": "/2Ucj9ycQjpkcvSSyzr9zoT0Q8cH.png",
+            "name": "Causeway Films",
+            "origin_country": "AU"
+        },
+        {
+            "id": 5056,
+            "logo_path": "/kADFcjL04xe5HGBnlLjbfhliS2a.png",
+            "name": "Head Gear Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 25954,
+            "logo_path": null,
+            "name": "Metrol Technology",
+            "origin_country": "GB"
+        },
+        {
+            "id": 10146,
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2022-01-22",
+    "revenue": 125000,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "Macedonian",
+            "iso_639_1": "mk",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "You Won't Be Alone",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 4
+}

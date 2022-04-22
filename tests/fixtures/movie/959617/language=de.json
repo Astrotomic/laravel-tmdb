@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 80,
+            "name": "Krimi"
+        }
+    ],
+    "homepage": "",
+    "id": 959617,
+    "imdb_id": "tt12476270",
+    "original_language": "en",
+    "original_title": "Brut Force",
+    "overview": "",
+    "popularity": 35.014,
+    "poster_path": "/dEhSIUQFDv1DeCWPIxK0FrWkQzq.jpg",
+    "production_companies": [
+        {
+            "id": 12142,
+            "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+            "name": "XYZ Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2022-04-21",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Brut Force",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 1
+}

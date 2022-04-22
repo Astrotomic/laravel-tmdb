@@ -1,0 +1,397 @@
+{
+    "dates": {
+        "maximum": "2022-04-27",
+        "minimum": "2022-03-10"
+    },
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/m0YjB4VfghKey8Ppsmz8qCd0v1m.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 648579,
+            "original_language": "en",
+            "original_title": "The Unbearable Weight of Massive Talent",
+            "overview": "Reativ unerfüllt und vor dem finanziellen Ruin muss Nick Cage ein 1-Millionen-Dollar-Angebot annehmen, um am Geburtstag eines gefährlichen Superfans teilzunehmen. Die Dinge nehmen eine völlig unerwartete Wendung, als Cage von einem CIA-Agenten rekrutiert und gezwungen wird, seiner eigenen Legende gerecht zu werden, indem er seine ikonischsten und beliebtesten Charaktere auf der Leinwand kanalisiert, um sich und seine Lieben zu retten.",
+            "popularity": 70.125,
+            "poster_path": "/8JzPuj4lNQv0wmd38u0ee1dxzhn.jpg",
+            "release_date": "2022-04-22",
+            "title": "Massive Talent",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lO8ajcIbDxzgEu7tiHIO0iY3bgT.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 758724,
+            "original_language": "en",
+            "original_title": "The Cellar",
+            "overview": "",
+            "popularity": 34.436,
+            "poster_path": "/2rlLgZdKC9UhzI7qZHbWKLxl889.jpg",
+            "release_date": "2022-04-15",
+            "title": "The Cellar",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bSJs4alJq5O2DkyfWYUU7oxeiio.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 809140,
+            "original_language": "en",
+            "original_title": "Father Stu",
+            "overview": "Die wahre Geschichte des Boxers Stuart Long, der nach einer Muskelerkrankung zu einem Priester wurde.",
+            "popularity": 45.127,
+            "poster_path": "/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",
+            "release_date": "2022-04-13",
+            "title": "Father Stu",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 751237,
+            "original_language": "en",
+            "original_title": "Umma",
+            "overview": "",
+            "popularity": 54.202,
+            "poster_path": "/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg",
+            "release_date": "2022-03-18",
+            "title": "Umma",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 949766,
+            "original_language": "en",
+            "original_title": "The Godfather Buck",
+            "overview": "",
+            "popularity": 20.35,
+            "poster_path": "/iXExHdQvEKi53Xwv55iMrc0CGE4.jpg",
+            "release_date": "2022-04-19",
+            "title": "The Godfather Buck",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/611A5kFdhvqrPVaHHi433Bp0jCA.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 872542,
+            "original_language": "en",
+            "original_title": "Agent Game",
+            "overview": "Harris ist ein CIA-Verhörspezialist, der sich an einem geheimen Ort aufhält. Er wird zum Ziel einer Überstellungsoperation, nachdem er für ein schief gelaufenes Verhör zum Sündenbock gemacht wurde. Als das Agententeam, welches Harris überführen soll, beginnt, dessen Befehle in Frage zu stellen, erweitern der ranghohe Geheimdienstoffizier Olsen und seine Untergebene Visser die Ermittlungen. Jetzt liegt es an Harris und einigen neu gefundenen Verbündeten, die Wahrheit aufzudecken und den Spieß umzudrehen...",
+            "popularity": 23.21,
+            "poster_path": "/qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg",
+            "release_date": "2022-04-08",
+            "title": "Agent Game",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dKrlacgbksSzIW95LZ3EOCvTCw9.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 816494,
+            "original_language": "en",
+            "original_title": "Chariot",
+            "overview": "",
+            "popularity": 21.676,
+            "poster_path": "/gKqA1Vz9CtDbiwR4z2peJjqwPXA.jpg",
+            "release_date": "2022-04-15",
+            "title": "Chariot",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "id": 959617,
+            "original_language": "en",
+            "original_title": "Brut Force",
+            "overview": "",
+            "popularity": 35.014,
+            "poster_path": "/dEhSIUQFDv1DeCWPIxK0FrWkQzq.jpg",
+            "release_date": "2022-04-21",
+            "title": "Brut Force",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9HRuufyaDwTajlFpMKgki9cr2wQ.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 885121,
+            "original_language": "en",
+            "original_title": "Room 203",
+            "overview": "",
+            "popularity": 34.541,
+            "poster_path": "/t4M0n5kfToiU9TIf22bccSbNugG.jpg",
+            "release_date": "2022-04-15",
+            "title": "Room 203",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vVA0vUVMfCzIl4woB32f2qklog.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 628878,
+            "original_language": "en",
+            "original_title": "Panama",
+            "overview": "Im wilden Panama des Jahres 1989 wird James Becker, ein robuster, hochdekorierter Ex-Marine, von seinem ehemaligen Kommandeur Stark undercover geschickt, um einen Deal mit gefährlichen Gegnern durchzuführen, denen er nicht trauen kann. Während er sich durch das Chaos des Bürgerkriegs schlägt, muss Becker gegen Attentäter kämpfen, Femmes fatales umwerben und mit dem Feind verhandeln, um seine Mission zu erfüllen. Mit Stark an seiner Seite muss Becker gegen alle Widrigkeiten durchhalten und hoffen, dass er es lebend nach Hause schafft.",
+            "popularity": 21.817,
+            "poster_path": "/qpUBoMASmCxKsdNwX0XCTXvHzbF.jpg",
+            "release_date": "2022-03-18",
+            "title": "Panama",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pfbJNgspcWr4yRnoBKQUpTaFwNN.jpg",
+            "genre_ids": [
+                36,
+                18,
+                37
+            ],
+            "id": 766431,
+            "original_language": "en",
+            "original_title": "Hostile Territory",
+            "overview": "",
+            "popularity": 33.095,
+            "poster_path": "/z1zBn2YCBTG4TDSxVekRqYZ1yml.jpg",
+            "release_date": "2022-04-22",
+            "title": "Hostile Territory",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qc2gwz3yFssevJVuz0RiZuciAj3.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 746131,
+            "original_language": "fr",
+            "original_title": "Les Olympiades",
+            "overview": "Émilie, Camille, Nora und Amber leben in der Gegend Les Olympiades im 13. Pariser Arrondissement.",
+            "popularity": 22.74,
+            "poster_path": "/gVczgoNG4TOvN2fo3XSlsw6Drrz.jpg",
+            "release_date": "2022-04-15",
+            "title": "Wo in Paris die Sonne aufgeht",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "id": 579974,
+            "original_language": "te",
+            "original_title": "రౌద్రం రణం రుధిరం",
+            "overview": "Eine fiktive Geschichte zweier legendärer Revolutionäre, die von zu Hause wegreisen, bevor sie in den 1920er Jahren begannen, für ihr Land zu kämpfen.",
+            "popularity": 31.299,
+            "poster_path": "/1YaR5XMPVbZ9LcsXQ7u2sOM5jWe.jpg",
+            "release_date": "2022-03-24",
+            "title": "RRR",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "id": 940000,
+            "original_language": "en",
+            "original_title": "John Wynn's One Hour",
+            "overview": "",
+            "popularity": 31.38,
+            "poster_path": "/Qj1h6DoyS6PbKYmdYD8J8YpyF2.jpg",
+            "release_date": "2022-04-22",
+            "title": "John Wynn's One Hour",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6VaPN1BqwdUrs1AshG7JxlqWUXA.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 655082,
+            "original_language": "fr",
+            "original_title": "Eiffel",
+            "overview": "Der gefeierte Ingenieur Gustave Eiffel hat gerade die Arbeit an der Freiheitsstatue beendet, als er im Auftrag der französischen Regierung etwas wahrhaft Spektakuläres für die Pariser Weltausstellung im Jahr 1889 entwerfen soll. Eigentlich möchte er nur die Metro designen und gerät nun massiv unter Druck. Doch als Eiffel seine verloren geglaubte Jugendliebe Adrienne Bourgès wieder trifft, inspiriert ihn ihre Leidenschaft dazu, die Skyline von Paris für immer zu verändern.",
+            "popularity": 18.114,
+            "poster_path": "/3YG6xBaTB5JlcU7gZJE5S7IdjA.jpg",
+            "release_date": "2022-04-08",
+            "title": "Eiffel in Love",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 295
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j7TG01Z2KoV2JLCRQJMIaI5jlpX.jpg",
+            "genre_ids": [
+                16,
+                18
+            ],
+            "id": 844135,
+            "original_language": "fr",
+            "original_title": "Charlotte",
+            "overview": "",
+            "popularity": 30.086,
+            "poster_path": "/89lmfXgzgrspcXZ2Z1ncBTFPc6T.jpg",
+            "release_date": "2022-04-22",
+            "title": "Charlotte",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/unK6POhCN6ta6l5yH8oqlRS1UJL.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 685411,
+            "original_language": "en",
+            "original_title": "Marvelous and the Black Hole",
+            "overview": "",
+            "popularity": 29.914,
+            "poster_path": "/lRUEwJlLREl39LboRSquA3lct8F.jpg",
+            "release_date": "2022-04-22",
+            "title": "Marvelous and the Black Hole",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zzF4YkXH0oiR9o5jk3ratnT0aOu.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 606237,
+            "original_language": "en",
+            "original_title": "Unplugging",
+            "overview": "",
+            "popularity": 29.186,
+            "poster_path": "/dKZPCjWeceHIF8SQMEwhpR9jkmp.jpg",
+            "release_date": "2022-04-22",
+            "title": "Unplugging",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3yAoVcQR1i7Zgm7yNxy58i3RzCi.jpg",
+            "genre_ids": [
+                16,
+                35,
+                878,
+                12
+            ],
+            "id": 664996,
+            "original_language": "en",
+            "original_title": "Apollo 10½:  A Space Age Childhood",
+            "overview": "Eine Coming-of-Age-Geschichte, die in den Vororten von Houston, Texas, im Sommer 1969 spielt, vor dem Hintergrund der historischen Mondlandung von Apollo 11. Die Geschichte wird aus zwei ineinander verwobenen Perspektiven erzählt, wobei die Sicht der Astronauten und der Missionskontrolle auf den triumphalen Moment ebenso eingefangen wird, wie die weniger bekannte Perspektive eines begeisterten Kindes, das in der Nähe der NASA lebt, die Landung aber hauptsächlich im Fernsehen verfolgte, wie Hunderte Millionen anderer.",
+            "popularity": 16.861,
+            "poster_path": "/fBShWJhX4oMlDicPHocQc7wDPlt.jpg",
+            "release_date": "2022-03-24",
+            "title": "Apollo 10½: Eine Kindheit im Weltraumzeitalter",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
+            "genre_ids": [
+                27,
+                53,
+                18,
+                9648
+            ],
+            "id": 680829,
+            "original_language": "en",
+            "original_title": "Master",
+            "overview": "Master ist ein Drama aus dem Jahr 2022 von Mariama Diallo mit Regina Hall, Zoe Renee und Amber Gray.\r Der Horrorthriller Master ist in den Räumen eines prestigeträchtigen Colleges in Neuengland angesiedelt. Hinter der perfekten Fassade kommen mehr und mehr Abgründe zum Vorschein, als Regina Hall als erste Schwarze Frau die Verantwortung über ein Studierendenwohnheim übernimmt.",
+            "popularity": 16.088,
+            "poster_path": "/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
+            "release_date": "2022-03-18",
+            "title": "Master",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 45
+        }
+    ],
+    "total_pages": 10,
+    "total_results": 192
+}

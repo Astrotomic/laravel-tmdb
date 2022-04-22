@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/rTLeiEn9dapr5924NWMC7tIg5Co.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 10402,
+            "name": "Musik"
+        }
+    ],
+    "homepage": "https://filmfreeway.com/projects/2417115",
+    "id": 959959,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "The Flesh Of Another",
+    "overview": "",
+    "popularity": 10.241,
+    "poster_path": "/gDHaon5VT1FEKnlYGNr8Z5ERHGA.jpg",
+    "production_companies": [
+        {
+            "id": 173143,
+            "logo_path": null,
+            "name": "Geriatric Squirrel Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-19",
+    "revenue": 0,
+    "runtime": 10,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Flesh Of Another",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

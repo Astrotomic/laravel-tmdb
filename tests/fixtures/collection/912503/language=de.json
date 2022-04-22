@@ -1,0 +1,49 @@
+{
+    "id": 912503,
+    "name": "Shang-Chi Filmreihe",
+    "overview": "",
+    "poster_path": "/x9y9KmPa2RXavK39cwJx4w3AJ2y.jpg",
+    "backdrop_path": "/4PHnWsIk71qFCzFElLCbx706p1m.jpg",
+    "parts": [
+        {
+            "adult": false,
+            "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 566525,
+            "title": "Shang-Chi and the Legend of the Ten Rings",
+            "original_language": "en",
+            "original_title": "Shang-Chi and the Legend of the Ten Rings",
+            "overview": "Shang-Chi wurde von der terroristischen Geheimorganisation der Ten Rings seit frühster Kindheit zum Killer ausgebildet. Trotz dieses intensiven Martial-Arts-Trainings hat der junge Mann aber versucht, sich ein normales Leben in San Francisco aufzubauen.  Doch als er gerade glaubt, sein früheres Leben vielleicht wirklich hinter sich gelassen zu haben, holt die Vergangenheit ihn wieder ein. Zusammen mit seiner alten Kindheitsfreundin Katy wird er von seinem kriminellen Vater Wenwu in eine Welt gezogen, in der niemand irgendjemanden mit Samthandschuhen anfasst. Nur die zehn Ringe des Mandarin können das Blatt im Kampf gegen das Böse vielleicht noch wenden.",
+            "popularity": 753.068,
+            "poster_path": "/AjXzHBNlmCXZnvpONbUhGtgiUiA.jpg",
+            "release_date": "2021-09-01",
+            "video": false,
+            "vote_average": 7.721,
+            "vote_count": 6236
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 912502,
+            "title": "Shang-Chi 2",
+            "original_language": "en",
+            "original_title": "Shang-Chi 2",
+            "overview": "Shang-Chis Schwester Xialing hat die Kontrolle über die Organisation der Zehn Ringe übernommen. Jedoch ist weiterhin immer noch nichts über den Ursprung der Zehn Ringe bekannt. Sicher ist nur, dass die Zehn Ringe weitaus älter sind, als alles bisher Bekannte. Diese Geheimnisse gilt es nun auf die Spur zu kommen…",
+            "popularity": 11.519,
+            "poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
+            "release_date": "",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ]
+}

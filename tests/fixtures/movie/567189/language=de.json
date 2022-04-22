@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B08VFD1Y3B",
+    "id": 567189,
+    "imdb_id": "tt0499097",
+    "original_language": "en",
+    "original_title": "Tom Clancy's Without Remorse",
+    "overview": "Ein Elite-Navy-SEAL deckt eine internationale Verschwörung auf, während er in Tom Clancy's Gnadenlos nach Gerechtigkeit für den Mord an seiner schwangeren Frau sucht. Dies ist die explosive Ursprungsgeschichte des Actionhelden John Clark - einer der beliebtesten Charaktere in Autor Tom Clancys Jack-Ryan-Universum. Als ein Trupp russischer Soldaten seine Familie als Vergeltung für seine Rolle in einer streng geheimen Operation tötet, ist Senior Chief John Kelly (Michael B. Jordan) auf sich allein gestellt. Chief John Kelly (Michael B. Jordan) die Attentäter um jeden Preis zu verfolgen. Gemeinsam mit einer SEAL-Kollegin (Jodie Turner-Smith) und einem zwielichtigen CIA-Agenten (Jamie Bell) deckt Kelly bei seiner Mission unwissentlich ein geheimes Komplott auf, das die USA und Russland in einen totalen Krieg zu verwickeln droht.",
+    "popularity": 201.232,
+    "poster_path": "/rOQmuIR8eez7Yuae3BxZnvUidiS.jpg",
+    "production_companies": [
+        {
+            "id": 433,
+            "logo_path": null,
+            "name": "Weed Road Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 102334,
+            "logo_path": "/espa8KYmHedu5p7GRrP9FFICLUp.png",
+            "name": "Outlier Society Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 156809,
+            "logo_path": null,
+            "name": "The Saw Mill",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-04-29",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tom Clancy's Gnadenlos",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 1886
+}

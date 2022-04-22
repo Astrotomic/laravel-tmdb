@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/wx8Z6ff20DJONqg69dDeV8uSO3q.jpg",
+    "belongs_to_collection": null,
+    "budget": 4500000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 698128,
+    "imdb_id": "tt9005184",
+    "original_language": "en",
+    "original_title": "Dual",
+    "overview": "",
+    "popularity": 13.353,
+    "poster_path": "/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+    "production_companies": [
+        {
+            "id": 12142,
+            "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+            "name": "XYZ Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 142269,
+            "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+            "name": "IPR.VC",
+            "origin_country": "FI"
+        },
+        {
+            "id": 24195,
+            "logo_path": null,
+            "name": "Resolute Films and Entertainment",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "FI",
+            "name": "Finland"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-18",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dual",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 6
+}

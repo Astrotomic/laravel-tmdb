@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/8rojfDL9ZzDEvt6ppCpan3WK3iy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.alicethemov.com/",
+    "id": 714676,
+    "imdb_id": "tt11040762",
+    "original_language": "en",
+    "original_title": "Alice",
+    "overview": "",
+    "popularity": 16.255,
+    "poster_path": "/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg",
+    "production_companies": [
+        {
+            "id": 167682,
+            "logo_path": null,
+            "name": "Steel Springs Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 88606,
+            "logo_path": "/3w49QoRwptUujWxSjcR3iEr1XSU.png",
+            "name": "Vertical Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 911,
+            "logo_path": null,
+            "name": "Roadside Attractions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-18",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Alice",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 10
+}

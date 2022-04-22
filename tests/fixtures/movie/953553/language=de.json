@@ -1,0 +1,48 @@
+{
+    "adult": false,
+    "backdrop_path": "/gf93HbjBrmT9PE9yaW9Wl6JGIdT.jpg",
+    "belongs_to_collection": {
+        "id": 729322,
+        "name": "Gabriel's Inferno Collection",
+        "poster_path": "/LdSn17U6ybhtPJT3S6fTNRni5Y.jpg",
+        "backdrop_path": "/hXF55codODfnzTZDExbUbfFmA9y.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 953553,
+    "imdb_id": "tt19121744",
+    "original_language": "en",
+    "original_title": "Gabriel's Rapture: Part II",
+    "overview": "",
+    "popularity": 16.805,
+    "poster_path": "/kOq1zyQxO3btBzS9GYYSdOFwD9c.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-24",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gabriel's Rapture: Part II",
+    "video": false,
+    "vote_average": 9.1,
+    "vote_count": 25
+}

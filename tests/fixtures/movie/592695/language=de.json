@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/5tqkP8NNWdteskVBYPRXE6h82ts.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.weltkino.de/filme/pleasure",
+    "id": 592695,
+    "imdb_id": "tt8550054",
+    "original_language": "en",
+    "original_title": "Pleasure",
+    "overview": "Die 19-jährige Linnéa verlässt ihre schwedische Kleinstadt und zieht nach Los Angeles, um als „Bella Cherry“ der nächste große Pornostar zu werden. Doch der Weg dahin ist steiniger als erwartet. Zwar erhält sie schnell erste Aufträge, aber das Business ist gnadenlos. Bella erkennt, dass sie nur eine Chance hat, wenn sie ausnahmslos alles tut, was von ihr verlangt wird - selbst wenn dies Erniedrigung und Schmerz bedeutet. Doch wie weit kann sie gehen, um ihr Ziel zu erreichen?",
+    "popularity": 59.511,
+    "poster_path": "/nbavzFfW804nL4U59Dk8aabDHf3.jpg",
+    "production_companies": [
+        {
+            "id": 2801,
+            "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+            "name": "Film i Väst",
+            "origin_country": "SE"
+        },
+        {
+            "id": 116669,
+            "logo_path": null,
+            "name": "Flamboyance Films",
+            "origin_country": ""
+        },
+        {
+            "id": 2345,
+            "logo_path": "/nozBgqHmM9A22IHkghTnLiUrM7Q.png",
+            "name": "Lemming Film",
+            "origin_country": "NL"
+        },
+        {
+            "id": 8483,
+            "logo_path": null,
+            "name": "Plattform Produktion",
+            "origin_country": "SE"
+        },
+        {
+            "id": 88455,
+            "logo_path": null,
+            "name": "The Jokers",
+            "origin_country": "FR"
+        },
+        {
+            "id": 90733,
+            "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+            "name": "Neon",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2021-10-08",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pleasure",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 96
+}

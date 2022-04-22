@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/9HRuufyaDwTajlFpMKgki9cr2wQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 885121,
+    "imdb_id": "tt12283036",
+    "original_language": "en",
+    "original_title": "Room 203",
+    "overview": "Two female roommates were tormented by the vengeful spirits dwelling in their gothic-style, rented apartment, which contains an ornate centerpiece.",
+    "popularity": 34.541,
+    "poster_path": "/t4M0n5kfToiU9TIf22bccSbNugG.jpg",
+    "production_companies": [
+        {
+            "id": 88606,
+            "logo_path": "/3w49QoRwptUujWxSjcR3iEr1XSU.png",
+            "name": "Vertical Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-15",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Room 203",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5
+}

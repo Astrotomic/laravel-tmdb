@@ -1,0 +1,395 @@
+{
+    "dates": {
+        "maximum": "2022-04-27",
+        "minimum": "2022-03-10"
+    },
+    "page": 3,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/eyxYOeJfZTHAsFYzYqUAfZPMAPu.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 771536,
+            "original_language": "en",
+            "original_title": "You Are Not My Mother",
+            "overview": "In einer Wohnsiedlung im Norden Dublins wird Chars Mutter vermisst. Als sie zurückkehrt, ist Char entschlossen, die Wahrheit über ihr Verschwinden aufzudecken und die dunklen Geheimnisse ihrer Familie aufzudecken.",
+            "popularity": 16.035,
+            "poster_path": "/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg",
+            "release_date": "2022-03-25",
+            "title": "You Are Not My Mother",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gf93HbjBrmT9PE9yaW9Wl6JGIdT.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 953553,
+            "original_language": "en",
+            "original_title": "Gabriel's Rapture: Part II",
+            "overview": "",
+            "popularity": 16.805,
+            "poster_path": "/kOq1zyQxO3btBzS9GYYSdOFwD9c.jpg",
+            "release_date": "2022-03-24",
+            "title": "Gabriel's Rapture: Part II",
+            "video": false,
+            "vote_average": 9.1,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q1AtF3KQGLml3KAJBjt5zSG8a4w.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 952152,
+            "original_language": "en",
+            "original_title": "Take Me to the River: New Orleans",
+            "overview": "",
+            "popularity": 27.047,
+            "poster_path": "/9m0F5m2F08OE20vtmwNC0YsfOYo.jpg",
+            "release_date": "2022-04-22",
+            "title": "Take Me to the River: New Orleans",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 959938,
+            "original_language": "en",
+            "original_title": "Finding Loren",
+            "overview": "",
+            "popularity": 26.568,
+            "poster_path": null,
+            "release_date": "2022-04-22",
+            "title": "Finding Loren",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8a5Mzgzq6sKIxCwAUTxVPVwMpCc.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 749004,
+            "original_language": "fr",
+            "original_title": "Petite maman",
+            "overview": "Die achtjährige Nelly hat gerade ihre geliebte Großmutter verloren und hilft ihren Eltern, das Elternhaus ihrer Mutter auszuräumen. Sie erkundet das Haus und den umliegenden Wald, in dem ihre Mutter früher gespielt und das Fort gebaut hat, von dem Nelly so viel gehört hat. Eines Tages ist ihre Mutter plötzlich weg, und Nelly trifft im Wald ein Mädchen in ihrem Alter, das eine Festung baut.",
+            "popularity": 20.798,
+            "poster_path": "/vcrCr8rKd7dTysjp0zFj3edvM24.jpg",
+            "release_date": "2022-04-22",
+            "title": "Als wir Kinder waren",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 818739,
+            "original_language": "en",
+            "original_title": "The Revolution Generation",
+            "overview": "",
+            "popularity": 25.613,
+            "poster_path": "/x9ER8VDiZA2w0SsuduwYaDwitqR.jpg",
+            "release_date": "2022-04-22",
+            "title": "The Revolution Generation",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8gckHOChhbL1WA95y04h6D4iE4c.jpg",
+            "genre_ids": [
+                18,
+                27,
+                9648,
+                14
+            ],
+            "id": 1730,
+            "original_language": "en",
+            "original_title": "Inland Empire",
+            "overview": "Die einst bekannte Schauspielerin Nikki Grace wird für ein Filmprojekt engagiert, von dem sie und ihr Co-Star kurz vor Drehbeginn erfahren, dass es ein Remake ist und die erste Version nie beendet wurde, da die beiden früheren Hauptdarsteller unter ungeklärten Umständen zu Tode gekommen sind. Nikki lässt sich trotzdem darauf ein. Doch als sie in ihre neue Rolle schlüpft und eine Affäre mit ihrem Kollegen beginnt, scheint sie zunehmend den Bezug zur Realität zu verlieren. Die Grenze zwischen Gegenwart und Vergangenheit, fiktiven und tatsächlichen Personen und Orten, ist nicht mehr auszumachen.",
+            "popularity": 18.836,
+            "poster_path": "/mbzNoyw9dc9U3k6tvgrRH35Sbuc.jpg",
+            "release_date": "2022-04-08",
+            "title": "Inland Empire",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 824
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2QerJOQmmWcINcM1S1sNkDxjXkj.jpg",
+            "genre_ids": [
+                878,
+                10749,
+                53
+            ],
+            "id": 659924,
+            "original_language": "en",
+            "original_title": "Loveland",
+            "overview": "",
+            "popularity": 17.435,
+            "poster_path": "/zVxFQG0rAFITjIygEMHFRLtR6JI.jpg",
+            "release_date": "2022-03-18",
+            "title": "Loveland",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mqknaA7SK6bZ7u8GF5WQW8WxXoy.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 800383,
+            "original_language": "ta",
+            "original_title": "பீஸ்ட்",
+            "overview": "Ein ehemaliger RAW-Offizier, der sich in einem von Terroristen übernommenen Einkaufszentrum unter den Geiseln befindet, muss ihre Pläne vereiteln und verhindern, dass die Regierung einen gefürchteten Terroristen freilässt, den er unter großem persönlichen Preis ins Gefängnis gebracht hatte.",
+            "popularity": 15.829,
+            "poster_path": "/4hqtjslVCaDVgblg7iCtGIy7exO.jpg",
+            "release_date": "2022-04-12",
+            "title": "Beast",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rTLeiEn9dapr5924NWMC7tIg5Co.jpg",
+            "genre_ids": [
+                27,
+                10749,
+                10402
+            ],
+            "id": 959959,
+            "original_language": "en",
+            "original_title": "The Flesh Of Another",
+            "overview": "",
+            "popularity": 10.241,
+            "poster_path": "/gDHaon5VT1FEKnlYGNr8Z5ERHGA.jpg",
+            "release_date": "2022-04-19",
+            "title": "The Flesh Of Another",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rojfDL9ZzDEvt6ppCpan3WK3iy.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 714676,
+            "original_language": "en",
+            "original_title": "Alice",
+            "overview": "",
+            "popularity": 16.255,
+            "poster_path": "/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg",
+            "release_date": "2022-03-18",
+            "title": "Alice",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wx8Z6ff20DJONqg69dDeV8uSO3q.jpg",
+            "genre_ids": [
+                878,
+                35,
+                53
+            ],
+            "id": 698128,
+            "original_language": "en",
+            "original_title": "Dual",
+            "overview": "",
+            "popularity": 13.353,
+            "poster_path": "/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+            "release_date": "2022-04-15",
+            "title": "Dual",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zyoV5SnKX41e3euXZhLLenG4gj.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 821792,
+            "original_language": "en",
+            "original_title": "Bull",
+            "overview": "",
+            "popularity": 13.705,
+            "poster_path": "/oapxWncDc5ztrge3ycpvaZIMcf3.jpg",
+            "release_date": "2022-04-01",
+            "title": "Bull",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gF02RlJ9hHwqUrUTphEppsCrjmY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 645689,
+            "original_language": "en",
+            "original_title": "The Duke",
+            "overview": "",
+            "popularity": 11.55,
+            "poster_path": "/vxqFcrVDPDfI60e8f1EKxpj0QvH.jpg",
+            "release_date": "2022-03-25",
+            "title": "The Duke",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kQ70Z2LFFoGRyn1dYhbT5949qra.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18,
+                9648
+            ],
+            "id": 944865,
+            "original_language": "en",
+            "original_title": "Boon",
+            "overview": "",
+            "popularity": 13.9,
+            "poster_path": "/33CJMuDSuIy8EDoUHCj7zDb4rWg.jpg",
+            "release_date": "2022-04-01",
+            "title": "Boon",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9xKOVUZc0WM2Ue9zbGswDZmpz83.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 644100,
+            "original_language": "en",
+            "original_title": "As They Made Us",
+            "overview": "",
+            "popularity": 12.634,
+            "poster_path": "/qypGmqMTIT6PmDzmM3i2Aexaxug.jpg",
+            "release_date": "2022-04-08",
+            "title": "As They Made Us",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fBMolTuehlLs8xvFObi4ofN237Y.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 776501,
+            "original_language": "en",
+            "original_title": "We're All Going to the World's Fair",
+            "overview": "Inhalt: Die zurückgezogene Jugendliche Casey verliert zunehmend ihren Bezug zur Realität nachdem sie in die Fänge eines mysteriösen Onlinespieles gerät.",
+            "popularity": 13.235,
+            "poster_path": "/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+            "release_date": "2022-04-15",
+            "title": "We're All Going to the World's Fair",
+            "video": false,
+            "vote_average": 9,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 956309,
+            "original_language": "en",
+            "original_title": "Jeannette",
+            "overview": "",
+            "popularity": 17.577,
+            "poster_path": null,
+            "release_date": "2022-04-23",
+            "title": "Jeannette",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+            "genre_ids": [
+                99,
+                53
+            ],
+            "id": 926676,
+            "original_language": "en",
+            "original_title": "Navalny",
+            "overview": "Im August 2020 wird der russische Oppositionelle Alexei Nawalny Opfer durch eine Vergiftung mit einem tödlichen Nervenkampfstoff, die er trotz aller Umstände überlebt. Während seiner monatelangen Genesung im Schwarzwald macht er schockierende Entdeckungen über den Anschlag auf sein Leben, der sehr wahrscheinlich von russischen Behörden beauftragt wurde. Nawalny beschließt dennoch, in seine Heimat Russland zurückzukehren, wo er sogleich verhaftet wird. Der Filmemacher Daniel Roher begleitet Nawalny während dieser außergewöhnlichen Belastungen. Es entsteht das hautnahe Porträt einer extremen Zeit.",
+            "popularity": 11.592,
+            "poster_path": "/ijirC0R8wtZsfhS0VD3i7ZZBmoE.jpg",
+            "release_date": "2022-04-11",
+            "title": "Nawalny",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ltVm9tMK32x56ezpHgJp0U5YQdY.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 718838,
+            "original_language": "en",
+            "original_title": "Mothering Sunday",
+            "overview": "Die Geschichte spielt an einem Tag im Jahr 1924 und handelt von Jane Fairchild, einem Dienstmädchen im Hause Niven, die den Tag frei hat, um den Muttertag zu feiern, während Herr und Frau Niven an einem Mittagessen teilnehmen, um die Verlobung des einzigen verbliebenen Sohnes ihres Nachbarn, Paul, mit Emma Hobday zu feiern. Jane freut sich über ihre Freiheit an einem für die Jahreszeit ungewöhnlich heißen, schönen Frühlingstag. Aber sie hat keine Mutter, zu der sie gehen kann. Seit fast sieben Jahren ist sie - freudig und ohne Scham - die Geliebte von Paul. Wie die Nivens gehört Paul zum alten englischen Geldadel, während Jane von Geburt an Waise ist. Da das Haus praktischerweise leer ist, können sie sich endlich in Pauls Schlafzimmer zum ersten Mal treffen. Der heutige Tag wird ihr letzter als Liebespaar sein. Es ist auch der Tag, an dem Janes Verwandlung beginnt, während sich die Geschichte in den Stunden der heimlichen Leidenschaft entfaltet.",
+            "popularity": 9.19,
+            "poster_path": "/sRaoJoSaLHfIH2q1SmxALchikuX.jpg",
+            "release_date": "2021-11-17",
+            "title": "Ein Festtag",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 12
+        }
+    ],
+    "total_pages": 10,
+    "total_results": 192
+}

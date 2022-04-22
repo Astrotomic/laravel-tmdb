@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": "/bSJs4alJq5O2DkyfWYUU7oxeiio.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.fatherstumovie.com",
+    "id": 809140,
+    "imdb_id": "tt14439896",
+    "original_language": "en",
+    "original_title": "Father Stu",
+    "overview": "Die wahre Geschichte des Boxers Stuart Long, der nach einer Muskelerkrankung zu einem Priester wurde.",
+    "popularity": 45.127,
+    "poster_path": "/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",
+    "production_companies": [
+        {
+            "id": 169668,
+            "logo_path": null,
+            "name": "Municipal Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 86077,
+            "logo_path": null,
+            "name": "Palm Drive Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-13",
+    "revenue": 0,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Father Stu",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 10
+}

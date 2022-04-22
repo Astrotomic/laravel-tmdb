@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/10r0a9tfKBnegvgVfbYBsJnfkNa.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Dokumentarfilm"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81323741",
+    "id": 953371,
+    "imdb_id": "tt19034522",
+    "original_language": "en",
+    "original_title": "White Hot: The Rise & Fall of Abercrombie & Fitch",
+    "overview": "Ende der 90er und Anfang der 00er Jahre eroberte Abercrombie & Fitch die Einkaufszentren mit umwerfenden Models, pulsierenden Dance-Beats und einem wilden Duft. Doch während die Marke auf Hochtouren lief, begann ihr beliebtes „All-American“-Image zu zerfallen, als Kontroversen über ihr ausgrenzendes Marketing und diskriminierende Einstellungen ans Licht kamen. Alison Klayman nimmt in ihrer Netflix-Doku den Aufstieg und Fall der Marke unter die Lupe.",
+    "popularity": 51.295,
+    "poster_path": "/ysqvckBHnCMNWF11kctOanwk4jZ.jpg",
+    "production_companies": [
+        {
+            "id": 172676,
+            "logo_path": "/11gihFqs2uerIhSIxGzD420vcFB.png",
+            "name": "Second Nature",
+            "origin_country": "US"
+        },
+        {
+            "id": 173716,
+            "logo_path": null,
+            "name": "Aliklay Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 88582,
+            "logo_path": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png",
+            "name": "Cinetic Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 35951,
+            "logo_path": "/eXfXNlLeW8eHOyQoeOUIivQa6z6.png",
+            "name": "All3Media America",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-19",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Abercrombie & Fitch: Aufstieg und Fall",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 13
+}

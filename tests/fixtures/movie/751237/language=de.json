@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/umma",
+    "id": 751237,
+    "imdb_id": "tt13235822",
+    "original_language": "en",
+    "original_title": "Umma",
+    "overview": "",
+    "popularity": 54.202,
+    "poster_path": "/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg",
+    "production_companies": [
+        {
+            "id": 34,
+            "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+            "name": "Sony Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 150758,
+            "logo_path": null,
+            "name": "CatchLight Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 122323,
+            "logo_path": null,
+            "name": "Raimi Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 11341,
+            "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+            "name": "Stage 6 Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 141525,
+            "logo_path": null,
+            "name": "Starlight Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-18",
+    "revenue": 1700000,
+    "runtime": 83,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Umma",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 40
+}

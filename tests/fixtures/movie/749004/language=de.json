@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/8a5Mzgzq6sKIxCwAUTxVPVwMpCc.jpg",
+    "belongs_to_collection": null,
+    "budget": 3100000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://neonrated.com/films/petite-maman",
+    "id": 749004,
+    "imdb_id": "tt13204490",
+    "original_language": "fr",
+    "original_title": "Petite maman",
+    "overview": "Die achtjährige Nelly hat gerade ihre geliebte Großmutter verloren und hilft ihren Eltern, das Elternhaus ihrer Mutter auszuräumen. Sie erkundet das Haus und den umliegenden Wald, in dem ihre Mutter früher gespielt und das Fort gebaut hat, von dem Nelly so viel gehört hat. Eines Tages ist ihre Mutter plötzlich weg, und Nelly trifft im Wald ein Mädchen in ihrem Alter, das eine Festung baut.",
+    "popularity": 20.798,
+    "poster_path": "/vcrCr8rKd7dTysjp0zFj3edvM24.jpg",
+    "production_companies": [
+        {
+            "id": 104,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 10611,
+            "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+            "name": "Ciné+",
+            "origin_country": "FR"
+        },
+        {
+            "id": 43649,
+            "logo_path": "/5pv3tUlq25IiuMuok57YBZIiKn.png",
+            "name": "Lilies Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 7131,
+            "logo_path": "/eLvjHPYZ12GR58lrDgg6MXZp2a3.png",
+            "name": "France Télévisions",
+            "origin_country": "FR"
+        },
+        {
+            "id": 591,
+            "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+            "name": "France 3 Cinéma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 125592,
+            "logo_path": null,
+            "name": "La Région Île-de-France",
+            "origin_country": "FR"
+        },
+        {
+            "id": 90733,
+            "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+            "name": "Neon",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "2021-06-02",
+    "revenue": 1024575,
+    "runtime": 72,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Als wir Kinder waren",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 126
+}

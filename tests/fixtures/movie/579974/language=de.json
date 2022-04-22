@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 10752,
+            "name": "Kriegsfilm"
+        }
+    ],
+    "homepage": "",
+    "id": 579974,
+    "imdb_id": "tt8178634",
+    "original_language": "te",
+    "original_title": "రౌద్రం రణం రుధిరం",
+    "overview": "Eine fiktive Geschichte zweier legendärer Revolutionäre, die von zu Hause wegreisen, bevor sie in den 1920er Jahren begannen, für ihr Land zu kämpfen.",
+    "popularity": 31.299,
+    "poster_path": "/1YaR5XMPVbZ9LcsXQ7u2sOM5jWe.jpg",
+    "production_companies": [
+        {
+            "id": 68594,
+            "logo_path": null,
+            "name": "DVV Entertainment",
+            "origin_country": "IN"
+        },
+        {
+            "id": 103329,
+            "logo_path": "/bjJ6phaG9F8cGm3RYBjly8wYuH5.png",
+            "name": "Pen Studios",
+            "origin_country": "IN"
+        },
+        {
+            "id": 35124,
+            "logo_path": "/clz3r0SYNudiGRB10yjvU9ZSgP8.png",
+            "name": "Lyca Productions",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2022-03-24",
+    "revenue": 141000000,
+    "runtime": 187,
+    "spoken_languages": [
+        {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "RRR",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 32
+}

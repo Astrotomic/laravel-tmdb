@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/9xKOVUZc0WM2Ue9zbGswDZmpz83.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        },
+        {
+            "id": 35,
+            "name": "Komödie"
+        }
+    ],
+    "homepage": "",
+    "id": 644100,
+    "imdb_id": "tt10949028",
+    "original_language": "en",
+    "original_title": "As They Made Us",
+    "overview": "",
+    "popularity": 12.634,
+    "poster_path": "/qypGmqMTIT6PmDzmM3i2Aexaxug.jpg",
+    "production_companies": [
+        {
+            "id": 75355,
+            "logo_path": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+            "name": "Yale Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 114814,
+            "logo_path": null,
+            "name": "Film Mode Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 3127,
+            "logo_path": null,
+            "name": "Screen Media Ventures",
+            "origin_country": ""
+        },
+        {
+            "id": 171436,
+            "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+            "name": "Carte Blanche",
+            "origin_country": "US"
+        },
+        {
+            "id": 75357,
+            "logo_path": "/zXT1JFP82YL245wlLpauAJDZA25.png",
+            "name": "BondIt",
+            "origin_country": "US"
+        },
+        {
+            "id": 136629,
+            "logo_path": null,
+            "name": "Vested Interest",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-08",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "As They Made Us",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 4
+}

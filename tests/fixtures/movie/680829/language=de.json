@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 680829,
+    "imdb_id": "tt11286210",
+    "original_language": "en",
+    "original_title": "Master",
+    "overview": "Master ist ein Drama aus dem Jahr 2022 von Mariama Diallo mit Regina Hall, Zoe Renee und Amber Gray.\r Der Horrorthriller Master ist in den Räumen eines prestigeträchtigen Colleges in Neuengland angesiedelt. Hinter der perfekten Fassade kommen mehr und mehr Abgründe zum Vorschein, als Regina Hall als erste Schwarze Frau die Verantwortung über ein Studierendenwohnheim übernimmt.",
+    "popularity": 16.088,
+    "poster_path": "/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
+    "production_companies": [
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 26995,
+            "logo_path": "/acHyNRG9qZKvr4ZlhsKlojhYeey.png",
+            "name": "Animal Kingdom",
+            "origin_country": "US"
+        },
+        {
+            "id": 6831,
+            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+            "name": "Big Indie Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-03-18",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Master",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 45
+}

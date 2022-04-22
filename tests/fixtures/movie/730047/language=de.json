@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Liebesfilm"
+        }
+    ],
+    "homepage": "https://www.unitedartistsreleasing.com/cyrano/synopsis/",
+    "id": 730047,
+    "imdb_id": "tt12889404",
+    "original_language": "en",
+    "original_title": "Cyrano",
+    "overview": "Cyrano de Bergerac war seiner Zeit weit voraus und glänzt sowohl mit seinem wilden Wortwitz bei einem verbalen Wettstreit als auch mit seinem brillanten Fechtstil bei einem Duell. Doch Cyrano ist überzeugt, dass er aufgrund seines Aussehens der Liebe seiner treuen Freundin, der strahlenden Roxanne, nicht würdig ist und muss ihr seine Gefühle erst noch gestehen - und Roxanne hat sich auf den ersten Blick in Christian verliebt.",
+    "popularity": 35.981,
+    "poster_path": "/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+    "production_companies": [
+        {
+            "id": 21,
+            "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "2022-01-06",
+    "revenue": 3000000,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cyrano",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 103
+}

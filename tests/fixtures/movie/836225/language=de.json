@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/fdiLgQqfFFITMGET31CPdPsfhIW.jpg",
+    "belongs_to_collection": null,
+    "budget": 1500000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 836225,
+    "imdb_id": "tt10362566",
+    "original_language": "en",
+    "original_title": "The Exorcism of God",
+    "overview": "",
+    "popularity": 309.979,
+    "poster_path": "/pcqo9D8Bdppt6t9fBliJYPROZkv.jpg",
+    "production_companies": [
+        {
+            "id": 155347,
+            "logo_path": null,
+            "name": "Epica Pictures INC",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "VE",
+            "name": "Venezuela"
+        }
+    ],
+    "release_date": "2022-02-10",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Exorcism of God",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 79
+}

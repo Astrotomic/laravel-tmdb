@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/pfbJNgspcWr4yRnoBKQUpTaFwNN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 36,
+            "name": "Historie"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "",
+    "id": 766431,
+    "imdb_id": "tt8859236",
+    "original_language": "en",
+    "original_title": "Hostile Territory",
+    "overview": "",
+    "popularity": 33.095,
+    "poster_path": "/z1zBn2YCBTG4TDSxVekRqYZ1yml.jpg",
+    "production_companies": [
+        {
+            "id": 144098,
+            "logo_path": "/d10o13zjHcGrkVwJXHNmotKqXGT.png",
+            "name": "P12 Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hostile Territory",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}
