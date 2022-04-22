@@ -38,12 +38,17 @@ return [
 After that you can configure your language and region to be used by the package for some of the API requests.
 By default we use `app()->getLocale()` for the language and a hardcoded `US` region.
 It's recommended to call this in your `AppServiceProvider` but you can call the methods from everywhere in your codecase.
+In case you want to run a specific callback with a region or language without changing the globally used ones you can use the `with` methods.
+These will set the region or language to teh given one for the callback and automatically restore the old one after running the callback.
 
 ```php
 use Astrotomic\Tmdb\Facades\Tmdb;
 
 Tmdb::useLanguage('de');
 Tmdb::useRegion('DE');
+
+Tmdb::withLanguage('de', fn() => \Astrotomic\Tmdb\Models\Movie::find(335983));
+Tmdb::withRegion('DE', fn() => \Astrotomic\Tmdb\Models\Movie::upcoming(20));
 ```
 
 ## Usage
