@@ -12,6 +12,7 @@ use Spatie\Enum\Laravel\Enum;
  * @method static self TALK_SHOW()
  * @method static self NEWS()
  * @method static self VIDEO()
+ * @method static self PILOT()
  */
 class TvType extends Enum
 {
@@ -25,6 +26,7 @@ class TvType extends Enum
             'TALK_SHOW' => 'Talk Show',
             'NEWS' => 'News',
             'VIDEO' => 'Video',
+            'PILOT' => 'Pilot',
             // TODO: Add more values, need testing, no official documentation available
         ];
     }
