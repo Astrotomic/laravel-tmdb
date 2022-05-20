@@ -13,6 +13,7 @@ use Spatie\Enum\Laravel\Enum;
  * @method static self CANCELED()
  * @method static self RETURNING_SERIES()
  * @method static self ENDED()
+ * @method static self PILOT()
  */
 class TvStatus extends Enum
 {
@@ -27,6 +28,7 @@ class TvStatus extends Enum
             'CANCELED' => 'Canceled',
             'RETURNING_SERIES' => 'Returning Series',
             'ENDED' => 'Ended',
+            'PILOT' => 'Pilot',
             // TODO: Implement more values, need testing, no official documentation available
         ];
     }
