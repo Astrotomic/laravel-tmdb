@@ -2,8 +2,9 @@
 
 namespace Astrotomic\Tmdb\Client;
 
-use Astrotomic\Tmdb\Client\Proxies\WatchProviderProxy;
-use Astrotomic\Tmdb\Client\Requests\WatchProvider\ListAllMovieWatchProvidersRequest;
+use Astrotomic\Tmdb\Client\Proxies\CollectionsProxy;
+use Astrotomic\Tmdb\Client\Proxies\WatchProvidersProxy;
+use Astrotomic\Tmdb\Client\Requests\WatchProviders\GetMovieProvidersRequest;
 use Astrotomic\Tmdb\Facades\Tmdb;
 use Sammyjo20\Saloon\Http\Auth\TokenAuthenticator;
 use Sammyjo20\Saloon\Http\SaloonConnector;
@@ -19,7 +20,7 @@ class TmdbConnector extends SaloonConnector
     use AlwaysThrowsOnErrors;
 
     protected array $requests = [
-        ListAllMovieWatchProvidersRequest::class,
+        GetMovieProvidersRequest::class,
     ];
 
     public function defineBaseUrl(): string
@@ -40,8 +41,13 @@ class TmdbConnector extends SaloonConnector
         ];
     }
 
-    public function watchProviders(): WatchProviderProxy
+    public function collections(): CollectionsProxy
     {
-        return new WatchProviderProxy($this);
+        return new CollectionsProxy($this);
+    }
+
+    public function watchProviders(): WatchProvidersProxy
+    {
+        return new WatchProvidersProxy($this);
     }
 }

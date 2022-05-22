@@ -4,6 +4,7 @@ namespace Tests;
 
 use Astrotomic\Tmdb\TmdbServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
+use Sammyjo20\SaloonLaravel\SaloonServiceProvider;
 
 abstract class TestCase extends OrchestraTestCase
 {
@@ -17,6 +18,7 @@ abstract class TestCase extends OrchestraTestCase
     protected function getPackageProviders($app): array
     {
         return [
+            SaloonServiceProvider::class,
             TmdbServiceProvider::class,
         ];
     }

@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
 use Illuminate\Support\Stringable;
+use Sammyjo20\SaloonLaravel\Facades\Saloon;
 use Symfony\Component\HttpFoundation\Response;
 
 abstract class TestCase extends \Tests\TestCase
@@ -16,6 +17,8 @@ abstract class TestCase extends \Tests\TestCase
     protected function setUp(): void
     {
         parent::setUp();
+
+        Saloon::record();
 
         Http::fake([
             'https://api.themoviedb.org/3/*' => function (Request $request): PromiseInterface {
@@ -51,6 +54,24 @@ abstract class TestCase extends \Tests\TestCase
                 $filepath = $this->fixturePath(
                     Str::after(parse_url($request->url(), PHP_URL_PATH), '/3/'),
                     parse_url($request->url(), PHP_URL_QUERY)
+                );
+
+                File::ensureDirectoryExists(dirname($filepath));
+                File::put(
+                    $filepath,
+                    json_encode($response->json(), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)
+                );
+            }
+        }
+
+        /** @var \Sammyjo20\Saloon\Http\SaloonResponse $response */
+        foreach (Saloon::getRecordedResponses() as $response) {
+            if ($response->successful()) {
+                $request = $response->getOriginalRequest();
+
+                $filepath = $this->fixturePath(
+                    Str::after(parse_url($request->getFullRequestUrl(), PHP_URL_PATH), '/3/'),
+                    http_build_query($request->getQuery())
                 );
 
                 File::ensureDirectoryExists(dirname($filepath));

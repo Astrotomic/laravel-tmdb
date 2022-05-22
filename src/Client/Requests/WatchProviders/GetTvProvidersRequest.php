@@ -1,6 +1,6 @@
 <?php
 
-namespace Astrotomic\Tmdb\Client\Requests\WatchProvider;
+namespace Astrotomic\Tmdb\Client\Requests\WatchProviders;
 
 use Astrotomic\Tmdb\Client\DTO\Collections\WatchProviderCollection;
 use Astrotomic\Tmdb\Client\TmdbConnector;
@@ -9,7 +9,10 @@ use Sammyjo20\Saloon\Http\SaloonRequest;
 use Sammyjo20\Saloon\Http\SaloonResponse;
 use Sammyjo20\Saloon\Traits\Plugins\CastsToDto;
 
-class ListAllMovieWatchProvidersRequest extends SaloonRequest
+/**
+ * @link https://developers.themoviedb.org/3/watch-providers/get-tv-providers
+ */
+class GetTvProvidersRequest extends SaloonRequest
 {
     use CastsToDto;
 
@@ -19,11 +22,13 @@ class ListAllMovieWatchProvidersRequest extends SaloonRequest
 
     public function defineEndpoint(): string
     {
-        return '/watch/providers/movie';
+        return '/watch/providers/tv';
     }
 
     protected function castToDto(SaloonResponse $response): WatchProviderCollection
     {
-        return WatchProviderCollection::fromSaloon($response);
+        return WatchProviderCollection::fromArray(
+            $response->json('results')
+        );
     }
 }
