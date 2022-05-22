@@ -2,6 +2,8 @@
 
 namespace Astrotomic\Tmdb\Client\DTO;
 
+use Astrotomic\Tmdb\Images\Logo;
+
 class WatchProvider
 {
     public function __construct(
@@ -19,6 +21,14 @@ class WatchProvider
             name: $data['provider_name'],
             displayPriority: $data['display_priority'],
             logoPath: $data['logo_path'],
+        );
+    }
+
+    public function logo(): Logo
+    {
+        return new Logo(
+            $this->logoPath,
+            $this->name
         );
     }
 }

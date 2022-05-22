@@ -8,6 +8,9 @@ use Sammyjo20\Saloon\Http\SaloonResponse;
 
 class WatchProviderCollection extends Collection
 {
+    /** @var \Astrotomic\Tmdb\Client\DTO\WatchProvider[] */
+    protected $items = [];
+
     public static function fromSaloon(SaloonResponse $response): self
     {
         return static::fromArray(
