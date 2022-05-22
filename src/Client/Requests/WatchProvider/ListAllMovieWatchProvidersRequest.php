@@ -1,12 +1,12 @@
 <?php
 
-namespace Astrotomic\Tmdb\Client\Requests;
+namespace Astrotomic\Tmdb\Client\Requests\WatchProvider;
 
 use Astrotomic\Tmdb\Client\TmdbConnector;
 use Sammyjo20\Saloon\Constants\Saloon;
 use Sammyjo20\Saloon\Http\SaloonRequest;
 
-class ListMovieWatchProvidersRequest extends SaloonRequest
+class ListAllMovieWatchProvidersRequest extends SaloonRequest
 {
     protected ?string $connector = TmdbConnector::class;
 
