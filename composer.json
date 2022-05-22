@@ -71,7 +71,8 @@
         ],
         "fix": "vendor/bin/php-cs-fixer fix --using-cache=no",
         "normalize": "echo 'composer global require ergebnis/composer-normalize'",
-        "test": "vendor/bin/pest",
+        "test": "php -d memory_limit=-1 vendor/bin/pest",
+        "test-coverage": "XDEBUG_MODE=coverage php -d memory_limit=-1 vendor/bin/pest --coverage-html=.coverage",
         "thanks": "echo 'composer global require symfony/thanks'"
     }
 }
