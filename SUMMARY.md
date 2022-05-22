@@ -5,3 +5,4 @@
 ## SDK Client
 
 * [Collections](sdk-client/collections.md)
+* [Watch Providers](sdk-client/watch-providers.md)
