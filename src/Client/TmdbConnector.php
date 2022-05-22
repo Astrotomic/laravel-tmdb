@@ -31,7 +31,7 @@ class TmdbConnector extends SaloonConnector
         return new TokenAuthenticator(config('services.tmdb.token'));
     }
 
-    public function watchProvider(): WatchProviderProxy
+    public function watchProviders(): WatchProviderProxy
     {
         return new WatchProviderProxy($this);
     }
