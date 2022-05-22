@@ -4,6 +4,7 @@ namespace Astrotomic\Tmdb\Client;
 
 use Astrotomic\Tmdb\Client\Proxies\WatchProviderProxy;
 use Astrotomic\Tmdb\Client\Requests\WatchProvider\ListAllMovieWatchProvidersRequest;
+use Astrotomic\Tmdb\Facades\Tmdb;
 use Sammyjo20\Saloon\Http\Auth\TokenAuthenticator;
 use Sammyjo20\Saloon\Http\SaloonConnector;
 use Sammyjo20\Saloon\Interfaces\AuthenticatorInterface;
@@ -29,6 +30,14 @@ class TmdbConnector extends SaloonConnector
     public function defaultAuth(): ?AuthenticatorInterface
     {
         return new TokenAuthenticator(config('services.tmdb.token'));
+    }
+
+    public function defaultQuery(): array
+    {
+        return [
+            'language' => Tmdb::language(),
+            'region' => Tmdb::region(),
+        ];
     }
 
     public function watchProviders(): WatchProviderProxy
