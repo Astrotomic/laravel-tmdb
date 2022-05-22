@@ -8,6 +8,8 @@ class WatchProviderProxy extends Proxy
 {
     public function allForMovies(): ListAllMovieWatchProvidersRequest
     {
-        return (new ListAllMovieWatchProvidersRequest())->setConnector($this->connector);
+        return $this->connector->request(
+            new ListAllMovieWatchProvidersRequest()
+        );
     }
 }
