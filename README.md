@@ -9,7 +9,10 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Astrotomic/laravel-tmdb/pest?style=flat-square&logoColor=white&logo=github&label=Tests)](https://github.com/Astrotomic/laravel-tmdb/actions?query=workflow%3Apest)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Astrotomic/laravel-tmdb/phpcs?style=flat-square&logoColor=white&logo=github&label=PHP+CS)](https://github.com/Astrotomic/laravel-tmdb/actions?query=workflow%3Aphpcs)
+
 [![Total Downloads](https://img.shields.io/packagist/dt/astrotomic/laravel-tmdb.svg?label=Downloads&style=flat-square)](https://packagist.org/packages/astrotomic/laravel-tmdb)
+[![Trees](https://img.shields.io/ecologi/trees/astrotomic?style=flat-square)](https://forest.astrotomic.info)
+[![Carbon](https://img.shields.io/ecologi/carbon/astrotomic?style=flat-square)](https://forest.astrotomic.info)
 
 ## Installation
 
