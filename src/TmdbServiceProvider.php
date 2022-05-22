@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\Client\TmdbConnector;
 use Astrotomic\Tmdb\Models\Collection;
 use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Movie;
@@ -18,6 +19,8 @@ class TmdbServiceProvider extends ServiceProvider
     public function register(): void
     {
         $this->app->singleton(Tmdb::class);
+
+        $this->app->singleton(TmdbConnector::class);
     }
 
     public function boot(): void

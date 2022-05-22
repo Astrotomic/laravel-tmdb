@@ -11,6 +11,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static mixed withLanguage(string $language, \Closure $callback)
  * @method static string region()
  * @method static string language()
+ * @method static \Astrotomic\Tmdb\Client\TmdbConnector client()
  */
 class Tmdb extends Facade
 {

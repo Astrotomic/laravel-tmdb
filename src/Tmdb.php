@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\Client\TmdbConnector;
 use Closure;
 
 class Tmdb
@@ -57,5 +58,10 @@ class Tmdb
     public function language(): string
     {
         return $this->language ?? app()->getLocale();
+    }
+
+    public function client(): TmdbConnector
+    {
+        return app()->make(TmdbConnector::class);
     }
 }
