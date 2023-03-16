@@ -23,7 +23,7 @@
         "illuminate/support": "^8.0 || ^9.0 || ^10.0",
         "nesbot/carbon": "^2.31",
         "spatie/laravel-enum": "^3.0",
-        "spatie/laravel-translatable": "^5.0"
+        "spatie/laravel-translatable": "^6.3.0"
     },
     "require-dev": {
         "astrotomic/phpunit-assertions": "^0.6",
