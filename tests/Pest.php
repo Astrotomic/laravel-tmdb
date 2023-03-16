@@ -14,10 +14,16 @@
 use Astrotomic\PhpunitAssertions\UrlAssertions;
 use Astrotomic\Tmdb\Models\Model;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Facades\Http;
 use Pest\Expectation;
 
 uses(\Tests\Feature\TestCase::class)->in('Feature');
 uses(\Tests\TestCase::class)->in('Live');
+
+class Pest
+{
+    use UrlAssertions;
+}
 
 /*
 |--------------------------------------------------------------------------
@@ -26,13 +32,16 @@ uses(\Tests\TestCase::class)->in('Live');
 */
 
 expect()->extend('assert', function (Closure $assertions): Expectation {
+    $helper = new Pest();
+    $assertions = $assertions->bindTo($helper, $helper);
     $assertions($this->value);
 
     return $this;
 });
 
 expect()->extend('toBeUrl', function (string $expected): Expectation {
-    UrlAssertions::assertValidLoose($this->value);
+    $helper = new Pest();
+    $helper->assertValidLoose($this->value);
 
     return $this->toBe($expected);
 });
