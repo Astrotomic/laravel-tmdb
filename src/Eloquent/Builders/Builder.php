@@ -13,10 +13,8 @@ use Illuminate\Database\Eloquent\Collection;
 abstract class Builder extends EloquentBuilder
 {
     /**
-     * @param int|int[]|string|string[]|\Illuminate\Contracts\Support\Arrayable $id
-     * @param string[] $columns
-     *
-     * @return \Astrotomic\Tmdb\Models\Model|\Illuminate\Database\Eloquent\Collection|null
+     * @param  int|int[]|string|string[]|\Illuminate\Contracts\Support\Arrayable  $id
+     * @param  string[]  $columns
      */
     public function find($id, $columns = ['*']): Model|Collection|null
     {
@@ -34,10 +32,8 @@ abstract class Builder extends EloquentBuilder
     }
 
     /**
-     * @param int[]|string[]|\Illuminate\Contracts\Support\Arrayable $ids
-     * @param string[] $columns
-     *
-     * @return \Illuminate\Database\Eloquent\Collection
+     * @param  int[]|string[]|\Illuminate\Contracts\Support\Arrayable  $ids
+     * @param  string[]  $columns
      */
     public function findMany($ids, $columns = ['*']): Collection
     {
