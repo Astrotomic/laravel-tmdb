@@ -301,7 +301,7 @@ it('loads german watch providers', function (): void {
 });
 
 it('loads buy watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::BUY());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::BUY);
 
     expect($providers)
         ->toHaveCount(31)
@@ -309,7 +309,7 @@ it('loads buy watch providers', function (): void {
 });
 
 it('loads rent watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::RENT());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::RENT);
 
     expect($providers)
         ->toHaveCount(36)
@@ -317,7 +317,7 @@ it('loads rent watch providers', function (): void {
 });
 
 it('loads flatrate watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE);
 
     expect($providers)
         ->toHaveCount(24)
@@ -325,7 +325,7 @@ it('loads flatrate watch providers', function (): void {
 });
 
 it('loads german flatrate watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE);
 
     expect($providers)
         ->toHaveCount(1)
