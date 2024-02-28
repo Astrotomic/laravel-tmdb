@@ -41,5 +41,5 @@ jobs:
           php-version: 8.1
           extensions: dom, curl, mbstring, zip, pcntl, intl
           coverage: xdebug
-      - run: composer install --no-interaction --no-scripts
+      - run: composer update --prefer-stable --prefer-dist --no-interaction --no-suggest
       - run: vendor/bin/infection -j2 --logger-github
