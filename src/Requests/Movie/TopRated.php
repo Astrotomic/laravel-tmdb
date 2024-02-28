@@ -11,6 +11,7 @@ use Illuminate\Support\LazyCollection;
 class TopRated extends Request
 {
     protected int $page = 1;
+
     protected ?string $region = null;
 
     public static function request(): static

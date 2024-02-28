@@ -12,9 +12,9 @@ use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Concerns\HasTranslations;
 use Astrotomic\Tmdb\Requests\Movie\Details;
 use Astrotomic\Tmdb\Requests\Movie\NowPlaying;
+use Astrotomic\Tmdb\Requests\Movie\Popular;
 use Astrotomic\Tmdb\Requests\Movie\Recommendations;
 use Astrotomic\Tmdb\Requests\Movie\Similars;
-use Astrotomic\Tmdb\Requests\Movie\Popular;
 use Astrotomic\Tmdb\Requests\Movie\TopRated;
 use Astrotomic\Tmdb\Requests\Movie\Trending;
 use Astrotomic\Tmdb\Requests\Movie\Upcoming;
@@ -106,7 +106,7 @@ class Movie extends Model
         'release_date' => 'date',
         'production_countries' => 'array',
         'spoken_languages' => 'array',
-        'status' => MovieStatus::class.':nullable',
+        'status' => MovieStatus::class,
         'collection_id' => 'int',
     ];
 
@@ -194,12 +194,12 @@ class Movie extends Model
 
     public function cast(): MorphManyCredits
     {
-        return $this->credits()->whereCreditType(CreditType::CAST());
+        return $this->credits()->whereCreditType(CreditType::CAST);
     }
 
     public function crew(): MorphManyCredits
     {
-        return $this->credits()->whereCreditType(CreditType::CREW());
+        return $this->credits()->whereCreditType(CreditType::CREW);
     }
 
     public function fillFromTmdb(array $data, ?string $locale = null): static

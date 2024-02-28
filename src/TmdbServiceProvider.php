@@ -9,8 +9,8 @@ use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\Person;
 use Astrotomic\Tmdb\Models\TvGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
-use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Relations\Relation;
+use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Str;
 
 class TmdbServiceProvider extends ServiceProvider

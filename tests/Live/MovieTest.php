@@ -4,9 +4,8 @@ use Astrotomic\PhpunitAssertions\ArrayAssertions;
 use Astrotomic\Tmdb\Enums\MovieStatus;
 use Astrotomic\Tmdb\Models\Movie;
 use Astrotomic\Tmdb\Models\MovieGenre;
-use PHPUnit\Framework\Assert;
-use Spatie\Enum\Phpunit\EnumAssertions;
 use Illuminate\Support\Facades\Http;
+use PHPUnit\Framework\Assert;
 
 beforeEach(function (): void {
     $this->markTestSkipped('Live HTTP tests are disbaled by default.');
@@ -22,7 +21,7 @@ it('loads "Black Panther" from API', function (): void {
     Assert::assertSame(284054, $movie->id);
     Assert::assertSame('Black Panther', $movie->original_title);
     ArrayAssertions::assertEquals(['US'], $movie->production_countries);
-    EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
+    Assert::assertSame(MovieStatus::RELEASED, $movie->status);
 
     ArrayAssertions::assertEquals([28, 12, 878], $movie->genres->pluck('id')->all());
     Assert::assertEmpty($movie->credits);
@@ -38,7 +37,7 @@ it('loads "Black Panther" with cast from API', function (): void {
     Assert::assertSame(284054, $movie->id);
     Assert::assertSame('Black Panther', $movie->original_title);
     ArrayAssertions::assertEquals(['US'], $movie->production_countries);
-    EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
+    Assert::assertSame(MovieStatus::RELEASED, $movie->status);
 
     ArrayAssertions::assertEquals([28, 12, 878], $movie->genres->pluck('id')->all());
     Assert::assertCount(77, $movie->credits);
@@ -54,7 +53,7 @@ it('loads "Black Panther" with crew from API', function (): void {
     Assert::assertSame(284054, $movie->id);
     Assert::assertSame('Black Panther', $movie->original_title);
     ArrayAssertions::assertEquals(['US'], $movie->production_countries);
-    EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
+    Assert::assertSame(MovieStatus::RELEASED, $movie->status);
 
     ArrayAssertions::assertEquals([28, 12, 878], $movie->genres->pluck('id')->all());
     Assert::assertCount(479, $movie->credits);
@@ -70,7 +69,7 @@ it('loads "Black Panther" with credits from API', function (): void {
     Assert::assertSame(284054, $movie->id);
     Assert::assertSame('Black Panther', $movie->original_title);
     ArrayAssertions::assertEquals(['US'], $movie->production_countries);
-    EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
+    Assert::assertSame(MovieStatus::RELEASED, $movie->status);
 
     ArrayAssertions::assertEquals([28, 12, 878], $movie->genres->pluck('id')->all());
     Assert::assertCount(556, $movie->credits);

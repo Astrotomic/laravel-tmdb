@@ -26,8 +26,7 @@ class CreditBuilder extends Builder
     }
 
     /**
-     * @param class-string<\Astrotomic\Tmdb\Models\Model> $model
-     *
+     * @param  class-string<\Astrotomic\Tmdb\Models\Model>  $model
      * @return $this
      */
     public function whereMediaType(string $model): static

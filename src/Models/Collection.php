@@ -80,7 +80,7 @@ class Collection extends Model
     public function updateFromTmdb(?string $locale = null, array $with = []): bool
     {
         $data = rescue(
-            fn () =>Details::request($this->id)
+            fn () => Details::request($this->id)
                 ->language($locale)
                 ->send()
                 ->json()
