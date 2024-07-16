@@ -26,7 +26,7 @@
     },
     "require-dev": {
         "astrotomic/phpunit-assertions": "^0.11",
-        "infection/infection": "^0.27.10",
+        "infection/infection": "^0.29.6",
         "laravel/pint": "^1.14",
         "orchestra/testbench": "^8.0 || ^9.0",
         "pestphp/pest": "^2.34",
