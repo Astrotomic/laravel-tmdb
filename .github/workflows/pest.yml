@@ -27,7 +27,7 @@ jobs:
           composer require "laravel/framework:${{ matrix.laravel }}" --dev --no-interaction --no-update
           composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction --no-suggest
       - run: vendor/bin/pest --coverage --coverage-html=.coverage
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: "Coverage - P${{ matrix.php }} - L${{ matrix.laravel }} - ${{ matrix.dependency-version }}"
           path: ./.coverage
