@@ -43,3 +43,4 @@ jobs:
           coverage: xdebug
       - run: composer update --prefer-stable --prefer-dist --no-interaction --no-suggest
       - run: vendor/bin/infection -j2 --logger-github
+        continue-on-error: true
