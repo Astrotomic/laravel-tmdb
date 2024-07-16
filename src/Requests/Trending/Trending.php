@@ -11,6 +11,7 @@ use Illuminate\Support\LazyCollection;
 class Trending extends Request
 {
     protected int $page = 1;
+
     protected ?string $region = null;
 
     public function __construct(

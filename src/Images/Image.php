@@ -14,8 +14,7 @@ abstract class Image implements Htmlable, Stringable
     public function __construct(
         protected ?string $path,
         protected ?string $alt = null,
-    ) {
-    }
+    ) {}
 
     public function size(?int $size): self
     {

@@ -2,19 +2,8 @@
 
 namespace Astrotomic\Tmdb\Enums;
 
-use Spatie\Enum\Laravel\Enum;
-
-/**
- * @method static self CAST()
- * @method static self CREW()
- */
-class CreditType extends Enum
+enum CreditType: string
 {
-    protected static function values(): array
-    {
-        return [
-            'CAST' => 'cast',
-            'CREW' => 'crew',
-        ];
-    }
+    case CAST = 'cast';
+    case CREW = 'crew';
 }

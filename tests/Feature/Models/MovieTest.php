@@ -12,7 +12,6 @@ use Astrotomic\Tmdb\Models\MovieGenre;
 use Astrotomic\Tmdb\Models\WatchProvider;
 use Carbon\CarbonInterval;
 use PHPUnit\Framework\Assert;
-use Spatie\Enum\Phpunit\EnumAssertions;
 
 it('maps data from tmdb', function (): void {
     $movie = new Movie(['id' => 284054]);
@@ -33,7 +32,7 @@ it('maps data from tmdb', function (): void {
     ArrayAssertions::assertEquals(['en', 'ko', 'sw', 'xh'], $movie->spoken_languages);
     Assert::assertTrue($movie->release_date?->isSameDay('2018-02-13'));
     Assert::assertSame(134, $movie->runtime);
-    EnumAssertions::assertSameEnum(MovieStatus::RELEASED(), $movie->status);
+    Assert::assertSame(MovieStatus::RELEASED, $movie->status);
 
     Assert::assertSame('/daKUTgrMnsMLFrRv3a7s6yUyXf1.jpg', $movie->poster_path);
     Assert::assertSame('Black Panther', $movie->title);
@@ -302,7 +301,7 @@ it('loads german watch providers', function (): void {
 });
 
 it('loads buy watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::BUY());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::BUY);
 
     expect($providers)
         ->toHaveCount(31)
@@ -310,7 +309,7 @@ it('loads buy watch providers', function (): void {
 });
 
 it('loads rent watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::RENT());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::RENT);
 
     expect($providers)
         ->toHaveCount(36)
@@ -318,7 +317,7 @@ it('loads rent watch providers', function (): void {
 });
 
 it('loads flatrate watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE);
 
     expect($providers)
         ->toHaveCount(24)
@@ -326,7 +325,7 @@ it('loads flatrate watch providers', function (): void {
 });
 
 it('loads german flatrate watch providers', function (): void {
-    $providers = Movie::query()->findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE());
+    $providers = Movie::query()->findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE);
 
     expect($providers)
         ->toHaveCount(1)

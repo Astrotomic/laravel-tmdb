@@ -148,8 +148,8 @@ use Astrotomic\Tmdb\Enums\WatchProviderType;
 
 Movie::findOrFail(335983)->watchProviders();
 Movie::findOrFail(335983)->watchProviders('DE');
-Movie::findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE());
-Movie::findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE());
+Movie::findOrFail(335983)->watchProviders(null, WatchProviderType::FLATRATE);
+Movie::findOrFail(335983)->watchProviders('DE', WatchProviderType::FLATRATE);
 ```
 
 And there are some helper methods on the movie model to easier work with some attributes.

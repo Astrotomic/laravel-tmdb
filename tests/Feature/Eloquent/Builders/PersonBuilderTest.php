@@ -14,12 +14,12 @@ it('creates person with movie credits', function (): void {
         ->credits->toHaveCount(128)->each->toBeInstanceOf(Credit::class)
         ->movie_credits->toHaveCount(128)->each->toBeInstanceOf(Credit::class);
 
-    expect($person->movie_credits()->whereCreditType(CreditType::CAST())->get())
+    expect($person->movie_credits()->whereCreditType(CreditType::CAST)->get())
         ->toBeInstanceOf(EloquentCollection::class)
         ->toHaveCount(3)
         ->each->toBeInstanceOf(Credit::class);
 
-    expect($person->movie_credits()->whereCreditType(CreditType::CREW())->get())
+    expect($person->movie_credits()->whereCreditType(CreditType::CREW)->get())
         ->toBeInstanceOf(EloquentCollection::class)
         ->toHaveCount(125)
         ->each->toBeInstanceOf(Credit::class);

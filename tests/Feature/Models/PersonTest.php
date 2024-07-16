@@ -6,7 +6,6 @@ use Astrotomic\Tmdb\Images\Poster;
 use Astrotomic\Tmdb\Models\Credit;
 use Astrotomic\Tmdb\Models\Person;
 use PHPUnit\Framework\Assert;
-use Spatie\Enum\Phpunit\EnumAssertions;
 
 it('maps data from tmdb', function (): void {
     $person = new Person(['id' => 6384]);
@@ -31,7 +30,7 @@ it('maps data from tmdb', function (): void {
     ], $person->also_known_as);
     Assert::assertTrue($person->birthday?->isSameDay('1964-09-02'));
     Assert::assertNull($person->deathday);
-    EnumAssertions::assertSameEnum(Gender::MALE(), $person->gender);
+    Assert::assertSame(Gender::MALE, $person->gender);
     Assert::assertNull($person->homepage);
     Assert::assertSame('nm0000206', $person->imdb_id);
     Assert::assertSame('Acting', $person->known_for_department);

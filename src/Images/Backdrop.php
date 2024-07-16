@@ -5,7 +5,9 @@ namespace Astrotomic\Tmdb\Images;
 class Backdrop extends Image
 {
     public const SIZE_W300 = 300;
+
     public const SIZE_W780 = 780;
+
     public const SIZE_W1280 = 1280;
 
     protected ?int $size = self::SIZE_W1280;

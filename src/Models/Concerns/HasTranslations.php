@@ -21,7 +21,7 @@ trait HasTranslations
         return $this->getTranslation($key, $locale, $useFallbackLocale) ?: null;
     }
 
-    public function getTranslations(string $key = null, array $allowedLocales = null): array
+    public function getTranslations(?string $key = null, ?array $allowedLocales = null): array
     {
         if ($key !== null) {
             $this->guardAgainstNonTranslatableAttribute($key);
